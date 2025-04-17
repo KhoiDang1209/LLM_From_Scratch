@@ -1,0 +1,1320 @@
+{
+  "metadata": {
+    "title": "",
+    "document_number": "",
+    "date": "",
+    "issuer": "",
+    "location": ""
+  },
+  "structure": {
+    "sections": [],
+    "articles": []
+  },
+  "content": {
+    "paragraphs": [
+      {
+        "index": 0,
+        "text": "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH",
+        "formatting": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "style": "Normal",
+          "alignment": "CENTER (1)"
+        },
+        "article_context": null,
+        "section_context": null
+      },
+      {
+        "index": 1,
+        "text": "TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+        "formatting": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "style": "Body Text",
+          "alignment": "CENTER (1)"
+        },
+        "article_context": null,
+        "section_context": null
+      },
+      {
+        "index": 2,
+        "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "formatting": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "style": "Body Text",
+          "alignment": "CENTER (1)"
+        },
+        "article_context": null,
+        "section_context": null
+      },
+      {
+        "index": 3,
+        "text": "Độc lập - Tự do - Hạnh phúc",
+        "formatting": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "style": "Title",
+          "alignment": "LEFT"
+        },
+        "article_context": null,
+        "section_context": null
+      },
+      {
+        "index": 7,
+        "text": "Phụ lục I",
+        "formatting": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "style": "Body Text",
+          "alignment": "CENTER (1)"
+        },
+        "article_context": null,
+        "section_context": null
+      },
+      {
+        "index": 8,
+        "text": "(Kèm theo Quyết định số 967/QĐ-ĐHQT ngày 26 tháng 12năm 2022 của Hiệu trưởng Trường Đại học Quốc tế)",
+        "formatting": {
+          "bold": true,
+          "italic": true,
+          "underline": false,
+          "style": "Normal",
+          "alignment": "CENTER (1)"
+        },
+        "article_context": null,
+        "section_context": null
+      },
+      {
+        "index": 9,
+        "text": "MỘT SỐ NỘI DUNG VI PHẠM",
+        "formatting": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "style": "Body Text",
+          "alignment": "CENTER (1)"
+        },
+        "article_context": null,
+        "section_context": null
+      },
+      {
+        "index": 10,
+        "text": "VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN",
+        "formatting": {
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "style": "Body Text",
+          "alignment": "CENTER (1)"
+        },
+        "article_context": null,
+        "section_context": null
+      }
+    ],
+    "tables": [
+      {
+        "table_id": 1,
+        "type": "violations_table",
+        "context": "Phụ lục I",
+        "structure": {
+          "has_headers": true,
+          "headers": [
+            "TT - TT",
+            "Nội dung vi phạm - Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học",
+            "Ghi chú - Ghi chú"
+          ],
+          "header_rows_count": 2,
+          "row_count": 7,
+          "column_count": 7
+        },
+        "raw_headers": [
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Ghi chú"
+          ],
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập có\nthời hạn",
+            "Buộc thôi học",
+            "Ghi chú"
+          ]
+        ],
+        "data": [
+          {
+            "row_number": 1,
+            "cells": {
+              "TT - TT": "1.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học tập 1 học kỳ"
+            },
+            "number": "1.",
+            "description": "Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Ghi chú - Ghi chú": "Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học tập 1 học kỳ"
+            }
+          },
+          {
+            "row_number": 2,
+            "cells": {
+              "TT - TT": "2.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Nghỉ học không có lý do\ntrong 01 học kỳ",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": ""
+            },
+            "number": "2.",
+            "description": "Nghỉ học không có lý do\ntrong 01 học kỳ",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1"
+            }
+          },
+          {
+            "row_number": 3,
+            "cells": {
+              "TT - TT": "3.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Người học có số lần cảnh báo học tập vượt quá 02 lần liên tiếp hoặc vượt quá 03 lần không liên tiếp",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín chỉ tại trường Đại học Quốc\ntế"
+            },
+            "number": "3.",
+            "description": "Người học có số lần cảnh báo học tập vượt quá 02 lần liên tiếp hoặc vượt quá 03 lần không liên tiếp",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín chỉ tại trường Đại học Quốc\ntế"
+            }
+          },
+          {
+            "row_number": 4,
+            "cells": {
+              "TT - TT": "4.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Người học có thời gian học tập vượt quá 02 lần thời gian theo chương trình đào tạo trình độ đại học của trường.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín\nchỉ tại trường Đại học Quốc tế"
+            },
+            "number": "4.",
+            "description": "Người học có thời gian học tập vượt quá 02 lần thời gian theo chương trình đào tạo trình độ đại học của trường.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín\nchỉ tại trường Đại học Quốc tế"
+            }
+          },
+          {
+            "row_number": 5,
+            "cells": {
+              "TT - TT": "5.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Mất trật tự, làm việc riêng trong giờ học, giờ thực tập\nvà tự học",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học\ntập 1 học kỳ"
+            },
+            "number": "5.",
+            "description": "Mất trật tự, làm việc riêng trong giờ học, giờ thực tập\nvà tự học",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Ghi chú - Ghi chú": "Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học\ntập 1 học kỳ"
+            }
+          },
+          {
+            "row_number": 6,
+            "cells": {
+              "TT - TT": "6.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Vô lễ, gây gổ, chống đối đe dọa, lăng mạ với giảng viên, viên chức, người lao động làm việc tại trường; xúc phạm danh dự, nhân phẩm\nngười khác.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học"
+            },
+            "number": "6.",
+            "description": "Vô lễ, gây gổ, chống đối đe dọa, lăng mạ với giảng viên, viên chức, người lao động làm việc tại trường; xúc phạm danh dự, nhân phẩm\nngười khác.",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học"
+            }
+          },
+          {
+            "row_number": 7,
+            "cells": {
+              "TT - TT": "7.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đi  học  thay  người\tkhác\nhoặc nhờ người khác đi học thay;\tthi,\tkiểm\ttra\tthay",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 2",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ\nkhiển trách đến buộc thôi học; Thời hạn đình chỉ học"
+            },
+            "number": "7.",
+            "description": "Đi  học  thay  người\tkhác\nhoặc nhờ người khác đi học thay;\tthi,\tkiểm\ttra\tthay",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 2",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ\nkhiển trách đến buộc thôi học; Thời hạn đình chỉ học"
+            }
+          }
+        ]
+      },
+      {
+        "table_id": 2,
+        "type": "violations_table",
+        "context": "Phụ lục I",
+        "structure": {
+          "has_headers": true,
+          "headers": [
+            "TT - TT",
+            "Nội dung vi phạm - Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học",
+            "Ghi chú - Ghi chú"
+          ],
+          "header_rows_count": 2,
+          "row_count": 5,
+          "column_count": 7
+        },
+        "raw_headers": [
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Ghi chú"
+          ],
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập có\nthời hạn",
+            "Buộc thôi học",
+            "Ghi chú"
+          ]
+        ],
+        "data": [
+          {
+            "row_number": 1,
+            "cells": {
+              "TT - TT": "",
+              "Nội dung vi phạm - Nội dung vi phạm": "người khác hoặc nhờ người khác thi, kiểm tra thay; làm thay người khác hoặc nhờ người khác làm thay đồ án, khóa luận, tiểu luận hoặc sao chép tiểu luận, đồ án, khóa luận của người khác.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "tập đươc quy định tùy theo mức độ của hành vi vi phạm. Riêng đối với hành vi thi hộ, học hộ (thi thay, học thay) sinh viên bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc\nthôi học đối với trường hợp vi phạm lần thứ hai."
+            }
+          },
+          {
+            "row_number": 2,
+            "cells": {
+              "TT - TT": "8.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Tổ chức học, thi, kiểm tra thay; tổ chức làm thay tiểu luận, đồ án, khóa luận tốt\nnghiệp.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng điều tra xử lý theo quy định\ncủa pháp luật."
+            },
+            "number": "8.",
+            "description": "Tổ chức học, thi, kiểm tra thay; tổ chức làm thay tiểu luận, đồ án, khóa luận tốt\nnghiệp.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng điều tra xử lý theo quy định\ncủa pháp luật."
+            }
+          },
+          {
+            "row_number": 3,
+            "cells": {
+              "TT - TT": "9.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Mang tài liệu vào phòng thi, đưa đề thi ra ngoài nhờ làm hộ, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tùy theo tính chất, mức độ hành vi vi phạm sẽ bị xem xét xử lý theo quy định về xử lý thí sinh vi phạm tại Quy chế thi tốt nghiệp Trung học phổ thông hiện hành, riêng hình thức xử lý đình chỉ học tập và buộc thôi học không áp dụng trong trường hợp này và hành vi liên quan đến việc thi hộ, học hộ bị áp dụng xử lý theo quy định tại mục 7\nvà 8 của Phụ lục này."
+            },
+            "number": "9.",
+            "description": "Mang tài liệu vào phòng thi, đưa đề thi ra ngoài nhờ làm hộ, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra.",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Tùy theo tính chất, mức độ hành vi vi phạm sẽ bị xem xét xử lý theo quy định về xử lý thí sinh vi phạm tại Quy chế thi tốt nghiệp Trung học phổ thông hiện hành, riêng hình thức xử lý đình chỉ học tập và buộc thôi học không áp dụng trong trường hợp này và hành vi liên quan đến việc thi hộ, học hộ bị áp dụng xử lý theo quy định tại mục 7\nvà 8 của Phụ lục này."
+            }
+          },
+          {
+            "row_number": 4,
+            "cells": {
+              "TT - TT": "10.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Có hành vi mua bán, gian lận trong đăng ký môn học. Cố tình đăng nhập tài khoản của người học khác mà không được sự đồng ý; Sử dụng tài khoản của nhà trường cho các mục đích vi\nphạm pháp luật.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học."
+            },
+            "number": "10.",
+            "description": "Có hành vi mua bán, gian lận trong đăng ký môn học. Cố tình đăng nhập tài khoản của người học khác mà không được sự đồng ý; Sử dụng tài khoản của nhà trường cho các mục đích vi\nphạm pháp luật.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học."
+            }
+          },
+          {
+            "row_number": 5,
+            "cells": {
+              "TT - TT": "11.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Sử dụng hồ sơ, văn bằng, chứng chỉ giả để trúng tuyển hoặc làm điều kiện trúng tuyển.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Căn cứ quy định tại Thông tư số 08/2021/TT-BGDĐT và Quyết định số 719/QĐ- ĐHQT về việc ban hành\nQuy chế Đào tạo trình độ"
+            },
+            "number": "11.",
+            "description": "Sử dụng hồ sơ, văn bằng, chứng chỉ giả để trúng tuyển hoặc làm điều kiện trúng tuyển.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Căn cứ quy định tại Thông tư số 08/2021/TT-BGDĐT và Quyết định số 719/QĐ- ĐHQT về việc ban hành\nQuy chế Đào tạo trình độ"
+            }
+          }
+        ]
+      },
+      {
+        "table_id": 3,
+        "type": "violations_table",
+        "context": "Phụ lục I",
+        "structure": {
+          "has_headers": true,
+          "headers": [
+            "TT - TT",
+            "Nội dung vi phạm - Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học",
+            "Ghi chú - Ghi chú"
+          ],
+          "header_rows_count": 2,
+          "row_count": 11,
+          "column_count": 7
+        },
+        "raw_headers": [
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Ghi chú"
+          ],
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập có\nthời hạn",
+            "Buộc thôi học",
+            "Ghi chú"
+          ]
+        ],
+        "data": [
+          {
+            "row_number": 1,
+            "cells": {
+              "TT - TT": "",
+              "Nội dung vi phạm - Nội dung vi phạm": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Đại học theo hệ thống tín\nchỉ tại trường Đại học Quốc tế."
+            }
+          },
+          {
+            "row_number": 2,
+            "cells": {
+              "TT - TT": "12.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Cố tình chậm hoặc không\nđóng học phí mà không có lý do chính đáng.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ\nkhiển trách đến buộc thôi học."
+            },
+            "number": "12.",
+            "description": "Cố tình chậm hoặc không\nđóng học phí mà không có lý do chính đáng.",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ\nkhiển trách đến buộc thôi học."
+            }
+          },
+          {
+            "row_number": 3,
+            "cells": {
+              "TT - TT": "13.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Không tham gia bảo hiểm y tế theo quy định của nhà nước mà không có lý do\nchính đáng.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Căn cứ Quyết định 953/QĐ- ĐHQG: Lần 1 – nhắc nhở bằng văn bản và trừ điểm\nrèn luyện."
+            },
+            "number": "13.",
+            "description": "Không tham gia bảo hiểm y tế theo quy định của nhà nước mà không có lý do\nchính đáng.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Ghi chú - Ghi chú": "Căn cứ Quyết định 953/QĐ- ĐHQG: Lần 1 – nhắc nhở bằng văn bản và trừ điểm\nrèn luyện."
+            }
+          },
+          {
+            "row_number": 4,
+            "cells": {
+              "TT - TT": "14.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Làm hư hỏng tài sản, hệ thống mạng, dữ liệu Trường, ký túc xá",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ xử lý từ khiển trách đến buộc thôi học, phải bồi thường thiệt hại hoặc giao cho cơ quan\nchức năng xử lý theo quy định của pháp luật"
+            },
+            "number": "14.",
+            "description": "Làm hư hỏng tài sản, hệ thống mạng, dữ liệu Trường, ký túc xá",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ xử lý từ khiển trách đến buộc thôi học, phải bồi thường thiệt hại hoặc giao cho cơ quan\nchức năng xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 5,
+            "cells": {
+              "TT - TT": "15.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Uống rượu, bia, sử dụng chất kích thích trong giờ học; say rượu, bia khi đến\nlớp.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4",
+              "Ghi chú - Ghi chú": ""
+            },
+            "number": "15.",
+            "description": "Uống rượu, bia, sử dụng chất kích thích trong giờ học; say rượu, bia khi đến\nlớp.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4"
+            }
+          },
+          {
+            "row_number": 6,
+            "cells": {
+              "TT - TT": "16.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Hút thuốc lá (kể cả thuốc lá\nđiện tử) trong khuôn viên nhà trường.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 4",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Lần 1 nhắc nhở"
+            },
+            "number": "16.",
+            "description": "Hút thuốc lá (kể cả thuốc lá\nđiện tử) trong khuôn viên nhà trường.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 4",
+              "Ghi chú - Ghi chú": "Lần 1 nhắc nhở"
+            }
+          },
+          {
+            "row_number": 7,
+            "cells": {
+              "TT - TT": "17.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đánh bạc dưới mọi hình thức trong khuôn viên nhà trường",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng\nxử lý theo quy định của pháp luật"
+            },
+            "number": "17.",
+            "description": "Đánh bạc dưới mọi hình thức trong khuôn viên nhà trường",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng\nxử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 8,
+            "cells": {
+              "TT - TT": "18.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hoá đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo\ntrái phép",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            },
+            "number": "18.",
+            "description": "Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hoá đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo\ntrái phép",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 9,
+            "cells": {
+              "TT - TT": "19.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma tuý, chất hướng\nthần, chất gây nghiện.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            },
+            "number": "19.",
+            "description": "Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma tuý, chất hướng\nthần, chất gây nghiện.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 10,
+            "cells": {
+              "TT - TT": "20.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Sử dụng ma tuý, chất hướng thần, chất gây nghiện.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Xử lý theo quy định về xử lý SV sử dụng ma tuý"
+            },
+            "number": "20.",
+            "description": "Sử dụng ma tuý, chất hướng thần, chất gây nghiện.",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Xử lý theo quy định về xử lý SV sử dụng ma tuý"
+            }
+          },
+          {
+            "row_number": 11,
+            "cells": {
+              "TT - TT": "21.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Chứa chấp, môi giới hoạt",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng"
+            },
+            "number": "21.",
+            "description": "Chứa chấp, môi giới hoạt",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng"
+            }
+          }
+        ]
+      },
+      {
+        "table_id": 4,
+        "type": "violations_table",
+        "context": "Phụ lục I",
+        "structure": {
+          "has_headers": true,
+          "headers": [
+            "TT - TT",
+            "Nội dung vi phạm - Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học",
+            "Ghi chú - Ghi chú"
+          ],
+          "header_rows_count": 2,
+          "row_count": 10,
+          "column_count": 7
+        },
+        "raw_headers": [
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Ghi chú"
+          ],
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập có\nthời hạn",
+            "Buộc thôi học",
+            "Ghi chú"
+          ]
+        ],
+        "data": [
+          {
+            "row_number": 1,
+            "cells": {
+              "TT - TT": "",
+              "Nội dung vi phạm - Nội dung vi phạm": "động mại dâm",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 2,
+            "cells": {
+              "TT - TT": "22.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Hoạt động mại dâm",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng xử lý theo quy định của\npháp luật"
+            },
+            "number": "22.",
+            "description": "Hoạt động mại dâm",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng xử lý theo quy định của\npháp luật"
+            }
+          },
+          {
+            "row_number": 3,
+            "cells": {
+              "TT - TT": "23.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý\ntheo quy định của pháp luật"
+            },
+            "number": "23.",
+            "description": "Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý\ntheo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 4,
+            "cells": {
+              "TT - TT": "24.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Chứa chấp buôn bán vũ khí, chất nổ, chất dễ cháy và các hàng cấm theo quy định của\nNhà nước.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            },
+            "number": "24.",
+            "description": "Chứa chấp buôn bán vũ khí, chất nổ, chất dễ cháy và các hàng cấm theo quy định của\nNhà nước.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 1",
+              "Ghi chú - Ghi chú": "Giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 5,
+            "cells": {
+              "TT - TT": "25.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đưa phần tử xấu vào trong Trường, Ký túc xá, gây ảnh hưởng xấu đến an ninh, trật\ntự trong Trường.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học"
+            },
+            "number": "25.",
+            "description": "Đưa phần tử xấu vào trong Trường, Ký túc xá, gây ảnh hưởng xấu đến an ninh, trật\ntự trong Trường.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học"
+            }
+          },
+          {
+            "row_number": 6,
+            "cells": {
+              "TT - TT": "26.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Gây rối an ninh, trật tự an\ntoàn\ttrong\tTrường\thoặc ngoài xã hội.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất\nxử lý từ cảnh cáo đến buộc thôi học."
+            },
+            "number": "26.",
+            "description": "Gây rối an ninh, trật tự an\ntoàn\ttrong\tTrường\thoặc ngoài xã hội.",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất\nxử lý từ cảnh cáo đến buộc thôi học."
+            }
+          },
+          {
+            "row_number": 7,
+            "cells": {
+              "TT - TT": "27.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đe dọa, khủng bố tinh thần người khác.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất\nxử lý từ khiển trách đến đình chỉ học tập có thời hạn."
+            },
+            "number": "27.",
+            "description": "Đe dọa, khủng bố tinh thần người khác.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất\nxử lý từ khiển trách đến đình chỉ học tập có thời hạn."
+            }
+          },
+          {
+            "row_number": 8,
+            "cells": {
+              "TT - TT": "28.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            },
+            "number": "28.",
+            "description": "Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            }
+          },
+          {
+            "row_number": 9,
+            "cells": {
+              "TT - TT": "29.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Kích động, lôi kéo người\nkhác biểu tình, viết truyền đơn, áp phích trái pháp luật.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 2",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            },
+            "number": "29.",
+            "description": "Kích động, lôi kéo người\nkhác biểu tình, viết truyền đơn, áp phích trái pháp luật.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 2",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 10,
+            "cells": {
+              "TT - TT": "30.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Vay, cho vay, tổ chức cho vay tín dụng đen.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng\nxử lý theo quy định của pháp luật."
+            },
+            "number": "30.",
+            "description": "Vay, cho vay, tổ chức cho vay tín dụng đen.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng\nxử lý theo quy định của pháp luật."
+            }
+          }
+        ]
+      },
+      {
+        "table_id": 5,
+        "type": "violations_table",
+        "context": "Phụ lục I",
+        "structure": {
+          "has_headers": true,
+          "headers": [
+            "TT - TT",
+            "Nội dung vi phạm - Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học",
+            "Ghi chú - Ghi chú"
+          ],
+          "header_rows_count": 2,
+          "row_count": 6,
+          "column_count": 7
+        },
+        "raw_headers": [
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Ghi chú"
+          ],
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập có\nthời hạn",
+            "Buộc thôi học",
+            "Ghi chú"
+          ]
+        ],
+        "data": [
+          {
+            "row_number": 1,
+            "cells": {
+              "TT - TT": "31.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Tham gia, mời gọi, lôi kéo tham gia các hoạt động đa cấp bất chính.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            },
+            "number": "31.",
+            "description": "Tham gia, mời gọi, lôi kéo tham gia các hoạt động đa cấp bất chính.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            }
+          },
+          {
+            "row_number": 2,
+            "cells": {
+              "TT - TT": "32.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            },
+            "number": "32.",
+            "description": "Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            }
+          },
+          {
+            "row_number": 3,
+            "cells": {
+              "TT - TT": "33.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng\nxử lý theo quy định của pháp luật."
+            },
+            "number": "33.",
+            "description": "Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng\nxử lý theo quy định của pháp luật."
+            }
+          },
+          {
+            "row_number": 4,
+            "cells": {
+              "TT - TT": "34.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa Trường, ĐHQG- HCM khi chưa được Hiệu trưởng  Nhà  trường  và\nĐHQG-HCM cho phép.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            },
+            "number": "34.",
+            "description": "Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa Trường, ĐHQG- HCM khi chưa được Hiệu trưởng  Nhà  trường  và\nĐHQG-HCM cho phép.",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của\npháp luật."
+            }
+          },
+          {
+            "row_number": 5,
+            "cells": {
+              "TT - TT": "35.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, đưa tin thất thiệt, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng internet. Viết bài, tuyên truyền, phản ánh sai sự thật làm ảnh hưởng đến\nuy tín nhà trường.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+            },
+            "number": "35.",
+            "description": "Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, đưa tin thất thiệt, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng internet. Viết bài, tuyên truyền, phản ánh sai sự thật làm ảnh hưởng đến\nuy tín nhà trường.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+            }
+          },
+          {
+            "row_number": 6,
+            "cells": {
+              "TT - TT": "36.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Có hành động quấy rối, dâm ô, xúc phạm nhân phẩm, đời",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 2",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý"
+            },
+            "number": "36.",
+            "description": "Có hành động quấy rối, dâm ô, xúc phạm nhân phẩm, đời",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 2",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý"
+            }
+          }
+        ]
+      },
+      {
+        "table_id": 6,
+        "type": "violations_table",
+        "context": "Phụ lục I",
+        "structure": {
+          "has_headers": true,
+          "headers": [
+            "TT - TT",
+            "Nội dung vi phạm - Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học",
+            "Ghi chú - Ghi chú"
+          ],
+          "header_rows_count": 2,
+          "row_count": 8,
+          "column_count": 7
+        },
+        "raw_headers": [
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Ghi chú"
+          ],
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập có\nthời hạn",
+            "Buộc thôi học",
+            "Ghi chú"
+          ]
+        ],
+        "data": [
+          {
+            "row_number": 1,
+            "cells": {
+              "TT - TT": "",
+              "Nội dung vi phạm - Nội dung vi phạm": "tư của người khác.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 2,
+            "cells": {
+              "TT - TT": "37.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Cố tình quay phim, ghi âm khi không có sự đồng thuận\ncủa người khác.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi\nhọc"
+            },
+            "number": "37.",
+            "description": "Cố tình quay phim, ghi âm khi không có sự đồng thuận\ncủa người khác.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi\nhọc"
+            }
+          },
+          {
+            "row_number": 3,
+            "cells": {
+              "TT - TT": "38.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Vi phạm các quy định về an toàn giao thông, quy định\nngoại trú.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi\nhọc"
+            },
+            "number": "38.",
+            "description": "Vi phạm các quy định về an toàn giao thông, quy định\nngoại trú.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 4",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi\nhọc"
+            }
+          },
+          {
+            "row_number": 4,
+            "cells": {
+              "TT - TT": "39.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Giả mạo chữ ký của người khác; Sử dụng giấy tờ không hợp pháp.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật; Riêng hành vi liên quan đến việc sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp bị áp dụng xử lý theo quy định tại mục 11\ncủa Phụ lục này."
+            },
+            "number": "39.",
+            "description": "Giả mạo chữ ký của người khác; Sử dụng giấy tờ không hợp pháp.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật; Riêng hành vi liên quan đến việc sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp bị áp dụng xử lý theo quy định tại mục 11\ncủa Phụ lục này."
+            }
+          },
+          {
+            "row_number": 5,
+            "cells": {
+              "TT - TT": "40.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Đưa người lạ vào trường, thư viện, phòng lab, lớp học không xin phép; Không tuân thủ đeo thẻ SV trong khuôn viên trường; Có thái độ ứng xử không chuẩn mực với các đơn vị chức năng liên\nquan.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": ""
+            },
+            "number": "40.",
+            "description": "Đưa người lạ vào trường, thư viện, phòng lab, lớp học không xin phép; Không tuân thủ đeo thẻ SV trong khuôn viên trường; Có thái độ ứng xử không chuẩn mực với các đơn vị chức năng liên\nquan.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 3"
+            }
+          },
+          {
+            "row_number": 6,
+            "cells": {
+              "TT - TT": "41.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Giả mạo thẻ CMND, thẻ SV, thẻ nội trú, thẻ xe buýt,\nthẻ thư viện, thẻ căn tin… của người khác.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            },
+            "number": "41.",
+            "description": "Giả mạo thẻ CMND, thẻ SV, thẻ nội trú, thẻ xe buýt,\nthẻ thư viện, thẻ căn tin… của người khác.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 1",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Lần 3",
+              "Ghi chú - Ghi chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 7,
+            "cells": {
+              "TT - TT": "42.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Nhặt được của rơi không trả lại người bị mất, trả lại nhưng đòi tiền chuộc.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Tài sản ≤ 10 lần mức\nlương cơ sở",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Tài sản\n> 10\nlần mức lương cơ sở",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Tài sản thuộc di tích lịch sử, văn\nhóa",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            },
+            "number": "42.",
+            "description": "Nhặt được của rơi không trả lại người bị mất, trả lại nhưng đòi tiền chuộc.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Tài sản ≤ 10 lần mức\nlương cơ sở",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Tài sản\n> 10\nlần mức lương cơ sở",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "Tài sản thuộc di tích lịch sử, văn\nhóa",
+              "Ghi chú - Ghi chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+            }
+          },
+          {
+            "row_number": 8,
+            "cells": {
+              "TT - TT": "43.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Mặc trang phục hở hang, lộ liễu, vi phạm thuần phong\nmỹ tục của dân tộc.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 4",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Lần 1 nhắc nhở."
+            },
+            "number": "43.",
+            "description": "Mặc trang phục hở hang, lộ liễu, vi phạm thuần phong\nmỹ tục của dân tộc.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 4",
+              "Ghi chú - Ghi chú": "Lần 1 nhắc nhở."
+            }
+          }
+        ]
+      },
+      {
+        "table_id": 7,
+        "type": "violations_table",
+        "context": "Phụ lục I",
+        "structure": {
+          "has_headers": true,
+          "headers": [
+            "TT - TT",
+            "Nội dung vi phạm - Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học",
+            "Ghi chú - Ghi chú"
+          ],
+          "header_rows_count": 2,
+          "row_count": 2,
+          "column_count": 7
+        },
+        "raw_headers": [
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học)",
+            "Ghi chú"
+          ],
+          [
+            "TT",
+            "Nội dung vi phạm",
+            "Khiển trách",
+            "Cảnh cáo",
+            "Đình chỉ học tập có\nthời hạn",
+            "Buộc thôi học",
+            "Ghi chú"
+          ]
+        ],
+        "data": [
+          {
+            "row_number": 1,
+            "cells": {
+              "TT - TT": "44.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Có những hành động cử chỉ tình cảm vượt quá giới hạn trong khuôn viên nhà\ntrường.",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 4",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Lần 1 nhắc nhở."
+            },
+            "number": "44.",
+            "description": "Có những hành động cử chỉ tình cảm vượt quá giới hạn trong khuôn viên nhà\ntrường.",
+            "penalties": {
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "Lần 2",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "Lần 3",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "Lần 4",
+              "Ghi chú - Ghi chú": "Lần 1 nhắc nhở."
+            }
+          },
+          {
+            "row_number": 2,
+            "cells": {
+              "TT - TT": "45.",
+              "Nội dung vi phạm - Nội dung vi phạm": "Các vi phạm khác: Vi phạm quy tắc ứng xử dành cho\nngười học, vi phạm khác ngoài trường, trên mạng xã\nhội…",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Khiển trách": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Cảnh cáo": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Đình chỉ học tập có\nthời hạn": "",
+              "Số lần vi phạm và hình thức xử lý\n(Số lần tính trong cả khoá học) - Buộc thôi học": "",
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, nhà trường xem xét, nhắc nhở, phê bình, trừ ĐRL hoặc xử lý kỷ luật từ khiển trách đến\nbuộc thôi học."
+            },
+            "number": "45.",
+            "description": "Các vi phạm khác: Vi phạm quy tắc ứng xử dành cho\nngười học, vi phạm khác ngoài trường, trên mạng xã\nhội…",
+            "penalties": {
+              "Ghi chú - Ghi chú": "Tùy theo mức độ, nhà trường xem xét, nhắc nhở, phê bình, trừ ĐRL hoặc xử lý kỷ luật từ khiển trách đến\nbuộc thôi học."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
