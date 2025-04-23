@@ -1,0 +1,344 @@
+Khoa Điện - Điện tử:
+Ngành Kỹ thuật Điện tử – Viễn thông:
+Chương trình Kỹ thuật Điện tử – Viễn thông đã được công nhận đạt chuẩn của các tổ chức kiểm định chất lượng quốc tế như của mạng lưới các trường Đông Nam Á (AUN) và của tổ chức Kiểm định các chương trình đào tạo kỹ thuật & công nghệ của Hoa Kỳ (ABET).
+
+Mục tiêu đào tạo:
+Khoa Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để:
+Trở thành một Kỹ sư có năng lực, có thể đóng góp trong các lĩnh vực khác nhau của ngành Điện và Điện tử.
+Tham gia học tập và nghiên cứu suốt đời để thích ứng với những thay đổi nhanh chóng trong kinh tế và công nghệ toàn cầu
+Phục vụ hiệu quả cộng đồng, xã hội và công nghiệp một cách có đạo đức và có trách nhiệm
+Có phong cách làm việc chuyên nghiệp và sở hữu khả năng lãnh đạo
+
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+Có khả năng xác định, thiết kế và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý khoa học, kỹ thuật và toán học.
+Có khả năng áp dụng các thiết kế kỹ thuật nhằm tạo ra những giải pháp công nghệ đáp ứng những nhu cầu cụ thể, trong đó có cân nhắc đến các vấn đề về sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế.
+Có khả năng giao tiếp hiệu quả với nhiều đối tượng khác nhau.
+Có khả năng nhận thức trách nhiệm đạo đức và nghề nghiệp trong nhiều tình huống chuyên môn khác nhau, từ đó đưa ra những đánh giá sáng suốt, đồng thời xem xét tác động từ những giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội.
+Có khả năng hoạt động hiệu quả trong một nhóm cùng các thành viên khác thể hiện khả năng lãnh đạo, tạo một môi trường hoạt động có tinh thần hợp tác và toàn diện, thiết lập mục tiêu, lập kế hoạch nhiệm vụ, từ đó đạt được mục tiêu mong đợi.
+Có khả năng thiết kế và tiến hành các thí nghiệm phù hợp, có khả năng phân tích và diễn giải dữ liệu, đồng thời sử dụng phán đoán kỹ thuật nhằm rút ra kết luận.
+Có khả năng tiếp thu và áp dụng kiến thức mới khi cần thiết bằng nhiều chiến lược học tập phù hợp.
+
+Đánh giá môn học:
+Đối với các môn học cơ sở ngành và chuyên ngành:
+Môn lý thuyết có tỉ lệ điểm đánh giá là 30% điểm trên lớp (bao gồm bài tập, chuyên cần, kiểm tra và bài tập nhóm), 30% điểm thi giữa kì và 40% điểm thi cuối kì;
+Môn thực hành có tỉ lệ điểm là 70% điểm trên lớp (bao gồm bài tập thực hành, chuyên cần, kiểm tra và bài tập nhóm) và 30% điểm thi cuối kì.
+Đối với các môn thực tập, đồ án sinh viên, luận văn tốt nghiệp: điểm đánh giá sẽ dựa vào điểm cuối kì của giảng viên hướng dẫn và hội đồng.
+
+Tùy vào trình độ tiếng Anh đầu vào của các sinh viên, các lớp tiếng Anh tăng cường sẽ được sắp xếp theo phân bố chuẩn của chương trình đào tạo. Thứ tự chuẩn tiếng Anh đầu vào của trường Đại học Quốc Tế – Đại Học Quốc Gia từ cao tới thấp được phân như sau:
+Academic Enghlish 1 ( TOEFL iBT ≥ 56 hoặc IELTS ≥ 5.5 ) 
+Intensive English 2 ( TOEFL iBT ≥ 35 hoặc IELTS ≥ 5.0 )
+Intensive English 1 ( TOEFL iBT < 35 hoặc IELTS < 5.0 )
+Intensive English 0 ( IELTS < 4.5 )
+
+Chương trình học:
+Năm 1:
+
+Học kì 1:
+MA001IU-Calculus 1-4
+PH013IU-Physics 1 (Mechanics)-2
+CH011IU-Chemistry for Engineers-3
+CH012IU-Chemistry Laboratory-1
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+EE050IU-Intro to Computer for Engineers-3
+PT001IU-Physical Training 1-0
+
+Học kì 2
+MA003IU-Calculus 2-4
+MA027IU-Applied Linear Algebra-2
+PH014IU-Physics 2 (Thermodynamics)-2
+PE021IU-General Laws-3
+EN011IU-Writing AE 2-2
+EN012IU-Speaking AE2-2
+EE049IU-Introduction to EE-3
+PT002IU-Physical Training 2-0
+
+Năm 2:
+Học kì 1:
+MA023IU-Calculus 3-4
+PH015IU-Physics 3 (Electricity & Magnetism)-3
+PH016IU-Physics 3 Lab-1
+EE051IU-Principles of EE 1-3
+EE052IU-Principles of EE 1 Lab-1
+EE057IU-Programming for Engineers-3
+EE058IU-Programming for Engineers Lab-1
+PE015IU-Philosophy of Marxism and Leninism-3
+
+Học kì 2:
+MA024IU-Differential Equations-4
+MA026IU-Probability& Random Process-3
+EE055IU-Principles of EE 2-3
+EE056IU-Principles of EE 2 Lab-1
+EE053IU-Digital Logic Design-3
+EE054IU-Digital Logic Design Lab-1
+PE016IU-Political economics of Marxism and Leninism-2
+
+Năm 3:
+
+Học kì 1:
+EE088IU-Signals & Systems-3
+EE089IU-Signals & Systems Lab-1
+EE083IU-Micro-processing Systems-3
+EE084IU-Micro-processing Systems Lab-1
+EE010IU-Electromagnetic Theory-3
+PE017IU-Scientific socialism-2
+EE090IU-Electronics Devices-3
+EE091IU-Electronics Devices Lab-1
+
+Học kì 2:
+EE092IU-Digital Signal Processing-3
+EE093IU-Digital Signal Processing Lab-1
+EE068IU-Principles of Com. Systems-3
+EE115IU-Principles of Com. Systems Lab-1
+EE130IU-Capstone Design 1-2
+PH012IU-Physics 4 (Optics & Atomics)-2
+PE—IU-Engineering Ethics and Critical Thinking
+PE018IU-History of Vietnamese Communist Party -2
+
+Năm 4:
+Học kì 1:
+EE131IU-Capstone Design 2-2
+EE079IU-Power Electronics-3
+EEAC003IU-Power Electronics Lab-1
+XX—IU-General Elective-3
+PE019IU-Ho Chi Minh’s Thoughts-2
+EE112IU-Summer Internship-3
+Học kì 2:
+EE107IU-Senior Project-2
+EE—IU-EE Elective Course 03-4
+EE—IU-EE Elective Course 04-4
+EE—IU-EE Elective Course 05-4
+EE114IU-Entrepreneurship-3
+
+Năm 5:
+EE097IU-Thesis-10
+
+
+General Elective Course:
+Subject’s ID	 Subjects	Credit(s)
+BA003IU-Principles of Marketing-3
+BA006IU-Business Communication-3
+BA027IU-E-Commerce-3
+BA098IU-Leadership-3
+BA117IU-Introduction to Micro Economics-3
+BA120IU-Business Computing Skills-3
+ENEE1001IU-Engineering Drawing-3 (2+1 lab)
+PE014IU-Environmental Science-3
+ENEE2008IU-Environmental Ecology-3
+CE103IU+04-Computer-Aided Design and Drafting (CADD)+Practice CAD-3 + 1
+CE211IU-Hydrology – Hydraulics-3
+IT069IU-Object-Oriented Programming-3
+BM030IU-Machine Design-3
+IS085IU-CAD/CAM/CNC-3 (2+1 lab)
+IS019IU-Production Management-3
+IS034IU-Product Design & Development-3
+IS040IU-Management Information System-3
+IS065IU-Supply Security and Risk Management-3
+PH027IU-Earth observation and the environment-3
+PH018IU-Introduction to Space Engineering-3
+PH035IU-Introduction to Space Communications-3
+PH036IU-Remote Sensing-3
+PH037IU-Space Environment-3
+PH040IU-Satellite Technology-3
+EL017IU-Language and Culture-3
+EL018IL-Cross-Cultural Communication-3
+EL021IL-Global Englishes-3
+EE072IU-Computer and Communication Network-3
+
+ET Elective Courses
+EE061IU-Analog Electronics-3
+EE062IU-Analog Electronics Laboratory-1
+EE094IU-Digital Electronics-3
+EE095IU-Digital Electronics Laboratory-1
+EE105IU-Antenna and Microwave Engineering-3
+EE124IU-Antenna and Microwave Engineering Laboratory-1
+EE075IU-Theory of Automatic Control-3
+EEAC020IU-Theory of Automatic Control-4
+EE063IU-Digital System Design-3
+EE117IU-Digital System Design Laboratory-1
+EE066IU-VLSI Design-3
+EE121IU-VLSI Design Laboratory-1
+EE104IU-Embedded Real-time Systems-3
+EE118IU-Embedded Real-time Systems Laboratory-1
+EE070IU-Wireless Communications Systems-3
+EE116IU-Wireless Communications Systems Laboratory-1
+EE119IU-Telecommunication Networks-3
+EE120IU-Telecommunication Networks Laboratory-1
+EE072IU-Computer and Communication Networks-3
+EE102IU-Stochastic Signal Processing-3
+EE103IU-Image Processing and Computer Vision
+EE122IU-Image Processing and Computer Vision Laboratory
+EE123IU-Special Topics in Electrical Engineering-2
+EE074IU-Digital Signal Processing Design-3
+EE125IU-RF Circuit Design-3
+EE126IU-RF Circuit Design Laboratory-1
+EEAC008IU-Sensors and Instrumentation-3
+EE127IU-Machine learning and Artificial Intelligence-3
+EE128IU-Internet of Things (IoT)-3
+EE129IU-Internet of Things Laboratory-1
+EE133IU-Emerging Engineering Technologies-3
+
+Ngành Kỹ thuật Điều khiển và Tự động hóa:
+Chương trình Kỹ thuật Kỹ thuật Điều Khiển và Tự Động Hóa được thiết kế trên cở sở đối sánh các chương trình tương tự ở trong nước và quốc tế vào năm 2014. Chương trình được thiết kế, vận hành để hướng đến các chứng chỉ kiểm định chất lượng quốc tế trong tương lai.
+Khoa Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để:
+Trở thành một Kỹ sư có năng lực, có thể đóng góp trong các lĩnh vực khác nhau của ngành Điện và Điện tử.
+Tham gia học tập và nghiên cứu suốt đời để thích ứng với những thay đổi nhanh chóng trong kinh tế và công nghệ toàn cầu
+Phục vụ hiệu quả cộng đồng, xã hội và công nghiệp một cách có đạo đức và có trách nhiệm
+Có phong cách làm việc chuyên nghiệp và sở hữu khả năng lãnh đạo
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+Có khả năng xác định, thiết kế và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý khoa học, kỹ thuật và toán học.
+Có khả năng áp dụng các thiết kế kỹ thuật nhằm tạo ra những giải pháp công nghệ đáp ứng những nhu cầu cụ thể, trong đó có cân nhắc đến các vấn đề về sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế.
+Có khả năng giao tiếp hiệu quả với nhiều đối tượng khác nhau.
+Có khả năng nhận thức trách nhiệm đạo đức và nghề nghiệp trong nhiều tình huống chuyên môn khác nhau, từ đó đưa ra những đánh giá sáng suốt, đồng thời xem xét tác động từ những giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội.
+Có khả năng hoạt động hiệu quả trong một nhóm cùng các thành viên khác thể hiện khả năng lãnh đạo, tạo một môi trường hoạt động có tinh thần hợp tác và toàn diện, thiết lập mục tiêu, lập kế hoạch nhiệm vụ, từ đó đạt được mục tiêu mong đợi.
+Có khả năng thiết kế và tiến hành các thí nghiệm phù hợp, có khả năng phân tích và diễn giải dữ liệu, đồng thời sử dụng phán đoán kỹ thuật nhằm rút ra kết luận.
+Có khả năng tiếp thu và áp dụng kiến thức mới khi cần thiết bằng nhiều chiến lược học tập phù hợp.
+Tùy vào trình độ tiếng Anh đầu vào của các sinh viên, các lớp tiếng Anh tăng cường sẽ được sắp xếp theo phân bố chuẩn của chương trình đào tạo. Thứ tự chuẩn tiếng Anh đầu vào của trường Đại học Quốc Tế – Đại Học Quốc Gia từ cao tới thấp được phân như sau:
+Academic Enghlish 1 ( TOEFL iBT ≥ 56 hoặc IELTS ≥ 5.5 ) 
+Intensive English 2 ( TOEFL iBT ≥ 35 hoặc IELTS ≥ 5.0 )
+Intensive English 1 ( TOEFL iBT < 35 hoặc IELTS < 5.0 )
+Intensive English 0 ( IELTS < 4.5 )
+
+Chương trình đào tạo Kỹ thuật Điều Khiển và Tự Động Hóa được giảng dạy bằng tiếng Anh với số tín chỉ tối thiểu là 152 và được phân bổ trong thời gian 4.5 năm học:
+Chương trình học:
+Năm 1:
+
+Học kì 1:
+MA001IU-Calculus 1-4
+PH013IU-Physics 1 (Mechanics)-2
+CH011IU-Chemistry for Engineers-3
+CH012IU-Chemistry Laboratory-1
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+EE050IU-Intro to Computer for Engineers-3
+PT001IU-Physical Training 1-0
+
+Học kì 2
+MA003IU-Calculus 2-4
+MA027IU-Applied Linear Algebra-2
+PH014IU-Physics 2 (Thermodynamics)-2
+PE021IU-General Laws-3
+EN011IU-Writing AE 2-2
+EN012IU-Speaking AE2-2
+EE049IU-Introduction to EE-3
+PT002IU-Physical Training 2-0
+
+Năm 2:
+Học kì 1:
+EEAC021IU-Mathematics for Engineers-4
+EE051IU-Principles of EE 1-3
+EE052IU-Principles of EE 1 Lab-1
+EE057IU-Programming for Engineers-3
+EE058IU-Programming for Engineers Lab-1
+PE015IU-Philosophy of Marxism and Leninism-3
+PE016IU-Political economics of Marxism and Leninism-2
+Học kì 2:
+MA024IU-Differential Equations-4
+MA026IU-Probability& Random Process-3
+EE055IU-Principles of EE 2-3
+EE056IU-Principles of EE 2 Lab-1
+EE053IU-Digital Logic Design-3
+EE054IU-Digital Logic Design Lab-1	
+PH012IU-Physics 4 (Optics & Atomics)-2
+PE017IU-Scientific socialism-2
+
+Năm 3:
+
+Học kì 1:
+EE088IU-Signals & Systems-3
+EE089IU-Signals & Systems Lab-1
+EE083IU-Micro-processing Systems-3
+EE084IU-Micro-processing Systems Lab-1
+EE010IU-Electromagnetic Theory-3
+PE018IU-History of Vietnamese Communist Party -2
+EE090IU-Electronics Devices-3
+EE091IU-Electronics Devices Lab-1
+
+Học kì 2:
+EE092IU-Digital Signal Processing-3
+EE093IU-Digital Signal Processing Lab-1
+EE068IU-Principles of Com. Systems-3
+EE115IU-Principles of Com. Systems Lab-1
+EE130IU-Capstone Design 1-2
+PH012IU-Physics 4 (Optics & Atomics)-2
+PE—IU-Engineering Ethics and Critical Thinking
+
+Năm 4:
+Học kì 1:
+EE131IU-Capstone Design 2-2
+EEAC–IU-AC Elective Course 01-4
+EEAC004IU-PC Based Control and SCADA System-3
+EEAC005IU-PC Based Control and SCADA System Lab-1
+General Elective-3
+EEAC008IU-Sensors and Instrumentation-3
+PE019IU-Ho Chi Minh’s Thoughts-2
+Học kì 2:
+EE107IU-Senior Project-2
+EE114IU-Entrepreneurship-3
+EEAC–IU-AC Elective Course 02-3
+EEAC–IU-AC Elective Course 03-3
+EEAC–IU-AC Elective Course 04-3
+EEAC–IU-AC Elective Course 05-3
+EE112IU-Summer Internship-3
+
+Năm 5:
+Học kì 1:
+EE097IU Thesis-10
+
+General Elective Course:
+Subject’s ID	 Subjects	Credit(s)
+BA003IU-Principles of Marketing-3
+BA006IU-Business Communication-3
+BA027IU-E-Commerce-3
+BA098IU-Leadership-3
+BA117IU-Introduction to Micro Economics-3
+BA120IU-Business Computing Skills-3
+ENEE1001IU-Engineering Drawing-3 (2+1 lab)
+PE014IU-Environmental Science-3
+ENEE2008IU-Environmental Ecology-3
+CE103IU+04-Computer-Aided Design and Drafting (CADD)+Practice CAD-3 + 1
+CE211IU-Hydrology – Hydraulics-3
+IT069IU-Object-Oriented Programming-3
+BM030IU-Machine Design-3
+IS085IU-CAD/CAM/CNC-3 (2+1 lab)
+IS019IU-Production Management-3
+IS034IU-Product Design & Development-3
+IS040IU-Management Information System-3
+IS065IU-Supply Security and Risk Management-3
+PH027IU-Earth observation and the environment-3
+PH018IU-Introduction to Space Engineering-3
+PH035IU-Introduction to Space Communications-3
+PH036IU-Remote Sensing-3
+PH037IU-Space Environment-3
+PH040IU-Satellite Technology-3
+EL017IU-Language and Culture-3
+EL018IL-Cross-Cultural Communication-3
+EL021IL-Global Englishes-3
+EE072IU-Computer and Communication Network-3
+
+AC Elective Courses:
+EE061IU-Analog Electronics-3
+EE062IU-Analog Electronics Laboratory-1
+EEAC011IU-Automation Manufacturing System and Technique-3
+EEAC012IU-Automation Manufacturing System and Technique Laboratory-1
+EEAC013IU-Power System and Equipment-3
+EEAC014IU-Neuron Network and Fuzzy Logics-3
+EEAC015IU-Robotics-3
+EEAC016IU-Industrial Electronics-3
+EEAC017IU-Digital Control-3
+EEAC009IU-Electric Safety-3
+EEAC010IU-Electric Machine-3
+EE104IU-Embedded Real-time Systems-3
+EE118IU-Embedded Real-time Systems Laboratory-1
+EE102IU0-Stochastic Signal Processing-3
+EE103IU-Image Processing and Computer Vision-3
+EE122IU-Image Processing and Computer Vision Laboratory-1
+EEAC018IU-Advanced Control Engineering-3
+EEAC019IU-System Diagnostic-3
+EE068IU-Principles of Communication-3
+EE115IU-Principles of Communication Laboratory-1
+EE079IU-Power Electronics-3
+EEAC003IU-Power Electronics Laboratory-1
+EE127IU-Machine learning and Artificial Intelligence-3
+EE133IU-Emerging Engineering Technologies-3
+ 	 	 

@@ -60,103 +60,97 @@ Chương trình học:
 Năm 1:
 
 Học kì 1:
-EN007IU – Kỹ năng Viết AE1 (2)
-EN008IU – Kỹ năng nghe AE1 (2)
-BA117IU – Kinh tế vi mô (3)
-BA115IU – Quản trị Kinh doanh đại cương (3)
-BA120IU – Tin học Quản lý (3)
-BA005IU – Kế toán Tài chính (3)
-PE015IU – Triết học Mac - Lenin (3)
+EN007IU – Writing AE1 (2)
+EN008IU – Listening AE1 (2)
+BA117IU – Introduction to Microeconomics (3)
+BA115IU – Introduction to Business Administration (3)
+BA120IU – Business Computing Skills (3)
+BA005IU – Financial Accounting (3)
+PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy:
-PT001IU – Giáo dục thể chất 1 (3)
+PT001IU – Physical Training 1 (TD)
 
 Học kì 2
-EN011IU – Kỹ năng Viết AE2 (2)
-EN012IU – Kỹ năng Nói AE2 (2)
-BA282IU – Toán trong kinh doanh (4)
-BA119IU – Kinh tế vĩ mô (3)
-BA123IU – Nguyên lý Quản trị (3)
-PE016IU – Kinh tế chính trị Mac - Lenin (2)
-PE008IU – Tư duy phân tích (3) (Học kì hè)
-PE017IU – Chủ nghĩa xã hội khoa học (2) (Học kì hè)
+EN011IU – Writing AE2 (2)
+EN012IU – Speaking AE2 (2)
+BA282IU – Math for Business (4)
+BA119IU – Introduction to Macro Economics (3)
+BA123IU – Principles of Management (3)
+PE016IU - Political economics of Marxism and Leninism (2)
+PE008IU – Critical Thinking (3) (Summer semester)
+PE017IU - Scientific Socialism (2) (Summer semester)
 Không tính tín chỉ tích lũy:
-PT002IU – Giáo dục thể chất 2 (3)
+PT002IU – Physical Training 2 (TD)
+
 
 Năm 2:
 Học kì 1:
-BA003IU – Nguyên lý Tiếp thị (3)
-BA080IU – Thống kê trong kinh doanh (3)
-BA167IU – Pháp luật Việt Nam đại cương (3)
-PE018IU – Lịch sủ Đảng (2)
+BA003IU – Principles of Marketing (3)
+BA080IU – Statistics for Business (3)
+PE021IU – General Law (3)
+PE018IU - History of Vietnamese Communist Party (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-BA118IU – Tâm lý học (3)
-BA197IU – Xẫ hội học (3)
+BA118IU – Introduction to Psychology (3)
+BA197IU – Introduction to Sociology (3)
 
 Học kì 2:
-BA256IU – Thảo luận chuyên đề 1 (3)
-BA130IU – Hành vi tổ chức (3)
-BA068IU – Kinh doanh quốc tế (3)
-BA168IU – Phương pháp định lượng trong kinh doanh (3)
-BA016IU – Quản trị tài chính (3)
-PE019IU – Tư tưởng Hồ Chí Minh (2)
+BA256IU – Workshop 1 (3)
+BA130IU – Organizational Behavior (3)
+BA068IU – International Economics (3)
+BA168IU – Quantitative Methods for Business (3)
+BA016IU – Fundamental of Financial Management (3)
+PE019IU – Ho Chi Minh’s Thoughts (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-PE007IU – Địa lý kinh tế thế giới (3)
-PE010IU – Lịch sử và văn hóa Việt Nam (3)
+PE007IU – World Economic Geography (3)
+PE010IU – Vietnamese History and Culture (3)
 
 Năm 3:
-
 Học kì 1:
-BA020IU – Đạo đức Kinh doanh (3)
-BA081IU – Luật Kinh doanh (3)
-BA162IU – Quản trị Chiến lược (3)
-BA164IU – Quản trị sản xuất (3)
-PE014IU – Khoa học môi trường (3)
+BA020IU – Business Ethics (3)
+BA081IU – Business Law (3)
+BA162IU – Strategy Formulation and Implementation (3)
+BA164IU – Production and Operations Management (3)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-BA027IU – Thương mại điên tử (3)
-BA169IU – Hệ thống thông tin Quản lý (3)
+BA027IU – E – Commerce (3)
+BA169IU – Management Information Systems (3)
 
 Học kì 2:
-BA018IU – Quản trị Chất lượng (3)
-BA006IU – Giao tiếp trong kinh doanh (3)
-BA154IU – Sáng lập doanh nghiệp (3)
-BA156IU – Quản trị nguồn nhân lực (3)
-Môn tự chọn 1 (3)
-BA153IU – Thực tập ở doanh nghiệp (3) (Học kì hè)
+BA018IU – Quality Management (3)
+BA006IU – Business Communication (3)
+BA154IU – Entrepreneurship and Small Business Management (3)
+BA156IU – Human Resource Management (3)
+BA153IU – Internship (3) 
+BA255IU – Specialized Internship (3) (Summer Semester)
 
 Năm 4:
 Học kì 1:
-BA022IU – Quản trị hậu cần và chuỗi cung ứng (3)
-BA023IU – Quản trị dự án (3)
-BA161IU – Phương pháp nghiên cứu khoa học (3)
-BA274IU – Thảo luận chuyên đề Quản trị doanh nghiệp (2)
+BA022IU – Logistic and Supply Chain Management (3)
+BA023IU – Project Management (3)
+BA161IU – Business Research Methods (3)
+BA274IU – Workshop 2 on Business Management (2)
 Môn tự chọn 2 (3)
 Môn tự chọn 3 (3)
+Học kì 2:
+BA170IU – Thesis (12)
 
-Môn tự chọn: (chọn 03 trong 13 môn học bên dưới)
-BA032IU – Quản lý bán hàng (3)
-BA038IU – Quản lý dịch vụ khách hàng (3)
-BA051IU – Quản trị tài chính quốc tế (3)
-BA098IU – Ký năng lãnh đạo (3)
-BA140IU – Mô phỏng chiến lược kinh doanh (3)
-BA150IU – Chuyên đề nghiên cứu (3)
-BA151IU – Quản trị Kinh doanh quốc tế (3)
-BA158IU – Thiết kế và thay đổi tổ chức (3)
-BA160IU – Đàm phán và Quản trị quan hệ (3)
-BA171IU – Quản trị rủi ro (3)
-BA176IU – Nhượng quyền thương mại (3)
-BA255IU – Thực tập chuyên sâu (3)
+Môn tự chọn: (chọn 03 trong 12 môn học bên dưới)
+BA032IU – Sales Management (3)
+BA038IU – Customer Service Management (3)
+BA051IU – International Financial Management (3)
+BA098IU – Leadership (3)
+BA140IU – Business Game (3)
+BA150IU – Special Study (3)
+BA151IU – International Business Management (3)
+BA158IU – Organizational Design and Change (3)
+BA160IU – Negotiation and Relationship Management (3)
+BA171IU – Risk Management (3)
+BA176IU – Franchising (3)
+BA285IU - Geographical Information System (3)
 
-Thảo luận chuyên đề (chọn 02 trong 05 môn học):
-Thảo luận chuyên đề 2 là môn tự chọn của chuyên ngành. Nếu sinh viên chọn học môn thảo luận chuyên đề 02 của chuyên ngành khác là tự chọn thì phải học 02 môn Thảo luận chuyên đề 2 của chuyên ngành khác
-(2 môn Thảo luận chuyên đề 2 của chuyên ngành khác (4 tín chỉ) = 1 môn tự chọn (3 tín chỉ))
-BA257IU - Thảo luận chuyên đề 2 chuyên ngành Tài chính (2)
-BA272IU - Thảo luận chuyên đề 2 chuyên ngành Nhà hàng khách sạn (2)
-BA273IU - Thảo luận chuyên đề 2 chuyên ngành Kinh doanh Quốc tế (2)
-BA275IU - Thảo luận chuyên đề 2 chuyên ngành Tiếp thị (2)
-BA281IU - Thảo luận chuyên đề 2 chuyên ngành Kế toán (2)
+
 
 
 CHUYÊN NGÀNH TIẾP THỊ – SINH VIÊN KHÓA 2022:
@@ -218,109 +212,99 @@ Có chứng chỉ huấn luyện thể chất và giáo dục quân sự
 Chương trình học:
 Năm 1:
 
-Học kì 1:	
-EN007IU – Kỹ năng Viết AE1 (2)
-EN008IU – Kỹ năng nghe AE1 (2)
-BA117IU – Kinh tế vi mô (3)
-BA115IU – Quản trị Kinh doanh đại cương (3)
-BA120IU – Tin học Quản lý (3)
-BA005IU – Kế toán Tài chính (3)
-PE015IU – Triết học Mac - Lenin (3)
+Học kì 1:		
+EN007IU – Writing AE1 (2)
+EN008IU – Listening AE1 (2)
+BA117IU – Introduction to Microeconomics (3)
+BA115IU – Introduction to Business Administration (3)
+BA120IU – Business Computing Skills (3)
+BA005IU – Financial Accounting (3)
+PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy
-PT001IU – Giáo dục thể chất 1 (3)
+PT001IU – Physical Training 1 (TD)
 
 Học kì 2
-EN011IU – Kỹ năng Viết AE2 (2)
-EN012IU – Kỹ năng Nói AE2 (2)
-BA282IU – Toán trong kinh doanh (4)
-BA119IU – Kinh tế vĩ mô (3)
-BA123IU – Nguyên lý Quản trị (3)
-PE016IU – Kinh tế chính trị Mac - Lenin (2)
-PE008IU – Tư duy phân tích (3) (Học kì hè)
-PE017IU – Chủ nghĩa xã hội khoa học (2) (Học kì hè)
+EN011IU – Writing AE2 (2)
+EN012IU – Speaking AE2 (2)
+BA282IU – Math for Business (4)
+BA119IU – Introduction to Macro Economics (3)
+BA123IU – Principles of Management (3)
+PE016IU - Political economics of Marxism and Leninism (2)
+PE008IU – Critical Thinking (3) (Summer semester)
+PE017IU - Scientific Socialism (2) (Summer semester)
 Không tính tín chỉ tích lũy
-PT002IU – Giáo dục thể chất 2 (3)
+PT002IU – Physical Training 2 (TD)
 
 Năm 2:
 Học kì 1:
-BA003IU – Nguyên lý Tiếp thị (3)
-BA080IU – Thống kê trong kinh doanh (3)
-BA167IU – Pháp luật Việt Nam đại cương (3)
-PE018IU – Lịch sủ Đảng (2)
+BA003IU – Principles of Marketing (3)
+BA080IU – Statistics for Business (3)
+PE021IU – General Law (3)
+PE018IU - History of Vietnamese Communist Party (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-BA118IU – Tâm lý học (3)
-BA197IU – Xẫ hội học (3)
-
+BA118IU – Introduction to Psychology (3)
+BA197IU – Introduction to Sociology (3)
 Học kì 2:
-BA256IU – Thảo luận chuyên đề 1 (3)
-BA130IU – Hành vi tổ chức (3)
-BA068IU – Kinh doanh quốc tế (3)
-BA168IU – Phương pháp định lượng trong kinh doanh (3)
-BA016IU – Quản trị tài chính (3)
-PE019IU – Tư tưởng Hồ Chí Minh (2)
+BA256IU – Workshop 1 (3)
+BA130IU – Organizational Behavior (3)
+BA068IU – International Economics (3)
+BA168IU – Quantitative Methods for Business (3)
+BA016IU – Fundamental of Financial Management (3)
+PE019IU – Ho Chi Minh’s Thoughts (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-PE007IU – Địa lý kinh tế thế giới (3)
-PE010IU – Lịch sử và văn hóa Việt Nam (3)
+PE007IU – World Economic Geography (3)
+PE010IU – Vietnamese History and Culture (3)
 
 Năm 3:
 
 Học kì 1:
-BA020IU – Đạo đức Kinh doanh (3)
-BA006IU – Giao tiếp trong kinh doanh (3)
-BA162IU – Quản trị Chiến lược (3)
-BA164IU – Quản trị sản xuất (3)
-PE014IU – Khoa học môi trường (3)
-Môn học tự chọn:
+BA020IU – Business Ethics (3)
+BA081IU – Business Law (3)
+BA162IU – Strategy Formulation and Implementation (3)
+BA164IU – Production and Operations Management (3)
+Môn tự chọn 1 (3)
 Chọn 01 trong 02 môn học
-BA027IU – Thương mại điên tử (3)
-BA169IU – Hệ thống thông tin Quản lý (3)
+BA027IU – E – Commerce (3)
+BA169IU – Management Information Systems (3)
 
 Học kì 2:
-BA081IU – Luật Kinh doanh (3)
-BA035IU – Nghiên cứu Tiếp thị (3)
-BA083IU – Hành vi khách hàng (3)
-Môn tự chọn 1 (3)
+BA081IU – Business Law (3)
+BA035IU – Marketing Research (3)
+BA083IU – Consumer Behavior (3)
 Môn tự chọn 2 (3)
-BA153IU – Thực tập ở Doanh nghiệp (3) (Học kì hè)
+BA153IU – Internship (3) 
+BA255IU – Specialized Internship (3) (Summer Semester) 
 
 Năm 4:
 Học kì 1:
-BA142IU – Chiến lược tiếp thị (3)
-BA145IU – Quản trị Tiếp thị Quốc tế (3)
-BA161IU – Phương pháp nghiên cứu khoa học (3)
-BA275IU – Thảo luận chuyên đề chuyên ngành Tiếp thị (2)
+BA142IU – Marketing Strategy (3)
+BA145IU – International Marketing (3)
+BA161IU – Business Research Methods (3)
+BA275IU – Workshop 2 on Marketing (2)
 Môn tự chọn 3 (3)
 Môn tự chọn 4 (3)
 
 Học kì 2:
-BA170IU – Luận văn tốt nghiệp (12)
+BA170IU – Thesis (12)
 
 Môn tự chọn:(chọn 04 trong 15 môn học)
-BA032IU – Quản lý bán hàng (3)
-BA023IU – Quản trị dự án  (3)
-BA045IU – Tiếp thị giữa các doanh nghiệp (3)
-BA082IU – Quản trị Thương hiệu (3)
-BA140IU – Mô phỏng chiến lược kinh doanh (3)
-BA150IU – Chuyên đề nghiên cứu khoa học (3)
-BA094IU – Quảng cáo và quan hệ công chúng (3)
-BA146IU – Quản trị bán lẻ (3)
-BA148IU – Tiếp thị tương tác (3)
-BA149IU – Lập kế hoạch sản phẩm mới (3)
-BA176IU – Nhượng quyền thương mại (3)
-BA182IU – Quản trị Quan hệ khách hàng (3)
-BA183IU – Kênh tiếp thị (3)
-BA255IU – Thực tập chuyên sâu (3)
-Thảo luận chuyên đề (chọn 02 trong 05 môn học)
-Thảo luận chuyên đề 2 là môn tự chọn của chuyên ngành. Nếu sinh viên chọn học môn thảo luận chuyên đề 02 của chuyên ngành khác là tự chọn thì phải học 02 môn Thảo luận chuyên đề 2 của chuyên ngành khác
-(2 môn Thảo luận chuyên đề 2 của chuyên ngành khác (4 tín chỉ) = 1 môn tự chọn (3 tín chỉ))
-BA257IU - Thảo luận chuyên đề 2 chuyên ngành Tài chính (2)
-BA272IU - Thảo luận chuyên đề 2 chuyên ngành Nhà hàng khách sạn (2)
-BA273IU - Thảo luận chuyên đề 2 chuyên ngành Kinh doanh Quốc tế (2)
-BA274IU - Thảo luận chuyên đề 2 chuyên ngành Quản trị Doanh nghiệp (2)
-BA281IU - Thảo luận chuyên đề 2 chuyên ngành Kế toán (2)
+BA032IU – Sales Management (3)
+BA023IU – Project Management (3)
+BA045IU – B2B Marketing (3)
+BA082IU – Brand Management (3)
+BA140IU – Business Game (3)
+BA150IU – Special Study (3)
+BA146IU – Retail Management (3)
+BA148IU  - Digital Marketing (3)
+BA149IU – New Product Planning (3)
+BA176IU – Franchising (3)
+BA182IU – Customer Relationship Management (3)
+BA183IU – Marketing Channels (3)
+BA285IU - Geographical Information System
 
+BA094IU – Advertising and PR (3)
 CHUYÊN NGÀNH QUẢN TRỊ KHÁCH SẠN NHÀ HÀNG – SINH VIÊN KHÓA 2022
 
 Giới thiệu chương trình:
@@ -382,50 +366,50 @@ Chương trình học:
 Năm 1:
 
 Học kì 1:	
-EN007IU – Kỹ năng Viết AE1 (2)
-EN008IU – Kỹ năng nghe AE1 (2)
-BA117IU – Kinh tế vi mô (3)
-BA115IU – Quản trị Kinh doanh đại cương (3)
-BA120IU – Tin học Quản lý (3)
-BA005IU – Kế toán Tài chính (3)
-PE015IU – Triết học Mac - Lenin (3)
+EN007IU – Writing AE1 (2)
+EN008IU – Listening AE1 (2)
+BA117IU – Introduction to Microeconomics (3)
+BA115IU – Introduction to Business Administration (3)
+BA120IU – Business Computing Skills (3)
+BA005IU – Financial Accounting (3)
+PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy
-PT001IU – Giáo dục thể chất 1 (3)
+PT001IU – Physical Training 1 (TD)
 
 Học kì 2
-EN011IU – Kỹ năng Viết AE2 (2)
-EN012IU – Kỹ năng Nói AE2 (2)
-BA282IU – Toán trong kinh doanh (4)
-BA119IU – Kinh tế vĩ mô (3)
-BA123IU – Nguyên lý Quản trị (3)
-PE016IU – Kinh tế chính trị Mac - Lenin (2)
-PE008IU – Tư duy phân tích (3) (Học kì hè)
-PE017IU – Chủ nghĩa xã hội khoa học (2) (Học kì hè)
+EN011IU – Writing AE2 (2)
+EN012IU – Speaking AE2 (2)
+BA282IU – Math for Business (4)
+BA119IU – Introduction to Macro Economics (3)
+BA123IU – Principles of Management (3)
+PE016IU - Political economics of Marxism and Leninism (2)
+PE008IU – Critical Thinking (3) (Summer semester)
+PE017IU - Scientific Socialism (2) (Summer semester)
 Không tính tín chỉ tích lũy
-PT002IU – Giáo dục thể chất 2 (3)
+PT002IU – Physical Training 2 (TD)
 
 Năm 2:
 Học kì 1:
-BA003IU – Nguyên lý Tiếp thị (3)
-BA080IU – Thống kê trong kinh doanh (3)
-BA167IU – Pháp luật Việt Nam đại cương (3)
-PE018IU – Lịch sủ Đảng (2)
+BA003IU – Principles of Marketing (3)
+BA080IU – Statistics for Business (3)
+PE021IU – General Law  (3)
+PE018IU - History of Vietnamese Communist Party (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-BA118IU – Tâm lý học (3)
-BA197IU – Xẫ hội học (3)
+BA118IU – Introduction to Psychology (3)
+BA197IU – Introduction to Sociology (3)
 
 Học kì 2:
-BA256IU – Thảo luận chuyên đề 1 (3)
-BA130IU – Hành vi tổ chức (3)
-BA068IU – Kinh doanh quốc tế (3)
-BA168IU – Phương pháp định lượng trong kinh doanh (3)
-BA016IU – Quản trị tài chính (3)
-PE019IU – Tư tưởng Hồ Chí Minh (2)
+BA256IU – Workshop 1 (3)
+BA130IU – Organizational Behavior (3)
+BA068IU – International Economics (3)
+BA168IU – Quantitative Methods for Business (3)
+BA016IU – Fundamental of Financial Management (3)
+PE019IU – Ho Chi Minh’s Thoughts (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-PE007IU – Địa lý kinh tế thế giới (3)
-PE010IU – Lịch sử và văn hóa Việt Nam (3)
+PE007IU – World Economic Geography (3)
+PE010IU – Vietnamese History and Culture (3)
 
 Năm 3:
 
@@ -438,49 +422,40 @@ BA206IU – Luật chuyên ngành Quản trị Khách sạn Nhà hàng (3)
 Môn tự chọn 1 (3)
 
 Học kì 2:
-BA254IU – Quản lý và điều hành bộ phận buồng (3)
-BA006IU – Giao tiếp trong kinh doanh (3)
-BA229IU – Nghiệp vụ phục vụ chuyên nghiệp (3)
-BA156IU – Quản trị nguồn nhân lực (3)
-BA231IU – Quản lý và điều hành bộ phận tiền sảnh (3)
-BA153IU – Thực tập ở doanh nghiệp (3) (Học kì hè)
+BA254IU – Housekeeping Operations & Management (3)
+BA006IU – Business Communication (3)
+BA229IU – The Professional Waiter (3)
+BA156IU – Human Resources Management (3)
+BA231IU – Front Office Management and Operations (3)
+BA255IU – Specialized Internship (3) (Summer Semester)
 
 Năm 4:
 Học kì 1:	
-BA161IU – Phương pháp nghiên cứu khoa học (3)
-BA232IU – Kinh doanh và tiếp thị dịch vụ khách sạn ngành Quản trị Khách sạn Nhà hàng (3)
-BA233IU – Quản lý và điều hành khách sạn (3)
-BA272IU – Thảo luận chuyên đề chuyên ngành Quản trị Khách sạn Nhà hàng (2)
+BA161IU – Business Research Methods (3)
+BA232IU – Hospitality Sales and Marketing (3)
+BA233IU – Hotel Management and Operations (3)
+BA272IU - Workshop 2 on Hospitality Management (2)
 Môn tự chọn 2 (3)
 Môn tự chọn 3 (3)
 
 
 Học kì 2:
-BA170IU – Luận văn tốt nghiệp (12)
+BA170IU – Thesis (12)
 
-Môn tự chọn:(chọn 03 trong 14 môn học)
-BA081IU – Luật Kinh doanh (3)
-BA154IU – Sáng lập doanh nghiệp (3)
-BA207IU – Vệ sinh an toàn thực phẩm trong Khách sạn Nhà hàng (3)
-BA211IU – Tổ chức và quản lý du lịch tàu biển (3)
-BA223IU – Quản lý hội nghị và tổ chức sự kiện (3)
-BA241IU – Quản lý thiết bị khách sạn (3)
-BA242IU – Quản lý chất lượng khách sạn (3)
-BA243IU – Quản lý dịch vụ khách hàng (3)
-BA244IU – Kĩ năng giám sát trong Khách sạn Nhà hàng (3)
-BA245IU – Quản lý doanh thu (3)
-BA246IU – Quản lý và phát triển khu nghĩ dưỡng (3)
-BA248IU – Kiểm soát chi phí trong dịch vụ ẩm thực (3)
-BA255IU – Thực tập chuyên sâu (3)
-
-Thảo luận chuyên đề (chọn 02 trong 05 môn học)
-Thảo luận chuyên đề 2 là môn tự chọn của chuyên ngành. Nếu sinh viên chọn học môn thảo luận chuyên đề 02 của chuyên ngành khác là tự chọn thì phải học 02 môn Thảo luận chuyên đề 2 của chuyên ngành khác
-(2 môn Thảo luận chuyên đề 2 của chuyên ngành khác (4 tín chỉ) = 1 môn tự chọn (3 tín chỉ))
-BA257IU - Thảo luận chuyên đề 2 chuyên ngành Tài chính (2)
-BA273IU - Thảo luận chuyên đề 2 chuyên ngành Kinh doanh quốc tế (2)
-BA274IU - Thảo luận chuyên đề 2 chuyên ngành Quản trị Doanh nghiệp (2)
-BA275IU - Thảo luận chuyên đề 2 chuyên ngành Tiếp thị (2)
-BA281IU - Thảo luận chuyên đề 2 chuyên ngành Kế toán (2)
+Môn tự chọn:(chọn 02 rong 13môn học)
+BA081IU – Business Law (3)
+BA154IU – Entrepreneurship and Small Business Management (3)
+BA207IU – Safety, Sanitation and Security Management (3)
+BA211IU – Cruise Line Operations and Management (3)
+BA223IU – Conference and Event Management (3)
+BA241IU – Hospitality Facilities Management (3)
+BA242IU – Quality Management in the Hospitality (3)
+BA243IU – Service Management (3)
+BA244IU – Supervision in the Hospitality (3)
+BA245IU – Revenue Management (3)
+BA246IU – Resort Management and Development (3)
+BA248IU – Food and Beverage Cost Control (3)
+BA285IU - Geographical Information System (3)
 
 CHUYÊN NGÀNH KINH DOANH QUỐC TẾ – SINH VIÊN KHÓA 2022
 
@@ -544,107 +519,97 @@ Có chứng chỉ huấn luyện thể chất và giáo dục quân sự
 Chương trình học:
 Năm 1:
 
-Học kì 1:	
-EN007IU – Kỹ năng Viết AE1 (2)
-EN008IU – Kỹ năng nghe AE1 (2)
-BA117IU – Kinh tế vi mô (3)
-BA115IU – Quản trị Kinh doanh đại cương (3)
-BA120IU – Tin học Quản lý (3)
-BA005IU – Kế toán Tài chính (3)
-PE015IU – Triết học Mac - Lenin (3)
+Học kì 1:		
+EN007IU – Writing AE1 (2)
+EN008IU – Listening AE1 (2)
+BA117IU – Introduction to Microeconomics (3)
+BA115IU – Introduction to Business Administration (3)
+BA120IU – Business Computing Skills (3)
+BA005IU – Financial Accounting (3)
+PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy
-PT001IU – Giáo dục thể chất 1 (3)
+PT001IU – Physical Training 1 (TD)
 
 Học kì 2
-EN011IU – Kỹ năng Viết AE2 (2)
-EN012IU – Kỹ năng Nói AE2 (2)
-BA282IU – Toán trong kinh doanh (4)
-BA119IU – Kinh tế vĩ mô (3)
-BA123IU – Nguyên lý Quản trị (3)
-PE016IU – Kinh tế chính trị Mac - Lenin (2)
-PE008IU – Tư duy phân tích (3) (Học kì hè)
-PE017IU – Chủ nghĩa xã hội khoa học (2) (Học kì hè)
+EN011IU – Writing AE2 (2)
+EN012IU – Speaking AE2 (2)
+BA282IU – Math for Business (4)
+BA119IU – Introduction to Macro Economics (3)
+BA123IU – Principles of Management (3)
+PE016IU - Political economics of Marxism and Leninism (2)
+PE008IU – Critical Thinking (3) (Summer semester)
+PE017IU - Scientific Socialism (2) (Summer semester)
 Không tính tín chỉ tích lũy
-PT002IU – Giáo dục thể chất 2 (3)
+PT002IU – Physical Training 2 (TD)
 
 Năm 2:
 Học kì 1:
-BA003IU – Nguyên lý Tiếp thị (3)
-BA080IU – Thống kê trong kinh doanh (3)
-BA167IU – Pháp luật Việt Nam đại cương (3)
-PE018IU – Lịch sủ Đảng (2)
+BA003IU – Principles of Marketing (3)
+BA080IU – Statistics for Business (3)
+PE021IU – General Law (3)
+PE018IU - History of Vietnamese Communist Party (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-BA118IU – Tâm lý học (3)
-BA197IU – Xẫ hội học (3)
-
+BA118IU – Introduction to Psychology (3)
+BA197IU – Introduction to Sociology (3)
 Học kì 2:
-BA256IU – Thảo luận chuyên đề 1 (3)
-BA130IU – Hành vi tổ chức (3)
-BA068IU – Kinh doanh quốc tế (3)
-BA168IU – Phương pháp định lượng trong kinh doanh (3)
-BA016IU – Quản trị tài chính (3)
-PE019IU – Tư tưởng Hồ Chí Minh (2)
+BA256IU – Workshop 1 (3)
+BA130IU – Organizational Behavior (3)
+BA068IU – International Economics (3)
+BA168IU – Quantitative Methods for Business (3)
+BA016IU – Fundamental of Financial Management (3)
+PE019IU – Ho Chi Minh’s Thoughts (2)
 Môn học tự chọn:
 Chọn 01 trong 02 môn học
-PE007IU – Địa lý kinh tế thế giới (3)
-PE010IU – Lịch sử và văn hóa Việt Nam (3)
+PE007IU – World Economic Geography (3)
+PE010IU – Vietnamese History and Culture (3)
 
 Năm 3:
 
-Học kì 1:	
-BA081IU – Luật Kinh doanh (3)
-BA020IU – Đạo đức Kinh doanh (3)
-BA162IU – Quản trị Chiến lược (3)
-BA164IU – Quản trị sản xuất (3)
-PE014IU – Khoa học môi trường (3)
-Môn học tự chọn:
+Học kì 1:
+BA020IU – Business Ethics (3)
+BA081IU – Business Law (3)
+BA162IU – Strategy Formulation and Implementation (3)
+BA164IU – Production and Operations Management (3)
+Môn tự chọn 1 (3)
 Chọn 01 trong 02 môn học
-BA027IU – Thương mại điên tử (3)
-BA169IU – Hệ thống thông tin Quản lý (3)
+BA027IU – E – Commerce (3)
+BA169IU – Management Information Systems (3)
 
 Học kì 2:
-BA006IU – Giao tiếp trong kinh doanh (3)
-BA051IU – Quản trị Tài chính Quốc tế (3)
-BA151IU – Quản trị Kinh doanh Quốc tế (3)
-Môn tự chọn 1 (3)
+BA051IU – International Financial Management (3)
+BA006IU – Business Communication (3)
+BA151IU – International Business Management (3)
 Môn tự chọn 2 (3)
+BA153IU – Internship (3) 
+BA255IU – Specialized Internship (3) (Summer Semester) 
 
-BA153IU – Thực tập ở Doanh nghiệp (3) (Học kì hè)
 Năm 4:
-Học kì 1:	
-BA084IU – Quản trị xuất nhập khẩu (3)
-BA145IU – Quản trị Tiếp thi Quốc tế (3)
-BA161IU – Phương pháp nghiên cứu khoa học (3)
-BA273IU – Thảo luận chuyên đề chuyên ngành Kinh doanh quốc tế (2)
+Học kì 1:
+BA084IU – Import Export Management (3)
+BA145IU – International Marketing (3)
+BA161IU – Business Research Methods (3)
+BA273IU – Workshop 2 on International Business (2)
 Môn tự chọn 3 (3)
 Môn tự chọn 4 (3)
 
 Học kì 2:
-BA170IU – Luận văn tốt nghiệp (12)
+BA170IU – Thesis (12)
 
-Môn tự chọn: (Chọn 04 trong 16 môn học)
-BA054IU – Quản trị Tài chính doanh nghiệp (3)
-BA082IU – Quản trị thương hiệu (3)
-BA099IU – Quản trị chiến lược toàn cầu (3)
-BA098IU – Kĩ năng lãnh đạo (3)
-BA140IU – Mô phỏng chiến lược kinh doanh (3)
-BA150IU – Chuyên đề nghiên cứu khoa học (3)
-BA152IU – Luật kinh doanh quốc tế (3)
-BA213IU – Quản trị doanh nghiệp (3)
-BA160IU – Đàm phán và quản trị Quan hệ (3)
-BA255IU – Thực tập chuyên sâu (3)
-BA171IU – Quản trị rủi ro (3)
-BA176IU – Nhượng quyền thương mại (3)
-BA154IU – Sáng lập doanh nghiệp (3)
-BA155IU – Quản trị đa văn hóa (3)
-BA156IU – Quản trị nguồn nhân lực (3)
+Môn tự chọn:(chọn 04 trong 15 môn học)
+BA054IU – Corporate Finance (3)
+BA082IU – Brand Management (3)
+BA099IU – Global Strategic Management (3)
+BA098IU – Leadership (3)
+BA140IU – Business Game (3)
+BA150IU – Special Study (3)
+BA152IU – International Business Law (3)
+BA213IU – Corporate Governance (3)
+BA160IU – Negotiation and Relationship Management (3)
+BA171IU – Risk Management (3)
+BA176IU – Franchising (3)
+BA154IU – Entrepreneurship and Small Business Management (3)
+BA155IU – Multicultural Management (3)
+BA156IU – Human Resource Management (3)
+BA285IU - Geographical Information System
 
-Thảo luận chuyên đề (chọn 02 trong 05 môn học)
-Thảo luận chuyên đề 2 là môn tự chọn của chuyên ngành. Nếu sinh viên chọn học môn thảo luận chuyên đề 02 của chuyên ngành khác là tự chọn thì phải học 02 môn Thảo luận chuyên đề 2 của chuyên ngành khác
-(2 môn Thảo luận chuyên đề 2 của chuyên ngành khác (4 tín chỉ) = 1 môn tự chọn (3 tín chỉ))
-BA257IU - Thảo luận chuyên đề 2 chuyên ngành Tài chính (2)
-BA272IU - Thảo luận chuyên đề 2 chuyên ngành Nhà hàng khách sạn (2)
-BA274IU - Thảo luận chuyên đề 2 chuyên ngành Quản trị Doanh nghiệp (2)
-BA275IU - Thảo luận chuyên đề 2 chuyên ngành Tiếp thị (2)
-BA281IU - Thảo luận chuyên đề 2 chuyên ngành Kế toán (2)
