@@ -1,6 +1,6 @@
 Khoa Quản Trị Kinh Doanh:
 
-CHUYÊN NGÀNH QUẢN TRỊ DOANNH NGHIỆP – SINH VIÊN KHÓA 2022:
+CHUYÊN NGÀNH QUẢN TRỊ DOANNH NGHIỆP – SINH VIÊN KHÓA 2024:
 
 Giới thiệu chương trình:
 
@@ -70,7 +70,7 @@ PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy:
 PT001IU – Physical Training 1 (TD)
 
-Học kì 2
+Học kì 2:
 EN011IU – Writing AE2 (2)
 EN012IU – Speaking AE2 (2)
 BA282IU – Math for Business (4)
@@ -113,7 +113,7 @@ BA081IU – Business Law (3)
 BA162IU – Strategy Formulation and Implementation (3)
 BA164IU – Production and Operations Management (3)
 Môn học tự chọn:
-Chọn 01 trong 02 môn học
+Chọn 01 trong 02 môn học:
 BA027IU – E – Commerce (3)
 BA169IU – Management Information Systems (3)
 
@@ -136,7 +136,7 @@ Môn tự chọn 3 (3)
 Học kì 2:
 BA170IU – Thesis (12)
 
-Môn tự chọn: (chọn 03 trong 12 môn học bên dưới)
+Môn tự chọn của QUẢN TRỊ DOANNH NGHIỆP: (chọn 03 trong 12 môn học bên dưới)
 BA032IU – Sales Management (3)
 BA038IU – Customer Service Management (3)
 BA051IU – International Financial Management (3)
@@ -223,7 +223,7 @@ PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy
 PT001IU – Physical Training 1 (TD)
 
-Học kì 2
+Học kì 2:
 EN011IU – Writing AE2 (2)
 EN012IU – Speaking AE2 (2)
 BA282IU – Math for Business (4)
@@ -289,7 +289,7 @@ Môn tự chọn 4 (3)
 Học kì 2:
 BA170IU – Thesis (12)
 
-Môn tự chọn:(chọn 04 trong 15 môn học)
+Môn tự chọn của TIẾP THỊ:(chọn 04 trong 15 môn học)
 BA032IU – Sales Management (3)
 BA023IU – Project Management (3)
 BA045IU – B2B Marketing (3)
@@ -376,7 +376,7 @@ PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy
 PT001IU – Physical Training 1 (TD)
 
-Học kì 2
+Học kì 2:
 EN011IU – Writing AE2 (2)
 EN012IU – Speaking AE2 (2)
 BA282IU – Math for Business (4)
@@ -442,7 +442,7 @@ Môn tự chọn 3 (3)
 Học kì 2:
 BA170IU – Thesis (12)
 
-Môn tự chọn:(chọn 02 rong 13môn học)
+Môn tự chọn của QUẢN TRỊ KHÁCH SẠN NHÀ HÀNG:(chọn 02 rong 13môn học)
 BA081IU – Business Law (3)
 BA154IU – Entrepreneurship and Small Business Management (3)
 BA207IU – Safety, Sanitation and Security Management (3)
@@ -457,7 +457,7 @@ BA246IU – Resort Management and Development (3)
 BA248IU – Food and Beverage Cost Control (3)
 BA285IU - Geographical Information System (3)
 
-CHUYÊN NGÀNH KINH DOANH QUỐC TẾ – SINH VIÊN KHÓA 2022
+CHUYÊN NGÀNH KINH DOANH QUỐC TẾ – SINH VIÊN KHÓA 2024
 
 Giới thiệu chương trình:
 
@@ -530,7 +530,7 @@ PE015IU – Philosophy of Marxism and Leninism (3)
 Không tính tín chỉ tích lũy
 PT001IU – Physical Training 1 (TD)
 
-Học kì 2
+Học kì 2:
 EN011IU – Writing AE2 (2)
 EN012IU – Speaking AE2 (2)
 BA282IU – Math for Business (4)
@@ -596,7 +596,7 @@ Môn tự chọn 4 (3)
 Học kì 2:
 BA170IU – Thesis (12)
 
-Môn tự chọn:(chọn 04 trong 15 môn học)
+Môn tự chọn của KINH DOANH QUỐC TẾ:(chọn 04 trong 15 môn học)
 BA054IU – Corporate Finance (3)
 BA082IU – Brand Management (3)
 BA099IU – Global Strategic Management (3)

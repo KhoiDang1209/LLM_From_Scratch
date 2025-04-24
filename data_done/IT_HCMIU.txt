@@ -1,0 +1,413 @@
+Khoa Công Nghệ Thông Tin:
+
+Ngành Mạng Máy Tính:
+Mục tiêu đào tạo: 
+Chuyên ngành Kỹ thuật Mạng trang bị kiến thức nền tảng và nâng cao, chú trọng cả lý thuyết lẫn kỹ năng thực hành trong lĩnh vực mạng và hệ thống. Kiến thức cơ sở về Mạng Máy tính, Hệ điều hành Máy tính và Lập trình Ứng dụng Mạng được giảng dạy trong chuyên ngành này. Kiến thức chuyên sâu như Mạng Không dây, Quản trị Mạng và Hệ thống, An ninh Mạng và Hệ thống, ứng dụng IoT và Điện toán Phân tán cũng được cung cấp cho sinh viên.
+
+Cơ hội nghề nghiệp:
+Kỹ sư Phần mềm: Phân tích, thiết kế và phát triển phần mềm cho các cơ quan chính phủ, viện nghiên cứu và doanh nghiệp.
+Kỹ sư Mạng: Thiết kế và quản lý hạ tầng mạng máy tính và hệ thống thông tin tại các doanh nghiệp trong và ngoài nước, ngân hàng và sàn giao dịch chứng khoán.
+
+Chương trình học:
+Năm 1:
+
+Học kì 1:
+Calculus 1-4
+Physical Training 1-3
+Listening AE1-2
+Writing AE1-2	
+Introduction to Computing-3
+C/C++ Programming-4
+
+Học kì 2:
+Discrete Mathematics-3
+Digital Logic Design-3	
+Digital Logic Design Laboratory-1
+Speaking AE2-2	
+Writing AE2-2	
+Object-Oriented Programming-4
+Physics 1-2
+
+Năm 2:
+Học kì 1:
+Calculus 2-4
+Linear Algebra-3
+Algorithms and Data Structures-4
+Principles of Database Management-4
+Marxist – Leninist Political Economy-2
+Philosophy Marx – Lenin-3
+
+Học kì 2:
+Computer Architecture-4
+Computer Networks-4
+Web Application Development-4	
+Probability, Statistic & Random Process-3	
+Scientific Socialism-2
+
+
+Năm 3:
+
+Học kì 1:
+Operating System-4
+Net-Centric Programming-4
+System & Network Administration-4
+Physical Training 2-3
+Physics 3-3	
+Physics 3 Laboratory-1	
+
+Học kì 2:
+Elective 1-4
+Information System Management-4
+System and Network Security-4
+History of Vietnamese Communist Party-2
+Ho Chi Minh’s Thoughts-2
+Internship for engineers-7
+
+Năm 4:
+Học kì 1:
+Elective 2-4
+Artificial intelligence-4
+Entrepreneurship-3
+Scalable and Distributed Computing-4
+
+Học kì 2:
+Elective 3-4	
+Internet of Things-4	
+Engineering Ethics and Professional Skills-3		
+Special Study of the Field-3
+
+Năm 5:
+Thesis-10
+General Law-3
+
+Elective của Mạng Máy Tính: 
+IT103IU-Digital Signal Processing-4
+IT105IU-Digital System Design-3
+IT106IU-Digital System Design Laboratory-1
+IT110IU-Concepts in VLSI Design-3
+IT126IU-Concepts in VLSI Design Laboratory-1
+IT114IU-Software Architecture-4
+IT115IU-Embedded Systems-3
+IT127IU-Embedded Systems Laboratory-1
+IT128IU-Microprocessing Systems-3
+IT129IU-Microprocessing Systems Laboratory-1
+IT133IU-Mobile Application Development	4
+IT138IU-Data Science and Data Visualization-4
+IT140IU-Fundamental Concepts of Data Security-4
+IT164IU-Cloud Computing-4
+IT150IU-Blockchain-4
+IT151IU-Development & Operation (DevOps)-4
+IT157IU-Deep Learning-4
+IT158IU-UI Design and Evaluation-4
+IT166IU-Software Quality Verification and Validation-4
+IT167IU-Game Application Development-4
+PE008IU-Critical Thinking-3
+IT131IU-Theoretical Models in Computing-4
+IT163IU-Optimization and Applications-4
+IT024IU-Computer Graphics-4
+IT056IU-IT Project Management-4
+IT068IU-Principles of Electrical Engineering I-3
+IT074IU-Electronics Devices-3
+IT076IU-Software Engineering-4
+IT090IU-Object-Oriented Analysis and Design-4
+IT092IU-Principles of Programming Languages-4
+IT098IU-Principles of Electrical Engineering I Laboratory-1
+IT101IU-Electronics Devices Laboratory-1
+IT130IU-Digital Image Processing-4
+IT160IU-Data Mining-4
+IT144IU-Business Process Analysis-4
+IT145IU-Decision Support Systems-4
+Free elective-4
+
+
+Ngành Kỹ Thuật Máy Tính:
+Mục tiêu đào tạo: 
+Chuyên ngành Kỹ thuật Máy tính trang bị cho sinh viên kiến thức nền tảng và nâng cao về phần cứng máy tính, các nguyên tắc và phương pháp thiết kế, phát triển các hệ thống phần cứng và phần mềm phục vụ hoạt động của các thiết bị phần cứng. Kiến thức Kỹ thuật Máy tính bao gồm nhiều khía cạnh của điện toán, chẳng hạn như thiết kế mạch điện tử, vi xử lý, máy tính cá nhân, siêu máy tính và đặc biệt là các hệ thống nhúng được sử dụng trong các thiết bị điện tử hiện đại.
+
+Cơ hội nghề nghiệp:
+Kỹ sư Phần cứng: Phân tích, thiết kế và phát triển các thiết bị phần cứng, hệ thống phần cứng và phần mềm nhúng liên quan để hỗ trợ hoạt động của các thiết bị đó. Các kỹ sư phần cứng có thể làm việc tại các công ty tập trung vào phần cứng như Intel, Renesas, Samsung, Asus và các công ty khác.
+
+Chương trình học:
+Năm 1:
+
+Học kì 1:
+Calculus 1-4
+Physical Training 1-3
+Listening AE1-2
+Writing AE1-2	
+Introduction to Computing-3
+C/C++ Programming-4
+
+Học kì 2:
+Discrete Mathematics-3
+Digital Logic Design-3	
+Digital Logic Design Laboratory-1
+Speaking AE2-2	
+Writing AE2-2	
+Object-Oriented Programming-4
+Physics 1-2
+
+Năm 2:
+Học kì 1:
+Calculus 2-4
+Linear Algebra-3
+Algorithms and Data Structures-4
+Principle of Electrical Engineering I-3
+Principle of Electrical Engineering I Laboratory-1
+Marxist – Leninist Political Economy-2
+Philosophy Marx – Lenin-3
+
+Học kì 2:
+Computer Architecture-4
+Computer Networks-4
+Electronic Devices-3	
+Electronic Devices Laboratory-1
+Probability, Statistic & Random Process-3	
+Scientific Socialism-2
+
+
+Năm 3:
+
+Học kì 1:
+Operating System-4
+Principles of Database Management-4
+Micro-processing Systems-3
+Micro-processing Systems Laboratory-1
+Physical Training 2-3
+Physics 3-3	
+Physics 3 Laboratory-1	
+
+Học kì 2:
+Elective 1-4
+Digital System Design-3
+Digital System Design Laboratory-1
+Embedded Systems-4
+Embedded Systems Laboratory-1
+History of Vietnamese Communist Party-2
+Ho Chi Minh’s Thoughts-2
+Internship for engineers-7
+
+Năm 4:
+Học kì 1:
+Elective 2-4
+Concepts in VLSI Design-3
+Concepts in VLSI Design Laboratory-1
+Digital Signal Processing-4
+Artificial intelligence-4
+
+Học kì 2:	
+Internet of Things-4	
+Engineering Ethics and Professional Skills-3		
+Special Study of the Field-3
+Entrepreneurship-3
+
+Năm 5:
+Thesis-10
+General Law-3
+
+Elective của Kỹ Thuật Máy Tính:
+IT144IU-Business Process Analysis-4
+IT145IU-Decision Support Systems-4
+IT147IU-Mobile Cloud Computing-4
+IT150IU-Blockchain-4
+IT156IU-Development & Operation (DevOps)-4
+IT157IU-Deep Learning-4
+IT158IU-UI Design and Evaluation-4
+IT131IU-Theoretical Models in Computing-4
+IT165IU-Security Technology and Implementation-4
+IT166IU-Software Quality Verification and Validation-4
+IT167IU-Game Application Development-4
+IT093IU-Web Application Development-4
+IT094IU-Information System Management-4
+IT096IU-Net-Centric Programming-4
+IT114IU-Software Architecture-4
+IT117IU-System and Network Security-4
+IT125IU-System and Network Administration-4
+IT139IU-Scalable and Distributed Computing-4
+IT163IU-Optimization and Applications-4
+IT024IU-Computer Graphics-4
+IT056IU-IT Project Management-4
+IT076IU-Software Engineering-4
+IT090IU-Object-Oriented Analysis and Design-4
+IT092IU-Principles of Programming Languages-4
+PE008IU-Critical Thinking-3
+IT160IU-Data Mining-4
+IT133IU-Mobile Application Development-4
+IT138IU-Data Science and Visualization-4
+IT140IU-Fundamental Concepts of Data Security-4
+Free elective-4
+
+Ngành Khoa Học Dữ Liệu:
+Mục tiêu đào tạo: Phát triển nền tảng vững chắc trong quản lý, xử lý và phân tích dữ liệu lớn, bao gồm cả khía cạnh lý thuyết và ứng dụng của khoa học dữ liệu trong hệ thống thông tin. Nâng cao kỹ năng giải quyết vấn đề để phân tích, tối ưu hóa và thiết kế các hệ thống thông tin thông qua phân tích dữ liệu chuyên sâu. Trang bị khả năng thiết kế, phát triển và tích hợp các hệ thống thông tin cho các ứng dụng kỹ thuật tập trung vào phân tích dữ liệu toàn diện, có khả năng giải quyết các vấn đề liên ngành trong kỹ thuật, khoa học xã hội, chính trị và kinh tế. Đạt được chuyên môn về khoa học dữ liệu và hệ thống thông tin để thành công trong một thế giới hướng dữ liệu.
+
+Cơ hội nghề nghiệp: Bằng Cử nhân Khoa học Dữ liệu mở ra nhiều lựa chọn nghề nghiệp, bao gồm các vị trí như nhà phân tích, nhà thiết kế và nhà phát triển phần mềm khai thác dữ liệu thông minh. Sinh viên tốt nghiệp có thể tìm kiếm cơ hội tại các doanh nghiệp, cơ quan chính phủ, viện nghiên cứu và các công ty phát triển phần mềm hàng đầu như DXC, FPT, IBM, TMA, TPS và Microsoft. Ngoài ra, họ có thể khám phá các lĩnh vực đa dạng liên quan đến phân tích, khai thác và xử lý dữ liệu.
+
+Chương trình học:
+Năm 1:
+
+Học kì 1:
+Calculus 1-4	
+Introduction to Data Science-3
+Writing AE1-2
+Fundamentals of Programming-4
+Listening AE1-2
+
+Học kì 2:
+Probability, Statistic & Random Process-2
+Linear Algebra-3
+Writing AE2-2	
+Philosophy Marx -Lenin-3	
+Object-Oriented Programming-4
+Speaking AE-2
+
+Năm 2:
+Học kì 1:
+Marx-Lenin Political Economy-2
+Statistical Method-3	
+Data Structures and Algorithms-4
+Principles of Database Management-4
+Fundamental Concepts of Data Security-4
+
+Học kì 2:
+Scientific Socialism-2
+General law-3	
+Artificial Intelligence-4	
+Statistical Learning-4
+Regression Analysis-4
+Physical Training 1-3
+
+
+Năm 3:
+Học kì 1:
+History of Vietnamese Communist Party-2	
+Data Science and Data Visualization-4
+Data Mining-4
+Scalable and Distributed Computing-4
+Data Analysis-4
+
+Học kì 2:
+Ho Chi Minh’s Thoughts-2
+Machine Learning-4
+Deep Learning-4	
+Elective-4
+Elective-4
+Internship for engineers-7
+
+Năm 4:
+Học kì 1:
+Special Study of the Field-3
+Big Data Analytics-4	
+Physical Training 2-3
+Free Elective-3/4
+Elective-3/4		
+
+
+Học kì 2:		
+Internship-3
+Thesis-10
+
+Elective của Khoa Học Dữ Liệu:
+Business Process Analysis-4
+Decision Support Systems-4
+Theory of Networks-4
+Time Series Analysis-4
+Blockchain-4
+Software Engineering-4
+IT Project Management-4
+Information System Management-3
+Cloud Computing-4
+Entrepreneurship-3
+Natural Language Processing-4
+Human-Computer Interaction-4
+Optimization and applications-4
+Web Application Development-4
+Discrete Mathematics-3
+
+Ngành Khoa Học Máy Tính:
+Mục tiêu đào tạo: Chương trình học được thiết kế nhằm cung cấp cho sinh viên nền tảng vững chắc về khoa học máy tính và bao gồm một loạt các chủ đề toàn diện về phát triển phần mềm và kiến thức chuyên môn cần thiết. Chương trình bao gồm các chủ đề như thuật toán, phương pháp, công cụ và kỹ thuật được sử dụng trong máy tính, hệ thống thông tin, hệ thống phát triển và quản lý, các nguyên tắc bảo mật hệ thống, và các phương pháp phân tích và thiết kế ứng dụng phần mềm. Chương trình trang bị cho người học kiến thức về các công nghệ tiên tiến và xu hướng nghiên cứu trong lĩnh vực khoa học máy tính.
+
+Chương trình tuân thủ các tiêu chuẩn quốc tế và đã nhận được chứng nhận kiểm định từ Mạng lưới các trường đại học Đông Nam Á (AUN).
+
+Cơ hội nghề nghiệp: Sinh viên tốt nghiệp ngành Khoa học Máy tính được trang bị tốt cho các vai trò chuyên môn liên quan đến phân tích, thiết kế và phát triển các thuật toán và giải pháp phần mềm. Họ có thể theo đuổi nhiều cơ hội nghề nghiệp khác nhau, bao gồm các vị trí tại các công ty nổi tiếng như DXC, FSOFT, IBM, TMA, TPS,... cũng như trong các tổ chức chính phủ và viện nghiên cứu về khoa học và công nghệ.
+Chương trình học:
+Học kì 1:
+Calculus 1-4
+Physics 1-2
+Listening AE1-2
+Writing AE1-2	
+Introduction to Computing-3
+C/C++ Programming-4
+
+Học kì 2:
+Discrete Mathematics-3
+Physics 3-3	
+Physics 3 Laboratory-1	
+Speaking AE2-2	
+Writing AE2-2	
+Object-Oriented Programming-4
+Computer Networks-4
+
+Năm 2:
+Học kì 1:
+Calculus 2-4
+Linear Algebra-3
+Algorithms and Data Structures-4
+Principles of Database Management-4
+Marxist – Leninist Political Economy-2
+Philosophy Marx – Lenin-3
+
+Học kì 2:
+Physical Training 1-3
+Computer Architecture-4
+Elective 1-4
+Object-Oriented Analysis and Design-4
+Web Application Development-4
+
+Năm 3:
+Học kì 1:
+Physical Training 2-3	
+Probability, Statistic & Random Process-3
+Scientific Socialism-2
+Principles of Programming Languages-4
+Elective 2-4	
+Elective 3-4
+
+Học kì 2:
+Software Engineering-4
+Artificial Intelligence-4
+General law-3
+History of Vietnamese Communist Party-2
+Free elective-3
+Entrepreneurship-3
+
+Năm 4:
+Học kì 1:
+Internship-3	
+Operating Systems-4		
+Ho Chi Minh’s Thoughts-2		
+Special Study of the Field-3
+
+Học kì 2:	
+Thesis-10
+
+Elective của Khoa Học Máy Tính:
+IT094IU-Information System Management-4
+IT056IU-IT Project Management-4
+IT024IU-Computer Graphics-4
+IT157IU-Deep Learning-4
+IT134IU-Internet of Things-4
+IT133IU-Mobile Application Development-4
+IT044IU-Human Computer Interaction-4
+IT164IU-Cloud computing	4
+IT165IU-Security Technology and Implementation-4
+IT166IU-Software Quality Verification and Validation-4
+IT167IU-Game Application Development-4
+IT150IU-Blockchain-4
+IT156IU-Development & Operation (DevOps)-4
+IT138IU-Data Science and Visualization-4
+PE008IU-Critical Thinking-3
+IT160IU-Data Mining-4
+IT130IU-Digital Image Processing-4
+IT114IU-Software Architecture-4
+IT096IU-Net-centric Programming-4
+
