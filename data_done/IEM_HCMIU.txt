@@ -1,0 +1,290 @@
+Khoa Kỹ thuật và Quản lý Công nghiệp:
+Khoa Quản lý và Kỹ thuật Công nghiệp (IEM) thuộc Đại học Quốc tế – Đại học Quốc gia TP.HCM (IU – ĐHQG HCM) hướng tới mục tiêu thu hút, giáo dục và chuẩn bị cho học viên trở thành những người đi đầu trong lĩnh vực Quản lý và Kỹ thuật Công nghiệp ở Việt Nam và Châu Á. Khoa IEM cung cấp các chương trình nhằm đáp ứng nhu cầu của Việt Nam về phát triển công nghiệp, nghiên cứu, giáo dục và khởi nghiệp trong lĩnh vực này. Các chương trình hiện có sẵn bao gồm:
+
+Mục tiêu đào tạo:
+Kỹ sư sau khi ra trường có thể làm được các công việc sau:
+Thiết kế mới hoặc tái thiết kế các hệ thống công nghiệp
+Vận hành và quản lý công nghiệp
+Cải tiến các hệ thống công nghiệp hiện có
+Hỗ trợ đưa ra quyết định thông minh
+
+Sinh viên có khả năng phân tích, đánh giá và mô phỏng các mô hình quản lý để đưa ra giải pháp tối ưu thay đổi dưới dạng các tiêu chí đơn và đa tiêu chí để hỗ trợ các nhà quản lý ra quyết định:
+Tham gia học tập suốt đời để không ngừng duy trì và nâng cao trình độ chuyên môn
+Có khả năng làm việc nhóm rất tốt, có khả năng lãnh đạo, có trình độ chuyên môn cao và có phẩm chất kĩ luật công nghiệp khi đi làm.
+Có trình độ chuyên môn đáp ứng yêu cầu của xã hội và các khu công nghiệp tại Việt Nam. Có khả năng giải quyết các vấn đề kỹ thuật và quản lý công nghiệp bằng các nguyên tắc, công cụ và các kỹ thuật được học.
+Tham gia học tập suốt đời để không ngừng duy trì và nâng cao trình độ chuyên môn
+Có khả năng làm việc nhóm rất tốt, có khả năng lãnh đạo, có trình độ chuyên môn cao và có phẩm chất kĩ luật công nghiệp khi đi làm.
+Có trình độ chuyên môn đáp ứng yêu cầu của xã hội và các khu công nghiệp tại Việt Nam. Có khả năng giải quyết các vấn đề kỹ thuật và quản lý công nghiệp bằng các nguyên tắc, công cụ và các kỹ thuật được học.
+
+Định hướng nghề nghiệp:
+Khả năng xác định, xây dựng và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên tắc của kỹ thuật, khoa học và toán học.
+Khả năng áp dụng thiết kế kỹ thuật để tạo ra các giải pháp đáp ứng các nhu cầu cụ thể có cân nhắc đến sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế
+Khả năng giao tiếp hiệu quả với nhiều đối tượng
+Khả năng nhận thức trách nhiệm đạo đức và nghề nghiệp trong các tình huống kỹ thuật và đưa ra các đánh giá sáng suốt, phải xem xét tác động của các giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội
+Khả năng hoạt động hiệu quả trong một nhóm mà các thành viên cùng đưa ra vai trò lãnh đạo, tạo ra một môi trường hợp tác và hòa nhập, thiết lập mục tiêu, lập kế hoạch nhiệm vụ và đáp ứng các mục tiêu
+Khả năng phát triển và tiến hành thử nghiệm thích hợp, phân tích và giải thích dữ liệu, đồng thời sử dụng đánh giá kỹ thuật để đưa ra kết luận
+Khả năng tiếp thu và áp dụng kiến ​​thức mới khi cần thiết, sử dụng các chiến lược học tập phù hợp.
+
+Ngành Kỹ thuật và Quản lý Công nghiệp:
+Chương trình học:
+Học kì 1:
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+MA001IU-Calculus 1-4
+PH013IU-Physics 1-2
+PH014IU-Physics 2-2
+PT001IU-Physical Training 1-3
+CH012IU-Chemistry Laboratory-1
+CH011IU-Chemistry for Engineers-3
+
+
+
+Học kì 2:
+EN011IU-Writing AE2-2
+EN012IU-Speaking AE2-2
+MA003IU-Calculus 2-4
+PE008IU-Critical Thinking-3
+PT002IU-Physical Training 2-3
+IS001IU-Introduction to Industrial Engineering-1
+IS102IU-Engineering Drawing-2
+PH015IU-Physics 3-3
+PE015IU-Philosophy of marxism and Leninism-3
+PE016IU-Political economics of marxism and leninism-2
+
+
+
+Năm 2:
+Học kì 1:
+MA027IU-Applied Linear Algebra-2
+IS019IU-Production Management-3
+IS086IU-Introduction to Computing-3
+IS004IU-Engineering Probability & Statistics-4
+MA023IU-Calculus 3-4
+PE017IU-Scientific socialism-2
+PE021IU-General Law-3
+
+
+
+Học kì 2:
+IS020IU-Engineering Economy-3
+IS103IU-Deterministic models in OR-3
+IS017IU-Work design & Ergonomics-4
+IS026IU-Project Management-3
+IS034IU-Product Design & Development-3
+PE018IU-History of the Communist Party of Vietnam-2
+PE019IU-HCM’ s thoughts-2
+IS052IU-Internship 1-2
+Military Training-0
+
+Năm 3:
+Học kì 1:
+IS091IU-Management Information System with ERP Applications-3
+IS025IU-Quality Management-3
+IS085IU-CAD/CAM/CNC-3
+IS092IU-Data Collection, Analysis, and Applications-3
+IS023IU-Inventory Management-3
+IS104IU-Time Series & Forecasting Techniques-2
+Elective 1-Chọn 01:
+IS087IU-Manufacturing Processes-3
+IS106IU-E-Commerce Systems-3
+IS105IU-Cold Chain Systems-3
+
+ 
+
+Học kì 2:
+IS079IU-Scientific Writing-2
+IS028IU-Simulation Models in IE-4
+IS027IU-Scheduling & Sequencing-3
+IS041IU-Lean Production-3
+IS031IU-Experimental Design-3
+IS024IU-Probabilistic Models in OR-3
+IS053IU-Internship 2-3
+
+
+Năm 4:
+Học kì 1:
+IS111IU-Capstone 1-3
+IS033IU-Multi-Criteria Decision Making-3
+IS032IU-Facility Layout-3
+Elective 2-Chọn 02:
+IS080IU-Creative Thinking-3
+IS035IU-Systems Engineering-3
+IS043IU-Flexible Manufacturing Systems-3
+IS045IU-Leadership-3
+IS082IU-Retail Management-3
+IS067IU-International Transportation & Logistics-3
+IS062IU-E-Logistics in Supply Chain Management-3
+IS066IU-Data Mining In Supply Chain-3
+Free Elective-3
+
+
+Học kì 2:	
+Sinh viên với GPA>70:
+Thesis-10
+Sinh viên với GPA<=70:
+Advanced Industrial and Supply Chain Systems-4
+Capstone 2-6
+
+Free Elective:
+PE014IU-Environmental Science-3
+PE020IU-Ethics and professional skills for engineers-3
+BA115IU-Introduction to Business Administration-3
+BA117IU-Introduction to Micro Economics-3
+BA120IU-Business Computing Skills-3
+BA123IU-Principles of Management-3
+BA119IU-Introduction to Macro Economics-3
+BA118IU-Introduction to Psychology-3
+BA197IU-Introduction to Sociology-3
+IT011UN-Functional Programming-3
+IT120IU-Entrepreneurship-3
+IT007UN-Skills for Communicating Information-3
+IT151IU-Statistical Methods-3
+BM033IU-Information Technology in the Health Care System-3
+ENEE2001IU-Introduction to Environmental Engineering-3
+ENEE2008IU-Environmental Ecology-3
+CHE2041IU-Mass Transfer Operations -3
+MAFE105IU-Financial Economics-3
+MAFE215IU-Financial Management-3
+MAFE209IU-Financial markets-3
+MAFE207IU-Decision Making-3
+MAFE308IU-Financial Risk Management 1-3
+MAFE402IU-Portfolio Management-3
+PH027IU-Earth Observation and The Environment-3
+PH047IU-Navigation Systems-3
+PH046IU-Geographic Information Systems (GIS) and Spatical Analysis-3
+CE505IU-Geotechnics-3
+EE049IU-Introduction to Electrical Engineering-3
+
+
+Ngành Logistics và Quản lý chuỗi cung ứng:
+Chương trình học:
+Học kì 1:
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+MA001IU-Calculus 1-4
+PH013IU-Physics 1-2
+PH014IU-Physics 2-2
+PT001IU-Physical Training 1-3
+CH012IU-Chemistry Laboratory-1
+CH011IU-Chemistry for Engineers-3
+
+
+Học kì 2:
+EN011IU-Writing AE2-2
+EN012IU-Speaking AE2-2
+MA003IU-Calculus 2-4
+PE008IU-Critical Thinking-3
+PT002IU-Physical Training 2-3
+IS001IU-Introduction to Industrial Engineering-1
+IS102IU-Engineering Drawing-2
+PH015IU-Physics 3-3
+PE015IU-Philosophy of marxism and Leninism-3
+PE016IU-Political economics of marxism and leninism-2
+
+
+
+Năm 2:
+Học kì 1:
+MA027IU-Applied Linear Algebra-2
+IS019IU-Production Management-3
+IS086IU-Introduction to Computing-3
+IS004IU-Engineering Probability & Statistics-4
+IS055IU-Principles of Logistics and Supply Chain Management-3
+PE017IU-Scientific socialism-2
+PE021IU-General Law-3
+
+
+
+Học kì 2:
+IS020IU-Engineering Economy-3
+IS103IU-Deterministic Models in OR-3
+IS057IU-Warehouse Engineering Management-3
+MA023IU-Calculus-3	
+IS074IU-Import – Export Management-3
+PE018IU-History of the Communist Party of Vietnam-2
+PE019IU-HCM’ s thoughts-2
+IS052IU-Internship 1-2
+Military Training-0
+
+Năm 3:
+Học kì 1:
+IS109IU-Materials Handling Systems-2
+IS091IU-Management Information System with ERP Applications-3
+IS023IU-Inventory Management-3
+IS110IU-Procurement Management-2
+IS082IU-Retail Management -3
+IS104IU-Time Series & Forecasting Techniques-2
+Elective 1-Chọn 1:
+IS073IU-Business Law-3
+IS035IU-Systems Engineering-3
+
+
+Học kì 2:
+IS079IU-Scientific Writing-2
+IS027IU-Scheduling & Sequencing-3
+BA005IU-Financial Accounting-3
+IS078IU-Logistics engineering & supply chain design-3
+IS105IU-Cold Chain Systems-3
+IS065IU-Supply Security And Risk Management-3
+IS026IU-Project Management-3
+IS053IU-Internship 2-3
+
+
+Năm 4:
+Học kì 1:
+IS111IU-Capstone 1-3
+IS033IU-Multi-Criteria Decision Making-3
+IS067IU-International Transportation & Logistics-3
+IS107IU-Supply Chain Modelling and Simulation-3
+IS062IU-E-Logistics in Supply Chain Management--3
+Elective 2-Chọn 01:
+IS025IU-Quality Management-3
+IS063IU-Sustainability in Supply Chain-3
+IS072IU-Port Planning and Operations-3
+BA130IU-Organizational Behavior-3
+BA032IU-Sales Management-3
+IS045IU-Leadership-3
+IS080IU-Creative Thinking-3
+BA003IU-Principles Of Marketing-3
+BA156IU-Human Resources Management-3
+IS066IU-Data Mining In Supply Chain-3
+IS100IU-Decision Analytics-3
+Free Elective-3
+
+
+Học kì 2:	
+Sinh viên với GPA>62.5:
+Thesis-10
+Sinh viên với GPA<=62.5:
+Advanced Industrial and Supply Chain Systems-4
+Capstone 2-6
+
+Free Elective:
+PE014IU-Environmental Science-3
+PE020IU-Ethics and professional skills for engineers-3
+BA115IU-Introduction to Business Administration-3
+BA117IU-Introduction to Micro Economics-3
+BA120IU-Business Computing Skills-3
+BA123IU-Principles of Management-3
+BA119IU-Introduction to Macro Economics-3
+BA118IU-Introduction to Psychology-3
+BA197IU-Introduction to Sociology-3
+IT011UN-Functional Programming-3
+IT120IU-Entrepreneurship-3
+IT007UN-Skills for Communicating Information-3
+IT151IU-Statistical Methods-3
+BM033IU-Information Technology in the Health Care System-3
+ENEE2001IU-Introduction to Environmental Engineering-3
+ENEE2008IU-Environmental Ecology-3
+CHE2041IU-Mass Transfer Operations-3
+MAFE105IU-Financial Economics-3
+MAFE215IU-Financial Management-3
+MAFE209IU-Financial markets-3
+MAFE207IU-Decision Making-3
+MAFE308IU-Financial Risk Management 1-3
+MAFE402IU-Portfolio Management-3
+PH027IU-Earth Observation and The Environment-3
+PH047IU-Navigation Systems-3
+PH046IU-Geographic Information Systems (GIS) and Spatical Analysis-3
+CE505IU-Geotechnics-3
+EE049IU-Introduction to Electrical Engineering-3
