@@ -43,7 +43,7 @@ EN008IU-Listening AE1-2
 EE050IU-Intro to Computer for Engineers-3
 PT001IU-Physical Training 1-0
 
-Học kì 2
+Học kì 2:
 MA003IU-Calculus 2-4
 MA027IU-Applied Linear Algebra-2
 PH014IU-Physics 2 (Thermodynamics)-2
@@ -114,7 +114,7 @@ Năm 5:
 EE097IU-Thesis-10
 
 
-General Elective Course:
+General Elective Course của Kỹ thuật Điện tử – Viễn thông:
 Subject’s ID	 Subjects	Credit(s)
 BA003IU-Principles of Marketing-3
 BA006IU-Business Communication-3
@@ -213,7 +213,7 @@ EN008IU-Listening AE1-2
 EE050IU-Intro to Computer for Engineers-3
 PT001IU-Physical Training 1-0
 
-Học kì 2
+Học kì 2:
 MA003IU-Calculus 2-4
 MA027IU-Applied Linear Algebra-2
 PH014IU-Physics 2 (Thermodynamics)-2
@@ -285,7 +285,7 @@ Năm 5:
 Học kì 1:
 EE097IU Thesis-10
 
-General Elective Course:
+General Elective Course của Kỹ thuật Điều khiển và Tự động hóa:
 Subject’s ID	 Subjects	Credit(s)
 BA003IU-Principles of Marketing-3
 BA006IU-Business Communication-3
@@ -316,7 +316,7 @@ EL018IL-Cross-Cultural Communication-3
 EL021IL-Global Englishes-3
 EE072IU-Computer and Communication Network-3
 
-AC Elective Courses:
+AC Elective Courses của Kỹ thuật Điều khiển và Tự động hóa:
 EE061IU-Analog Electronics-3
 EE062IU-Analog Electronics Laboratory-1
 EEAC011IU-Automation Manufacturing System and Technique-3
