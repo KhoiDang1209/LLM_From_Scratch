@@ -1,0 +1,269 @@
+Khoa Kỹ Thuật Xây Dựng:
+Ngành Kỹ Thuật Xây Dựng:
+TỔNG QUAN:
+Chương trình Kỹ thuật Xây dựng được thiết kế dựa trên tiêu chí đánh giá của ABET Inc. (Hội đồng Kiểm định Kỹ thuật và Công nghệ, Hoa Kỳ). Kỹ sư xây dựng được trang bị kiến thức cơ bản và chuyên sâu trong nhiều lĩnh vực. Ngoài ra, chương trình còn tích hợp các kiến thức mới liên quan đến công nghệ tính toán, mô phỏng, phân tích dữ liệu và trí tuệ nhân tạo (AI). Ngôn ngữ dạy và học là tiếng Anh, tạo điều kiện cho sinh viên tiếp thu và chuyển giao nhanh chóng các tiến bộ công nghệ từ khắp nơi trên thế giới vào trong nước. Sinh viên tốt nghiệp của chương trình có khả năng theo đuổi nhiều con đường sự nghiệp khác nhau và tiếp tục phát triển các kỹ năng, kiến thức chuyên ngành và trình độ học vấn cả trong nước và quốc tế. Mục đích này nhằm đào tạo một thế hệ kỹ sư có thể đáp ứng yêu cầu lực lượng lao động trong tương lai khi đất nước ngày càng hội nhập với nền kinh tế toàn cầu và cộng đồng ASEAN.
+
+CƠ HỘI NGHỀ NGHIỆP:
+Sinh viên tốt nghiệp chương trình Kỹ thuật Xây dựng có nhiều cơ hội nghề nghiệp trong nhiều lĩnh vực khác nhau, cả trong nước và quốc tế, bao gồm xây dựng dân dụng, cơ sở hạ tầng giao thông. Với nền tảng kiến thức vững chắc, sinh viên có thể làm việc xuất sắc ở các vị trí khác nhau như tư vấn thiết kế, thẩm định viên, quản lý xây dựng, giám sát dự án. Ngoài ra, sinh viên tốt nghiệp còn có khả năng tham gia vai trò quản lý trong các cơ quan chính phủ chuyên về xây dựng, giao thông và tài nguyên nước (Bộ, Sở và Ban quản lý dự án địa phương).
+Được đào tạo theo chương trình tiên tiến, hiện đại với nhiều cơ hội tiếp xúc nghiên cứu khoa học, sinh viên tốt nghiệp ngành kỹ thuật dân dụng có lợi thế đáng kể trong việc tiếp cận và tham gia các nghiên cứu học thuật hoặc các dự án khởi nghiệp sử dụng công nghệ mới (vật liệu thông minh, trí tuệ nhân tạo, machine learning và Internet of Things) nhằm nâng cao hiệu quả và chất lượng công trình xây dựng và quản lý cơ sở hạ tầng.
+Trong giai đoạn phát triển và đổi mới hiện nay, nhu cầu về lực lượng lao động có trình độ cao trong ngành xây dựng đang rất cao, tạo ra cơ hội việc làm rộng rãi cho tất cả sinh viên ngành Xây dựng, đặc biệt là những sinh viên tốt nghiệp Đại học Quốc tế – Đại học Quốc gia Thành phố Hồ Chí Minh.
+
+Chương trình học:
+Học kì 1:
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+MA001IU-Calculus 1-4
+PH013IU-Physics 1-2
+CE100IU-Introduction to Civil Engineering-1	
+CE101IU-Engineering Mechanics -Statics-3
+PT001IU-Physical Training 1-3
+CH011IU-Chemistry for Engineers-3
+
+Học kì 2:
+EN011IU-Writing-AE2-2
+EN012IU-Speaking AE2-2
+MA003IU-Calculus 2-4
+PH013IU-Physics 2-2	
+PE015IU-Philosophy of Marxism and Leninism-3	
+PE016IU-Political economics of Marxism and Leninism-2
+CH012IU-Chemistry Laboratory-1	
+CE102IU-Introduction to Computing for Engineers-3	
+PT002IU-Physical Training 2-3
+
+Học kì hè:
+PE017IU-Scientific socialism-2
+PH015IU-Physics 3-3
+PH016IU-Physics 3 Laboratory-1
+MA024IU-Differential Equations-4
+
+Năm 2:
+Học kì 1:
+PE018IU-History of Vietnamese Communist Party-2	
+PE019IU-Ho Chi Minh’s Thoughts-2
+CE103IU-Computer-Aided Design and Drafting (CADD)-3	
+CE104IU-Practice CADD-1	
+CE201IU-Mechanics of Materials 1-2	
+CE202IU-Mechanics of Materials Laboratory-1	
+CE203IU-Engineering Mechanics- Dynamics-3
+CE205IU-Fluid Mechanics-2
+CE206IU-Fluid Mechanics Laboratory-1
+CE215IU-Applied Linear Algebra-2
+
+
+Học kì 2:
+CE213IU-Computational Methods for Civil Engineering-3
+CE209IU-Structural Analysis 1-2
+CE208IU-Mechanics of Materials 2-2
+CE210IU-Construction Materials-3
+CE211IU-Hydrology- Hydraulics-3
+PE008IU-Critical Thinking-3	
+CE214IU-Civil Architecture-2
+CE216IU-Probability and Statistics-3
+			
+Học kì hè:
+MP001IU-Military Training
+
+Năm 3:
+Học kì 1:
+CE301IU-Structural Analysis 2-3	
+CE302IU-Soil Mechanics-3
+CE303IU-Soil Mechanics Laboratory-1	
+CE304IU-Reinforced concrete 1-3	
+CE305IU-Steel Structures-3	
+CE306IU-Water Supply and Sewerage-3
+
+ 
+
+Học kì 2:
+CE307IU-Surveying-2
+CE308IU-Surveying Practice-1
+CE309IU-Foundation Engineering-3
+CE310IU-Reinforced Concrete 2-3
+CE311IU-Construction Engineering-3
+CE312IU-Steel Structure Project-1
+CE313IU-Reinforced Concrete Project-1
+CE Elective-3
+
+Học kì hè:
+CE314IU-Summer Internship
+
+
+Năm 4:
+Học kì 1:
+CE401IU-Construction Management-3	
+IU Free Elective-3
+CE Elective-3			
+CE Elective-3			
+CE402IU-Foundation Project-1			
+CE403IU-Construction Project-1			
+PE020IU-Engineering Ethics and Professional Skills-3
+
+
+Học kì 2:	
+IU Free Elective-3	
+CE420IU-GRADUATION THESIS-10
+
+CE Elective:
+CE404IU-Dynamics of Structures-3
+CE405IU-Hydraulic Structures-3
+CE406IU-Bridges Engineering-3
+CE407IU-Tall Buildings-3
+CE408IU-Introduction to Building Facilities-3
+CE409IU-Transportation Engineering and Planning-3
+CE410IU-Highway Engineering-3
+CE411IU-Urban Engineering-3
+
+IU Free Elective:
+BA003IU-Principles of Marketing-3
+BA006IU-Business Communication-3
+BA020IU-Business Ethics-3
+BA116IU-Introduction to Social Science-3
+BA118IU-Introduction to Psychology-3
+BA117IU-Introduction to Microeconomics-3
+BA119IU-Introduction to Macroeconomics-3
+BA123IU-Principles of Management-3
+BA130IU-Organizational Behavior-3
+BA167IU-Introduction to Vietnamese Legal System-3
+BA169IU-Management Information Systems-3
+BA120IU-Business Computing Skills-3
+BA115IU-Introduction to Business Administration-3
+IS019IU-Production Management-3
+IS026IU-Project Management-3
+IT063IU-Theoretical Models in Computing-4
+IT091IU-Computer Networks-4
+IT094IU-Information System Management-4
+
+
+Ngành Quản Lý Xây Dựng:
+TỔNG QUAN:
+Bộ Môn Quản lý xây dựng trực thuộc Khoa Kỹ thuật và Quản lý Xây dựng (CEM) của Trường Đại học Quốc tế, Đại học Quốc gia TP.HCM. Tiền thân của Bộ môn là Bộ Môn Xây dựng được thành lập vào tháng 1 năm 2011. Qua quá trình phát triển không ngừng, đến tháng 3 năm 2021, Khoa Kỹ thuật và Quản lý Xây dựng đã chính thức được mở ngành Quản lý Xây dựng nhằm đáp ứng nhu cầu của xã hội. Theo chiến lược phát triển của trường, chương trình Quản lý xây dựng gồm 150 tín chỉ, thời gian đào tạo là 4,5 năm. Chương trình được thiết kế theo tiêu chuẩn ASIIN (Đức) và dựa trên các chương trình tiên tiến của các trường đại học danh tiếng ở nước ngoài.
+
+CƠ HỘI NGHỀ NGHIỆP:
+Sau khi tốt nghiệp, kỹ sư Quản lý xây dựng có thể làm việc tại các đơn vị hoặc phòng, ban quản lý dự án. Các công việc bao gồm: tính toán khối lượng, kiểm soát chi phí, tổ chức mua sắm, quản lý hợp đồng, lập kế hoạch tài chính, thẩm định dự án và kinh doanh bất động sản. Kỹ sư Quản lý Xây dựng có nhiều cơ hội làm việc tại các công ty như:
+Cơ quan chính phủ: Bộ Xây dựng, Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Giao thông Vận tải, các ngân hàng, kho bạc và các cơ quan nhà nước khác có liên quan đến quản lý đô thị và xây dựng.
+Nhà đầu tư phát triển bất động sản.
+Các công ty xây dựng (Nhà thầu) tham gia thực hiện dự án.
+Các công ty tư vấn chuyên nghiệp (Quản lý dự án, Thiết kế, Mua sắm, Hợp đồng).
+Ban quản lý dự án cấp huyện/tỉnh/thành phố.
+Các công ty cung cấp vật liệu xây dựng.
+Tham gia giảng dạy và nghiên cứu tại các trường đại học, viện nghiên cứu trong các lĩnh vực liên quan.
+Hơn nữa, sau khi tốt nghiệp, sinh viên còn có cơ hội học lên cao hơn như Thạc sĩ và Tiến sĩ. bằng cấp tại các trường đại học trong nước và quốc tế.
+
+Chương trình học:
+Học kì 1:
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+MA001IU-Calculus 1-4
+PH013IU-Physics 1-2
+CE104IU-Computer-Aided Design and Drafting Practice-1
+CE103IU-Computer-Aided Design and Drafting-3
+CE105IU-Engineering Mechanics and Mechanics of Materials-3
+Học kì 2:
+EN011IU-Writing-AE2-2
+EN012IU-Speaking AE2-2
+CM205IU-Introduction to Construction Management-2
+CE209IU-Structural Analysis 1-2
+PE015IU-Philosophy of Marxism and Leninism-3	
+CE210IU-Construction Materials-3	
+PT001IU-Physical Training 1-3	
+
+
+Học kì hè:
+MA003IU–Calculus 2-4		
+PE016IU–Political Economics of Marxism and Leninism-2
+
+Năm 2:
+Học kì 1:
+CE305IU-Steel structures-3
+CE304IU-Reinforced Concrete 1-3	
+CM301IU-Operation Management in Construction-3	
+PT002IU-Physical Training 2-3	
+CM203IU-Construction Management Project-1
+PE018IU-History of Vietnamese Communist Party-2	
+PE017IU-Scientific Socialism-2	
+
+Học kì 2:
+CE106IU-Soil mechanics and foundation-3		
+CM309IU-Construction Economics-3		
+PE019IU-Ho Chi Minh’s Thoughts-2		
+PE021IU-General Law-3	
+CM202IU-Construction Measurement and Cost Estimating-3	
+PE022IU-Engineering Ethics and Critical Thinking-3	
+	
+			
+Học kì hè:
+MP001IU-Military Training
+
+Năm 3:
+Học kì 1:
+CM310IU-Building Information Modelling-3
+CM303IU-Construction Planning and Scheduling-3	
+CM304IU-Construction measurement and Cost Estimating Project-1	
+CM305IU-Construction Cost Management-3	
+CM302IU-Construction Procurement and Tendering-3
+CE217IU-Artificial Intelligence in Civil Engineering and Construction Management-3	
+ 
+
+Học kì 2:		
+CM307IU-Construction Planning and Scheduling Project-1		
+CE307IU-Surveying-2		
+BA080IU-Statistics for Business-3		
+CM308IU-Project Feasibility Study and Appraisal-3			
+CM312IU-Building Information Management Project-1		
+BA156IU-Human Resource Management-3	
+BA003IU-Principles of Marketing-3	
+
+Học kì hè:
+CE314IU-Summer Internship
+
+
+Năm 4:
+Học kì 1:
+BA161IU-Business Research Methods-3	
+CM311IU-Construction project management (PMBOK extension)-3	
+CM Elective 1 (Nhóm A)-3
+CM Elective 2 (Nhóm A)-3
+CM Elective 3 (Nhóm A)-3
+CM Elective 4 (Nhóm B)-1
+
+
+Học kì 2:	
+BA171IU-Risk Management-3	
+BA168IU-Quantitative method for Business-3			
+IU Elective 1 (Nhóm C)-3			
+IU Elective 2 (Nhóm C)-3			
+Chuyên ngành Quản lý dự án xây dựng:			
+CM402IU-Construction Jobsite Management-3	
+CM404IU-Contract Management – FIDIC contracts-3	
+Chuyên ngành Quản lý xây dựng:	
+CM403IU-Value Engineering-3	
+CE311IU-Construction Engineering-3	
+
+
+CM Elective:
+Nhóm A:
+CM405IU-Project communication Management-3	
+CM406IU-Construction Quality Management-3	
+CM407IU-Project Integration Management-3	
+CM408IU-Construction Financial Management-3	
+CM403IU-Value Engineering-3	
+CE311IU-Construction Engineering-3	
+CM404IU-Contract Management – FIDIC contracts-3
+BA006IU-Business Communications-3	
+BA016IU-Fundamental of Financial Management-3	
+BA018IU-Quality Management-3	
+BA115IU-Introduction to Business Administration-3	
+CE412IU-Advanced Artificial Intelligence in Civil Engineering and Construction Management-3	
+CE310IU-Reinforced Concrete 2-3	
+CE407IU-Tall Buildings-3	
+CE415IU-Sustainable Construction-3	
+Nhóm B:
+CE403IU-Construction Project-1	
+CM401IU-Feasibility Study and Appraisal Project-1
+
+
+IU Free Elective:
+BA130IU-Organizational Behavior-3	
+BA120IU-Business Computing Skills-3	
+BA005IU-Financial Accounting-3
+
