@@ -1,0 +1,177 @@
+Khoa Toán:
+Ngành Thống Kê:
+Mục tiêu đào tạo:
+
+Ngành Thống kê (chuyên ngành Thống kê ứng dụng) trường Đại học Quốc tế đào tạo cử nhân khoa học Thống kê có phẩm chất chính trị, đạo đức và sức khỏe tốt, có kiến thức cơ bản về Toán học và chuyên sâu về Thống kê và Học máy, khả năng ứng dụng các công cụ và mô hình  Thống kê hiện đại để giải quyết các vấn đề thực tế liên quan đến phân tích và dự báo  trong các ngành khoa học khác nhau, đặc biệt trong lĩnh vực Kinh tế, Tài chính, Bảo hiểm và quản trị. Cụ thể các sinh viên ngành Thống kê sau khi tốt nghiệp có các khả năng sau đây (Program Objectives-PO):
+
+P.O.1. Có khả năng ứng dụng một cách hiệu quả các công cụ và mô hình trong Thống kê, Học máy và Toán học để giải quyết các vấn đề trong các lĩnh vực thuộc khoa học tính toán, khoa học dữ liệu, kinh tế, tài chính, quản trị và công nghiệp.
+
+P.O.2. Có khả năng phổ biến và phát triển các mô hình lý thuyết Thống kê, tham gia nghiên cứu khoa học và sẵn sàng học tiếp lên bậc học cao hơn.
+
+P.O.3. Có các kỹ năng mềm cần thiết. Có khả năng truyền đạt ý tưởng của mình và làm việc nhóm, khả năng giải quyết vấn đề, khả năng thuyết trình, khả năng lãnh đạo và kỹ năng quản lý.
+
+P.O.4. Có phẩm chất đạo đức và phẩm chất chính trị tốt, sống và làm việc tuân theo các quy định của pháp luật nhà nước Việt Nam
+
+P.O.5. Có khả năng tự học tập suốt đời, tự cập nhật và giáo dục thường xuyên trong lĩnh vực Thống kê và trong nghề nghiệp. Có trách nhiệm nghề nghiệp cao.
+
+Ngành Thống kê của trường Đại học Quốc tế đào tạo các cử nhân có kiến thức chuyên môn, kỹ năng làm việc tốt với các mục tiêu (objectives) cụ thể sau:
+
+Phẩm chất chính trị và phẩm chất đạo đức: Có phẩm chất chính trị, đạo đức nghề nghiệp tốt, hiểu biết đúng đắn về đường lối, chính sách của Đảng và Nhà nước.
+
+Khả năng chuyên môn: Cử nhân ngành Thống kê (Chuyên ngành Thống kê ứng dụng) có khả năng sử dụng thành thạo các công cụ, các mô hình Thống kê hiện đại và các mô hình học máy để phân tích và dự báo cho các ngành nghề khác nhau. Có khả năng tham gia xây dựng và phân tích các mô hình Thống kê cụ thể, tính toán và xử lý dựa trên công cụ toán học và công nghệ thông tin (phần mềm thống kê) nhằm phân tích, đề xuất dự báo thống kê cho nhiều lĩnh vực trong kinh tế, tài chính và xã hội.
+
+Kỹ năng: Am hiểu và có khả năng tổ chức các hoạt động trong lĩnh vực thống kê ứng dụng trong các ngành như kinh tế, tài chính, bảo hiểm, quản trị, y học…Thành thạo kỹ năng thu thập dữ liệu từ các nguồn khác nhau, đồng thời hiểu rõ các số liệu thống kê. Có khả năng ứng dụng các mô hình thống kê và các kỹ thuật phân tích dữ liệu kinh tế xã hội và dự báo, từ đó lựa chọn giải pháp thích hợp và đưa ra phương án tốt nhất trong các tình huống đa dạng, hỗ trợ việc ra quyết định cho các nhà quản lý.
+
+Khả năng tự nâng cao trình độ và thích nghi được với sự phát triển của khoa học và xã hội:
+
+– Có khả năng tự đọc, trang bị kiến thức mới, công cụ hiện đại thuộc chuyên ngành.
+
+– Có khả năng đọc và phân tích các thành tựu khoa học thuộc chuyên môn trong và ngoài nước và áp dụng vào công việc chuyên môn của mình.
+
+– Có khả năng tự học hỏi, nghiên cứu sâu về lý thuyết thống kê và thống kê ứng dụng.
+
+ Năng động và thích nghi tốt với môi trường:
+
+– Có thể tham gia vào việc nghiên cứu, cải tiến phương pháp, tham gia các đề án Thống kê liên ngành và các vấn đề ứng dụng liên quan.
+
+– Có năng lực độc lập suy nghĩ, sáng tạo trong các hoạt động nghề nghiệp, thích nghi được với sự thay đổi loại hình và tính chất công việc khi làm việc với các dự án thuộc đa ngành.
+
+– Có khả năng nhận biết vấn đề, xử lý, đề xuất các phương án và có những kỹ năng làm việc tốt trong môi trường quốc tế (tiếng Anh tốt, kỹ năng làm việc nhóm, kỹ năng làm việc trong môi trường đa văn hóa).
+
+Cơ hội việc làm:
+
+Thống kê giữ một vai trò quan trọng trong hầu các nghiên cứu định lượng có liên quan đến dữ liệu, được sử dụng trong các nghiên cứu trong Y học, Khoa học xã hội, Bảo hiểm, Kinh tế, Tài chính, v.v. Trong kỷ nguyên về chuyển đổi số, kinh tế số và trí tuệ nhân tạo (AI), dữ liệu đóng một vai trò quan trọng trong rất nhiều lĩnh vực của đời sống xã hội và Thống kê là nền tảng cốt lõi của khoa học dữ liệu và kinh tế số. Những ứng dụng của Thống kê trong học máy đã đem lại nhiều phát minh mới, cho ra đời các sản phẩm quan trọng về trí tuệ nhân tạo. Những tiến bộ gần đây của trí tuệ nhân tạo đã cho thấy tầm quan trọng của Khoa học dữ liệu và Thống kê. Theo kết quả khảo sát của Trung Tâm cung ứng nguồn lao động (Bộ GD và ĐT) thì ngành Toán và Thống kê có vị trí thứ 6 trong top 10 ngành có tỷ lệ việc làm cao nhất năm 2021. Cụ thể, sinh viên tốt nghiệp ngành Thống kê có thể làm các công việc sau đây:
+
+Phân tích Thống kê tại ngân hàng lớn (Vietcombank, VIB, Shinhan, BIDV, ACB, Cathay United…), các công ty kiểm toán như KPMG, Công ty chứng khoán
+Định phí Bảo hiểm (Actuary) (Manulife, FWD), đánh giá tín dụng (FE Credit, Viet Credit…)
+Phân tích, nghiên cứu thị trường cho các doanh nghiệp, tập đoàn lớn, Vega Corporation, Minerva…
+Chuyên viên nghiên cứu chuyên nghiệp, phân tích dữ liệu thống kê tại các viện nghiên cứu về Kinh tế – xã hội.
+Nghiên cứu Thống kê trong sinh học, y sinh, y tế tại các Viện nghiên cứu
+Làm việc trong các tập đoàn có xu hướng cách mạng công nghiệp 4.0, như FPT Software, TMA, Zalo, Coccoc, Tiki, Lazada, VNG, Tenpoint7 Vietnam, Bee Group, PwC…
+Tiếp tục học Sau Đại học ngành Thống kê ứng dụng và các ngành có liên quan (Machine Learning, AI, Data Science, Biostatistics, Biomedicine, v.v.).
+Giảng dạy và nghiên cứu tại các trường Đại học, Viện nghiên cứu, các Cơ quan nhà nước (Cục Thống kê, Phân tích thống kê ở các sở ban ngành các cấp chính quyền địa phương).
+
+Chương trình đào tạo:
+I. Khối kiến thức giáo dục đại cương
+Lý luận chính trị (11 tín chỉ)
+
+PE015IU - Philosophy of Marxism and Leninism - 3
+
+PE016IU - Political Economics of Marxism and Leninism - 2
+
+PE018IU - History of Vietnamese Communist Party - 2
+
+PE019IU - Ho Chi Minh’s Thoughts - 2
+
+PE017IU - Scientific Socialism - 2
+
+Pháp luật, Khoa học xã hội và nhân văn (3 tín chỉ)
+6. PE021IU - General Law - 3
+
+Ngoại ngữ (8 tín chỉ)
+7. EN007IU - Writing AE1 - 2
+8. EN008IU - Listening AE1 - 2
+9. EN011IU - Writing AE2 - 2
+10. EN012IU - Speaking AE2 - 2
+
+Toán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ)
+11. MAFE101IU - Analysis 1 - 4
+12. MAFE109IU - Introduction to Python - 4
+13. MAFE103IU - Analysis 2 - 4
+14. MAFE104IU - Linear Algebra - 4
+
+Kinh tế – Quản lý (4 tín chỉ)
+15. MAFE212IU - Financial Accounting - 4
+
+II. Kiến thức cơ sở ngành
+MAFE201IU - Real Analysis - 4
+
+MAFE203IU - Analysis 3 - 3
+
+MAFE206IU - Probability - 3
+
+MAFE204IU - Database Management System - 3
+
+MAAS220IU - Introduction to Statistics - 2
+
+MAFE208IU - Numerical Analysis - 4
+
+MAFE202IU - Differential Equations - 4
+
+MAAS221IU - Introduction to Machine Learning - 3
+
+MAFE207IU - Decision Making - 3
+
+Môn học tự chọn 1 - MAAS Elective #1 - 3
+
+III. Kiến thức chuyên ngành
+MAAS318IU - Stochastic Modeling - 3
+
+MAFE316IU - Statistics - 4
+
+MAAS320IU - Regression Models - 3
+
+MAAS322IU - Statistical Computing - 3
+
+MAAS324IU - Applied Time Series Analysis - 3
+
+Môn tự chọn 2 - MAAS Elective #2 - 3
+
+IT157IU - Deep Learning - 4
+
+MAAS410IU - Bayesian Statistics - 3
+
+Môn tự chọn 3 - MAAS Elective #3 - 3
+
+Môn tự chọn 4 - MAAS Elective #4 - 3
+
+MAFE303IU - Optimization 1 - 4
+
+MAAS413IU - Multivariate Statistical Analysis - 3
+
+IV. Kiến thức bổ trợ
+IT069IU - Object-Oriented Programming - 4
+
+IT013IU - Algorithms and Data Structures - 4
+
+BA115IU - Introduction to Business Administration - 3
+
+V. Thực tập, khóa luận/luận văn tốt nghiệp
+MAAS328IU - Summer Internship - 3
+
+MAAS420IU - Graduation Thesis - 12
+
+Danh sách các môn học tự chọn
+Môn tự chọn 1
+
+IIS055IU - Principles of Logistics and Supply Chain Management - 3
+
+MAFE306IU - Financial Mathematics 1 - 3
+
+MAFE209IU - Financial Markets - 3
+
+Môn tự chọn 2
+
+MAAS325IU - Predictive Analytics - 3
+
+IIS065IU - Supply Chain Security and Risk Management - 3
+
+MAFE308IU - Financial Risk Management 1 - 3
+
+MAAS326IU - Actuarial Mathematics for Life Contingent - 3
+
+Môn tự chọn 3
+
+MAAS411IU - Statistical Models for Actuarial Science - 3
+
+MAAS412IU - Statistical Methods for Finance - 3
+
+IS066IU - Data Mining in Supply Chain - 3
+
+Môn tự chọn 4
+
+MAFE307IU - Optimization 2 - 3
+
+MAAS414IU - Survey Sampling - 3
+
+MAAS415IU - Applied Probability Models in Actuarial Science - 3

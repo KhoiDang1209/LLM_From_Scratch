@@ -1,0 +1,165 @@
+Khoa Toán:
+Ngành Toán Ứng Dụng:
+
+Mục tiêu đào tạo:
+Kỹ thuật Tài chính và Quản trị rủi ro là một lĩnh vực đa ngành gồm  lý thuyết tài chính, các phương pháp và công cụ toán học và lập trình ứng dụng.
+Trang bị cho sinh viên các kỹ năng và kiến thức chuyên môn về lý thuyết và các phương thức tiếp cận các quy trình phân tích, dự báo, quản trị rủi ro và các ứng dụng trong các tình huống thực tế trong lĩnh vực tài chính và các vấn đề liên quan.
+
+Cơ hội nghề nghiệp:
+Ngoài những mục tiêu và cơ hội nghề nghiệp của từng chuyên ngành thì sinh viên ngành Tài chính và Quản trị rủi ro sẽ được trang bị các kiến thức, kỹ năng và các khả năng sau khi ra trường như sau:
+Chương trình đào tạo sinh viên Việt nam và sinh viên quốc tế. Sinh viên có thể làm cho các định chế tài chính lớn như Ngân hàng Thế giới (World Bank), Quỹ Tiền tệ Quốc tế (IMF), Quỹ Tài chính Quốc tế (IFC), các tổ chức tài chình quốc tế, ngân hàng nhà nước. Tuy nhiên, chương trình chủ yếu nhằm đào tạo sinh viên để có thể tham gia làm các chuyên viên phân tích kinh tế, tài chính cho các công ty đầu tư tài chính, chứng khoán, ngân hàng, các doanh nghiệp kinh doanh đa quốc gia.
+Các công việc cụ thể bao gồm các hoạt động về quản trị danh mục đầu tư, phân tích tài chính, phân tích thị trường tài chính… trong các doanh nghiệp và tổ chức có nhu cầu. Sinh viên ra trường cũng có khả năng tạo dựng và hỗ trợ doanh nghiệp tài chính, ngân hàng, bảo hiểm, cung cấp các dịch vụ – sản phẩm mà xã hội, thị trường yêu cầu.
+Sau khi tốt nghiệp, sinh viên có thể trở thành cán bộ quản lí hoặc chuyên viên kỹ thuật làm việc cho các cơ quan nhà nước hoặc địa phương, dự án hoặc tổ chức phi chính phủ trong lĩnh vực kỹ thuật tài chính và quản trị rủi ro, hoặc các doanh nghiệp trong ngành tài chính, ngân hàng,…
+Ra trường sinh viên cũng có thể trở thành cán bộ giảng dạy và nghiên cứu tại các trường đại học, cao đẳng và viện nghiên cứu có liên quan, có thể tiếp tục theo các chương trình Thạc sĩ, Tiến sĩ tại bất cứ cơ sở đào tạo nào ở trong nước hoặc nước ngoài.
+
+Chuẩn đầu ra:
+
+Có kiến thức cơ bản tốt về Toán và Công nghệ thông tin và có khả năng áp dụng các kỹ thuật tính toán vào lĩnh vực kỹ thuật tài chính và quản trị rủi ro:
+Sinh viên nắm vững các công cụ toán và công nghệ thông tin (CNTT) hiện đại phục vụ cho kỹ thuật tài chính như: xác suất thống kê, lý thuyết quá trình ngẫu nhiên, tối ưu hóa ngẫu nhiên, toán tài chính, lý thuyết về mô hình và mô phỏng, quản trị rủi ro, ngôn ngữ máy tính và lập trình, mạng máy tính, quản lý hệ thống thông tin, tính toán song song, …. Các kiến thức này được trang bị theo quan điểm ứng dụng, đi kèm với việc áp dụng vào các mô hình tài chính và quản trị rủi ro.
+
+Có kiến thức cơ bản bao quát về tài chính, Quản trị rủi ro và lựa chọn các mô hình, công cụ tính toán để xử lý: 
+Có kiến thức chuyên ngành tài chính đủ để có thể hiểu được sự vận hành của hệ thống tài chính, phân tích tài chính (financial analysis), các mô hình tài chính (financial modelling), ứng dụng các phương pháp định lượng tài chính (quantitative finance), kinh tế tài chính học (financial economics), phân tích và quản trị rủi ro tài chính (financial risk managements). Kỹ năng toán học được tích hợp sát với kỹ năng cơ bản trong lĩnh vực tài chính. Mặt khác, nhờ được trang bi kiến thức chuyên sâu về CNTT, sinh viên có khả năng tạo mới và phát triển các công cụ CNTT phục vụ cho nhu cầu công việc cụ thể, tạo cho sinh viên khả năng phân tích, tính toán để đưa ra các phương án tốt nhất, các dự báo chính xác. Điều này giúp sinh viên có khả năng tham gia các công việc đa dạng về tài chính. Đặc biệt, tư vấn ra quyết định hoặc tham gia quản lý về tài chính trong tương lai.
+
+Khả năng vận dụng kiến thức:
+Có kiến thức chuyên ngành cơ bản để có thể tham gia trong các nhóm công tác liên ngành, thực hiện các hoạt động thực tiễn từ các tổ chức kinh tế tài chính trong nước và quốc tế lớn như Quỹ Tiền tệ Quốc tế (IMF), Ngân hàng Thế giới (World Bank), Quỹ Tài chính Quốc tế (IFC), ngân hàng nhà nước, …, đến các định chế tài chính khác như các quỹ đầu tư tài chính, ngân hàng, công ty phân tích tài chính, chứng khoán, các công ty bảo hiểm hoặc các doanh nghiệp có nhu cầu về phân tích tài chính và quản trị rủi ro. Các kỹ năng cơ bản làm việc trong ngân hàng, các công ty tài chính, bảo hiểm, viện nghiên cứu, v.v..
+
+Kỹ năng tham gia xây dựng mô hình và đề xuất giải pháp:
+Có khả năng tham gia vào các giai đoạn khác nhau trong quá trình xây dựng mô hình tài chính, từ việc lập mô hình và tính toán, dự báo, tổng hợp đến đề xuất các giải pháp tài chính, các phương án giảm thiểu rủi ro tài chính.
+
+Khả năng tổ chức, lãnh đạo:
+Nắm vững và có năng lực tổ chức các hoạt động của các công ty tài chính, ngân hàng, chứng khoán, bảo hiểm, phòng ban tài chính của các doanh nghiệp khác. Hiểu rõ cơ chế vận hành của thị trường tài chính trong nước và quốc tế. Có khả năng làm việc theo nhóm, tham gia hoặc đứng ra xây dựng và tổ chức thực hiện các dự án nghiên cứu về tài chính, quản trị rủi ro.
+
+Khả năng lựa chọn và phân tích các mô hình, phát hiện và giải quyết các vấn đề chuyên môn:
+Có khả năng lựa chọn, phân tích và cải tiến các mô hình tài chính, dự báo, hỗ trợ ra quyết định, xây dựng và tổ chức thực hiện các dự án đầu tư tài chính, quản trị rủi ro tài chính cho một doanh nghiệp, xây dựng các mô hình phân tích và dự báo về tài chính cho doanh nghiệp và xã hội.
+
+Khả năng giao tiếp và làm việc nhóm:
+Khả năng giao tiếp (viết, nói, …) tốt, trong các môi trường chuyên môn cũng như không chuyên môn. Khả năng sử dụng tiếng Anh lưu loát trong giao tiếp. Có những kỹ năng làm việc tốt trong môi trường quốc tế (môi trường đa văn hóa). Có tinh thần và kỹ năng làm việc nhóm hiệu quả, tính chuyên nghiệp cao.
+
+Khả năng tự hoàn thiện nghề nghiệp, tinh thần trách nhiệm:
+Có tính chủ động, tích cực, cầu tiến, sáng tạo trong công việc. Luôn phấn đấu làm việc để đạt chất lượng cao nhất. Có nhu cầu tự hoàn thiện nghề nghiệp, chấp nhận các ý kiến khác nhau, tranh luận trong tinh thần trách nhiệm để tiến bộ và vì lợi ích chung.
+
+Lý luận chính trị và đạo đức:
+Sinh viên tốt nghiệp có hiểu biết đúng đắn về đường lối, chính sách của Đảng và Nhà nước. Có thế giới quan, nhân sinh quan đúng đắn và có khả năng nhận thức, đánh giá các hiện tượng một cách logic và tích cực. Có đạo đức cá nhân và đạo đức nghề nghiệp tốt và có trách nhiệm với cộng đồng.
+
+Có hiểu biết đúng đắn về nghề nghiệp:
+Các tác động của những giải pháp, phương án đề ra đối với xã hội và thế giới.
+
+Khả năng học tập suốt đời:
+Có
+
+Chương trình đào tạo:
+I. Khối kiến thức Giáo dục đại cương
+1.1. Các môn lý luận chính trị - Khoa học xã hội và nhân văn (13 tín chỉ)
+
+PE011IU - Những nguyên lý cơ bản của chủ nghĩa Mác-Lê Nin - 5
+
+PE003IU - Đường lối Cách mạng của Đảng CSVN - 3
+
+PE005IU - Tư tưởng Hồ Chí Minh - 2
+
+PE008IU - Tư duy phản biện - 3
+
+1.2. Toán học (19 tín chỉ)
+5. MAFE101IU - Giải tích 1 - 4
+6. MAFE103IU - Giải tích 2 - 4
+7. MAFE203IU - Giải tích 3 - 3
+8. MAFE104IU - Đại số tuyến tính - 4
+9. MAFE202IU - Phương trình vi phân - 4
+
+1.3. Tin học (4 tín chỉ)
+10. MAFE102IU - Lập trình C/C++ - 4 (3 lý thuyết, 1 thực hành)
+
+1.4. Kinh tế - Tài chính (6 tín chỉ)
+11. BA117IU - Kinh tế vi mô - 3
+12. BA119IU - Kinh tế vĩ mô - 3
+
+1.5. Ngoại ngữ (8 tín chỉ)
+13. EN007IU - Tiếng Anh chuyên ngành 1 – Kỹ năng Viết - 2
+14. EN008IU - Tiếng Anh chuyên ngành 1 – Kỹ năng Nghe - 2
+15. EN011IU - Tiếng Anh chuyên ngành 2 – Kỹ năng Viết - 2
+16. EN012IU - Tiếng Anh chuyên ngành 2 – Kỹ năng Nói - 2
+
+1.6. Giáo dục thể chất
+
+Giáo dục thể chất 1
+
+Giáo dục thể chất 2
+
+1.7. Giáo dục quốc phòng
+
+Lý thuyết + Thực hành
+
+Cộng: 50 tín chỉ (49 lý thuyết, 1 thực hành)
+
+II. Khối kiến thức cơ sở ngành
+Các môn bắt buộc (42 tín chỉ)
+
+MAFE206IU - Xác suất - 3
+
+MAFE302IU - Quá trình ngẫu nhiên - 3
+
+MAFE301IU - Thống kê - 3
+
+MAFE207IU - Kỹ thuật ra quyết định - 3
+
+MAFE208IU - Giải tích số - 4
+
+MAFE201IU - Giải tích thực - 4
+
+MAFE309IU - Công nghệ phần mềm - 3 (2 lý thuyết, 1 thực hành)
+
+MAFE204IU - Hệ quản trị dữ liệu - 3 (2 lý thuyết, 1 thực hành)
+
+MAFE205IU - Mạng máy tính - 4 (3 lý thuyết, 1 thực hành)
+
+MAFE105IU - Kinh tế tài chính học - 3
+
+MAFE205IU - Quản trị tài chính đại cương - 3
+
+MAFE305IU - Tài chính doanh nghiệp - 3
+
+MAFE402IU - Quản trị danh mục đầu tư - 3
+
+Môn tự chọn #1 (3 tín chỉ)
+14. MAFE210IU - Giải tích hàm - 3
+15. MAFE211IU - Lập trình ứng dụng Web - 4 (3 lý thuyết, 1 thực hành)
+16. MAFE209IU - Thị trường tài chính - 3
+
+Cộng: 45 tín chỉ (42 lý thuyết, 3 thực hành)
+
+III. Khối kiến thức chuyên ngành
+Các môn bắt buộc (37 tín chỉ)
+
+MAFE303IU - Tối ưu hóa I - 4
+
+MAFE307IU - Tối ưu hóa II - 3
+
+MAFE306IU - Toán tài chính I - 3
+
+MAFE401IU - Toán tài chính II - 3
+
+MAFE308IU - Quản trị rủi ro tài chính 1 - 3
+
+MAFE304IU - Kinh tế lượng và các ứng dụng trong tài chính - 3
+
+MAFE403IU - Phương pháp nghiên cứu trong tài chính - 3
+
+Thực tập tốt nghiệp - 3
+
+Luận văn tốt nghiệp - 12
+
+Các môn tự chọn (9 tín chỉ)
+Môn tự chọn #2 (3 tín chỉ)
+10. MAFE310IU - Mô hình hóa và mô phỏng - 3
+11. MAFE311IU - Định giá - 3
+12. MAFE312IU - Khai thác dữ liệu - 4 (3 lý thuyết, 1 thực hành)
+
+Môn tự chọn #3 (3 tín chỉ)
+13. MAFE404IU - Quản trị rủi ro tài chính 2 - 3
+14. MAFE405IU - Vận trù học - 3
+15. MAFE406IU - Tính toán song song - 4 (3 lý thuyết, 1 thực hành)
+
+Môn tự chọn #4 (3 tín chỉ)
+16. MAFE408IU - Tài chính quốc tế - 3
+17. MAFE407IU - Toán kinh tế - 3
+18. BA306AF - Phân tích báo cáo tài chính và định giá công ty - 3
