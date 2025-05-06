@@ -23,143 +23,85 @@ Có kiến thức chuyên ngành tài chính đủ để có thể hiểu đư�
 Khả năng vận dụng kiến thức:
 Có kiến thức chuyên ngành cơ bản để có thể tham gia trong các nhóm công tác liên ngành, thực hiện các hoạt động thực tiễn từ các tổ chức kinh tế tài chính trong nước và quốc tế lớn như Quỹ Tiền tệ Quốc tế (IMF), Ngân hàng Thế giới (World Bank), Quỹ Tài chính Quốc tế (IFC), ngân hàng nhà nước, …, đến các định chế tài chính khác như các quỹ đầu tư tài chính, ngân hàng, công ty phân tích tài chính, chứng khoán, các công ty bảo hiểm hoặc các doanh nghiệp có nhu cầu về phân tích tài chính và quản trị rủi ro. Các kỹ năng cơ bản làm việc trong ngân hàng, các công ty tài chính, bảo hiểm, viện nghiên cứu, v.v..
 
-Kỹ năng tham gia xây dựng mô hình và đề xuất giải pháp:
-Có khả năng tham gia vào các giai đoạn khác nhau trong quá trình xây dựng mô hình tài chính, từ việc lập mô hình và tính toán, dự báo, tổng hợp đến đề xuất các giải pháp tài chính, các phương án giảm thiểu rủi ro tài chính.
 
-Khả năng tổ chức, lãnh đạo:
-Nắm vững và có năng lực tổ chức các hoạt động của các công ty tài chính, ngân hàng, chứng khoán, bảo hiểm, phòng ban tài chính của các doanh nghiệp khác. Hiểu rõ cơ chế vận hành của thị trường tài chính trong nước và quốc tế. Có khả năng làm việc theo nhóm, tham gia hoặc đứng ra xây dựng và tổ chức thực hiện các dự án nghiên cứu về tài chính, quản trị rủi ro.
-
-Khả năng lựa chọn và phân tích các mô hình, phát hiện và giải quyết các vấn đề chuyên môn:
-Có khả năng lựa chọn, phân tích và cải tiến các mô hình tài chính, dự báo, hỗ trợ ra quyết định, xây dựng và tổ chức thực hiện các dự án đầu tư tài chính, quản trị rủi ro tài chính cho một doanh nghiệp, xây dựng các mô hình phân tích và dự báo về tài chính cho doanh nghiệp và xã hội.
-
-Khả năng giao tiếp và làm việc nhóm:
-Khả năng giao tiếp (viết, nói, …) tốt, trong các môi trường chuyên môn cũng như không chuyên môn. Khả năng sử dụng tiếng Anh lưu loát trong giao tiếp. Có những kỹ năng làm việc tốt trong môi trường quốc tế (môi trường đa văn hóa). Có tinh thần và kỹ năng làm việc nhóm hiệu quả, tính chuyên nghiệp cao.
-
-Khả năng tự hoàn thiện nghề nghiệp, tinh thần trách nhiệm:
-Có tính chủ động, tích cực, cầu tiến, sáng tạo trong công việc. Luôn phấn đấu làm việc để đạt chất lượng cao nhất. Có nhu cầu tự hoàn thiện nghề nghiệp, chấp nhận các ý kiến khác nhau, tranh luận trong tinh thần trách nhiệm để tiến bộ và vì lợi ích chung.
-
-Lý luận chính trị và đạo đức:
-Sinh viên tốt nghiệp có hiểu biết đúng đắn về đường lối, chính sách của Đảng và Nhà nước. Có thế giới quan, nhân sinh quan đúng đắn và có khả năng nhận thức, đánh giá các hiện tượng một cách logic và tích cực. Có đạo đức cá nhân và đạo đức nghề nghiệp tốt và có trách nhiệm với cộng đồng.
-
-Có hiểu biết đúng đắn về nghề nghiệp:
-Các tác động của những giải pháp, phương án đề ra đối với xã hội và thế giới.
-
-Khả năng học tập suốt đời:
-Có
 
 Chương trình đào tạo:
-I. Khối kiến thức Giáo dục đại cương
-1.1. Các môn lý luận chính trị - Khoa học xã hội và nhân văn (13 tín chỉ)
+Chương trình đào tạo:
+I. Khối kiến thức giáo dục đại cương:
+Lý luận chính trị (11 tín chỉ):
+PE015IU-Philosophy of Marxism and Leninism-3
+PE016IU-Political Economics of Marxism and Leninism-2
+PE018IU-History of Vietnamese Communist Party-2
+PE019IU-Ho Chi Minh’s Thoughts-2
+PE017IU-Scientific Socialism-2
+Pháp luật, Khoa học xã hội và nhân văn (3 tín chỉ):
+PE021IU-General Law-3
 
-PE011IU - Những nguyên lý cơ bản của chủ nghĩa Mác-Lê Nin - 5
+Ngoại ngữ (8 tín chỉ):
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+EN011IU-Writing AE2-2
+EN012IU-Speaking AE2-2
 
-PE003IU - Đường lối Cách mạng của Đảng CSVN - 3
+Toán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ):
+MAFE101IU-Analysis 1-4
+MAFE109IU-Introduction to Python-4
+MAFE103IU-Analysis 2-4
+MAFE104IU-Linear Algebra-4
 
-PE005IU - Tư tưởng Hồ Chí Minh - 2
+Kinh tế – Quản lý (4 tín chỉ):
+MAFE212IU-Financial Accounting-4
 
-PE008IU - Tư duy phản biện - 3
+II. Kiến thức cơ sở ngành:
+MAFE201IU-Real Analysis-4
+MAFE203IU-Analysis 3-3
+MAFE206IU-Probability-3
+MAFE204IU-Database Management System-3
+MAAS220IU-Introduction to Statistics-2
+MAFE208IU-Numerical Analysis-4
+MAFE202IU-Differential Equations-4
+MAAS221IU-Introduction to Machine Learning-3
+MAFE207IU-Decision Making-3
+Môn học tự chọn 1-MAAS Elective #1-3
 
-1.2. Toán học (19 tín chỉ)
-5. MAFE101IU - Giải tích 1 - 4
-6. MAFE103IU - Giải tích 2 - 4
-7. MAFE203IU - Giải tích 3 - 3
-8. MAFE104IU - Đại số tuyến tính - 4
-9. MAFE202IU - Phương trình vi phân - 4
+III. Kiến thức chuyên ngành:
+MAAS318IU-Stochastic Modeling-3
+MAFE316IU-Statistics-4
+MAAS320IU-Regression Models-3
+MAAS322IU-Statistical Computing-3
+MAAS324IU-Applied Time Series Analysis-3
+Môn tự chọn 2-MAAS Elective #2-3
+IT157IU -Deep Learning-4
+MAAS410IU-Bayesian Statistics-3
+Môn tự chọn 3-MAAS Elective #3-3
+Môn tự chọn 4-MAAS Elective #4-3
+MAFE303IU-Optimization 1-4
+MAAS413IU-Multivariate Statistical Analysis-3
 
-1.3. Tin học (4 tín chỉ)
-10. MAFE102IU - Lập trình C/C++ - 4 (3 lý thuyết, 1 thực hành)
+IV. Kiến thức bổ trợ:
+IT069IU-Object-Oriented Programming-4
+IT013IU-Algorithms and Data Structures-4
+BA115IU-Introduction to Business Administration-3
 
-1.4. Kinh tế - Tài chính (6 tín chỉ)
-11. BA117IU - Kinh tế vi mô - 3
-12. BA119IU - Kinh tế vĩ mô - 3
+V. Thực tập, khóa luận/luận văn tốt nghiệp:
+MAAS328IU-Summer Internship-3
+MAAS420IU-Graduation Thesis-12
 
-1.5. Ngoại ngữ (8 tín chỉ)
-13. EN007IU - Tiếng Anh chuyên ngành 1 – Kỹ năng Viết - 2
-14. EN008IU - Tiếng Anh chuyên ngành 1 – Kỹ năng Nghe - 2
-15. EN011IU - Tiếng Anh chuyên ngành 2 – Kỹ năng Viết - 2
-16. EN012IU - Tiếng Anh chuyên ngành 2 – Kỹ năng Nói - 2
-
-1.6. Giáo dục thể chất
-
-Giáo dục thể chất 1
-
-Giáo dục thể chất 2
-
-1.7. Giáo dục quốc phòng
-
-Lý thuyết + Thực hành
-
-Cộng: 50 tín chỉ (49 lý thuyết, 1 thực hành)
-
-II. Khối kiến thức cơ sở ngành
-Các môn bắt buộc (42 tín chỉ)
-
-MAFE206IU - Xác suất - 3
-
-MAFE302IU - Quá trình ngẫu nhiên - 3
-
-MAFE301IU - Thống kê - 3
-
-MAFE207IU - Kỹ thuật ra quyết định - 3
-
-MAFE208IU - Giải tích số - 4
-
-MAFE201IU - Giải tích thực - 4
-
-MAFE309IU - Công nghệ phần mềm - 3 (2 lý thuyết, 1 thực hành)
-
-MAFE204IU - Hệ quản trị dữ liệu - 3 (2 lý thuyết, 1 thực hành)
-
-MAFE205IU - Mạng máy tính - 4 (3 lý thuyết, 1 thực hành)
-
-MAFE105IU - Kinh tế tài chính học - 3
-
-MAFE205IU - Quản trị tài chính đại cương - 3
-
-MAFE305IU - Tài chính doanh nghiệp - 3
-
-MAFE402IU - Quản trị danh mục đầu tư - 3
-
-Môn tự chọn #1 (3 tín chỉ)
-14. MAFE210IU - Giải tích hàm - 3
-15. MAFE211IU - Lập trình ứng dụng Web - 4 (3 lý thuyết, 1 thực hành)
-16. MAFE209IU - Thị trường tài chính - 3
-
-Cộng: 45 tín chỉ (42 lý thuyết, 3 thực hành)
-
-III. Khối kiến thức chuyên ngành
-Các môn bắt buộc (37 tín chỉ)
-
-MAFE303IU - Tối ưu hóa I - 4
-
-MAFE307IU - Tối ưu hóa II - 3
-
-MAFE306IU - Toán tài chính I - 3
-
-MAFE401IU - Toán tài chính II - 3
-
-MAFE308IU - Quản trị rủi ro tài chính 1 - 3
-
-MAFE304IU - Kinh tế lượng và các ứng dụng trong tài chính - 3
-
-MAFE403IU - Phương pháp nghiên cứu trong tài chính - 3
-
-Thực tập tốt nghiệp - 3
-
-Luận văn tốt nghiệp - 12
-
-Các môn tự chọn (9 tín chỉ)
-Môn tự chọn #2 (3 tín chỉ)
-10. MAFE310IU - Mô hình hóa và mô phỏng - 3
-11. MAFE311IU - Định giá - 3
-12. MAFE312IU - Khai thác dữ liệu - 4 (3 lý thuyết, 1 thực hành)
-
-Môn tự chọn #3 (3 tín chỉ)
-13. MAFE404IU - Quản trị rủi ro tài chính 2 - 3
-14. MAFE405IU - Vận trù học - 3
-15. MAFE406IU - Tính toán song song - 4 (3 lý thuyết, 1 thực hành)
-
-Môn tự chọn #4 (3 tín chỉ)
-16. MAFE408IU - Tài chính quốc tế - 3
-17. MAFE407IU - Toán kinh tế - 3
-18. BA306AF - Phân tích báo cáo tài chính và định giá công ty - 3
+Danh sách các môn học tự chọn:
+Môn tự chọn 1:
+IIS055IU-Principles of Logistics and Supply Chain Management-3
+MAFE306IU-Financial Mathematics 1-3
+MAFE209IU-Financial Markets-3
+Môn tự chọn 2:
+MAAS325IU-Predictive Analytics-3
+IIS065IU-Supply Chain Security and Risk Management-3
+MAFE308IU-Financial Risk Management 1-3
+MAAS326IU-Actuarial Mathematics for Life Contingent-3
+Môn tự chọn 3:
+MAAS411IU-Statistical Models for Actuarial Science-3
+MAAS412IU-Statistical Methods for Finance-3
+IS066IU-Data Mining in Supply Chain-3
+Môn tự chọn 4:
+MAFE307IU-Optimization 2-3
+MAAS414IU-Survey Sampling-3
+MAAS415IU-Applied Probability Models in Actuarial Science-3
