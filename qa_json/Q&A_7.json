@@ -1,0 +1,102 @@
+[
+    {
+    "prompt": "Thông báo miễn giảm học phí của Trường Đại học Quốc tế được áp dụng từ thời điểm nào?",
+    "response": "Thông báo về việc hướng dẫn thực hiện chính sách miễn, giảm học phí mới được áp dụng từ học kỳ II năm học 2014 - 2015 theo Thông báo số 486-TB/ĐHQT-CTSV ngày 04 tháng 11 năm 2014."
+    },
+    {
+    "prompt": "Nghị định nào là cơ sở cho chính sách miễn giảm học phí của Trường Đại học Quốc tế?",
+    "response": "Chính sách miễn giảm học phí của Trường Đại học Quốc tế dựa trên Nghị định số 74/2013/NĐ-CP và Thông tư liên tịch số 20/2014/TTLT-BGDĐT-BTC-BLĐTBXH về việc sửa đổi, bổ sung một số điều của Nghị định số 49/2010/NĐ-CP ngày 14/5/2010 của Chính phủ."
+    },
+    {
+    "prompt": "Đối tượng nào được miễn giảm 50% học phí theo chính sách của Trường Đại học Quốc tế?",
+    "response": "Có hai đối tượng được miễn giảm 50% học phí thực (đã bao gồm % miễn giảm theo quy định của nhà nước): (1) Người có công với cách mạng và thân nhân của người có công với cách mạng; (2) Sinh viên mồ côi cả cha lẫn mẹ, không nơi nương tựa."
+    },
+    {
+    "prompt": "Hồ sơ cần chuẩn bị cho đối tượng con của người có công với cách mạng gồm những gì?",
+    "response": "Hồ sơ cần chuẩn bị cho đối tượng con của người có công với cách mạng gồm: Mẫu đơn MGHP của nhà trường, bản sao công chứng thẻ thương binh/người hưởng chính sách như thương binh/bệnh binh; hộ khẩu hoặc giấy khai sinh; Giấy xác nhận của cơ quan quản lý đối tượng người có công (phòng LĐTBXH) hoặc UBND xã xác nhận dành cho người hoạt động kháng chiến bị nhiễm chất độc hóa học, con người có công theo quy định."
+    },
+    {
+    "prompt": "Sinh viên mồ côi cha hoặc mẹ có khó khăn về kinh tế được miễn giảm bao nhiêu phần trăm học phí?",
+    "response": "Sinh viên mồ côi cha hoặc mẹ có khó khăn về kinh tế được miễn giảm 15% học phí thực theo chính sách riêng của trường ĐHQT."
+    },
+    {
+    "prompt": "Những giấy tờ nào cần nộp để xét miễn giảm học phí cho sinh viên mồ côi cha hoặc mẹ?",
+    "response": "Để xét miễn giảm học phí cho sinh viên mồ côi cha hoặc mẹ cần nộp: Mẫu đơn MGHP của nhà trường, bản photo công chứng giấy chứng tử của cha hoặc mẹ; giấy khai sinh của sinh viên; Xác nhận khó khăn về kinh tế của chính quyền địa phương (bổ sung giấy xác nhận này vào đầu mỗi năm học)."
+    },
+    {
+    "prompt": "Sinh viên bị tàn tật, khuyết tật thuộc hộ cận nghèo được hưởng mức miễn giảm học phí như thế nào?",
+    "response": "Sinh viên bị tàn tật, khuyết tật thuộc hộ cận nghèo theo quy định của Thủ tướng Chính phủ được miễn giảm 25% học phí thực (đã bao gồm % miễn giảm theo quy định của nhà nước)."
+    },
+    {
+    "prompt": "Chuẩn hộ cận nghèo được thực hiện theo quy định nào?",
+    "response": "Chuẩn hộ cận nghèo được thực hiện theo quy định của Thủ tướng Chính phủ phê duyệt theo từng thời kỳ. Hiện nay đang được thực hiện theo quy định tại Quyết định số 09/2011/QĐ-TTg ngày 30/01/2011 của Thủ tướng Chính phủ về chuẩn hộ nghèo, hộ cận nghèo áp dụng cho giai đoạn 2011 - 2015."
+    },
+    {
+    "prompt": "Dân tộc thiểu số rất ít người theo quy định bao gồm những dân tộc nào?",
+    "response": "Dân tộc thiểu số rất ít người bao gồm: La Hủ, La Ha, Pà Thẻn, Lự, Ngái, Chứt, Lô Lô, Mảng, Cống, Cờ Lao, Bồ Y, Si La, Pu Péo, Rơ Măm, BRâu, Ở Đu."
+    },
+    {
+    "prompt": "Sinh viên là người dân tộc thiểu số rất ít người ở vùng khó khăn được miễn giảm bao nhiêu phần trăm học phí?",
+    "response": "Sinh viên dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế - xã hội khó khăn và đặc biệt khó khăn được miễn giảm 25% học phí thực (đã bao gồm % miễn giảm theo quy định của nhà nước)."
+    },
+    {
+    "prompt": "Sinh viên là con CBCNVC bị tai nạn lao động được hưởng mức miễn giảm học phí như thế nào?",
+    "response": "Sinh viên là con CBCNVC mà cha hoặc mẹ bị TNLĐ hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên được miễn giảm 10% học phí thực (hoặc 100% mức trần học phí theo quy định của nhà nước tùy mức nào cao hơn)."
+    },
+    {
+    "prompt": "Trường hợp sinh viên có anh chị em ruột đang học tại trường ĐHQT được miễn giảm học phí thế nào?",
+    "response": "Sinh viên có anh chị em ruột hiện đang học tại trường Đại học Quốc tế (áp dụng kể từ người thứ hai) được miễn giảm 10% học phí thực theo chính sách riêng của trường ĐHQT."
+    },
+    {
+    "prompt": "Hồ sơ cần nộp để xét miễn giảm học phí cho trường hợp có anh chị em ruột học cùng trường gồm những gì?",
+    "response": "Hồ sơ cần nộp để xét miễn giảm học phí cho trường hợp có anh chị em ruột học cùng trường gồm: Mẫu đơn MGHP của nhà trường, bản photo công chứng hộ khẩu thường trú hoặc giấy khai sinh của 2 anh chị em ruột."
+    },
+    {
+    "prompt": "Sinh viên là người dân tộc thiểu số thuộc hộ nghèo và cận nghèo được miễn giảm bao nhiêu phần trăm học phí?",
+    "response": "Sinh viên là người dân tộc thiểu số thuộc hộ nghèo và cận nghèo theo quy định của Thủ tướng Chính phủ được miễn giảm 10% học phí thực (hoặc 100% mức trần học phí theo quy định của nhà nước tùy mức nào cao hơn)."
+    },
+    {
+    "prompt": "Con cán bộ viên chức đang làm việc trong trường được miễn giảm học phí như thế nào?",
+    "response": "Sinh viên là con cán bộ viên chức đang làm việc trong trường được miễn giảm học phí theo quy chế chi tiêu nội bộ hàng năm của nhà trường."
+    },
+    {
+    "prompt": "Sinh viên cần nộp hồ sơ xét miễn giảm học phí vào thời điểm nào?",
+    "response": "Sinh viên cần nộp hồ sơ xét miễn giảm học phí vào 30 ngày đầu mỗi học kỳ."
+    },
+    {
+    "prompt": "Phòng nào phụ trách công tác miễn giảm học phí tại Trường Đại học Quốc tế?",
+    "response": "Phòng Công tác Sinh viên (CTSV) phụ trách công tác miễn giảm học phí tại Trường Đại học Quốc tế."
+    },
+    {
+    "prompt": "Ai là cán bộ phụ trách mảng công việc về chế độ miễn giảm học phí tại ĐHQT?",
+    "response": "Anh Hà Xuân Quang là cán bộ phụ trách mảng công việc về chế độ MGHP và trả lời tất cả các thắc mắc có liên quan (điện thoại liên hệ: (84-8) 37244270 - Số nội bộ: 3334)."
+    },
+    {
+    "prompt": "Sinh viên có thể download mẫu đơn xét miễn giảm học phí ở đâu?",
+    "response": "Sinh viên có thể download mẫu đơn xét MGHP tại đường dẫn: http://osa.hcmiu.edu.vn/2012/04/10/cac-bieu-mau-thuong-su-dung-cua-phong-ctsv/"
+    },
+    {
+    "prompt": "Ai ký thông báo hướng dẫn thực hiện chính sách miễn giảm học phí của ĐHQT?",
+    "response": "Thông báo hướng dẫn thực hiện chính sách miễn giảm học phí của ĐHQT được ký bởi Đào Thị Kim Oanh - Trưởng phòng CTSV."
+    },
+    {
+    "prompt": "Các chính sách miễn giảm học phí được chia thành mấy loại nguồn?",
+    "response": "Các chính sách miễn giảm học phí được chia thành 2 loại nguồn: Chính sách theo quy định của nhà nước (theo Nghị định 74) và chính sách riêng của trường ĐHQT."
+    },
+    {
+    "prompt": "Sinh viên mồ côi cả cha lẫn mẹ cần bổ sung giấy tờ gì vào đầu mỗi năm học?",
+    "response": "Sinh viên mồ côi cả cha lẫn mẹ cần bổ sung giấy xác nhận của UBND cấp xã cấp cho đối tượng là học sinh, sinh viên mồ côi cả cha lẫn mẹ vào đầu mỗi năm học."
+    },
+    {
+    "prompt": "Đối tượng nào được miễn giảm 25% học phí theo chính sách của Trường Đại học Quốc tế?",
+    "response": "Có hai đối tượng được miễn giảm 25% học phí thực: (1) Sinh viên bị tàn tật, khuyết tật thuộc hộ cận nghèo theo quy định của Thủ tướng Chính phủ; (2) Sinh viên dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế - xã hội khó khăn và đặc biệt khó khăn."
+    },
+    {
+    "prompt": "Số thông báo của văn bản hướng dẫn chính sách miễn giảm học phí tại ĐHQT là gì?",
+    "response": "Số thông báo của văn bản hướng dẫn chính sách miễn giảm học phí tại ĐHQT là 486-TB/ĐHQT-CTSV."
+    },
+    {
+    "prompt": "Theo thông báo, sinh viên dân tộc thiểu số thuộc hộ nghèo cần bổ sung giấy tờ gì vào đầu mỗi năm học?",
+    "response": "Sinh viên dân tộc thiểu số thuộc hộ nghèo cần bổ sung giấy xác nhận hộ nghèo, hộ cận nghèo của chính quyền địa phương vào đầu mỗi năm học."
+    }
+    ]

@@ -1,0 +1,102 @@
+[
+    {
+      "prompt": "Quyết định ban hành Quy định chế độ chính sách của trường Đại học Quốc tế có số quyết định và ngày ký là gì?",
+      "response": "Quyết định ban hành Quy định chế độ chính sách của trường Đại học Quốc tế có số quyết định 191/QĐ-ĐHQT-CTSV và được ký ngày 31 tháng 03 năm 2011."
+    },
+    {
+      "prompt": "Quy định chế độ chính sách của trường Đại học Quốc tế được áp dụng từ thời điểm nào?",
+      "response": "Quy định chế độ chính sách của trường Đại học Quốc tế có hiệu lực thi hành kể từ học kỳ 1, năm học 2010 - 2011 như được nêu trong Điều 4 của Quyết định."
+    },
+    {
+      "prompt": "Quy định chế độ chính sách được ban hành dựa trên những căn cứ pháp lý nào?",
+      "response": "Quy định chế độ chính sách được ban hành dựa trên các căn cứ pháp lý: Quyết định số 260/2003/QĐ-TTg về việc thành lập Trường Đại học Quốc tế; Quyết định số 190/QĐ-ĐHQG-TCCB về việc ban hành Qui chế về tổ chức và hoạt động của Trường Đại học Quốc tế; Nghị định số 49/2010/NĐ-CP và Thông tư liên tịch số 29/2010/TTLT-BGDĐT-BTC-BLĐTBXH về quy định về miễn, giảm học phí; Quyết định số 266 ĐHQT/QĐ-ĐT về việc ban hành chế độ chính sách và học bổng cho sinh viên trường."
+    },
+    {
+      "prompt": "Đối tượng nào được miễn giảm 60% học phí theo quy định chế độ chính sách?",
+      "response": "Có hai đối tượng được miễn giảm 60% học phí: (1) Anh hùng lực lượng vũ trang; Anh hùng lao động; thương binh; người hưởng chính sách như thương binh; con của liệt sĩ; con của thương binh, con của bệnh binh và con của người hưởng chính sách như thương binh bị mất sức lao động từ 21% trở lên; (2) Sinh viên mồ côi cả cha lẫn mẹ, không nơi nương tựa."
+    },
+    {
+      "prompt": "Sinh viên mồ côi cha hoặc mồ côi mẹ được miễn giảm bao nhiêu phần trăm học phí?",
+      "response": "Sinh viên mồ côi cha hoặc mồ côi mẹ được miễn giảm 25% học phí theo quy định chế độ chính sách."
+    },
+    {
+      "prompt": "Thủ tục xét miễn giảm học phí cho sinh viên mồ côi cha hoặc mẹ gồm những giấy tờ nào?",
+      "response": "Thủ tục xét miễn giảm học phí cho sinh viên mồ côi cha hoặc mẹ gồm: Bản sao công chứng giấy khai sinh; Bản sao giấy chứng tử của cha hoặc mẹ; Xác nhận của chính quyền địa phương; Đơn xin xét miễn giảm."
+    },
+    {
+      "prompt": "Sinh viên bị tàn tật và có khó khăn về kinh tế cần đáp ứng điều kiện gì để được miễn giảm học phí?",
+      "response": "Sinh viên bị tàn tật và có khó khăn về kinh tế cần đáp ứng điều kiện: khả năng lao động bị suy giảm từ 21% trở lên do tàn tật và được Hội đồng y khoa xác nhận để được miễn giảm học phí 25%."
+    },
+    {
+      "prompt": "Sinh viên có cha mẹ thường trú tại vùng cao miền núi và vùng sâu hải đảo có khó khăn về kinh tế được miễn giảm học phí như thế nào?",
+      "response": "Sinh viên có cha mẹ thường trú tại vùng cao miền núi (trừ thành phố, thị xã, thị trấn) và vùng sâu hải đảo có khó khăn về kinh tế được miễn giảm 25% học phí."
+    },
+    {
+      "prompt": "Sinh viên dân tộc thiểu số thường trú tại vùng cao miền núi và vùng sâu hải đảo có khó khăn về kinh tế được miễn giảm học phí bao nhiêu phần trăm?",
+      "response": "Sinh viên dân tộc thiểu số thường trú tại vùng cao miền núi (trừ thành phố, thị xã, thị trấn) và vùng sâu hải đảo có khó khăn về kinh tế được miễn giảm 25% học phí."
+    },
+    {
+      "prompt": "Sinh viên là con cán bộ, công nhân viên chức mà cha hoặc mẹ bị tai nạn lao động được hưởng mức miễn giảm học phí như thế nào?",
+      "response": "Sinh viên là con cán bộ, công nhân viên chức mà cha hoặc mẹ bị tai nạn lao động được hưởng trợ cấp thường xuyên được miễn giảm 10% học phí."
+    },
+    {
+      "prompt": "Trường hợp sinh viên có anh chị em ruột đang học tại trường ĐHQT được miễn giảm học phí thế nào?",
+      "response": "Sinh viên có anh chị em ruột hiện đang học tại trường Đại học Quốc tế (áp dụng kể từ người thứ hai) được miễn giảm 10% học phí."
+    },
+    {
+      "prompt": "Thủ tục xét miễn giảm học phí cho sinh viên có anh chị em ruột học cùng trường gồm những giấy tờ gì?",
+      "response": "Thủ tục xét miễn giảm học phí cho sinh viên có anh chị em ruột học cùng trường gồm: Bản sao công chứng hộ khẩu thường trú hoặc bản sao công chứng giấy khai sinh của 2 anh chị em ruột; Đơn xin xét miễn giảm."
+    },
+    {
+      "prompt": "Sinh viên thuộc diện hộ đói nghèo được miễn giảm học phí bao nhiêu phần trăm?",
+      "response": "Sinh viên thuộc diện hộ đói nghèo theo quy định có xác nhận của Sở LĐTB&XH được miễn giảm 10% học phí."
+    },
+    {
+      "prompt": "Con của cán bộ viên chức đang làm việc tại trường ĐHQT được miễn giảm học phí như thế nào?",
+      "response": "Sinh viên có cha hoặc mẹ là CBVC cơ hữu đang làm việc tại trường ĐH Quốc Tế được miễn giảm học phí theo thời gian công tác: 15% (dưới 1 năm), 20% (từ 1–3 năm), 30% (trên 3 năm). Các mức này được điều chỉnh theo Quy chế Chi tiêu nội bộ hằng năm của Nhà trường."
+    },
+    {
+      "prompt": "Thời hạn nộp hồ sơ xét miễn giảm học phí là khi nào?",
+      "response": "Sinh viên nộp hồ sơ đủ theo yêu cầu tại Phòng Công tác sinh viên trong vòng 20 ngày kể từ khi bắt đầu học kỳ. Trong trường hợp hồ sơ nộp quá hạn quy định, hồ sơ sẽ được nhận và giải quyết ở học kỳ sau và không được truy lĩnh cho học kỳ trước đó."
+    },
+    {
+      "prompt": "Thời gian giải quyết hồ sơ xét miễn giảm học phí là khi nào?",
+      "response": "Thời gian giải quyết xét và chi trả diễn ra trước kỳ thi giữa kỳ của học kỳ hiện xét."
+    },
+    {
+      "prompt": "Sinh viên được miễn giảm học phí trong học kỳ hè như thế nào?",
+      "response": "Riêng học kỳ hè nếu sinh viên có phát sinh học phí thì sẽ được xét miễn giảm theo quy định miễn giảm của nhà trường. Vì theo nghị định 49 và Thông tư 29 thì sinh viên chỉ được miễn giảm 2 học kỳ chính."
+    },
+    {
+      "prompt": "Quy định về việc sinh viên thuộc diện được hưởng nhiều chính sách hỗ trợ cùng lúc như thế nào?",
+      "response": "Các đối tượng thuộc diện được miễn giảm học phí và hỗ trợ chi phí học tập nếu cùng một lúc được hưởng nhiều chính sách hỗ trợ khác nhau thì chỉ được hưởng một chế độ ưu đãi cao nhất."
+    },
+    {
+      "prompt": "Trường hợp sinh viên học ở nhiều trường hoặc nhiều khoa cùng lúc thì được miễn giảm học phí như thế nào?",
+      "response": "Sinh viên thuộc diện được miễn, giảm học phí mà cùng một lúc học ở nhiều trường (hoặc nhiều khoa trong cùng một trường) thì chỉ được hưởng chế độ ưu đãi về miễn, giảm học phí tại một trường (khoa) duy nhất."
+    },
+    {
+      "prompt": "Đơn vị nào hướng dẫn thủ tục và xét diện miễn giảm học phí?",
+      "response": "Đơn vị hướng dẫn thủ tục và xét diện miễn giảm học phí là Phòng CTSV (Phòng Công tác Sinh viên)."
+    },
+    {
+      "prompt": "Đơn vị nào thực hiện việc qui đổi số tiền miễn giảm học phí?",
+      "response": "Đơn vị qui đổi số tiền miễn giảm học phí là Phòng Đào tạo."
+    },
+    {
+      "prompt": "Đơn vị nào thông báo và chi trả tiền miễn giảm học phí cho sinh viên?",
+      "response": "Đơn vị thông báo và chi trả trực tiếp tiền miễn giảm học phí cho sinh viên là Phòng Kế hoạch Tài chính."
+    },
+    {
+      "prompt": "Ai có quyền sửa đổi điều chỉnh quy định về chế độ chính sách?",
+      "response": "Chỉ Hiệu trưởng mới có quyền sửa đổi điều chỉnh quy định về chế độ chính sách."
+    },
+    {
+      "prompt": "Những đối tượng nào cần bổ sung giấy xác nhận vào đầu mỗi năm học?",
+      "response": "Những đối tượng cần bổ sung giấy xác nhận vào đầu mỗi năm học gồm: Đối tượng 1 (phải bổ sung giấy xác nhận của phòng Thương binh Xã hội địa phương); Đối tượng 5, 6, 9 (phải bổ sung giấy xác nhận của địa phương); Đối tượng 10 (phải bổ sung Giấy xác nhận nhân thân và thời gian công tác của Phòng Tổ chức Hành chính)."
+    },
+    {
+      "prompt": "Những đối tượng nào không cần làm lại hồ sơ miễn giảm học phí ở các học kỳ tiếp theo?",
+      "response": "Những đối tượng không cần làm lại hồ sơ miễn giảm học phí ở các học kỳ tiếp theo là: Đối tượng 2, 3, 4, 7 (sinh viên mồ côi cả cha lẫn mẹ; sinh viên mồ côi cha hoặc mẹ; sinh viên bị tàn tật và có khó khăn về kinh tế; sinh viên là con cán bộ công nhân viên chức mà cha hoặc mẹ bị tai nạn lao động)."
+    }
+]
