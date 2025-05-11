@@ -1,0 +1,257 @@
+[
+    {
+        "prompt": "Điều 1 Quyết định này áp dụng cho đối tượng nào?",
+        "response": "Quyết định này áp dụng đối với người học khuyết tật học tập trình độ đại học tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+        "prompt": "Điều 2 Quyết định này có hiệu lực thi hành từ thời gian nào?",
+        "response": "Quyết định này có hiệu lực thi hành từ học kỳ 2, năm học 2024 - 2025."
+    },
+    {
+        "prompt": "Điều 3 của Quyết định này yêu cầu ai chịu trách nhiệm thi hành?",
+        "response": "Trưởng phòng Phòng Công tác Sinh viên, Trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này."
+    },
+    {
+        "prompt": "Chương I của Quy định nói về điều gì?",
+        "response": "Chương I quy định chung về các chính sách hỗ trợ người học khuyết tật tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+        "prompt": "Điều 4 phân loại người khuyết tật thành bao nhiêu nhóm?",
+        "response": "Điều 4 phân loại người khuyết tật thành 6 nhóm, bao gồm: khuyết tật vận động, khuyết tật nghe, nói, khuyết tật nhìn, khuyết tật thần kinh, tâm thần, khuyết tật trí tuệ và khuyết tật khác."
+    },
+    {
+        "prompt": "Người khuyết tật được chia thành mấy mức độ theo Quy định?",
+        "response": "Người khuyết tật được chia thành ba mức độ: khuyết tật đặc biệt nặng, khuyết tật nặng và khuyết tật nhẹ."
+    },
+    {
+        "prompt": "Điều 6 của Quy định nói về những gì?",
+        "response": "Điều 6 của Quy định nói về các chính sách hỗ trợ học tập, bao gồm miễn giảm môn học, hỗ trợ thi cử, sắp xếp thời khóa biểu và hỗ trợ tài liệu."
+    },
+    {
+        "prompt": "Theo Điều 6, người học khuyết tật có thể được miễn hoặc giảm những môn học nào?",
+        "response": "Theo Điều 6, người học khuyết tật có thể được miễn giảm một số môn học hoặc hoạt động giáo dục trong chương trình giáo dục chung, nếu không có khả năng đáp ứng các yêu cầu của chương trình."
+    },
+    {
+        "prompt": "Điều 7 của Quy định yêu cầu gì về cơ sở vật chất?",
+        "response": "Điều 7 yêu cầu nhà trường đảm bảo tất cả các cơ sở vật chất đều có lối tiếp cận phù hợp cho người học khuyết tật, bao gồm bàn ghế ngồi học, lối đi dành cho xe lăn, thang máy, nhà vệ sinh và các khu vực công cộng khác."
+    },
+    {
+        "prompt": "Điều 8 của Quy định đề cập đến những gì?",
+        "response": "Điều 8 của Quy định đề cập đến việc hỗ trợ người học khuyết tật tham gia các hoạt động và chăm sóc sức khỏe tinh thần, bao gồm các dịch vụ tư vấn học tập, tâm lý và hoạt động ngoại khóa."
+    },{
+        "prompt": "Điều 9 của Quy định nói về chính sách hỗ trợ tài chính nào?",
+        "response": "Điều 9 quy định rằng người học khuyết tật có thể nhận học bổng hoặc trợ cấp học phí từ quỹ hỗ trợ người học khuyết tật của nhà trường."
+    },
+    {
+        "prompt": "Quy định tại Điều 9 của Quy định có chính sách miễn, giảm học phí nào không?",
+        "response": "Theo Điều 9, người học khuyết tật tại Trường Đại học Quốc tế được miễn, giảm học phí và hỗ trợ chi phí học tập theo các quy định của Nghị định số 81/2021/NĐ-CP và các quyết định khác của nhà trường."
+    },
+    {
+        "prompt": "Điều 10 đề cập đến hỗ trợ gì để giúp người học khuyết tật hòa nhập với cuộc sống?",
+        "response": "Điều 10 quy định về việc trợ giúp giáo dục nghề nghiệp, tạo việc làm, hỗ trợ sinh kế và hỗ trợ tiếp cận giao thông cho người học khuyết tật."
+    },
+    {
+        "prompt": "Điều 11 của Quy định đề cập đến quy trình yêu cầu hỗ trợ, gồm những bước nào?",
+        "response": "Điều 11 quy định quy trình yêu cầu hỗ trợ bao gồm các bước: đăng ký thông tin, xác định nhu cầu, phê duyệt và triển khai, giám sát và đánh giá."
+    },
+    {
+        "prompt": "Để yêu cầu hỗ trợ, người học khuyết tật cần phải nộp hồ sơ nào?",
+        "response": "Người học khuyết tật cần nộp hồ sơ yêu cầu hỗ trợ cùng với Giấy xác nhận khuyết tật, bao gồm Đơn đề nghị hỗ trợ và Giấy chứng nhận về khuyết tật do cơ quan có thẩm quyền cấp."
+    },
+    {
+        "prompt": "Điều 12 quy định về trách nhiệm của ai trong việc thực hiện chính sách hỗ trợ?",
+        "response": "Điều 12 quy định trách nhiệm của Ban Giám hiệu, Phòng Công tác Sinh viên, Phòng Đào tạo Đại học, các Khoa/Bộ môn và các đơn vị liên quan trong việc thực hiện chính sách hỗ trợ."
+    },
+    {
+        "prompt": "Điều 12 yêu cầu Phòng Công tác Sinh viên làm gì?",
+        "response": "Phòng Công tác Sinh viên là đơn vị đầu mối tiếp nhận và xử lý các yêu cầu hỗ trợ từ người học khuyết tật."
+    },
+    {
+        "prompt": "Điều 12 yêu cầu các Khoa/Bộ môn làm gì?",
+        "response": "Các Khoa/Bộ môn phối hợp với Phòng Công tác Sinh viên và các đơn vị quản lý đào tạo để theo dõi và nắm bắt tình hình học tập của người học khuyết tật để kịp thời hỗ trợ."
+    },
+    {
+        "prompt": "Phòng Kế hoạch Tài chính có trách nhiệm gì theo Điều 12?",
+        "response": "Phòng Kế hoạch Tài chính có trách nhiệm chi trả các khoản hỗ trợ cho người học khuyết tật."
+    },
+    {
+        "prompt": "Phòng y tế có vai trò gì trong hỗ trợ người học khuyết tật?",
+        "response": "Phòng y tế phối hợp với Phòng Công tác Sinh viên đề xuất và thực hiện chế độ chăm sóc sức khỏe, tinh thần, tư vấn tâm lý, hỗ trợ thuốc men cho người học khuyết tật."
+    },
+    {
+        "prompt": "Điều 1 của Quy định này áp dụng cho đối tượng nào?",
+        "response": "Điều 1 quy định áp dụng đối với người học khuyết tật học tập trình độ đại học tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+        "prompt": "Mục đích của Quy định là gì?",
+        "response": "Mục đích của Quy định này là đảm bảo sự công bằng và hỗ trợ cho người học khuyết tật tại Trường Đại học Quốc tế, tạo điều kiện cho họ học tập và hòa nhập với môi trường giáo dục đại học."
+    },
+    {
+        "prompt": "Quy định này có bao nhiêu nguyên tắc chung?",
+        "response": "Quy định này có ba nguyên tắc chung: công bằng và không phân biệt đối xử, bảo mật thông tin, tôn trọng và tạo điều kiện hòa nhập."
+    },
+    {
+        "prompt": "Khuyết tật được phân loại theo các dạng nào?",
+        "response": "Khuyết tật được phân loại thành các dạng như khuyết tật vận động, khuyết tật nghe, nói, khuyết tật nhìn, khuyết tật thần kinh, tâm thần, khuyết tật trí tuệ và khuyết tật khác."
+    },
+    {
+        "prompt": "Mức độ khuyết tật được chia thành bao nhiêu loại?",
+        "response": "Mức độ khuyết tật được chia thành ba loại: khuyết tật đặc biệt nặng, khuyết tật nặng và khuyết tật nhẹ."
+    },
+    {
+        "prompt": "Kế hoạch giáo dục cá nhân (IEP) là gì?",
+        "response": "Kế hoạch giáo dục cá nhân (IEP) là tài liệu được xây dựng để đáp ứng nhu cầu giáo dục đặc biệt của người học, bao gồm sự hỗ trợ từ giảng viên, chuyên viên tâm lý học đường và cha mẹ."
+    },
+    {
+        "prompt": "Ai là đối tượng được ưu tiên tuyển sinh theo Quy định này?",
+        "response": "Người khuyết tật đặc biệt nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền sẽ được xét tuyển thẳng vào học đại học."
+    },
+    {
+        "prompt": "Điều kiện nào để người khuyết tật nặng được hưởng ưu tiên trong tuyển sinh?",
+        "response": "Người khuyết tật nặng sẽ được hưởng chính sách ưu tiên khi đăng ký xét tuyển vào trường đại học theo quy định tại Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo."
+    },
+    {
+        "prompt": "Điều 6 quy định hỗ trợ học tập cho người học khuyết tật như thế nào?",
+        "response": "Điều 6 quy định miễn, giảm một số nội dung môn học, môn học hoặc hoạt động giáo dục, tạo điều kiện sắp xếp thời khóa biểu và cơ sở học tập thuận lợi cho người học khuyết tật."
+    },
+    {
+        "prompt": "Có những hình thức hỗ trợ thi cử nào cho người học khuyết tật?",
+        "response": "Các hình thức hỗ trợ thi cử bao gồm kéo dài thời gian thi, cho phép mang theo trang thiết bị hỗ trợ, bố trí phòng thi riêng, phát đề thi phóng to, hỗ trợ đọc, viết và thi bằng hình thức khác."
+    },
+    {
+        "prompt": "Điều 7 của Quy định quy định gì về cơ sở vật chất?",
+        "response": "Điều 7 quy định nhà trường sẽ đảm bảo các cơ sở vật chất có lối tiếp cận phù hợp cho người học khuyết tật, bao gồm bàn ghế ngồi học, lối đi dành cho xe lăn, thang máy và nhà vệ sinh."
+    },
+    {
+        "prompt": "Điều 8 đề cập đến việc hỗ trợ tham gia các hoạt động như thế nào?",
+        "response": "Điều 8 quy định nhà trường sẽ tạo điều kiện để người học khuyết tật tham gia vào các nhóm hỗ trợ đồng trang lứa, các câu lạc bộ và các chương trình phát triển kỹ năng mềm, kỹ năng sống."
+    },
+    {
+        "prompt": "Chính sách hỗ trợ tài chính cho người học khuyết tật theo Điều 9 là gì?",
+        "response": "Chính sách hỗ trợ tài chính theo Điều 9 bao gồm học bổng, trợ cấp học phí từ quỹ hỗ trợ người học khuyết tật, miễn giảm học phí và hỗ trợ chi phí học tập theo các quy định của nhà trường."
+    },
+    {
+        "prompt": "Quy định về các khoản hỗ trợ khác cho người học khuyết tật theo Điều 9 như thế nào?",
+        "response": "Các khoản hỗ trợ khác như học bổng tài trợ từ doanh nghiệp, các khoản vay ngân hàng, bảo hiểm y tế sẽ được xem xét dựa trên nhu cầu và tình trạng tài chính của từng người học khuyết tật."
+    },
+    {
+        "prompt": "Trường hợp nào người học khuyết tật không được nhận học bổng và kinh phí hỗ trợ?",
+        "response": "Nếu người học khuyết tật bỏ học hoặc bị buộc thôi học, họ sẽ không được nhận học bổng và kinh phí hỗ trợ từ thời điểm bỏ học hoặc thôi học."
+    },
+    {
+        "prompt": "Điều 10 quy định về hỗ trợ sinh kế như thế nào?",
+        "response": "Điều 10 quy định nhà trường ưu tiên giới thiệu người học khuyết tật đến các nhà tuyển dụng và doanh nghiệp có mối quan hệ hợp tác với trường để tạo việc làm và hỗ trợ sinh kế."
+    },
+    {
+        "prompt": "Điều 10 có chính sách nào liên quan đến giao thông không?",
+        "response": "Điều 10 quy định hàng năm, nhà trường tổng hợp nguyện vọng của người học khuyết tật và gửi đề xuất sang Trung tâm Vận tải Hành khách Công cộng để tài trợ chi phí di chuyển bằng phương tiện công cộng."
+    },
+    {
+        "prompt": "Điều 11 quy định quy trình yêu cầu hỗ trợ gồm những bước nào?",
+        "response": "Quy trình yêu cầu hỗ trợ bao gồm các bước: đăng ký thông tin, xác định nhu cầu, phê duyệt và triển khai, giám sát và đánh giá."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có trách nhiệm gì theo Điều 11?",
+        "response": "Phòng Công tác Sinh viên có trách nhiệm tiếp nhận và xử lý các yêu cầu hỗ trợ từ người học khuyết tật, xác định nhu cầu hỗ trợ và phối hợp triển khai các biện pháp hỗ trợ."
+    },
+    {
+        "prompt": "Phê duyệt và triển khai các biện pháp hỗ trợ sẽ được thực hiện như thế nào?",
+        "response": "Sau khi xác định nhu cầu hỗ trợ, nhà trường sẽ phê duyệt và thực hiện các biện pháp hỗ trợ phù hợp, đồng thời thông báo cho người học khuyết tật."
+    },
+    {
+        "prompt": "Việc giám sát và đánh giá hiệu quả các biện pháp hỗ trợ sẽ thực hiện như thế nào?",
+        "response": "Nhà trường sẽ giám sát và đánh giá định kỳ hiệu quả của các biện pháp hỗ trợ và điều chỉnh nếu cần thiết để đảm bảo người học khuyết tật nhận được sự giúp đỡ tối ưu."
+    },
+    {
+        "prompt": "Điều 12 quy định về tổ chức thực hiện chính sách hỗ trợ như thế nào?",
+        "response": "Điều 12 quy định rằng Ban Giám hiệu, Phòng Công tác Sinh viên, Phòng Đào tạo Đại học, các Khoa/Bộ môn và các đơn vị liên quan có trách nhiệm triển khai thực hiện các chính sách hỗ trợ cho người học khuyết tật."
+    },
+    {
+        "prompt": "Các Khoa/Bộ môn và cố vấn học tập có trách nhiệm gì trong việc hỗ trợ người học khuyết tật?",
+        "response": "Các Khoa/Bộ môn và cố vấn học tập phối hợp với Phòng Công tác Sinh viên để theo dõi và hỗ trợ người học khuyết tật trong học tập và sinh hoạt."
+    },
+    {
+        "prompt": "Phòng Kế hoạch Tài chính có trách nhiệm gì trong việc hỗ trợ tài chính cho người học khuyết tật?",
+        "response": "Phòng Kế hoạch Tài chính có trách nhiệm chi trả các khoản hỗ trợ tài chính cho người học khuyết tật theo quy định của nhà trường."
+    },
+    {
+        "prompt": "Phòng Vật tư Thiết bị có nhiệm vụ gì liên quan đến người học khuyết tật?",
+        "response": "Phòng Vật tư Thiết bị có nhiệm vụ mua sắm và trang bị các phương tiện, thiết bị hỗ trợ riêng biệt dành cho người học khuyết tật."
+    },
+    {
+        "prompt": "Phòng y tế có trách nhiệm gì đối với người học khuyết tật?",
+        "response": "Phòng y tế phối hợp với Phòng Công tác Sinh viên để thực hiện chế độ chăm sóc sức khỏe, tư vấn tâm lý và hỗ trợ thuốc men cho người học khuyết tật."
+    },
+    {
+        "prompt": "Đoàn thanh niên và Hội sinh viên có vai trò gì trong việc hỗ trợ người học khuyết tật?",
+        "response": "Đoàn thanh niên và Hội sinh viên phối hợp với Phòng Công tác Sinh viên để hỗ trợ người học khuyết tật trong các hoạt động ngoại khóa và rèn luyện."
+    },
+    {
+        "prompt": "Điều 13 quy định về việc tổ chức các khóa tập huấn cho giảng viên như thế nào?",
+        "response": "Điều 13 quy định nhà trường tổ chức các khóa tập huấn định kỳ cho giảng viên về cách thức giảng dạy và hỗ trợ sinh viên khuyết tật, nâng cao nhận thức và kỹ năng của giảng viên trong việc dạy học cho người học khuyết tật."
+    },
+    {
+        "prompt": "Điều 14 quy định về bảo mật thông tin của người học khuyết tật như thế nào?",
+        "response": "Điều 14 quy định mọi thông tin liên quan đến tình trạng khuyết tật của người học phải được bảo mật, chỉ được chia sẻ với những người có thẩm quyền và các cán bộ cần thiết để hỗ trợ người học."
+    },
+    {
+        "prompt": "Quy định về việc quản lý hồ sơ của người học khuyết tật được thực hiện như thế nào?",
+        "response": "Các hồ sơ liên quan đến người học khuyết tật sẽ được Phòng Công tác Sinh viên quản lý và lưu trữ một cách khoa học, bảo mật, đồng thời cung cấp thông tin khi có yêu cầu hợp pháp."
+    },
+    {
+        "prompt": "Điều 15 quy định về quyền và nghĩa vụ của người học khuyết tật?",
+        "response": "Điều 15 quy định quyền của người học khuyết tật bao gồm quyền được học tập bình đẳng, quyền yêu cầu hỗ trợ và quyền bảo mật thông tin. Nghĩa vụ của họ là tuân thủ các quy định của nhà trường và hợp tác trong việc cung cấp thông tin cần thiết cho công tác hỗ trợ."
+    },
+    {
+        "prompt": "Điều 16 quy định về việc xử lý vi phạm của người học khuyết tật như thế nào?",
+        "response": "Điều 16 quy định nếu người học khuyết tật vi phạm quy định của trường, các biện pháp xử lý sẽ được thực hiện giống như đối với tất cả sinh viên, nhưng sẽ xem xét tình trạng khuyết tật của họ để đưa ra giải pháp hỗ trợ và điều chỉnh hợp lý."
+    },
+    {
+        "prompt": "Điều 17 quy định về việc điều chỉnh và sửa đổi quy định này như thế nào?",
+        "response": "Điều 17 quy định việc điều chỉnh và sửa đổi Quy định này sẽ được thực hiện bởi Ban Giám hiệu nhà trường khi có sự thay đổi trong chính sách hỗ trợ người học khuyết tật hoặc khi có yêu cầu từ các cơ quan nhà nước có thẩm quyền."
+    },
+    {
+        "prompt": "Có chương trình nào hỗ trợ việc làm cho người học khuyết tật sau khi tốt nghiệp không?",
+        "response": "Chương trình hỗ trợ việc làm cho người học khuyết tật sau khi tốt nghiệp bao gồm việc kết nối với các công ty, doanh nghiệp trong và ngoài nước có nhu cầu tuyển dụng người khuyết tật, giúp họ hòa nhập vào thị trường lao động."
+    },
+    {
+        "prompt": "Có hình thức học trực tuyến nào dành riêng cho người học khuyết tật không?",
+        "response": "Nhà trường cung cấp các khóa học trực tuyến linh hoạt cho người học khuyết tật, đảm bảo mọi người có thể tiếp cận kiến thức một cách dễ dàng mà không gặp phải những rào cản về vị trí địa lý hay phương tiện di chuyển."
+    },
+    {
+        "prompt": "Trường có tổ chức các hoạt động ngoại khóa cho người học khuyết tật không?",
+        "response": "Trường tổ chức các hoạt động ngoại khóa phù hợp với nhu cầu và khả năng của người học khuyết tật, bao gồm các câu lạc bộ, hội thảo và các sự kiện giao lưu, tạo cơ hội cho họ phát triển kỹ năng mềm và hòa nhập xã hội."
+    },
+    {
+        "prompt": "Có chính sách gì hỗ trợ người học khuyết tật trong việc tham gia nghiên cứu khoa học?",
+        "response": "Trường hỗ trợ người học khuyết tật tham gia nghiên cứu khoa học thông qua các quỹ nghiên cứu và các chương trình học bổng nghiên cứu dành riêng cho sinh viên khuyết tật, đồng thời tạo điều kiện để họ tiếp cận tài liệu và thiết bị nghiên cứu phù hợp."
+    },
+    {
+        "prompt": "Quy định về các hình thức kiểm tra và đánh giá đối với người học khuyết tật như thế nào?",
+        "response": "Hình thức kiểm tra và đánh giá đối với người học khuyết tật có thể được điều chỉnh tùy theo nhu cầu và khả năng của từng người học, bao gồm kéo dài thời gian làm bài, hỗ trợ thêm về thiết bị hỗ trợ, và thực hiện kiểm tra dưới các hình thức khác nhau như bài kiểm tra trực tuyến hoặc báo cáo thay vì thi truyền thống."
+    },
+    {
+        "prompt": "Nhà trường có tổ chức các khóa đào tạo nghề cho người học khuyết tật không?",
+        "response": "Nhà trường tổ chức các khóa đào tạo nghề cho người học khuyết tật, cung cấp các kỹ năng nghề phù hợp với từng loại khuyết tật, giúp họ tự tin hơn khi gia nhập thị trường lao động."
+    },
+    {
+        "prompt": "Điều 18 quy định về việc xây dựng môi trường học tập hòa nhập như thế nào?",
+        "response": "Điều 18 quy định nhà trường xây dựng môi trường học tập hòa nhập cho người học khuyết tật thông qua việc điều chỉnh cơ sở vật chất, phương pháp giảng dạy, và tạo cơ hội cho họ tham gia các hoạt động xã hội, giúp họ cảm thấy mình là một phần không thể thiếu trong cộng đồng sinh viên."
+    },
+    {
+        "prompt": "Các chính sách hỗ trợ sức khỏe tâm lý cho người học khuyết tật là gì?",
+        "response": "Chính sách hỗ trợ sức khỏe tâm lý cho người học khuyết tật bao gồm việc cung cấp dịch vụ tư vấn tâm lý miễn phí, tổ chức các buổi hội thảo về sức khỏe tâm lý, và hỗ trợ tạo không gian an toàn cho người học để họ có thể giải tỏa stress và cảm thấy được tôn trọng."
+    },
+    {
+        "prompt": "Điều 19 quy định về quyền lợi của người học khuyết tật trong các hoạt động thể thao và văn hóa như thế nào?",
+        "response": "Điều 19 quy định người học khuyết tật có quyền tham gia vào các hoạt động thể thao và văn hóa của nhà trường, với các hình thức và phương tiện được điều chỉnh phù hợp với nhu cầu và khả năng của họ."
+    },
+    {
+        "prompt": "Trường có chính sách hỗ trợ di chuyển cho người học khuyết tật không?",
+        "response": "Trường hỗ trợ người học khuyết tật về phương tiện di chuyển trong khuôn viên trường, bao gồm việc cung cấp xe điện hoặc hỗ trợ chi phí đi lại nếu cần thiết."
+    },
+    {
+        "prompt": "Điều 20 quy định về việc tổ chức các hội thảo chuyên đề cho người học khuyết tật như thế nào?",
+        "response": "Điều 20 quy định nhà trường sẽ tổ chức các hội thảo chuyên đề cho người học khuyết tật, nhằm cung cấp thông tin về các cơ hội nghề nghiệp, các chính sách hỗ trợ, và giúp người học khuyết tật giao lưu, học hỏi từ những người có cùng hoàn cảnh."
+    }
+]

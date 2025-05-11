@@ -1,0 +1,442 @@
+[
+    {
+        "prompt": "Bảng 1: Thang điểm 10 có bao nhiêu mức xếp loại?",
+        "response": "Thang điểm 10 có 5 mức xếp loại."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Giỏi' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 8.0 đến 10."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Khá' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Khá' có điểm số từ 6.5 đến 7.9."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Trung bình' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 5.0 đến 6.4."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Kém' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 5.0."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Giỏi' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 8.0 trở lên."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Khá' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Khá' có điểm số từ 6.5 đến dưới 8.0."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Trung bình' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 5.0 đến dưới 6.5."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Kém' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 5.0."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Giỏi' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 3.6 trở lên."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Khá' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Khá' có điểm số từ 2.5 đến dưới 3.6."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Trung bình' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 1.5 đến dưới 2.5."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Kém' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 1.5."
+    },
+    {
+        "prompt": "Bảng 3: Thang điểm 4 có bao nhiêu mức xếp loại?",
+        "response": "Thang điểm 4 có 4 mức xếp loại."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Giỏi' có điểm số là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 3.6 trở lên trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Khá' có điểm số là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Khá' có điểm số từ 2.5 đến dưới 3.6 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Trung bình' có điểm số là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 1.5 đến dưới 2.5 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Kém' có điểm số là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 1.5 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số từ 3.6 trở lên là xếp loại gì?",
+        "response": "Điểm số từ 3.6 trở lên là xếp loại 'Giỏi'."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số từ 2.5 đến dưới 3.6 là xếp loại gì?",
+        "response": "Điểm số từ 2.5 đến dưới 3.6 là xếp loại 'Khá'."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số từ 1.5 đến dưới 2.5 là xếp loại gì?",
+        "response": "Điểm số từ 1.5 đến dưới 2.5 là xếp loại 'Trung bình'."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số dưới 1.5 là xếp loại gì?",
+        "response": "Điểm số dưới 1.5 là xếp loại 'Kém'."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Giỏi' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 8.0 đến 10 trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Khá' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Khá' có điểm số từ 6.5 đến 7.9 trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Trung bình' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 5.0 đến 6.4 trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 1: Xếp loại 'Kém' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 5.0 trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 2: Điểm số từ 8.0 trở lên là xếp loại gì?",
+        "response": "Điểm số từ 8.0 trở lên là xếp loại 'Giỏi'."
+    },
+    {
+        "prompt": "Bảng 2: Điểm số từ 6.5 đến dưới 8.0 là xếp loại gì?",
+        "response": "Điểm số từ 6.5 đến dưới 8.0 là xếp loại 'Khá'."
+    },
+    {
+        "prompt": "Bảng 2: Điểm số từ 5.0 đến dưới 6.5 là xếp loại gì?",
+        "response": "Điểm số từ 5.0 đến dưới 6.5 là xếp loại 'Trung bình'."
+    },
+    {
+        "prompt": "Bảng 2: Điểm số dưới 5.0 là xếp loại gì?",
+        "response": "Điểm số dưới 5.0 là xếp loại 'Kém'."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Giỏi' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 8.0 trở lên trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Khá' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Khá' có điểm số từ 6.5 đến dưới 8.0 trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Trung bình' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 5.0 đến dưới 6.5 trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Kém' có điểm số tương ứng là bao nhiêu?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 5.0 trong thang điểm 10."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số từ 3.6 trở lên là xếp loại gì trong thang điểm 4?",
+        "response": "Điểm số từ 3.6 trở lên là xếp loại 'Giỏi' trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số từ 2.5 đến dưới 3.6 là xếp loại gì trong thang điểm 4?",
+        "response": "Điểm số từ 2.5 đến dưới 3.6 là xếp loại 'Khá' trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số từ 1.5 đến dưới 2.5 là xếp loại gì trong thang điểm 4?",
+        "response": "Điểm số từ 1.5 đến dưới 2.5 là xếp loại 'Trung bình' trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Điểm số dưới 1.5 là xếp loại gì trong thang điểm 4?",
+        "response": "Điểm số dưới 1.5 là xếp loại 'Kém' trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Giỏi' có điểm số tương ứng là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 3.6 trở lên trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Khá' có điểm số tương ứng là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Khá' có điểm số từ 2.5 đến dưới 3.6 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Trung bình' có điểm số tương ứng là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 1.5 đến dưới 2.5 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Kém' có điểm số tương ứng là bao nhiêu trong thang điểm 4?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 1.5 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Giỏi' có điểm chữ là gì?",
+        "response": "Xếp loại 'Giỏi' có điểm chữ là A trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Khá' có điểm chữ là gì?",
+        "response": "Xếp loại 'Khá' có điểm chữ là B trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Trung bình' có điểm chữ là gì?",
+        "response": "Xếp loại 'Trung bình' có điểm chữ là C trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Kém' có điểm chữ là gì?",
+        "response": "Xếp loại 'Kém' có điểm chữ là D trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Giỏi' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 3.6 trở lên trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Khá' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Khá' có điểm số từ 2.5 đến dưới 3.6 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Trung bình' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 1.5 đến dưới 2.5 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Kém' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 1.5 trong thang điểm 4."
+    },
+    {
+        "prompt": "Bảng 3: Thang điểm 4 có bao nhiêu mức xếp loại?",
+        "response": "Thang điểm 4 có 4 mức xếp loại."
+    },
+    {
+        "prompt": "Xếp loại 'Giỏi' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 70 đến dưới 90, tương đương với điểm chữ B và thang điểm 4 là từ 2.5 đến 3.5."
+    },
+    {
+        "prompt": "Điểm số bao nhiêu được xem là 'Xuất sắc'?",
+        "response": "Điểm số từ 90 trở lên được xem là 'Xuất sắc', tương đương với điểm chữ A và thang điểm 4 là từ 3.6 đến 4.0."
+    },
+    {
+        "prompt": "Điểm số dưới 30 thuộc xếp loại nào?",
+        "response": "Điểm số dưới 30 thuộc xếp loại 'Kém', tương đương với điểm chữ F và thang điểm 4 là 0.0."
+    },
+    {
+        "prompt": "Thang điểm 4 của xếp loại 'Trung bình khá' là bao nhiêu?",
+        "response": "Thang điểm 4 của xếp loại 'Trung bình khá' là từ 1.5 đến 2.4, tương ứng với điểm số từ 50 đến dưới 70."
+    },
+    {
+        "prompt": "Điểm chữ B tương ứng với xếp loại nào?",
+        "response": "Điểm chữ B tương ứng với xếp loại 'Giỏi', có điểm số từ 70 đến dưới 90 và thang điểm 4 là từ 2.5 đến 3.5."
+    },
+    {
+        "prompt": "Xếp loại 'Trung bình' có thang điểm 4 là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có thang điểm 4 từ 1.0 đến 1.4, tương ứng với điểm số từ 40 đến dưới 50."
+    },
+    {
+        "prompt": "Điểm chữ A tương ứng với xếp loại nào?",
+        "response": "Điểm chữ A tương ứng với xếp loại 'Xuất sắc', có điểm số từ 90 trở lên và thang điểm 4 từ 3.6 đến 4.0."
+    },
+    {
+        "prompt": "Điểm số 85 thuộc xếp loại nào?",
+        "response": "Điểm số 85 thuộc xếp loại 'Giỏi', tương đương với điểm chữ B và thang điểm 4 từ 2.5 đến 3.5."
+    },
+    {
+        "prompt": "Điểm chữ D thuộc thang điểm 4 nào?",
+        "response": "Điểm chữ D thuộc thang điểm 4 từ 1.0 đến 1.4, tương ứng với xếp loại 'Trung bình'."
+    },
+    {
+        "prompt": "Điểm số từ 50 đến dưới 70 thuộc xếp loại nào?",
+        "response": "Điểm số từ 50 đến dưới 70 thuộc xếp loại 'Trung bình khá', tương đương với điểm chữ C và thang điểm 4 từ 1.5 đến 2.4."
+    },
+    {
+        "prompt": "Thang điểm 4 cao nhất là bao nhiêu?",
+        "response": "Thang điểm 4 cao nhất là 4.0, tương ứng với điểm chữ A và xếp loại 'Xuất sắc'."
+    },
+    {
+        "prompt": "Điểm chữ F thuộc thang điểm nào?",
+        "response": "Điểm chữ F thuộc thang điểm 4 là 0.0, tương ứng với xếp loại 'Kém'."
+    },
+    {
+        "prompt": "Điểm số dưới bao nhiêu thuộc điểm chữ D?",
+        "response": "Điểm số từ 40 đến dưới 50 thuộc điểm chữ D, tương ứng với thang điểm 4 từ 1.0 đến 1.4."
+    },
+    {
+        "prompt": "Xếp loại 'Trung bình khá' có điểm chữ gì?",
+        "response": "Xếp loại 'Trung bình khá' có điểm chữ C, tương ứng với thang điểm 4 từ 1.5 đến 2.4."
+    },
+    {
+        "prompt": "Điểm số 95 tương ứng với xếp loại nào?",
+        "response": "Điểm số 95 tương ứng với xếp loại 'Xuất sắc', tương đương với điểm chữ A và thang điểm 4 từ 3.6 đến 4.0."
+    },
+    {
+        "prompt": "Điểm số 65 thuộc xếp loại nào?",
+        "response": "Điểm số 65 thuộc xếp loại 'Trung bình khá', tương đương với điểm chữ C và thang điểm 4 từ 1.5 đến 2.4."
+    },
+    {
+        "prompt": "Điểm số từ 30 đến dưới 40 thuộc xếp loại nào?",
+        "response": "Điểm số từ 30 đến dưới 40 thuộc xếp loại 'Yếu', tương ứng với điểm chữ E và thang điểm 4 là 0.5."
+    },
+    {
+        "prompt": "Điểm chữ C tương ứng với điểm số nào?",
+        "response": "Điểm chữ C tương ứng với điểm số từ 50 đến dưới 70, thuộc xếp loại 'Trung bình khá' và thang điểm 4 từ 1.5 đến 2.4."
+    },
+    {
+        "prompt": "Điểm số cao nhất trong xếp loại 'Trung bình khá' là bao nhiêu?",
+        "response": "Điểm số cao nhất trong xếp loại 'Trung bình khá' là 69, tương ứng với điểm chữ C và thang điểm 4 là 2.4."
+    },
+    {
+        "prompt": "Điểm chữ E tương ứng với thang điểm 4 nào?",
+        "response": "Điểm chữ E tương ứng với thang điểm 4 là 0.5, thuộc xếp loại 'Yếu'."
+    },
+    {
+        "prompt": "Điểm số 45 thuộc xếp loại nào?",
+        "response": "Điểm số 45 thuộc xếp loại 'Trung bình', tương ứng với điểm chữ D và thang điểm 4 từ 1.0 đến 1.4."
+    },
+    {
+        "prompt": "Điểm số thấp nhất để đạt xếp loại 'Giỏi' là bao nhiêu?",
+        "response": "Điểm số thấp nhất để đạt xếp loại 'Giỏi' là 70, tương ứng với điểm chữ B và thang điểm 4 là 2.5."
+    },
+    {
+        "prompt": "Điểm số cao nhất để được xếp loại 'Kém' là bao nhiêu?",
+        "response": "Điểm số cao nhất để được xếp loại 'Kém' là 29, tương ứng với điểm chữ F và thang điểm 4 là 0.0."
+    },
+    {
+        "prompt": "Xếp loại nào tương ứng với điểm số từ 40 đến dưới 50?",
+        "response": "Xếp loại 'Trung bình' tương ứng với điểm số từ 40 đến dưới 50, tương ứng với điểm chữ D và thang điểm 4 từ 1.0 đến 1.4."
+    },
+    {
+        "prompt": "Điểm số từ 30 đến dưới 40 thuộc điểm chữ nào?",
+        "response": "Điểm số từ 30 đến dưới 40 thuộc điểm chữ E, tương ứng với xếp loại 'Yếu' và thang điểm 4 là 0.5."
+    },
+    {
+        "prompt": "Xếp loại 'Xuất sắc' có thang điểm 4 từ bao nhiêu?",
+        "response": "Xếp loại 'Xuất sắc' có thang điểm 4 từ 3.6 đến 4.0, tương ứng với điểm chữ A và điểm số từ 90 trở lên."
+    },
+    {
+        "prompt": "Điểm chữ B tương ứng với thang điểm 4 nào?",
+        "response": "Điểm chữ B tương ứng với thang điểm 4 từ 2.5 đến 3.5, thuộc xếp loại 'Giỏi'."
+    },
+    {
+        "prompt": "Xếp loại 'Trung bình' có điểm số cao nhất là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số cao nhất là 49, tương ứng với điểm chữ D và thang điểm 4 là 1.4."
+    },
+    {
+        "prompt": "Điểm chữ E có điểm số thấp nhất là bao nhiêu?",
+        "response": "Điểm chữ E có điểm số thấp nhất là 30, thuộc xếp loại 'Yếu' và thang điểm 4 là 0.5."
+    },
+    {
+        "prompt": "Điểm số 80 thuộc điểm chữ nào?",
+        "response": "Điểm số 80 thuộc điểm chữ B, tương ứng với xếp loại 'Giỏi' và thang điểm 4 từ 2.5 đến 3.5."
+    },
+    {
+        "prompt": "Điểm số cao nhất để đạt xếp loại 'Trung bình khá' là bao nhiêu?",
+        "response": "Điểm số cao nhất để đạt xếp loại 'Trung bình khá' là 69, tương ứng với điểm chữ C và thang điểm 4 là 2.4."
+    },
+    {
+        "prompt": "Điểm số từ 70 đến dưới 90 tương ứng với xếp loại nào?",
+        "response": "Điểm số từ 70 đến dưới 90 tương ứng với xếp loại 'Giỏi', thuộc điểm chữ B và thang điểm 4 từ 2.5 đến 3.5."
+    },
+    {
+        "prompt": "Thang điểm 4 thấp nhất để đạt xếp loại 'Giỏi' là bao nhiêu?",
+        "response": "Thang điểm 4 thấp nhất để đạt xếp loại 'Giỏi' là 2.5, tương ứng với điểm số 70 và điểm chữ B."
+    },
+    {
+        "prompt": "Điểm số 35 thuộc điểm chữ nào?",
+        "response": "Điểm số 35 thuộc điểm chữ E, tương ứng với xếp loại 'Yếu' và thang điểm 4 là 0.5."
+    },
+    {
+        "prompt": "Điểm số 95 thuộc điểm chữ nào?",
+        "response": "Điểm số 95 thuộc điểm chữ A, tương ứng với xếp loại 'Xuất sắc' và thang điểm 4 từ 3.6 đến 4.0."
+    },
+    {
+        "prompt": "Xếp loại 'Yếu' có thang điểm 4 là bao nhiêu?",
+        "response": "Xếp loại 'Yếu' có thang điểm 4 là 0.5, tương ứng với điểm chữ E và điểm số từ 30 đến dưới 40."
+    },
+    {
+        "prompt": "Điểm số 20 tương ứng với điểm chữ nào?",
+        "response": "Điểm số 20 tương ứng với điểm chữ F, thuộc xếp loại 'Kém' và thang điểm 4 là 0.0."
+    },
+    {
+        "prompt": "Điểm số thấp nhất để đạt xếp loại 'Xuất sắc' là bao nhiêu?",
+        "response": "Điểm số thấp nhất để đạt xếp loại 'Xuất sắc' là 90, tương ứng với điểm chữ A và thang điểm 4 là 3.6."
+    },
+    {
+        "prompt": "Điểm chữ D có điểm số cao nhất là bao nhiêu?",
+        "response": "Điểm chữ D có điểm số cao nhất là 49, thuộc xếp loại 'Trung bình' và thang điểm 4 là 1.4."
+    },
+    {
+        "prompt": "Thang điểm 4 từ 0.5 đến dưới 1.0 thuộc xếp loại nào?",
+        "response": "Thang điểm 4 từ 0.5 đến dưới 1.0 thuộc xếp loại 'Yếu', tương ứng với điểm chữ E và điểm số từ 30 đến dưới 40."
+    },
+    {
+        "prompt": "Điểm chữ F tương ứng với thang điểm nào?",
+        "response": "Điểm chữ F tương ứng với thang điểm 4 là 0.0, thuộc xếp loại 'Kém'."
+    },
+    {
+        "prompt": "Điểm số 50 thuộc xếp loại nào?",
+        "response": "Điểm số 50 thuộc xếp loại 'Trung bình khá', tương ứng với điểm chữ C và thang điểm 4 là 1.5."
+    },
+    {
+        "prompt": "Điểm số cao nhất trong xếp loại 'Yếu' là bao nhiêu?",
+        "response": "Điểm số cao nhất trong xếp loại 'Yếu' là 39, tương ứng với điểm chữ E và thang điểm 4 là 0.5."
+    },
+    {
+        "prompt": "Xếp loại 'Kém' tương ứng với điểm chữ nào?",
+        "response": "Xếp loại 'Kém' tương ứng với điểm chữ F và thang điểm 4 là 0.0."
+    },
+    {
+        "prompt": "Điểm chữ A có thang điểm 4 thấp nhất là bao nhiêu?",
+        "response": "Điểm chữ A có thang điểm 4 thấp nhất là 3.6, tương ứng với điểm số 90 và xếp loại 'Xuất sắc'."
+    },
+    {
+        "prompt": "Điểm chữ C có điểm số thấp nhất là bao nhiêu?",
+        "response": "Điểm chữ C có điểm số thấp nhất là 50, thuộc xếp loại 'Trung bình khá' và thang điểm 4 là 1.5."
+    },
+    {
+        "prompt": "Điểm số từ 90 trở lên tương ứng với điểm chữ nào?",
+        "response": "Điểm số từ 90 trở lên tương ứng với điểm chữ A, thuộc xếp loại 'Xuất sắc' và thang điểm 4 từ 3.6 đến 4.0."
+    },
+    {
+        "prompt": "Điểm số thấp nhất để đạt xếp loại 'Trung bình khá' là bao nhiêu?",
+        "response": "Điểm số thấp nhất để đạt xếp loại 'Trung bình khá' là 50, tương ứng với điểm chữ C và thang điểm 4 là 1.5."
+    },
+    {
+        "prompt": "Điểm số 60 thuộc xếp loại nào?",
+        "response": "Điểm số 60 thuộc xếp loại 'Trung bình khá', tương ứng với điểm chữ C và thang điểm 4 từ 1.5 đến 2.4."
+    },
+    {
+        "prompt": "Thang điểm 4 từ 2.5 đến 3.5 tương ứng với điểm chữ nào?",
+        "response": "Thang điểm 4 từ 2.5 đến 3.5 tương ứng với điểm chữ B, thuộc xếp loại 'Giỏi'."
+    },
+    {
+        "prompt": "Điểm số 70 thuộc điểm chữ nào?",
+        "response": "Điểm số 70 thuộc điểm chữ B, tương ứng với xếp loại 'Giỏi' và thang điểm 4 là 2.5."
+    },
+    {
+        "prompt": "Điểm số từ 40 đến dưới 50 tương ứng với điểm chữ nào?",
+        "response": "Điểm số từ 40 đến dưới 50 tương ứng với điểm chữ D, thuộc xếp loại 'Trung bình' và thang điểm 4 từ 1.0 đến 1.4."
+    },
+    {
+        "prompt": "Thang điểm 4 từ 1.5 đến 2.4 thuộc xếp loại nào?",
+        "response": "Thang điểm 4 từ 1.5 đến 2.4 thuộc xếp loại 'Trung bình khá', tương ứng với điểm chữ C."
+    },
+    {
+        "prompt": "Điểm chữ A có điểm số cao nhất là bao nhiêu?",
+        "response": "Điểm chữ A có điểm số cao nhất là 100, tương ứng với xếp loại 'Xuất sắc' và thang điểm 4 là 4.0."
+    },
+    {
+        "prompt": "Điểm số 85 thuộc điểm chữ nào?",
+        "response": "Điểm số 85 thuộc điểm chữ B, tương ứng với xếp loại 'Giỏi' và thang điểm 4 từ 2.5 đến 3.5."
+    },
+    {
+        "prompt": "Thang điểm 4 thấp nhất để đạt xếp loại 'Xuất sắc' là bao nhiêu?",
+        "response": "Thang điểm 4 thấp nhất để đạt xếp loại 'Xuất sắc' là 3.6, tương ứng với điểm chữ A."
+    },
+    {
+        "prompt": "Điểm số thấp nhất để đạt điểm chữ D là bao nhiêu?",
+        "response": "Điểm số thấp nhất để đạt điểm chữ D là 40, thuộc xếp loại 'Trung bình' và thang điểm 4 là 1.0."
+    },
+    {
+        "prompt": "Điểm số từ 30 đến dưới 40 thuộc điểm chữ nào?",
+        "response": "Điểm số từ 30 đến dưới 40 thuộc điểm chữ E, tương ứng với xếp loại 'Yếu' và thang điểm 4 là 0.5."
+    },
+    {
+        "prompt": "Điểm số 55 thuộc xếp loại nào?",
+        "response": "Điểm số 55 thuộc xếp loại 'Trung bình khá', tương ứng với điểm chữ C và thang điểm 4 từ 1.5 đến 2.4."
+    }
+]

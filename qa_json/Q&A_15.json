@@ -1,0 +1,898 @@
+[
+    {
+        "prompt": "Quy định này áp dụng cho đối tượng nào?",
+        "response": "Quy định này áp dụng đối với sinh viên đang theo học các ngành do trường Đại học Quốc tế cấp bằng và sinh viên học các chương trình liên kết do trường Đại học nước ngoài cấp bằng."
+    },
+    {
+        "prompt": "Sinh viên học nhiều hơn một ngành học tại Trường Đại học Quốc tế thì quy định học bổng áp dụng cho ngành học nào?",
+        "response": "Quy định này chỉ áp dụng cho ngành học thứ 01 đối với sinh viên học nhiều hơn một ngành học tại trường."
+    },
+    {
+        "prompt": "Sinh viên thuộc diện hưởng học bổng chính sách có được xét cấp học bổng khuyến khích học tập không?",
+        "response": "Sinh viên thuộc diện hưởng học bổng chính sách, trợ cấp xã hội, chính sách ưu đãi nếu đạt kết quả học tập, rèn luyện đủ điều kiện sẽ được xét, cấp học bổng khuyến khích học tập như những sinh viên khác."
+    },
+    {
+        "prompt": "Quy định này có hiệu lực từ khi nào?",
+        "response": "Quyết định này có hiệu lực kể từ ngày ký."
+    },
+    {
+        "prompt": "Ai chịu trách nhiệm thi hành Quyết định này?",
+        "response": "Trưởng phòng Phòng Đào tạo Đại học, Phòng Công tác Sinh viên, Phòng Kế hoạch Tài chính, Trưởng các đơn vị, viên chức, người lao động và sinh viên trường chịu trách nhiệm thi hành Quyết định này."
+    },
+    {
+        "prompt": "Danh mục các từ viết tắt trong quy định này gồm những từ nào?",
+        "response": "Danh mục các từ viết tắt gồm: ĐHQT (Trường Đại học Quốc tế), HBKKHT (Học bổng khuyến khích học tập), HBTS (Học bổng tuyển sinh), HBHT (Học bổng học tập), ĐRL (Điểm rèn luyện), TC (Tín chỉ), P.ĐTĐH (Phòng Đào tạo Đại học), P.CTSV (Phòng Công tác Sinh viên), P.KHTC (Phòng Kế hoạch Tài chính)."
+    },
+    {
+        "prompt": "Quy định này liên quan đến học bổng nào?",
+        "response": "Quy định này liên quan đến học bổng khuyến khích học tập (HBKKHT) cho sinh viên trình độ đại học tại Trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Quy định này được ban hành kèm theo quyết định nào?",
+        "response": "Quy định này được ban hành kèm theo Quyết định số 8…8.4./QĐ-ĐHQT ngày 19 tháng 8 năm 2024 của Hiệu trưởng trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Quy định này áp dụng cho sinh viên của trường nào?",
+        "response": "Quy định này áp dụng cho sinh viên của Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+        "prompt": "Phạm vi điều chỉnh của quy định này là gì?",
+        "response": "Phạm vi điều chỉnh của quy định này là việc xét cấp học bổng khuyến khích học tập cho sinh viên trình độ đại học tại Trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Phạm vi điều chỉnh của quy định này là gì?",
+        "response": "Phạm vi điều chỉnh của quy định này là việc xét cấp học bổng khuyến khích học tập cho sinh viên trình độ đại học tại Trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Quy định này áp dụng cho đối tượng nào?",
+        "response": "Quy định này áp dụng cho sinh viên đang theo học chương trình đại học tại Trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Đối tượng nào không được cấp học bổng theo quy định này?",
+        "response": "Sinh viên không đạt yêu cầu học tập hoặc vi phạm quy chế của trường sẽ không được cấp học bổng."
+    },
+    {
+        "prompt": "Điều kiện để nhận học bổng là gì?",
+        "response": "Sinh viên phải có điểm trung bình học kỳ đạt từ 3.2 trở lên và không có môn học nào bị điểm F."
+    },
+    {
+        "prompt": "Học bổng có giá trị trong bao lâu?",
+        "response": "Học bổng có giá trị trong một học kỳ và sẽ được xem xét lại vào cuối mỗi học kỳ."
+    },
+    {
+        "prompt": "Có phải sinh viên cần phải nộp đơn xin học bổng không?",
+        "response": "Có, sinh viên phải nộp đơn xin học bổng cùng với bảng điểm học kỳ gần nhất."
+    },
+    {
+        "prompt": "Học bổng có được gia hạn không?",
+        "response": "Học bổng có thể được gia hạn nếu sinh viên duy trì thành tích học tập và không vi phạm quy chế."
+    },
+    {
+        "prompt": "Các mức học bổng có gì khác nhau?",
+        "response": "Có nhiều mức học bổng, tùy vào điểm trung bình học kỳ của sinh viên, học bổng có thể từ 1 triệu đến 5 triệu đồng mỗi học kỳ."
+    },
+    {
+        "prompt": "Có thể nhận học bổng khác ngoài học bổng này không?",
+        "response": "Sinh viên có thể nhận nhiều học bổng khác nhau miễn là đáp ứng đủ điều kiện của từng chương trình học bổng."
+    },
+    {
+        "prompt": "Có phải sinh viên có điểm thấp sẽ không được xét học bổng?",
+        "response": "Sinh viên có điểm thấp nhưng không dưới 2.5 vẫn có thể được xem xét học bổng nhưng mức học bổng sẽ thấp hơn."
+    },
+    {
+        "prompt": "Quy trình xét học bổng như thế nào?",
+        "response": "Quy trình xét học bổng bao gồm việc sinh viên nộp đơn, sau đó hội đồng xét học bổng sẽ đánh giá và công bố kết quả."
+    },
+    {
+        "prompt": "Kết quả xét học bổng sẽ được công bố khi nào?",
+        "response": "Kết quả xét học bổng sẽ được công bố vào cuối mỗi học kỳ."
+    },
+    {
+        "prompt": "Có thể khiếu nại kết quả xét học bổng không?",
+        "response": "Sinh viên có quyền khiếu nại kết quả nếu cảm thấy có sự sai sót trong quá trình xét duyệt."
+    },
+    {
+        "prompt": "Sinh viên có thể rút học bổng không?",
+        "response": "Sinh viên có thể rút học bổng nếu có lý do chính đáng và phải thông báo cho văn phòng học bổng trước thời gian quy định."
+    },
+    {
+        "prompt": "Quy định về việc học bổng có được giữ lại khi sinh viên nghỉ học là gì?",
+        "response": "Học bổng sẽ bị thu hồi nếu sinh viên nghỉ học quá một học kỳ mà không có lý do hợp lý."
+    },
+    {
+        "prompt": "Có phải sinh viên chưa có kết quả học tập sẽ không được cấp học bổng?",
+        "response": "Đúng, sinh viên cần phải có kết quả học tập tối thiểu để đủ điều kiện nhận học bổng."
+    },
+    {
+        "prompt": "Nếu sinh viên không nhận học bổng vào một học kỳ thì sao?",
+        "response": "Sinh viên sẽ không bị mất quyền nhận học bổng trong các học kỳ sau nếu vẫn đáp ứng đủ điều kiện."
+    },
+    {
+        "prompt": "Học bổng có hỗ trợ cho các chương trình học tập ngoài giờ không?",
+        "response": "Học bổng này chỉ áp dụng cho các chương trình học tập chính quy trong giờ hành chính."
+    },
+    {
+        "prompt": "Sinh viên có thể chuyển học bổng cho người khác không?",
+        "response": "Học bổng không thể chuyển nhượng cho người khác."
+    },
+    {
+        "prompt": "Có hỗ trợ học bổng cho sinh viên quốc tế không?",
+        "response": "Chương trình học bổng này chỉ áp dụng cho sinh viên trong nước của Trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Sinh viên có thể tham gia học bổng khác trong cùng thời gian không?",
+        "response": "Sinh viên có thể tham gia các học bổng khác nếu không vi phạm quy định của học bổng hiện tại."
+    },
+    {
+        "prompt": "Có chương trình học bổng dành cho sinh viên nghiên cứu không?",
+        "response": "Có, trường cũng có các chương trình học bổng dành riêng cho sinh viên tham gia nghiên cứu khoa học."
+    },
+    {
+        "prompt": "Nếu sinh viên không đạt điểm trung bình học kỳ, có thể xin học bổng lại không?",
+        "response": "Sinh viên có thể xin học bổng lại vào kỳ tiếp theo nếu cải thiện được điểm số."
+    },
+    {
+        "prompt": "Điều gì sẽ xảy ra nếu sinh viên vi phạm quy chế học bổng?",
+        "response": "Nếu sinh viên vi phạm quy chế, học bổng sẽ bị thu hồi ngay lập tức và sinh viên có thể bị cấm tham gia chương trình học bổng trong tương lai."
+    },
+    {
+        "prompt": "Có hỗ trợ học bổng cho sinh viên sau đại học không?",
+        "response": "Quy định này chỉ áp dụng cho sinh viên đại học, không bao gồm chương trình sau đại học."
+    },
+    {
+        "prompt": "Sinh viên có thể được cấp học bổng bao nhiêu lần?",
+        "response": "Sinh viên có thể nhận học bổng mỗi học kỳ nếu vẫn duy trì thành tích học tập tốt."
+    },
+    {
+        "prompt": "Có yêu cầu về hoạt động ngoại khóa không để nhận học bổng?",
+        "response": "Không, học bổng này chỉ yêu cầu về thành tích học tập và không xét đến hoạt động ngoại khóa."
+    },
+    {
+        "prompt": "Có thể sử dụng học bổng vào mục đích gì?",
+        "response": "Học bổng có thể được sử dụng để hỗ trợ chi phí học tập, mua tài liệu hoặc tham gia các hoạt động học thuật."
+    },
+    {
+        "prompt": "Sinh viên có cần tham gia phỏng vấn để xét học bổng không?",
+        "response": "Không, quy trình xét học bổng chỉ dựa vào kết quả học tập và không yêu cầu phỏng vấn."
+    },
+    {
+        "prompt": "Có thể nhận học bổng cho chương trình học kỳ quốc tế không?",
+        "response": "Chương trình học bổng này không áp dụng cho sinh viên tham gia các chương trình học kỳ quốc tế."
+    },
+    {
+        "prompt": "Có hỗ trợ học bổng cho sinh viên học liên thông không?",
+        "response": "Sinh viên học liên thông có thể tham gia chương trình học bổng nếu đáp ứng đủ điều kiện về học tập."
+    },
+    {
+        "prompt": "Có yêu cầu về lý lịch cá nhân khi xét học bổng không?",
+        "response": "Quy trình xét học bổng không yêu cầu về lý lịch cá nhân, chỉ xét thành tích học tập."
+    },
+    {
+        "prompt": "Học bổng có thể được cấp cho sinh viên có hoàn cảnh khó khăn không?",
+        "response": "Chương trình học bổng này không xét đến hoàn cảnh khó khăn mà chỉ dựa trên kết quả học tập."
+    },
+    {
+        "prompt": "Có mức học bổng nào dành cho sinh viên có thành tích xuất sắc không?",
+        "response": "Có, sinh viên có thành tích học tập xuất sắc sẽ được cấp học bổng ở mức cao hơn."
+    },
+    {
+        "prompt": "Học bổng có thể dùng để thanh toán học phí không?",
+        "response": "Có, học bổng có thể được sử dụng để thanh toán một phần học phí trong học kỳ."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng vào học kỳ nào?",
+        "response": "Sinh viên có thể nhận học bổng vào đầu mỗi học kỳ, sau khi có kết quả học tập từ học kỳ trước."
+    },
+    {
+        "prompt": "Có yêu cầu về tham gia các hoạt động xã hội không để nhận học bổng?",
+        "response": "Không, chương trình học bổng này không yêu cầu sinh viên tham gia các hoạt động xã hội, chỉ yêu cầu thành tích học tập."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng nếu không hoàn thành toàn bộ chương trình học trong thời gian quy định không?",
+        "response": "Sinh viên phải hoàn thành chương trình học đúng thời gian quy định để đủ điều kiện nhận học bổng."
+    },
+    {
+        "prompt": "Chương trình học bổng có hỗ trợ sinh viên có khuyết tật không?",
+        "response": "Chương trình học bổng này không xét đến yếu tố khuyết tật, nhưng sinh viên có thể xin hỗ trợ đặc biệt từ trường."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng sau khi đã tốt nghiệp không?",
+        "response": "Không, học bổng chỉ dành cho sinh viên đang trong quá trình học tập tại trường."
+    },
+    {
+        "prompt": "Chương trình học bổng này có được áp dụng cho các khóa học ngắn hạn không?",
+        "response": "Chương trình học bổng này chỉ áp dụng cho các sinh viên đang học chương trình đại học chính quy."
+    },
+    {
+        "prompt": "Học bổng có thể gia hạn nếu sinh viên không đạt đủ điểm không?",
+        "response": "Học bổng sẽ không được gia hạn nếu sinh viên không duy trì mức điểm yêu cầu."
+    },
+    {
+        "prompt": "Nếu sinh viên có điểm học kỳ chưa đủ điều kiện, có thể xin xét học bổng vào kỳ tiếp theo không?",
+        "response": "Có, sinh viên có thể xin xét học bổng vào kỳ tiếp theo nếu cải thiện được kết quả học tập."
+    },
+    {
+        "prompt": "Quy trình xét học bổng có thay đổi theo từng năm không?",
+        "response": "Quy trình xét học bổng có thể thay đổi tùy theo quy định của nhà trường mỗi năm."
+    },
+    {
+        "prompt": "Sinh viên có thể đăng ký học bổng trực tuyến không?",
+        "response": "Có, sinh viên có thể đăng ký học bổng trực tuyến thông qua hệ thống quản lý học tập của trường."
+    },
+    {
+        "prompt": "Sinh viên có thể biết kết quả xét học bổng sớm hơn không?",
+        "response": "Kết quả xét học bổng sẽ được công bố đúng thời gian quy định và không thể thay đổi."
+    },
+    {
+        "prompt": "Học bổng có thể hỗ trợ sinh viên tham gia hội thảo, seminar không?",
+        "response": "Học bổng không bao gồm hỗ trợ chi phí tham gia hội thảo hay seminar, chỉ hỗ trợ cho các khoản học tập cơ bản."
+    },
+    {
+        "prompt": "Sinh viên có thể bị cắt học bổng nếu không tuân thủ quy định học tập không?",
+        "response": "Sinh viên sẽ bị cắt học bổng nếu không tuân thủ các quy định về học tập hoặc vi phạm quy chế của trường."
+    },
+    {
+        "prompt": "Có chương trình học bổng cho sinh viên chuyên ngành nào không?",
+        "response": "Chương trình học bổng này áp dụng cho tất cả các chuyên ngành của trường."
+    },
+    {
+        "prompt": "Học bổng có hỗ trợ sinh viên trong trường hợp nghỉ học dài hạn không?",
+        "response": "Sinh viên nghỉ học dài hạn sẽ không đủ điều kiện nhận học bổng trong thời gian nghỉ học."
+    },
+    {
+        "prompt": "Có thể chuyển nhượng học bổng cho sinh viên khác không?",
+        "response": "Học bổng không thể chuyển nhượng cho sinh viên khác."
+    },
+    {
+        "prompt": "Sinh viên có thể yêu cầu điều chỉnh mức học bổng không?",
+        "response": "Sinh viên không thể yêu cầu điều chỉnh mức học bổng, mức học bổng được quyết định dựa trên thành tích học tập."
+    },
+    {
+        "prompt": "Chương trình học bổng có công nhận thành tích học tập của sinh viên không?",
+        "response": "Có, chương trình học bổng công nhận thành tích học tập của sinh viên và dựa vào đó để xét cấp học bổng."
+    },
+    {
+        "prompt": "Sinh viên có thể yêu cầu thanh toán học bổng theo hình thức nào?",
+        "response": "Học bổng sẽ được thanh toán trực tiếp vào tài khoản ngân hàng của sinh viên sau khi có quyết định cấp học bổng."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng khi đang tham gia chương trình trao đổi sinh viên không?",
+        "response": "Chương trình học bổng này không áp dụng cho sinh viên tham gia chương trình trao đổi sinh viên."
+    },
+    {
+        "prompt": "Học bổng có hỗ trợ cho sinh viên đăng ký khóa học thêm không?",
+        "response": "Học bổng không hỗ trợ cho sinh viên đăng ký các khóa học ngoài chương trình chính thức."
+    },
+    {
+        "prompt": "Sinh viên có thể sử dụng học bổng để tham gia các khóa học trực tuyến không?",
+        "response": "Chương trình học bổng này chỉ hỗ trợ chi phí học tập trong chương trình đại học chính quy tại trường."
+    },
+    {
+        "prompt": "Sinh viên có thể được cấp học bổng nếu có kết quả học tập tốt ở năm đầu không?",
+        "response": "Có, sinh viên năm đầu có thành tích học tập tốt vẫn có thể được cấp học bổng nếu đáp ứng đủ điều kiện."
+    },
+    {
+        "prompt": "Sinh viên có thể đăng ký học bổng vào các kỳ nghỉ hè không?",
+        "response": "Không, học bổng chỉ áp dụng cho các học kỳ chính thức trong năm học."
+    },
+    {
+        "prompt": "Có chương trình học bổng dành cho sinh viên có kết quả nghiên cứu khoa học xuất sắc không?",
+        "response": "Có, trường có các chương trình học bổng riêng dành cho sinh viên có thành tích nghiên cứu khoa học xuất sắc."
+    },
+    {
+        "prompt": "Học bổng có hỗ trợ cho sinh viên tham gia hoạt động thể thao không?",
+        "response": "Học bổng này không hỗ trợ cho hoạt động thể thao, chỉ hỗ trợ chi phí học tập và tài liệu học."
+    },
+    {
+        "prompt": "Sinh viên có thể bị mất học bổng nếu nghỉ học không phép không?",
+        "response": "Sinh viên sẽ mất học bổng nếu nghỉ học quá lâu mà không có lý do chính đáng."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng trong trường hợp nghỉ học vì lý do sức khỏe không?",
+        "response": "Sinh viên có thể được xem xét tiếp tục nhận học bổng nếu nghỉ học vì lý do sức khỏe và có giấy tờ hợp lệ."
+    },
+    {
+        "prompt": "Quy trình xét học bổng có mất phí không?",
+        "response": "Quy trình xét học bổng hoàn toàn miễn phí."
+    },
+    {
+        "prompt": "Sinh viên có thể được cấp học bổng sau khi đã hoàn thành một học kỳ không?",
+        "response": "Sinh viên có thể được xét cấp học bổng vào cuối học kỳ nếu có kết quả học tập tốt."
+    },
+    {
+        "prompt": "Có cần chứng minh tài chính để nhận học bổng không?",
+        "response": "Không, chương trình học bổng này không yêu cầu sinh viên chứng minh tài chính."
+    },
+    {
+        "prompt": "Sinh viên có thể được cấp học bổng khi tham gia các hoạt động nghiên cứu không?",
+        "response": "Sinh viên tham gia các hoạt động nghiên cứu có thể được xem xét nhận học bổng nghiên cứu khoa học, nhưng không phải học bổng chính thức."
+    },
+    {
+        "prompt": "Có thể đăng ký học bổng từ xa không?",
+        "response": "Học bổng này chỉ áp dụng cho sinh viên học tại trường, không áp dụng cho sinh viên học từ xa."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng khi có lịch trình học linh hoạt không?",
+        "response": "Sinh viên có lịch trình học linh hoạt vẫn có thể nhận học bổng nếu đáp ứng đủ điều kiện học tập."
+    },
+    {
+        "prompt": "Chương trình học bổng có hỗ trợ sinh viên làm việc ngoài giờ học không?",
+        "response": "Chương trình học bổng không xét đến việc sinh viên làm việc ngoài giờ học."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng khi đã có kết quả học tập không đạt yêu cầu?",
+        "response": "Sinh viên không đạt yêu cầu học tập sẽ không đủ điều kiện nhận học bổng."
+    },
+    {
+        "prompt": "Có hỗ trợ học bổng cho sinh viên bị đình chỉ học không?",
+        "response": "Sinh viên bị đình chỉ học sẽ không đủ điều kiện nhận học bổng trong thời gian bị đình chỉ."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận học bổng nếu tham gia nghiên cứu khoa học không?",
+        "response": "Sinh viên tham gia nghiên cứu khoa học có thể nhận học bổng nghiên cứu khoa học nếu có thành tích xuất sắc."
+    },
+    {
+        "prompt": "Điều 1. Ban hành kèm theo Quyết định này Quy chế đào tạo trình độ đại học theo hệ thống tín chỉ tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh.",
+        "response": "Điều 1 quy định về việc ban hành Quy chế đào tạo trình độ đại học theo hệ thống tín chỉ tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+        "prompt": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và áp dụng cho khoá 2021 trở về sau, bắt đầu từ năm học 2021-2022.",
+        "response": "Quyết định này có hiệu lực từ ngày ký và áp dụng cho khoá 2021 trở về sau, bắt đầu từ năm học 2021-2022."
+    },
+    {
+        "prompt": "Điều 3. Trưởng phòng Đào tạo Đại học, Trưởng các đơn vị, cán bộ giảng dạy, sinh viên và cá nhân tham gia vào quá trình đào tạo trình độ đại học chịu trách nhiệm thi hành Quy chế này.",
+        "response": "Các cá nhân và đơn vị liên quan chịu trách nhiệm thi hành Quy chế đào tạo trình độ đại học."
+    },
+    {
+        "prompt": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng Quy chế đào tạo trình độ đại học.",
+        "response": "Quy chế đào tạo trình độ đại học áp dụng cho các tổ chức và cá nhân liên quan trong đào tạo tại Trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Điều 2. Chương trình đào tạo và thời gian học tập.",
+        "response": "Chương trình đào tạo được xây dựng theo đơn vị tín chỉ, với thời gian học tập từ 3-4 năm đối với cử nhân và 4-5 năm đối với kỹ sư."
+    },
+    {
+        "prompt": "Điều 3. Phương thức tổ chức đào tạo.",
+        "response": "Trường ĐHQT tổ chức đào tạo theo hệ thống tín chỉ cho tất cả các khóa và hình thức đào tạo."
+    },
+    {
+        "prompt": "Điều 4. Hình thức đào tạo tại Trường Đại học Quốc tế.",
+        "response": "Trường ĐHQT đào tạo theo hình thức chính quy với các hoạt động giảng dạy trực tiếp và trực tuyến."
+    },
+    {
+        "prompt": "Điều 5. Kế hoạch giảng dạy và học tập.",
+        "response": "Kế hoạch giảng dạy và học tập chi tiết hóa tổ chức thực hiện chương trình đào tạo trong năm học, học kỳ."
+    },
+    {
+        "prompt": "Điều 6. Tổ chức đăng ký học tập.",
+        "response": "Sinh viên đăng ký học tập thông qua hệ thống phần mềm và theo quy định của trường."
+    },
+    {
+        "prompt": "Điều 7. Tổ chức giảng dạy và học tập tại Trường Đại học Quốc tế.",
+        "response": "Trường ĐHQT đảm bảo giảng dạy và học tập hiệu quả, với sự tham gia của giảng viên và sinh viên."
+    },
+    {
+        "prompt": "Điều 8. Học phí tại Trường Đại học Quốc tế.",
+        "response": "Sinh viên phải hoàn thành nghĩa vụ tài chính và thanh toán học phí đúng hạn theo quy định của trường."
+    },
+    {
+        "prompt": "Điều 9. Điều kiện để sinh viên nhận học bổng.",
+        "response": "Sinh viên phải đáp ứng yêu cầu học tập và các tiêu chí khác để nhận học bổng."
+    },
+    {
+        "prompt": "Điều 10. Quy định về học lại học phần không đạt.",
+        "response": "Sinh viên không đạt học phần bắt buộc sẽ phải học lại học phần đó hoặc chọn học phần thay thế."
+    },
+    {
+        "prompt": "Điều 11. Thời gian tối đa để hoàn thành chương trình đào tạo.",
+        "response": "Thời gian tối đa để sinh viên hoàn thành chương trình đào tạo là 1,5 lần thời gian chuẩn."
+    },
+    {
+        "prompt": "Điều 12. Điều chỉnh đăng ký học phần.",
+        "response": "Sinh viên có thể điều chỉnh đăng ký học phần trong tuần đầu tiên của học kỳ chính."
+    },
+    {
+        "prompt": "Điều 13. Kết quả học tập của sinh viên.",
+        "response": "Kết quả học tập của sinh viên sẽ được đánh giá và quản lý qua hệ thống phần mềm của trường."
+    },
+    {
+        "prompt": "Điều 14. Điều kiện để sinh viên được xét tốt nghiệp.",
+        "response": "Sinh viên phải hoàn thành đầy đủ các học phần bắt buộc và đạt đủ tín chỉ yêu cầu để xét tốt nghiệp."
+    },
+    {
+        "prompt": "Điều 15. Quy định về việc miễn trừ học phần.",
+        "response": "Sinh viên có thể được miễn trừ học phần nếu đã hoàn thành học phần tương đương ở trường khác."
+    },
+    {
+        "prompt": "Điều 16. Quy định về việc nghỉ học của sinh viên.",
+        "response": "Sinh viên phải thông báo và xin phép nghỉ học nếu không thể tham gia lớp học theo quy định."
+    },
+    {
+        "prompt": "Điều 17. Quy định về việc tham gia các hoạt động ngoại khóa.",
+        "response": "Sinh viên có thể tham gia các hoạt động ngoại khóa theo sự hướng dẫn của nhà trường."
+    },
+    {
+        "prompt": "Điều 18. Quy định về việc sử dụng tài liệu học tập.",
+        "response": "Sinh viên phải tuân thủ quy định về việc sử dụng tài liệu học tập và tài nguyên của trường."
+    },
+    {
+        "prompt": "Điều 19. Quy định về việc thi cử của sinh viên.",
+        "response": "Sinh viên phải tham gia thi và kiểm tra theo lịch học kỳ đã công bố, và phải tuân thủ các quy định thi cử."
+    },
+    {
+        "prompt": "Điều 20. Quy định về việc làm đồ án tốt nghiệp.",
+        "response": "Sinh viên hoàn thành đồ án tốt nghiệp theo yêu cầu của chương trình đào tạo và được giảng viên hướng dẫn."
+    },
+    {
+        "prompt": "Điều 21. Quy định về việc bảo vệ đồ án tốt nghiệp.",
+        "response": "Sinh viên phải bảo vệ đồ án tốt nghiệp trước hội đồng theo yêu cầu của chương trình đào tạo."
+    },
+    {
+        "prompt": "Điều 22. Quy định về việc học tập đối với sinh viên du học.",
+        "response": "Sinh viên du học sẽ tuân thủ quy chế đào tạo và các quy định của trường ĐHQT khi học tại các đối tác nước ngoài."
+    },
+    {
+        "prompt": "Điều 23. Quy định về việc chuyển ngành đào tạo.",
+        "response": "Sinh viên có thể chuyển ngành đào tạo sau khi hoàn thành một số học phần theo quy định của trường."
+    },
+    {
+        "prompt": "Điều 24. Quy định về việc tham gia các kỳ thi quốc tế.",
+        "response": "Sinh viên có thể tham gia các kỳ thi quốc tế nếu được trường ĐHQT tạo điều kiện."
+    },
+    {
+        "prompt": "Điều 25. Quy định về việc tổ chức các kỳ học hè.",
+        "response": "Trường ĐHQT tổ chức học kỳ hè với tối thiểu 7 tuần lên lớp."
+    },
+    {
+        "prompt": "Điều 26. Quy định về việc tham gia các lớp học thực hành.",
+        "response": "Sinh viên phải tham gia đầy đủ các lớp học thực hành, thực tập, và các hoạt động học tập theo yêu cầu."
+    },
+    {
+        "prompt": "Điều 27. Quy định về việc học theo hình thức trực tuyến.",
+        "response": "Trường ĐHQT tổ chức các lớp học theo hình thức trực tuyến khi đáp ứng các quy định hiện hành."
+    },
+    {
+        "prompt": "Điều 28. Quy định về việc dạy và học trong điều kiện đặc biệt.",
+        "response": "Trong trường hợp thiên tai, dịch bệnh, trường sẽ tổ chức lớp học trực tuyến theo chỉ đạo của Bộ Giáo dục và Đào tạo."
+    },
+    {
+        "prompt": "Điều 29. Quy định về việc tổ chức kỳ thi cuối kỳ.",
+        "response": "Kỳ thi cuối kỳ sẽ được tổ chức theo lịch học kỳ và có các quy định rõ ràng về thời gian và hình thức."
+    },
+    {
+        "prompt": "Điều 30. Quy định về việc công nhận kết quả học tập.",
+        "response": "Kết quả học tập của sinh viên sẽ được công nhận khi đạt yêu cầu về tín chỉ và các học phần bắt buộc."
+    },
+    {
+        "prompt": "Điều 31. Quy định về việc đăng ký học lại học phần không đạt.",
+        "response": "Sinh viên không đạt học phần sẽ phải đăng ký học lại học phần đó trong học kỳ tiếp theo."
+    },
+    {
+        "prompt": "Điều 32. Quy định về việc thực tập tốt nghiệp.",
+        "response": "Sinh viên phải thực tập tại các cơ sở liên kết và hoàn thành báo cáo thực tập trước khi tốt nghiệp."
+    },
+    {
+        "prompt": "Điều 33. Quy định về việc giảng dạy của giảng viên.",
+        "response": "Giảng viên phải đảm bảo chất lượng giảng dạy và hoàn thành chương trình đào tạo theo quy định."
+    },
+    {
+        "prompt": "Điều 34. Quy định về việc tham gia các lớp học lý thuyết.",
+        "response": "Sinh viên phải tham gia đầy đủ các lớp học lý thuyết và hoàn thành các bài kiểm tra liên quan."
+    },
+    {
+        "prompt": "Điều 35. Quy định về việc tham gia các lớp học thí nghiệm.",
+        "response": "Sinh viên phải tham gia các lớp thí nghiệm và thực hành theo lịch giảng dạy của giảng viên."
+    },
+    {
+    "prompt": "Điều 36. Quy định về việc tổ chức các hoạt động nghiên cứu khoa học.",
+    "response": "Sinh viên có thể tham gia các hoạt động nghiên cứu khoa học theo chương trình của trường."
+    },
+    {
+    "prompt": "Điều 37. Quy định về việc tham gia các hội thảo khoa học.",
+    "response": "Sinh viên có thể tham gia các hội thảo khoa học tổ chức bởi trường hoặc các tổ chức ngoài trường."
+    },
+    {
+    "prompt": "Điều 38. Quy định về việc tổ chức kỳ thi học kỳ.",
+    "response": "Kỳ thi học kỳ sẽ được tổ chức theo các quy định đã công bố trước mỗi học kỳ."
+    },
+    {
+    "prompt": "Điều 39. Quy định về việc tổ chức buổi bảo vệ luận văn.",
+    "response": "Buổi bảo vệ luận văn phải tuân thủ các quy định về thời gian và quy trình của trường."
+    },
+    {
+    "prompt": "Điều 40. Quy định về việc xử lý vi phạm đạo đức học thuật.",
+    "response": "Sinh viên vi phạm đạo đức học thuật sẽ bị xử lý theo quy định của trường và các cơ quan có thẩm quyền."
+    },
+    {
+    "prompt": "Điều 41. Quy định về việc tham gia các khóa học bổ sung.",
+    "response": "Sinh viên có thể tham gia các khóa học bổ sung để nâng cao kiến thức hoặc học lại các học phần chưa đạt."
+    },
+    {
+    "prompt": "Điều 42. Quy định về việc sử dụng thiết bị trong lớp học.",
+    "response": "Sinh viên phải sử dụng thiết bị học tập như máy tính, điện thoại, thiết bị thí nghiệm theo quy định của trường."
+    },
+    {
+    "prompt": "Điều 43. Quy định về việc báo cáo tiến độ học tập.",
+    "response": "Sinh viên phải báo cáo tiến độ học tập và các kết quả học tập cho giảng viên theo định kỳ."
+    },
+    {
+    "prompt": "Điều 44. Quy định về việc trao đổi thông tin học tập.",
+    "response": "Sinh viên có thể trao đổi thông tin học tập với giảng viên và các bạn học trong phạm vi các lớp học."
+    },
+    {
+    "prompt": "Điều 45. Quy định về việc tổ chức các lớp học bổ sung.",
+    "response": "Trường có thể tổ chức các lớp học bổ sung cho sinh viên yếu kém hoặc theo yêu cầu của khóa học."
+    },
+    {
+    "prompt": "Điều 46. Quy định về việc sinh viên tham gia chương trình học bổng.",
+    "response": "Sinh viên phải đáp ứng các tiêu chí học bổng để có thể tham gia và nhận học bổng."
+    },
+    {
+    "prompt": "Điều 47. Quy định về việc tham gia các chương trình du học.",
+    "response": "Sinh viên có thể tham gia các chương trình du học nếu có đủ điều kiện và theo hướng dẫn của trường."
+    },
+    {
+    "prompt": "Điều 48. Quy định về việc hỗ trợ sinh viên khuyết tật.",
+    "response": "Trường có các chính sách hỗ trợ sinh viên khuyết tật để tham gia đầy đủ vào các hoạt động học tập."
+    },
+    {
+    "prompt": "Điều 49. Quy định về việc sử dụng cơ sở vật chất của trường.",
+    "response": "Sinh viên có quyền sử dụng cơ sở vật chất của trường theo quy định về lịch sử dụng và mục đích học tập."
+    },
+    {
+    "prompt": "Điều 50. Quy định về việc tham gia các khóa học ngoại ngữ.",
+    "response": "Sinh viên có thể tham gia các khóa học ngoại ngữ để nâng cao khả năng ngoại ngữ của mình."
+    },
+    {
+        "prompt": "Điều 1: Quy định về việc tham gia các khóa học ngoại ngữ như thế nào?",
+        "response": "Sinh viên có thể tham gia các khóa học ngoại ngữ để nâng cao khả năng ngoại ngữ của mình."
+    },
+    {
+        "prompt": "Điều 2: Sinh viên cần phải làm gì để đăng ký tham gia khóa học ngoại ngữ?",
+        "response": "Sinh viên cần nộp hồ sơ đăng ký và hoàn tất thủ tục để tham gia khóa học ngoại ngữ."
+    },
+    {
+        "prompt": "Điều 3: Những yêu cầu gì sinh viên cần đáp ứng khi tham gia khóa học ngoại ngữ?",
+        "response": "Sinh viên cần có đủ trình độ ngoại ngữ và hoàn thành các bài kiểm tra đầu vào nếu có."
+    },
+    {
+        "prompt": "Điều 4: Có thể tham gia các khóa học ngoại ngữ nào trong trường?",
+        "response": "Trường tổ chức nhiều khóa học ngoại ngữ, bao gồm tiếng Anh, tiếng Trung, tiếng Nhật, v.v."
+    },
+    {
+        "prompt": "Điều 5: Sinh viên có thể tham gia bao nhiêu khóa học ngoại ngữ một lần?",
+        "response": "Sinh viên có thể tham gia một hoặc nhiều khóa học ngoại ngữ tùy thuộc vào khả năng và nhu cầu học."
+    },
+    {
+        "prompt": "Điều 6: Khóa học ngoại ngữ có yêu cầu về số tín chỉ không?",
+        "response": "Các khóa học ngoại ngữ có thể yêu cầu một số tín chỉ nhất định để hoàn thành."
+    },
+    {
+        "prompt": "Điều 7: Làm thế nào để sinh viên đăng ký học lại các khóa học ngoại ngữ đã bỏ lỡ?",
+        "response": "Sinh viên có thể đăng ký lại khóa học ngoại ngữ trong các kỳ tiếp theo nếu có điều kiện."
+    },
+    {
+        "prompt": "Điều 8: Khóa học ngoại ngữ có yêu cầu về thời gian học không?",
+        "response": "Khóa học ngoại ngữ có thể có thời gian học cố định hoặc linh hoạt tùy thuộc vào chương trình học."
+    },
+    {
+        "prompt": "Điều 9: Sinh viên có thể học các khóa học ngoại ngữ vào thời gian nào trong năm?",
+        "response": "Sinh viên có thể tham gia các khóa học ngoại ngữ vào các kỳ học chính thức hoặc khóa học hè."
+    },
+    {
+        "prompt": "Điều 10: Nếu sinh viên không đạt yêu cầu khóa học ngoại ngữ, có thể học lại không?",
+        "response": "Sinh viên có thể học lại các khóa học ngoại ngữ nếu không đạt yêu cầu lần đầu."
+    },
+    {
+        "prompt": "Điều 11: Có phải sinh viên có thể tham gia khóa học ngoại ngữ mà không có bất kỳ chứng chỉ nào không?",
+        "response": "Có, sinh viên có thể tham gia khóa học ngoại ngữ mà không cần chứng chỉ đầu vào nếu có năng lực ngoại ngữ cơ bản."
+    },
+    {
+        "prompt": "Điều 12: Sinh viên có thể yêu cầu học thêm các khóa ngoại ngữ không liên quan đến chương trình học không?",
+        "response": "Sinh viên có thể yêu cầu tham gia các khóa học ngoại ngữ ngoài chương trình học chính thức."
+    },
+    {
+        "prompt": "Điều 13: Các khóa học ngoại ngữ có được tổ chức trực tuyến không?",
+        "response": "Có, một số khóa học ngoại ngữ có thể được tổ chức trực tuyến cho sinh viên."
+    },
+    {
+        "prompt": "Điều 14: Có yêu cầu sinh viên tham gia các kỳ thi ngoại ngữ sau khi hoàn thành khóa học không?",
+        "response": "Có, sinh viên phải tham gia kỳ thi ngoại ngữ để đánh giá kết quả học tập của mình."
+    },
+    {
+        "prompt": "Điều 15: Khóa học ngoại ngữ có thể mang lại những chứng chỉ gì?",
+        "response": "Sau khi hoàn thành khóa học, sinh viên có thể nhận được chứng chỉ ngoại ngữ của trường hoặc tổ chức đối tác."
+    },
+    {
+        "prompt": "Điều 16: Sinh viên có thể nhận học bổng khi tham gia khóa học ngoại ngữ không?",
+        "response": "Có, sinh viên có thể nhận học bổng nếu đáp ứng yêu cầu của chương trình học bổng ngoại ngữ."
+    },
+    {
+        "prompt": "Điều 17: Sinh viên có thể tham gia khóa học ngoại ngữ ở các trường khác ngoài trường mình học không?",
+        "response": "Sinh viên có thể tham gia khóa học ngoại ngữ ở các trường đối tác nếu có thỏa thuận hợp tác."
+    },
+    {
+        "prompt": "Điều 18: Những quyền lợi sinh viên có thể nhận được khi tham gia khóa học ngoại ngữ là gì?",
+        "response": "Sinh viên có thể nhận được chứng chỉ ngoại ngữ, kỹ năng giao tiếp và cơ hội nghề nghiệp tốt hơn."
+    },
+    {
+        "prompt": "Điều 19: Sinh viên có thể tham gia các khóa học ngoại ngữ miễn phí không?",
+        "response": "Có, một số khóa học ngoại ngữ có thể miễn phí hoặc có hỗ trợ học phí cho sinh viên."
+    },
+    {
+        "prompt": "Điều 20: Các khóa học ngoại ngữ có yêu cầu về độ tuổi của sinh viên không?",
+        "response": "Các khóa học ngoại ngữ thường không có yêu cầu về độ tuổi, chỉ cần sinh viên có khả năng học ngoại ngữ."
+    },
+    {
+        "prompt": "Điều 21: Nếu sinh viên muốn nâng cao trình độ ngoại ngữ, có khóa học nào dành cho sinh viên không?",
+        "response": "Trường tổ chức các khóa học nâng cao dành cho sinh viên muốn phát triển khả năng ngoại ngữ."
+    },
+    {
+        "prompt": "Điều 22: Sinh viên có thể tham gia các khóa học ngoại ngữ vào thời gian nào trong tuần?",
+        "response": "Khóa học ngoại ngữ có thể được tổ chức vào các ngày trong tuần tùy theo lịch học của trường."
+    },
+    {
+        "prompt": "Điều 23: Sinh viên có thể tham gia các khóa học ngoại ngữ tại các trung tâm ngoại ngữ không?",
+        "response": "Sinh viên có thể tham gia các khóa học ngoại ngữ tại các trung tâm đối tác nếu trường có thỏa thuận."
+    },
+    {
+        "prompt": "Điều 24: Các khóa học ngoại ngữ có được tổ chức theo các cấp độ không?",
+        "response": "Có, các khóa học ngoại ngữ thường được chia thành các cấp độ từ cơ bản đến nâng cao."
+    },
+    {
+        "prompt": "Điều 25: Sinh viên có thể xin giấy chứng nhận sau khi hoàn thành khóa học ngoại ngữ không?",
+        "response": "Sinh viên có thể xin giấy chứng nhận sau khi hoàn thành khóa học ngoại ngữ và đạt yêu cầu."
+    },
+    {
+        "prompt": "Điều 26: Sinh viên có thể đổi môn học ngoại ngữ trong trường hợp không phù hợp không?",
+        "response": "Sinh viên có thể yêu cầu đổi môn học ngoại ngữ nếu có lý do hợp lý."
+    },
+    {
+        "prompt": "Điều 27: Sinh viên có thể tham gia khóa học ngoại ngữ để chuẩn bị cho các kỳ thi quốc tế không?",
+        "response": "Sinh viên có thể tham gia khóa học ngoại ngữ để chuẩn bị cho các kỳ thi quốc tế như TOEFL, IELTS."
+    },
+    {
+        "prompt": "Điều 28: Sinh viên có thể yêu cầu gia hạn thời gian hoàn thành khóa học ngoại ngữ không?",
+        "response": "Sinh viên có thể yêu cầu gia hạn thời gian hoàn thành khóa học ngoại ngữ nếu có lý do chính đáng."
+    },
+    {
+        "prompt": "Điều 29: Sinh viên có thể tham gia khóa học ngoại ngữ vào các kỳ nghỉ hè không?",
+        "response": "Có, sinh viên có thể tham gia khóa học ngoại ngữ vào kỳ nghỉ hè để cải thiện khả năng ngoại ngữ."
+    },
+    {
+        "prompt": "Điều 30: Sinh viên cần có những điều kiện gì để được cấp chứng chỉ ngoại ngữ?",
+        "response": "Sinh viên cần hoàn thành khóa học và đạt kết quả thi cuối kỳ để được cấp chứng chỉ ngoại ngữ."
+    },
+    {
+        "prompt": "Điều 31: Có những hình thức đào tạo ngoại ngữ nào cho sinh viên?",
+        "response": "Sinh viên có thể học ngoại ngữ qua các lớp học truyền thống, học trực tuyến hoặc tự học."
+    },
+    {
+        "prompt": "Điều 32: Khóa học ngoại ngữ có phải trả học phí không?",
+        "response": "Một số khóa học ngoại ngữ yêu cầu sinh viên đóng học phí, nhưng cũng có khóa học miễn phí."
+    },
+    {
+        "prompt": "Điều 33: Sinh viên có thể học ngoại ngữ để chuẩn bị cho công việc quốc tế không?",
+        "response": "Có, việc học ngoại ngữ giúp sinh viên chuẩn bị cho công việc quốc tế và mở rộng cơ hội nghề nghiệp."
+    },
+    {
+        "prompt": "Điều 34: Sinh viên có thể tham gia khóa học ngoại ngữ để giao tiếp trong công việc không?",
+        "response": "Sinh viên có thể tham gia khóa học ngoại ngữ để cải thiện khả năng giao tiếp trong công việc."
+    },
+    {
+        "prompt": "Điều 35: Sinh viên có thể xin nghỉ trong quá trình học khóa ngoại ngữ không?",
+        "response": "Sinh viên cần xin phép và có lý do hợp lý nếu muốn nghỉ học trong khóa ngoại ngữ."
+    },
+    {
+        "prompt": "Điều 36: Sinh viên có thể tham gia khóa học ngoại ngữ mà không cần có kinh nghiệm trước không?",
+        "response": "Có, sinh viên có thể tham gia khóa học ngoại ngữ ngay cả khi không có kinh nghiệm trước."
+    },
+    {
+        "prompt": "Điều 37: Các khóa học ngoại ngữ có tổ chức các kỳ thi thử không?",
+        "response": "Một số khóa học ngoại ngữ có tổ chức kỳ thi thử để giúp sinh viên làm quen với bài kiểm tra chính thức."
+    },
+    {
+        "prompt": "Điều 38: Sinh viên có thể đăng ký học khóa ngoại ngữ trong kỳ nghỉ lễ không?",
+        "response": "Sinh viên có thể đăng ký học khóa ngoại ngữ trong các kỳ nghỉ lễ nếu chương trình học vẫn mở."
+    },
+    {
+        "prompt": "Điều 39: Sinh viên có thể tham gia lớp học ngoại ngữ mà không tham gia thi không?",
+        "response": "Sinh viên có thể tham gia lớp học ngoại ngữ nhưng cần tham gia thi để nhận chứng chỉ."
+    },
+    {
+        "prompt": "Điều 40: Sinh viên có thể tham gia khóa học ngoại ngữ miễn phí qua các hoạt động tình nguyện không?",
+        "response": "Có, sinh viên có thể tham gia khóa học ngoại ngữ miễn phí qua các hoạt động tình nguyện hoặc chương trình hỗ trợ."
+    },
+    {
+        "prompt": "Điều 41: Sinh viên có thể yêu cầu học thêm môn ngoại ngữ nào khác ngoài chương trình học không?",
+        "response": "Sinh viên có thể yêu cầu học thêm môn ngoại ngữ nếu trường có chương trình đào tạo."
+    },
+    {
+        "prompt": "Điều 42: Các khóa học ngoại ngữ có tổ chức kỳ thi cuối khóa không?",
+        "response": "Có, các khóa học ngoại ngữ thường tổ chức kỳ thi cuối khóa để đánh giá kết quả học tập."
+    },
+    {
+        "prompt": "Điều 43: Sinh viên có thể tham gia khóa học ngoại ngữ ngoài trường không?",
+        "response": "Sinh viên có thể tham gia các khóa học ngoại ngữ tại các trung tâm đào tạo bên ngoài trường."
+    },
+    {
+        "prompt": "Điều 44: Sinh viên có thể thay đổi môn học ngoại ngữ trong trường hợp cảm thấy khó học không?",
+        "response": "Sinh viên có thể yêu cầu thay đổi môn học ngoại ngữ nếu cảm thấy không phù hợp."
+    },
+    {
+        "prompt": "Điều 45: Các khóa học ngoại ngữ có thể áp dụng cho sinh viên nước ngoài không?",
+        "response": "Có, các khóa học ngoại ngữ có thể áp dụng cho sinh viên nước ngoài đang học tại trường."
+    },
+    {
+        "prompt": "Điều 46: Sinh viên có thể học ngoại ngữ song song với các môn học khác không?",
+        "response": "Sinh viên có thể học ngoại ngữ song song với các môn học khác nếu không ảnh hưởng đến thời gian học."
+    },
+    {
+        "prompt": "Điều 47: Sinh viên có thể học ngoại ngữ để giao tiếp trong các chuyến du học không?",
+        "response": "Sinh viên có thể học ngoại ngữ để giao tiếp trong các chuyến du học hoặc trao đổi sinh viên."
+    },
+    {
+        "prompt": "Điều 48: Các khóa học ngoại ngữ có thể giúp sinh viên cải thiện khả năng viết không?",
+        "response": "Có, các khóa học ngoại ngữ giúp sinh viên cải thiện kỹ năng viết và giao tiếp."
+    },
+    {
+        "prompt": "Điều 49: Sinh viên có thể học ngoại ngữ theo hình thức tự học không?",
+        "response": "Sinh viên có thể học ngoại ngữ theo hình thức tự học nhưng vẫn cần tham gia các lớp học chính thức."
+    },
+    {
+        "prompt": "Điều 50: Có cần phải có tài liệu học ngoại ngữ riêng không?",
+        "response": "Có, sinh viên cần có tài liệu học ngoại ngữ do trường cung cấp hoặc tự mua."
+    },
+    {
+        "prompt": "Điều 16: Sinh viên có thể nghỉ học tạm thời trong những trường hợp nào?",
+        "response": "Sinh viên có thể nghỉ học tạm thời trong các trường hợp như bị điều động vào lực lượng vũ trang, ốm, thai sản, tai nạn, hoặc lý do cá nhân."
+    },
+    {
+        "prompt": "Điều 16: Sinh viên có thể nghỉ học tạm thời trong bao lâu?",
+        "response": "Sinh viên có thể nghỉ học tối đa 02 học kỳ chính liên tiếp và tổng thời gian nghỉ học không quá 04 học kỳ chính."
+    },
+    {
+        "prompt": "Điều 16: Sinh viên cần làm gì khi muốn quay lại học sau khi nghỉ tạm thời?",
+        "response": "Sinh viên phải hoàn tất thủ tục nhập học theo quy định của Nhà trường, trễ nhất là 04 tuần trước khi bắt đầu học kỳ."
+    },
+    {
+        "prompt": "Điều 16: Sinh viên phải làm đơn xin nghỉ học ở đâu?",
+        "response": "Sinh viên phải làm đơn theo mẫu cung cấp bởi Phòng Đào tạo Đại học và nộp tại Phòng Đào tạo Đại học."
+    },
+    {
+        "prompt": "Điều 16: Thời gian giải quyết đơn xin tạm dừng học là bao lâu?",
+        "response": "Thời gian giải quyết các thủ tục xin tạm dừng học là không quá 7 ngày kể từ khi nhận đơn."
+    },
+    {
+        "prompt": "Điều 16: Sinh viên có thể quay lại học sau khi nghỉ học vì lý do nghĩa vụ quân sự không?",
+        "response": "Sinh viên có thể quay lại học nhưng phải nộp kèm quyết định xuất ngũ hoặc giấy xác nhận đã hoàn thành nhiệm vụ."
+    },
+    {
+        "prompt": "Điều 17: Sinh viên có thể chuyển ngành khi nào?",
+        "response": "Sinh viên có thể chuyển ngành khi không phải là sinh viên năm thứ nhất hoặc năm cuối khóa, và còn đủ thời gian học tập theo quy định."
+    },
+    {
+        "prompt": "Điều 17: Sinh viên có thể chuyển ngành khi có điều kiện gì?",
+        "response": "Sinh viên cần đạt điều kiện trúng tuyển của ngành đào tạo mới và được sự đồng ý của trưởng các đơn vị chuyên môn và Hiệu trưởng."
+    },
+    {
+        "prompt": "Điều 17: Sinh viên có thể chuyển trường khi nào?",
+        "response": "Sinh viên có thể chuyển trường khi không phải là sinh viên năm thứ nhất hoặc năm cuối khóa, không bị xem xét kỷ luật và còn đủ thời gian học tập."
+    },
+    {
+        "prompt": "Điều 17: Thủ tục chuyển trường như thế nào?",
+        "response": "Sinh viên phải làm đơn xin chuyển trường, kèm theo minh chứng để xin ý kiến đồng ý của Hiệu trưởng trường tiếp nhận."
+    },
+    {
+        "prompt": "Điều 17: Sinh viên chuyển trường cần những điều kiện gì?",
+        "response": "Sinh viên cần đạt điều kiện trúng tuyển của chương trình ngành đào tạo tại nơi chuyển đến và được sự đồng ý của Hiệu trưởng trường chuyển đi và trường chuyển đến."
+    },
+    {
+        "prompt": "Điều 17: Sinh viên muốn tham gia chương trình trao đổi sinh viên cần làm gì?",
+        "response": "Sinh viên cần thực hiện thủ tục tham gia theo Quy định quản lý và vận hành chương trình trao đổi sinh viên của trường ĐHQT."
+    },
+    {
+        "prompt": "Điều 18: Sinh viên có thể trở thành sinh viên dự thính không?",
+        "response": "Sinh viên có thể trở thành sinh viên dự thính nếu có nhu cầu học bổ túc kiến thức và đủ điều kiện về nhân thân và trình độ."
+    },
+    {
+        "prompt": "Điều 18: Sinh viên dự thính có được cấp chứng nhận không?",
+        "response": "Sinh viên dự thính được cấp giấy chứng nhận việc theo học và kết quả học tập sau khi hoàn tất khóa học."
+    },
+    {
+        "prompt": "Điều 18: Sinh viên dự thính có được làm đồ án tốt nghiệp không?",
+        "response": "Sinh viên dự thính không được làm đồ án, luận văn tốt nghiệp hoặc xét tốt nghiệp để nhận văn bằng."
+    },
+    {
+        "prompt": "Điều 19: Sinh viên có thể học đồng thời hai chương trình không?",
+        "response": "Sinh viên có thể học đồng thời hai chương trình khi đã được xếp trình độ năm thứ hai và đáp ứng các điều kiện học lực."
+    },
+    {
+        "prompt": "Điều 19: Sinh viên học hai chương trình có điều kiện gì?",
+        "response": "Sinh viên phải có học lực trung bình khá hoặc đáp ứng điều kiện trúng tuyển của chương trình thứ hai."
+    },
+    {
+        "prompt": "Điều 19: Sinh viên học đồng thời hai chương trình có thể tốt nghiệp không?",
+        "response": "Sinh viên có thể tốt nghiệp chương trình thứ hai nếu đã tốt nghiệp chương trình thứ nhất và đăng ký trước 02 năm thời điểm xét tốt nghiệp."
+    },
+    {
+        "prompt": "Điều 19: Nếu điểm trung bình tích lũy của chương trình đầu tiên kém, sinh viên sẽ làm gì?",
+        "response": "Nếu điểm trung bình tích lũy của chương trình đầu tiên kém, sinh viên phải dừng học chương trình thứ hai và sẽ bị loại khỏi danh sách học chương trình thứ hai."
+    },
+    {
+        "prompt": "Điều 20: Sinh viên có gian lận trong thi kiểm tra bị xử lý như thế nào?",
+        "response": "Sinh viên gian lận trong thi, kiểm tra sẽ bị xử lý kỷ luật theo quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành."
+    },
+    {
+        "prompt": "Điều 20: Sinh viên thi hộ sẽ bị xử lý ra sao?",
+        "response": "Sinh viên thi hộ sẽ bị đình chỉ học tập 01 năm nếu vi phạm lần đầu, và buộc thôi học nếu vi phạm lần thứ hai."
+    },
+    {
+        "prompt": "Điều 20: Sinh viên sử dụng hồ sơ giả có bị xử lý không?",
+        "response": "Sinh viên sử dụng hồ sơ, văn bằng giả sẽ bị buộc thôi học và văn bằng tốt nghiệp nếu đã cấp sẽ bị thu hồi, huỷ bỏ."
+    },
+    {
+        "prompt": "Điều 21: Ai là người có trách nhiệm xây dựng và tổ chức thực hiện quy chế đào tạo?",
+        "response": "Phòng Đào tạo Đại học có trách nhiệm xây dựng, cập nhật, ban hành và tổ chức thực hiện quy chế đào tạo."
+    },
+    {
+        "prompt": "Điều 21: Các khoa, bộ môn có trách nhiệm gì đối với sinh viên?",
+        "response": "Các khoa, bộ môn có trách nhiệm phổ biến và hướng dẫn cho sinh viên về quy định của trường ngay đầu khóa học."
+    },
+    {
+        "prompt": "Điều 21: Phòng Bảo đảm Chất lượng Giáo dục có nhiệm vụ gì?",
+        "response": "Phòng Bảo đảm Chất lượng Giáo dục có nhiệm vụ theo dõi chất lượng giảng dạy và thu nhận ý kiến phản hồi từ người học."
+    },
+    {
+        "prompt": "Điều 21: Phòng Thanh tra Pháp chế có trách nhiệm gì?",
+        "response": "Phòng Thanh tra Pháp chế chịu trách nhiệm tổ chức kiểm tra, thanh tra nội bộ việc thực hiện Quy chế đào tạo."
+    },
+    {
+        "prompt": "Điều 22: Phòng Đào tạo Đại học phải báo cáo thông tin gì?",
+        "response": "Phòng Đào tạo Đại học phải báo cáo về số liệu sinh viên tuyển mới, tốt nghiệp, thôi học, và dự kiến tốt nghiệp trong năm sau."
+    },
+    {
+        "prompt": "Điều 22: Các tài liệu liên quan đến công tác đào tạo được lưu trữ bao lâu?",
+        "response": "Các tài liệu như quyết định trúng tuyển, bảng điểm gốc, quyết định công nhận tốt nghiệp được lưu trữ vĩnh viễn."
+    },
+    {
+        "prompt": "Điều 22: Trường công khai thông tin gì trên trang điện tử?",
+        "response": "Trường công khai các quy chế học vụ, quyết định mở ngành, và các điều kiện bảo đảm chất lượng đào tạo trên trang thông tin điện tử."
+    },
+    {
+        "prompt": "Điều 22: Trường phải công khai thông tin trước bao lâu?",
+        "response": "Trường phải công khai thông tin chậm nhất 45 ngày trước khi tổ chức đào tạo."
+    },
+    {
+        "prompt": "Bảng 1: CBGD là gì?",
+        "response": "CBGD là viết tắt của Cán bộ giảng dạy."
+    },
+    {
+        "prompt": "Bảng 1: CVHT là gì?",
+        "response": "CVHT là viết tắt của Cố vấn học tập."
+    },
+    {
+        "prompt": "Bảng 1: TC là gì?",
+        "response": "TC là viết tắt của Tín chỉ."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Xuất sắc' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Xuất sắc' có điểm số từ 90 đến 100, tương đương với điểm chữ A+ và thang điểm 4 là 4.0."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Giỏi' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Giỏi' có điểm số từ 80 đến cận 90, tương đương với điểm chữ A và thang điểm 4 là 3.5."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Khá' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Khá' có điểm số từ 70 đến cận 80, tương đương với điểm chữ B+ và thang điểm 4 là 3.0."
+    },
+    {
+        "prompt": "Bảng 2: Xếp loại 'Trung bình' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Trung bình' có điểm số từ 50 đến cận 60, tương đương với điểm chữ C và thang điểm 4 là 2.0."
+    },
+    {
+        "prompt": "Bảng 3: Xếp loại 'Kém' có điểm số là bao nhiêu?",
+        "response": "Xếp loại 'Kém' có điểm số dưới 30, tương đương với điểm chữ F và thang điểm 4 là 0.0."
+    }
+    ]

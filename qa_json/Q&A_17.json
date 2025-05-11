@@ -1,0 +1,662 @@
+[
+    {
+      "prompt": "Quy chế tổ chức thi học kỳ trình độ đại học được ban hành kèm theo quyết định nào?",
+      "response": "Quy chế tổ chức thi học kỳ trình độ đại học được ban hành kèm theo Quyết định số 07/QĐ-ĐHQT ngày 08 tháng 01 năm 2025."
+    },
+    {
+      "prompt": "Quyết định mới này có hiệu lực từ ngày nào?",
+      "response": "Quyết định này có hiệu lực kể từ ngày 03/02/2025."
+    },
+    {
+      "prompt": "Quyết định này áp dụng bắt đầu từ học kỳ nào?",
+      "response": "Quyết định này áp dụng bắt đầu từ học kỳ 2 năm học 2024 - 2025."
+    },
+    {
+      "prompt": "Những quyết định nào bị bãi bỏ bởi Quyết định này?",
+      "response": "Quyết định số 410/QĐ-ĐHQT ngày 22/7/2022 và Quyết định số 411/QĐ-ĐHQT ngày 07/7/2020 bị bãi bỏ bởi Quyết định này."
+    },
+    {
+      "prompt": "Ai chịu trách nhiệm thi hành Quyết định này?",
+      "response": "Trưởng phòng Phòng Bảo đảm Chất lượng Giáo dục và Khảo thí, trưởng các đơn vị, tổ chức, đoàn thể, giảng viên, viên chức, người học của Trường Đại học Quốc tế và cá nhân, các bên liên quan chịu trách nhiệm thi hành Quyết định này."
+    },
+    {
+      "prompt": "Quyết định này được ban hành bởi ai?",
+      "response": "Quyết định này được ban hành bởi Hiệu trưởng Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+      "prompt": "Quyết định số 07/QĐ-ĐHQT có ngày ký là bao nhiêu?",
+      "response": "Quyết định số 07/QĐ-ĐHQT được ký ngày 08 tháng 01 năm 2025."
+    },
+    {
+      "prompt": "Quyết định này được ban hành bởi cơ quan nào?",
+      "response": "Quyết định này được ban hành bởi Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+      "prompt": "Quy chế tổ chức thi học kỳ thuộc trình độ nào?",
+      "response": "Quy chế tổ chức thi học kỳ thuộc trình độ đại học."
+    },
+    {
+      "prompt": "Những văn bản nào trái với Quyết định này sẽ bị xử lý ra sao?",
+      "response": "Những văn bản trái với Quyết định này sẽ bị bãi bỏ."
+    },
+    {
+        "prompt": "Mục đích của việc ban hành Quy chế tổ chức thi học kỳ trình độ đại học là gì?",
+        "response": "Đảm bảo công tác thi được thực hiện nghiêm túc, công bằng, chặt chẽ và góp phần nâng cao chất lượng đào tạo của Nhà trường."
+      },
+      {
+        "prompt": "Phạm vi áp dụng của Quy chế này là gì?",
+        "response": "Quy chế này áp dụng cho kiểm tra giữa kỳ, thi cuối kỳ các học phần trình độ đại học hệ chính quy tại Trường Đại học Quốc tế."
+      },
+      {
+        "prompt": "Đối tượng nào thuộc phạm vi áp dụng của Quy chế này?",
+        "response": "Các Khoa/Bộ môn, giảng viên, viên chức, người lao động, sinh viên trình độ đại học hệ chính quy và các cá nhân, đơn vị liên quan."
+      },
+      {
+        "prompt": "Quy chế này không áp dụng cho các hoạt động nào?",
+        "response": "Quy chế này không áp dụng cho thi tuyển sinh và chấm luận văn tốt nghiệp."
+      },
+      {
+        "prompt": "Hiệu trưởng chịu trách nhiệm gì trong công tác tổ chức thi?",
+        "response": "Hiệu trưởng chịu trách nhiệm chỉ đạo thống nhất và toàn diện công tác tổ chức thi và chấm thi học kỳ."
+      },
+      {
+        "prompt": "Phòng BĐCLGD&KT có trách nhiệm chính trong công tác gì?",
+        "response": "Phòng BĐCLGD&KT chịu trách nhiệm lập lịch thi, danh sách phòng thi, danh sách sinh viên theo phòng thi và tổ chức thi các học phần chung của Trường."
+      },
+      {
+        "prompt": "Nhiệm vụ của Phòng Đào tạo Đại học trong công tác tổ chức thi là gì?",
+        "response": "Phòng Đào tạo Đại học phối hợp thông báo các quy định, quản lý điểm thi trong phần mềm, và hỗ trợ cập nhật thông báo lịch thi."
+      },
+      {
+        "prompt": "Phòng BĐCLGD&KT có trách nhiệm gì trong việc in sao đề thi?",
+        "response": "Phòng BĐCLGD&KT chịu trách nhiệm in sao đề thi, lưu giữ bài thi và quản lý chấm thi đối với các học phần chung của Trường."
+      },
+      {
+        "prompt": "Phòng Kế hoạch Tài chính có nhiệm vụ gì liên quan đến công tác thi?",
+        "response": "Phòng Kế hoạch Tài chính ra thông báo về thời hạn đóng học phí, cập nhật danh sách sinh viên đủ điều kiện dự thi và thanh toán thù lao cho CBCT."
+      },
+      {
+        "prompt": "Cán bộ coi thi được viết tắt là gì trong Quy chế?",
+        "response": "Cán bộ coi thi được viết tắt là CBCT."
+      },
+      {
+        "prompt": "Trường Đại học Quốc tế được viết tắt là gì trong Quy chế?",
+        "response": "Trường Đại học Quốc tế được viết tắt là Trường ĐHQT."
+      },
+      {
+        "prompt": "Các đơn vị tổ chức thi chịu trách nhiệm gì trong việc chấm thi?",
+        "response": "Các đơn vị tổ chức thi chịu trách nhiệm chấm thi, chấm phúc tra, trả điểm đúng thời hạn và nhập điểm lên phần mềm."
+      },
+      {
+        "prompt": "Trách nhiệm của các Khoa/Bộ môn trong việc tổ chức thi là gì?",
+        "response": "Các Khoa/Bộ môn chịu trách nhiệm chuẩn bị cơ sở vật chất và tổ chức các ca thi trắc nghiệm trên máy vi tính."
+      },
+      {
+        "prompt": "Phòng Vật tư Thiết bị có nhiệm vụ gì trong kỳ thi?",
+        "response": "Phòng Vật tư Thiết bị chịu trách nhiệm cung cấp đủ bàn ghế, máy vi tính, hệ thống điện, ánh sáng và các điều kiện cơ sở vật chất khác."
+      },
+      {
+        "prompt": "Trách nhiệm của các đơn vị liên kết đào tạo trong kỳ thi là gì?",
+        "response": "Các đơn vị liên kết phối hợp tổ chức thi, chấm thi, nộp điểm đúng thời hạn và thực hiện các quy định của Nhà trường."
+      },
+      {
+        "prompt": "Phòng BĐCLGD&KT có nhiệm vụ gì liên quan đến danh sách giảng viên?",
+        "response": "Phòng BĐCLGD&KT lập và tổng hợp danh sách giảng viên, chuyên viên tham gia coi thi."
+      },
+      {
+        "prompt": "Phòng Đào tạo Đại học thông báo các nội dung gì liên quan đến kỳ thi?",
+        "response": "Phòng Đào tạo Đại học thông báo quy định, lịch thi, danh sách cấm thi, và nộp điểm liên quan đến kỳ thi."
+      },
+      {
+        "prompt": "Điều gì xảy ra nếu có tình huống phát sinh trong kỳ thi chưa được quy định?",
+        "response": "Các đơn vị liên quan phải phối hợp giải quyết hoặc xin chỉ đạo từ Hiệu trưởng Nhà trường."
+      },
+      {
+        "prompt": "Quy chế tổ chức thi áp dụng cho hệ đào tạo nào?",
+        "response": "Quy chế áp dụng cho hệ đào tạo chính quy trình độ đại học của Trường ĐHQT."
+      },
+      {
+        "prompt": "Nhiệm vụ của Phòng Quản trị Cơ sở Vật chất trong kỳ thi là gì?",
+        "response": "Phòng Quản trị Cơ sở Vật chất chuẩn bị điều kiện cơ sở vật chất, vệ sinh phòng thi, bố trí bàn ghế, hệ thống mạng và các thiết bị khác."
+      },
+      {
+        "prompt": "Trách nhiệm của các Khoa/Bộ môn trong việc cung cấp nhân lực cho kỳ thi là gì?",
+        "response": "Các Khoa/Bộ môn chịu trách nhiệm cung cấp nguồn nhân lực coi thi và chấm thi."
+      },
+      {
+        "prompt": "Phòng Kế hoạch Tài chính giải quyết vấn đề gì để xét điều kiện dự thi?",
+        "response": "Phòng Kế hoạch Tài chính giải quyết các vấn đề liên quan đến học phí để xét điều kiện dự thi cho sinh viên."
+      },
+      {
+        "prompt": "Phòng BĐCLGD&KT có nhiệm vụ gì trong quản lý điểm thi?",
+        "response": "Phòng BĐCLGD&KT theo dõi và quản lý quy trình nhập điểm lên hệ thống quản lý điểm của Nhà trường."
+      },
+      {
+        "prompt": "Phòng Đào tạo Đại học có nhiệm vụ gì liên quan đến phần mềm quản lý đào tạo?",
+        "response": "Phòng Đào tạo Đại học quản lý điểm thi, phân quyền khai thác dữ liệu và phối hợp cập nhật, điều chỉnh điểm thi vào phần mềm."
+      },
+      {
+        "prompt": "Trách nhiệm của các đơn vị tổ chức thi trong việc điểm danh sinh viên là gì?",
+        "response": "Các đơn vị tổ chức thi có trách nhiệm điểm danh và gửi danh sách cấm thi cho Phòng BĐCLGD&KT."
+      },
+      {
+        "prompt": "Trách nhiệm của Phòng Vật tư Thiết bị trong việc hỗ trợ thi trên máy tính là gì?",
+        "response": "Phòng Vật tư Thiết bị chịu trách nhiệm chuẩn bị máy vi tính và hệ thống mạng cho các ca thi trên máy."
+      },
+      {
+        "prompt": "Điều gì được Phòng Kế hoạch Tài chính cập nhật liên quan đến học phí?",
+        "response": "Phòng Kế hoạch Tài chính cập nhật danh sách sinh viên đã đóng học phí, lệ phí theo quy định."
+      },
+      {
+        "prompt": "Lịch thi được công bố trên nền tảng nào?",
+        "response": "Lịch thi được công bố trên Edusoftweb."
+      },
+      {
+        "prompt": "Ai chịu trách nhiệm điều hành tổ chức coi thi?",
+        "response": "Phòng BĐCLGD&KT chịu trách nhiệm điều hành tổ chức coi thi."
+      },
+      {
+        "prompt": "Sinh viên quốc tế học trao đổi có nằm trong phạm vi áp dụng của Quy chế này không?",
+        "response": "Có, sinh viên quốc tế học trao đổi nằm trong phạm vi áp dụng của Quy chế này."
+      },
+      {
+        "prompt": "Lịch thi do ai xây dựng?",
+        "response": "Lịch thi do Phòng BĐCLGD&KT xây dựng."
+      },
+      {
+        "prompt": "Lịch thi căn cứ vào những yếu tố nào?",
+        "response": "Lịch thi căn cứ vào kế hoạch năm học, lịch giảng, và điều kiện cơ sở vật chất của Nhà trường."
+      },
+      {
+        "prompt": "Mỗi buổi thi bố trí bao nhiêu ca thi?",
+        "response": "Mỗi buổi thi bố trí không quá 02 ca thi."
+      },
+      {
+        "prompt": "Có thể bố trí sinh viên thi ở 02 cơ sở khác nhau trong 2 ca thi liền nhau không?",
+        "response": "Không, không bố trí SV thi ở 02 cơ sở của 2 ca thi liền nhau."
+      },
+      {
+        "prompt": "Thời gian chuyển tiếp giữa 02 ca thi tối thiểu bao nhiêu phút?",
+        "response": "Thời gian chuyển tiếp giữa 02 ca thi tối thiểu là 15 phút."
+      },
+      {
+        "prompt": "Các học phần của các lớp cùng khóa học được tổ chức thi như thế nào?",
+        "response": "Các học phần của các lớp cùng khóa học và học trong cùng học kỳ được tổ chức thi trong cùng một thời gian, trừ các môn đặc thù."
+      },
+      {
+        "prompt": "Lịch thi giữa kỳ phải được công bố trước bao nhiêu ngày?",
+        "response": "Lịch thi giữa kỳ phải được công bố tối thiểu 07 ngày trước ngày thi."
+      },
+      {
+        "prompt": "Lịch thi cuối kỳ phải được công bố trước bao nhiêu ngày?",
+        "response": "Lịch thi cuối kỳ phải được công bố tối thiểu 14 ngày trước ngày thi."
+      },
+      {
+        "prompt": "Sinh viên có thể tham gia bao nhiêu kỳ thi chính thức trong một học kỳ chính?",
+        "response": "Sinh viên có thể tham gia 1 lần kiểm tra giữa kỳ và 1 lần thi cuối kỳ."
+      },
+      {
+        "prompt": "Các hình thức thi được quy định ở đâu?",
+        "response": "Các hình thức thi được quy định trong đề cương chi tiết học phần."
+      },
+      {
+        "prompt": "Khi có sự thay đổi hình thức thi, ai phải phê duyệt?",
+        "response": "Hiệu trưởng phải phê duyệt sự thay đổi hình thức thi."
+      },
+      {
+        "prompt": "Sinh viên phải được thông báo về sự thay đổi hình thức thi trước bao nhiêu tuần?",
+        "response": "Sinh viên phải được thông báo trước ít nhất 04 tuần."
+      },
+      {
+        "prompt": "Nếu học phần chỉ bao gồm thực hành, điểm tổng kết sẽ tính như thế nào?",
+        "response": "Điểm tổng kết sẽ là điểm trung bình cộng của các bài thực hành trong học kỳ theo trọng số."
+      },
+      {
+        "prompt": "Quy định chung về hình thức đề thi như thế nào?",
+        "response": "Hình thức của đề thi phải theo mẫu đề thi do Nhà trường quy định và có đầy đủ thông tin cần thiết."
+      },
+      {
+        "prompt": "Đề thi phải được kiểm tra ra sao trước khi sử dụng?",
+        "response": "Đề thi phải được rà soát lỗi nội dung, lỗi chính tả và lỗi hình thức trước khi sử dụng."
+      },
+      {
+        "prompt": "Đề thi phải có chữ ký của ai?",
+        "response": "Đề thi phải có chữ ký của giảng viên ra đề thi và phê duyệt của Lãnh đạo đơn vị tổ chức thi."
+      },
+      {
+        "prompt": "Ai là người chịu trách nhiệm về chất lượng đề thi?",
+        "response": "Giảng viên là người chịu trách nhiệm chính về chất lượng đề thi."
+      },
+      {
+        "prompt": "Giảng viên phải nộp đề thi về đơn vị tổ chức thi trước bao nhiêu ngày?",
+        "response": "Giảng viên phải nộp đề thi ít nhất 04 ngày làm việc trước khi ca thi bắt đầu."
+      },
+      {
+        "prompt": "Nếu nộp đề thi chậm trễ, ai sẽ chịu trách nhiệm?",
+        "response": "Trưởng đơn vị tổ chức thi và giảng viên ra đề thi sẽ chịu trách nhiệm."
+      },
+      {
+        "prompt": "Đề thi phải được sao in như thế nào?",
+        "response": "Việc sao in đề thi phải đảm bảo rõ ràng, đủ số lượng và không để nhầm lẫn."
+      },
+      {
+        "prompt": "Ai quyết định nhân sự sao in đề thi?",
+        "response": "Lãnh đạo đơn vị tổ chức thi quyết định nhân sự sao in đề thi."
+      },
+      {
+        "prompt": "Nhân sự sao in đề thi phải đảm bảo gì?",
+        "response": "Nhân sự sao in đề thi phải không có người thân dự thi và không tiết lộ thông tin về đề thi."
+      },
+      {
+        "prompt": "Đề thi phải được bảo mật như thế nào?",
+        "response": "Đề thi phải được bảo mật và niêm phong khi bàn giao cho bộ phận in sao."
+      },
+      {
+        "prompt": "Khi nào đề thi phải được bàn giao cho cán bộ coi thi?",
+        "response": "Đề thi phải được bàn giao cho cán bộ coi thi trước mỗi ca thi."
+      },
+      {
+        "prompt": "Nếu phát hiện sai sót trong đề thi, ai phải xử lý?",
+        "response": "CBCT phải báo cáo cho đơn vị tổ chức thi và giải quyết theo các phương án đã đề ra."
+      },
+      {
+        "prompt": "Phương án nào sẽ áp dụng nếu sai sót nhỏ không ảnh hưởng đến nội dung đề thi?",
+        "response": "Phương án 01: tiếp tục tổ chức thi và điều chỉnh sai sót."
+      },
+      {
+        "prompt": "Phương án nào sẽ áp dụng nếu sai sót nghiêm trọng về nội dung đề thi?",
+        "response": "Phương án 03: đình chỉ thi và tổ chức thi lại học phần đó."
+      },
+      {
+        "prompt": "Sau mỗi kỳ thi, đề thi được lưu trữ như thế nào?",
+        "response": "Đề thi phải được lưu trữ an toàn và bảo quản theo chế độ tài liệu mật."
+      },
+      {
+        "prompt": "Sinh viên có quyền khiếu nại về điều kiện dự thi không?",
+        "response": "Có, sinh viên có quyền khiếu nại và các đơn vị liên quan phải kiểm tra và phản hồi."
+      },
+      {
+        "prompt": "Khi nào sinh viên không được phép dự thi?",
+        "response": "Sinh viên không được phép dự thi nếu đến muộn quá 15 phút sau khi bốc đề thi."
+      },
+      {
+        "prompt": "Sinh viên có thể hoãn thi không?",
+        "response": "Sinh viên có thể hoãn thi nếu bị ốm, tai nạn hoặc vì lý do chính đáng."
+      },
+      {
+        "prompt": "Khi nào sinh viên được phép thi lại một học phần?",
+        "response": "Sinh viên được phép thi lại trong thời hạn 01 năm tiếp theo."
+      },
+      {
+        "prompt": "Cán bộ coi thi có thể là ai?",
+        "response": "Cán bộ coi thi có thể là giảng viên, nghiên cứu viên, chuyên viên từ các đơn vị của trường."
+      },
+      {
+        "prompt": "Cán bộ coi thi phải có điều kiện gì để tham gia?",
+        "response": "Cán bộ coi thi phải tốt nghiệp đại học trở lên và đang công tác tại trường."
+      },
+      {
+        "prompt": "Nếu cán bộ coi thi không thể tham gia, ai sẽ xử lý?",
+        "response": "Lãnh đạo đơn vị phụ trách sẽ chủ động bố trí người thay thế."
+      },
+      {
+        "prompt": "Cán bộ coi thi phải có trang phục như thế nào?",
+        "response": "Cán bộ coi thi phải mặc trang phục nghiêm túc, lịch sự."
+      },
+      {
+        "prompt": "Phòng BĐCLGD&KT có nhiệm vụ gì trong việc phân công cán bộ coi thi?",
+        "response": "Phòng BĐCLGD&KT phân công cán bộ giám sát và tổ chức thi."
+      },
+      {
+        "prompt": "Có bao nhiêu cán bộ coi thi phải có trong một phòng thi?",
+        "response": "Mỗi phòng thi phải có ít nhất 01 cán bộ coi thi."
+      },
+      {
+        "prompt": "Tỉ lệ tối đa số sinh viên trên một cán bộ coi thi là bao nhiêu?",
+        "response": "Tỉ lệ tối đa là 30 sinh viên/1 cán bộ coi thi."
+      },
+      {
+        "prompt": "Trong trường hợp đặc biệt, ai sẽ phê duyệt việc thay đổi phân công cán bộ coi thi?",
+        "response": "Hiệu trưởng sẽ phê duyệt các trường hợp đặc biệt."
+      },
+      {
+        "prompt": "Khi có lý do chính đáng không thể tham gia coi thi, cán bộ coi thi phải làm gì?",
+        "response": "Cán bộ coi thi phải báo cáo lãnh đạo đơn vị để tìm người thay thế."
+      },
+      {
+        "prompt": "Nếu cán bộ coi thi không thể tham gia nhưng tự tìm người thay thế, ai phải thông báo?",
+        "response": "Cán bộ coi thi phải thông báo cho đơn vị tổ chức thi."
+      },
+      {
+        "prompt": "Khi có sự thay đổi cán bộ coi thi, thông tin phải được ghi lại ở đâu?",
+        "response": "Thông tin thay đổi phải được ghi vào Báo cáo tình hình coi thi."
+      },
+      {
+        "prompt": "Cán bộ coi thi không được tham gia coi thi khi nào?",
+        "response": "Cán bộ coi thi không được tham gia coi thi tại ca thi có người thân dự thi."
+    },
+    {
+        "prompt": "Cán bộ coi thi phải có mặt trước bao lâu để nhận hồ sơ thi?",
+        "response": "Cán bộ coi thi phải có mặt ít nhất 15 phút trước giờ thi."
+    },
+    {
+        "prompt": "Cán bộ coi thi có thể sử dụng những phương tiện nào trong khi làm nhiệm vụ?",
+        "response": "Cán bộ coi thi không được sử dụng các phương tiện thu, phát thông tin cá nhân như máy tính, điện thoại, đồng hồ thông minh khi đã nhận đề thi và trong khi thi."
+    },
+    {
+        "prompt": "Trách nhiệm của cán bộ coi thi trong việc phổ biến quy chế thi?",
+        "response": "Cán bộ coi thi phải phổ biến Quy chế thi cho sinh viên trước khi thi."
+    },
+    {
+        "prompt": "Cán bộ coi thi có được giúp sinh viên làm bài thi không?",
+        "response": "Cán bộ coi thi không được giúp đỡ sinh viên làm bài thi dưới bất kỳ hình thức nào."
+    },
+    {
+        "prompt": "Cán bộ giám sát cần có những điều kiện gì để tham gia?",
+        "response": "Cán bộ giám sát cần tốt nghiệp đại học trở lên và đang công tác tại trường dưới hình thức biên chế hoặc hợp đồng lao động."
+    },
+    {
+        "prompt": "Cán bộ giám sát có nhiệm vụ gì?",
+        "response": "Cán bộ giám sát phải phối hợp với cán bộ coi thi, giám sát các hoạt động bên ngoài và trong phòng thi, báo cáo khi có sự cố xảy ra."
+    },
+    {
+        "prompt": "Cán bộ phụ trách tổ chức thi có trách nhiệm gì?",
+        "response": "Cán bộ phụ trách tổ chức thi phải chuẩn bị đầy đủ hồ sơ thi, phân phối các túi đề thi, giám sát tình hình thi và viết báo cáo tình hình coi thi."
+    },
+    {
+        "prompt": "Sinh viên phải có mặt tại địa điểm thi đúng thời gian nào?",
+        "response": "Sinh viên phải có mặt tại địa điểm thi đúng thời gian quy định trong lịch thi."
+    },
+    {
+        "prompt": "Sinh viên không có thẻ sinh viên thì làm sao?",
+        "response": "Sinh viên không có thẻ sinh viên có thể sử dụng các giấy tờ khác có hình, như chứng minh thư nhân dân, căn cước công dân, giấy phép lái xe."
+    },
+    {
+        "prompt": "Sinh viên có thể mang vào phòng thi tài liệu gì?",
+        "response": "Sinh viên chỉ được mang vào phòng thi những tài liệu cho phép đã ghi chú trên túi đựng đề thi và đề thi."
+    },
+    {
+        "prompt": "Sinh viên không được mang gì vào phòng thi?",
+        "response": "Sinh viên không được mang vào khu vực phòng thi các tài liệu, vũ khí, chất gây nổ, bia rượu, phương tiện kỹ thuật thu phát, truyền tin và các vật dụng khác."
+    },
+    {
+        "prompt": "Sinh viên có được sử dụng chất gây nghiện trong phòng thi không?",
+        "response": "Sinh viên không được sử dụng rượu bia, các chất gây nghiện và các chất cấm trong phòng thi."
+    },
+    {
+        "prompt": "Sinh viên có được trao đổi tài liệu hay chép bài không?",
+        "response": "Sinh viên nghiêm cấm mọi hành vi gian lận, không được chép bài, nhìn bài thi của sinh viên khác hay trao đổi tài liệu."
+    },
+    {
+        "prompt": "Khi hết giờ thi, sinh viên phải làm gì?",
+        "response": "Khi hết giờ thi, sinh viên phải ngừng làm bài và nộp bài thi, đề thi cho cán bộ coi thi."
+    },
+    {
+        "prompt": "Cán bộ phụ trách tổ chức thi có thể xử lý tình huống nào?",
+        "response": "Cán bộ phụ trách tổ chức thi có thể xử lý sự cố về thủ tục dự thi, đề thi, và sự cố kỹ thuật trong thi trắc nghiệm trên máy tính."
+    },
+    {
+        "prompt": "Quy trình tổ chức thi viết là gì?",
+        "response": "Cán bộ phụ trách tổ chức thi phân công cán bộ coi thi vào các phòng thi, bàn giao đề thi, phổ biến quy chế thi và giám sát sinh viên trong suốt quá trình thi."
+    },
+    {
+        "prompt": "Cán bộ coi thi phải làm gì khi phát hiện sự cố với đề thi?",
+        "response": "Cán bộ coi thi phải báo cho giảng viên trực đề thi và ghi rõ sự cố vào báo cáo tình hình coi thi."
+    },
+    {
+        "prompt": "Cán bộ phụ trách tổ chức thi phải làm gì khi thiếu đề thi?",
+        "response": "Cán bộ phụ trách tổ chức thi phải photo đề thi bổ sung cho sinh viên và ghi rõ vào báo cáo tình hình coi thi."
+    },
+    {
+        "prompt": "Sinh viên được phép ra khỏi phòng thi khi nào?",
+        "response": "Sinh viên chỉ được ra khỏi phòng thi sớm nhất là 2/3 thời gian làm bài sau khi đã nộp bài thi và đề thi."
+    },
+    {
+        "prompt": "Cán bộ coi thi có thể giải thích đề thi cho sinh viên không?",
+        "response": "Cán bộ coi thi không được giải thích đề thi cho sinh viên."
+    },
+    {
+        "prompt": "Sinh viên có thể đổi câu hỏi thi trong thi vấn đáp không?",
+        "response": "Sinh viên được phép đổi câu hỏi thi một lần khi bốc thăm câu hỏi thi."
+    },
+    {
+        "prompt": "Trong thi vấn đáp, điểm thi là gì?",
+        "response": "Điểm thi vấn đáp là điểm trung bình cộng của các giám khảo. Nếu các giám khảo không thống nhất điểm, Trưởng Khoa/Bộ môn sẽ quyết định."
+    },
+    {
+        "prompt": "Thời gian mỗi sinh viên thi vấn đáp là bao lâu?",
+        "response": "Thời gian trình bày và trả lời câu hỏi của giám khảo không quá 15 phút cho mỗi sinh viên."
+    },
+    {
+        "prompt": "Khi tổ chức thi trắc nghiệm trên máy tính, sinh viên phải làm gì?",
+        "response": "Sinh viên phải ký tên vào danh sách nộp bài thi và cán bộ coi thi lưu trữ và quản lý bài thi của sinh viên."
+    },
+    {
+        "prompt": "Khi có sự cố về kỹ thuật trong thi trắc nghiệm trên máy tính, cán bộ phụ trách tổ chức thi phải làm gì?",
+        "response": "Cán bộ phụ trách tổ chức thi phải ghi nhận sự cố trong báo cáo và dừng buổi thi, thông báo cho Phòng BĐCLGD&KT."
+    },
+    {
+        "prompt": "Cán bộ coi thi phải làm gì khi hết thời gian thi trắc nghiệm trên máy tính?",
+        "response": "Cán bộ coi thi phải thu bài thi của sinh viên và bàn giao cho cán bộ phụ trách tổ chức thi."
+    },
+    {
+        "prompt": "Khi có sự cố hoãn thi, ai sẽ thông báo quyết định hoãn thi?",
+        "response": "Phòng BĐCLGD&KT sẽ trình Hiệu trưởng ra quyết định hoãn thi và thông báo cho các đơn vị liên quan và sinh viên."
+    },
+    {
+        "prompt": "Sinh viên có thể tham gia thi nếu không có thẻ sinh viên nhưng có các giấy tờ tùy thân khác không?",
+        "response": "Sinh viên có thể sử dụng các giấy tờ tùy thân hợp pháp khác có hình để xác nhận nhân thân tham gia thi."
+    },
+    {
+        "prompt": "Cán bộ chấm thi phải có trình độ gì để thực hiện công tác chấm thi?",
+        "response": "Cán bộ chấm thi phải là giảng viên có trình độ chuyên môn phù hợp với yêu cầu của học phần thi."
+    },
+    {
+        "prompt": "Giảng viên trong thời gian tập sự có được tham gia chấm thi không?",
+        "response": "Giảng viên đang trong thời gian tập sự được tham gia chấm thi dưới sự hướng dẫn, giám sát của giảng viên hướng dẫn."
+    },
+    {
+        "prompt": "Một bài thi phải có bao nhiêu giảng viên chấm thi?",
+        "response": "Mỗi bài thi có ít nhất một giảng viên chấm thi."
+    },
+    {
+        "prompt": "Khi nào giảng viên phải công bố điểm thi?",
+        "response": "Giảng viên phải công bố điểm thi trên hệ thống học vụ trong vòng 2 tuần kể từ ngày thi."
+    },
+    {
+        "prompt": "Giảng viên phải làm gì sau khi chấm thi xong?",
+        "response": "Giảng viên phải nhập điểm vào hệ thống và nộp lại túi bài thi cùng bảng điểm cho đơn vị tổ chức thi."
+    },
+    {
+        "prompt": "Bài thi và bảng điểm sẽ được lưu trữ trong bao lâu?",
+        "response": "Bài thi và bảng điểm được lưu trữ 10 năm sau tốt nghiệp."
+    },
+    {
+        "prompt": "Sinh viên có thể yêu cầu phúc tra điểm thi trong bao lâu?",
+        "response": "Sinh viên có thể nộp đơn phúc tra điểm thi trong vòng 1 tuần kể từ ngày công bố điểm thi."
+    },
+    {
+        "prompt": "Sinh viên có thể phúc tra điểm thi của hình thức thi nào?",
+        "response": "Sinh viên chỉ có thể phúc tra điểm thi đối với hình thức thi viết."
+    },
+    {
+        "prompt": "Kết quả phúc tra điểm thi sẽ được công bố trong bao lâu?",
+        "response": "Kết quả phúc tra điểm thi sẽ được công bố trong vòng 1 tuần sau khi hết thời gian nhận đơn phúc tra."
+    },
+    {
+        "prompt": "Sinh viên có quyền yêu cầu phúc tra bài thi cuối kỳ không?",
+        "response": "Sinh viên không được yêu cầu xem lại bài thi cuối kỳ nếu thi theo hình thức thi viết."
+    },
+    {
+        "prompt": "Sinh viên bị xử lý khiển trách sẽ bị trừ bao nhiêu điểm thi?",
+        "response": "Sinh viên bị xử lý khiển trách sẽ bị trừ 25% số điểm thi của học phần dự thi."
+    },
+    {
+        "prompt": "Sinh viên bị xử lý cảnh cáo sẽ bị trừ bao nhiêu điểm thi?",
+        "response": "Sinh viên bị xử lý cảnh cáo sẽ bị trừ 50% số điểm thi của học phần dự thi."
+    },
+    {
+        "prompt": "Sinh viên bị đình chỉ thi sẽ bị điểm thi như thế nào?",
+        "response": "Sinh viên bị đình chỉ thi sẽ bị điểm 0 cho học phần dự thi."
+    },
+    {
+        "prompt": "Cán bộ coi thi phải làm gì khi phát hiện sinh viên mang tài liệu cấm vào phòng thi?",
+        "response": "Cán bộ coi thi phải lập biên bản vi phạm và yêu cầu sinh viên ra khỏi phòng thi ngay."
+    },
+    {
+        "prompt": "Cán bộ coi thi có thể hướng dẫn sinh viên trong khi thi không?",
+        "response": "Cán bộ coi thi không được phép giải bài hay hướng dẫn sinh viên trong khi thi."
+    },
+    {
+        "prompt": "Sinh viên vi phạm quy chế thi sẽ bị xử lý như thế nào?",
+        "response": "Sinh viên vi phạm quy chế thi sẽ bị xử lý theo các hình thức từ khiển trách, cảnh cáo, đình chỉ thi hoặc cho điểm 0."
+    },
+    {
+        "prompt": "Khi nào sinh viên sẽ bị đình chỉ thi?",
+        "response": "Sinh viên sẽ bị đình chỉ thi khi mang tài liệu cấm vào phòng thi, làm rối hoặc có hành vi gian lận."
+    },
+    {
+        "prompt": "Cán bộ coi thi có thể bỏ vị trí của mình trong phòng thi không?",
+        "response": "Cán bộ coi thi không được tự ý bỏ vị trí đi làm việc riêng trong khi coi thi."
+    },
+    {
+        "prompt": "Các hình thức hỗ trợ sinh viên khuyết tật gồm những gì?",
+        "response": "Các hình thức hỗ trợ bao gồm kéo dài thời gian thi, mang thiết bị hỗ trợ, bố trí phòng thi riêng, và hỗ trợ đọc, viết."
+    },
+    {
+        "prompt": "Giảng viên có thể sửa điểm trên bài thi không?",
+        "response": "Giảng viên không được tùy tiện sửa điểm trên bài thi hoặc trong bảng điểm mà không có căn cứ."
+    },
+    {
+        "prompt": "Giảng viên chấm thi phải có trách nhiệm gì?",
+        "response": "Giảng viên chấm thi phải chấm thi chính xác theo đáp án và thang điểm đã thống nhất, và không làm thất lạc bài thi."
+    },
+    {
+        "prompt": "Giảng viên có thể thay đổi điểm của bài thi mà không có lý do không?",
+        "response": "Giảng viên không thể thay đổi điểm của bài thi mà không có lý do chính đáng."
+    },
+    {
+        "prompt": "Khi phát hiện sinh viên thi hộ, giảng viên phải làm gì?",
+        "response": "Giảng viên phải lập biên bản và thu giấy tờ tùy thân, thẻ sinh viên của sinh viên vi phạm."
+    },
+    {
+        "prompt": "Việc xử lý sinh viên vi phạm quy chế thi sẽ do ai quyết định?",
+        "response": "Việc xử lý sinh viên vi phạm quy chế thi sẽ do Hiệu trưởng quyết định dựa trên ý kiến của Hội đồng kỷ luật."
+    },
+    {
+        "prompt": "Sinh viên có thể yêu cầu hỗ trợ như thế nào khi tham gia thi?",
+        "response": "Sinh viên có thể yêu cầu hỗ trợ như kéo dài thời gian thi, sử dụng thiết bị y tế, hoặc thi trong phòng riêng."
+    },
+    {
+        "prompt": "Cán bộ coi thi có thể làm gì khi thấy sinh viên quay cóp?",
+        "response": "Cán bộ coi thi phải lập biên bản và xử lý sinh viên theo quy định."
+    },
+    {
+        "prompt": "Giảng viên phải làm gì nếu phát hiện bài thi có lỗi trong cộng điểm?",
+        "response": "Giảng viên phải sửa điểm theo đúng đáp án và thông báo cho sinh viên và phòng quản lý chất lượng."
+    },
+    {
+        "prompt": "Sinh viên bị phạt điểm 0 khi nào?",
+        "response": "Sinh viên sẽ bị điểm 0 nếu chép bài từ tài liệu mang trái phép vào phòng thi hoặc có hành vi gian lận."
+    },
+    {
+        "prompt": "Sinh viên có thể yêu cầu phúc tra điểm thi vào lúc nào?",
+        "response": "Sinh viên có thể yêu cầu phúc tra điểm thi trong vòng 1 tuần sau khi công bố kết quả thi."
+    },
+    {
+        "prompt": "Giảng viên phải làm gì khi sinh viên có thắc mắc về điểm quá trình?",
+        "response": "Giảng viên phải tiếp nhận thắc mắc của sinh viên và kiểm tra lại điểm trong vòng 1 tuần."
+    },
+    {
+        "prompt": "Sinh viên có thể yêu cầu phúc tra đối với điểm thi giữa kỳ không?",
+        "response": "Sinh viên có thể yêu cầu phúc tra điểm thi giữa kỳ nếu có thắc mắc."
+    },
+    {
+        "prompt": "Sinh viên sẽ bị xử lý như thế nào nếu chép bài của người khác trong phòng thi?",
+        "response": "Sinh viên sẽ bị cảnh cáo hoặc đình chỉ thi tùy theo mức độ vi phạm."
+    },
+    {
+        "prompt": "Cán bộ coi thi phải làm gì nếu phát hiện sinh viên có hành vi gây rối?",
+        "response": "Cán bộ coi thi phải lập biên bản và yêu cầu sinh viên ra khỏi phòng thi."
+    },
+    {
+        "prompt": "Sinh viên có thể yêu cầu xem lại bài thi cuối kỳ không?",
+        "response": "Sinh viên không được yêu cầu xem lại bài thi cuối kỳ nếu thi theo hình thức thi viết."
+    },
+    {
+        "prompt": "Giảng viên phải làm gì nếu có sai sót trong việc cộng điểm bài thi?",
+        "response": "Giảng viên phải sửa lại điểm bài thi và thông báo cho sinh viên và phòng quản lý chất lượng."
+    },
+    {
+        "prompt": "Cán bộ coi thi có thể giải bài cho sinh viên trong khi thi không?",
+        "response": "Cán bộ coi thi không được phép giải bài hoặc hướng dẫn sinh viên trong khi thi."
+    },
+    {
+        "prompt": "Khi nào giảng viên bị xử lý kỷ luật trong công tác chấm thi?",
+        "response": "Giảng viên bị xử lý kỷ luật nếu trả bài thi không đúng thời hạn hoặc có sai sót trong việc chấm điểm."
+    },
+    {
+        "prompt": "Việc phúc tra điểm thi được thực hiện như thế nào?",
+        "response": "Phúc tra điểm thi được thực hiện bởi giảng viên khác hoặc giảng viên chưa chấm bài thi này."
+    },
+    {
+        "prompt": "Sinh viên bị đình chỉ thi có quyền phúc tra điểm không?",
+        "response": "Sinh viên bị đình chỉ thi không có quyền phúc tra điểm thi."
+    },
+    {
+        "prompt": "Sinh viên vi phạm quy chế thi sẽ bị xử lý theo những hình thức nào?",
+        "response": "Sinh viên có thể bị khiển trách, cảnh cáo, đình chỉ thi hoặc bị điểm 0 tùy theo mức độ vi phạm."
+    },
+    {
+        "prompt": "Khi phát hiện cán bộ coi thi vi phạm quy chế thi, phải xử lý thế nào?",
+        "response": "Cán bộ giám sát sẽ lập biên bản và gửi hồ sơ cho Hội đồng kỷ luật để xử lý."
+    },
+    {
+        "prompt": "Giảng viên chấm thi vi phạm quy định sẽ bị xử lý như thế nào?",
+        "response": "Giảng viên sẽ bị xử lý kỷ luật nếu có sai sót trong việc chấm thi hoặc cộng điểm không đúng."
+    },
+    {
+        "prompt": "Cán bộ giám sát thi có thể yêu cầu sinh viên ký biên bản vi phạm không?",
+        "response": "Cán bộ giám sát thi có thể yêu cầu sinh viên ký biên bản vi phạm, nếu không ký phải ghi lý do rõ ràng."
+    },
+    {
+        "prompt": "Khoa/Bộ môn cần làm gì với số liệu thu được từ kỳ thi?",
+        "response": "Khoa/Bộ môn đánh giá chuẩn đầu ra, thống kê số lượng sinh viên đạt hoặc không đạt, và sử dụng số liệu thống kê cho các báo cáo theo yêu cầu của Hiệu trưởng."
+    },
+    {
+        "prompt": "Phòng BĐCLGD&KT sử dụng số liệu kỳ thi để làm gì?",
+        "response": "Phòng BĐCLGD&KT thống kê kết quả để đánh giá chất lượng của đề thi và phản ánh kịp thời để Khoa/Bộ môn cải thiện đề thi."
+    },
+    {
+        "prompt": "Thời gian lưu trữ bài kiểm tra giữa kỳ và bài thi cuối kỳ là bao lâu?",
+        "response": "Bài kiểm tra giữa kỳ và bài thi cuối kỳ được lưu trữ tại đơn vị tổ chức thi và thời gian lưu trữ là hết khóa."
+    },
+    {
+        "prompt": "Thời gian lưu trữ bảng điểm từng học phần là bao lâu?",
+        "response": "Bảng điểm từng học phần bao gồm điểm kiểm tra, điểm thi, điểm học phần được lưu trữ 10 năm sau tốt nghiệp."
+    },
+    {
+        "prompt": "Tài liệu liên quan đến kỳ thi được lưu trữ bao lâu?",
+        "response": "Tài liệu khác có liên quan đến kỳ thi được lưu trữ tại đơn vị tổ chức thi và Phòng ĐTĐH, thời gian lưu trữ là hết khóa."
+    },
+    {
+        "prompt": "Khi hết thời gian lưu trữ, các đơn vị liên quan sẽ làm gì?",
+        "response": "Các đơn vị liên quan báo cáo Hiệu trưởng duyệt và tiến hành tiêu hủy hồ sơ lưu trữ theo quy định hiện hành của Nhà nước."
+    },
+    {
+        "prompt": "Quy chế thi có thể được sửa đổi, bổ sung trong trường hợp nào?",
+        "response": "Quy chế thi có thể được sửa đổi, bổ sung để phù hợp với thực tiễn; việc sửa đổi, bổ sung do Hiệu trưởng xem xét và quyết định."
+    },
+    {
+        "prompt": "Khoa/Bộ môn cần quán triệt quy chế này cho ai?",
+        "response": "Khoa/Bộ môn cần quán triệt quy chế này đến từng cán bộ, giảng viên và chuyên viên trong đơn vị."
+    },
+    {
+        "prompt": "Các vi phạm trong quá trình ra đề thi và tổ chức thi sẽ bị xử lý như thế nào?",
+        "response": "Các vi phạm sẽ được xử lý theo Luật giáo dục Đại học, Luật viên chức, Bộ luật Lao động, Quy chế đào tạo và Quy định của Nhà trường."
+    },
+    {
+        "prompt": "Các loại hồ sơ thi cần lưu trữ theo quy định nào?",
+        "response": "Các loại hồ sơ thi cần lưu trữ theo Thông tư số 27/2016/TT-BGDĐT ngày 30/12/2016 về Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục."
+    }
+]  

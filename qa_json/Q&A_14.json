@@ -1,0 +1,226 @@
+[
+    {
+        "prompt": "Điều 1: Quyết định này áp dụng đối với sinh viên nào?",
+        "response": "Quyết định này áp dụng đối với sinh viên là Ban cán sự lớp đối với lớp sinh viên tại Trường Đại học Quốc tế thuộc Đại học Quốc gia Thành phố Hồ Chí Minh."
+    },
+    {
+        "prompt": "Điều 2: Quyết định này có hiệu lực từ khi nào?",
+        "response": "Quyết định này có hiệu lực thi hành kể từ ngày ký và được áp dụng từ học kỳ 1, năm học 2024 – 2025 cho sinh viên từ khóa 2024 trở về sau."
+    },
+    {
+        "prompt": "Điều 3: Ai chịu trách nhiệm thi hành Quyết định này?",
+        "response": "Trưởng các đơn vị thuộc và trực thuộc trường, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này."
+    },
+    {
+        "prompt": "Điều 1, Chương I: Ban cán sự lớp gồm những thành viên nào?",
+        "response": "Ban cán sự lớp gồm lớp trưởng và lớp phó, trong đó có 01 lớp trưởng, 01 lớp phó đối với lớp có số lượng sinh viên ít hơn 30 và 02 lớp phó đối với lớp có số lượng từ 30 sinh viên trở lên."
+    },
+    {
+        "prompt": "Điều 2, Chương I: Mục đích của Quy định này là gì?",
+        "response": "Mục đích của Quy định này là hoàn thiện hệ thống tổ chức quản lý sinh viên của Nhà trường và đảm bảo quyền lợi, nghĩa vụ của Ban cán sự lớp."
+    },
+    {
+        "prompt": "Điều 3, Chương I: Tiêu chuẩn của Ban cán sự lớp là gì?",
+        "response": "Tiêu chuẩn của Ban cán sự lớp bao gồm tư cách đạo đức tốt, lối sống lành mạnh, tinh thần trách nhiệm, nhiệt tình trong công tác tập thể, khả năng tổ chức các hoạt động tập thể, học tập đạt loại khá trở lên và điểm rèn luyện xếp loại khá trở lên."
+    },
+    {
+        "prompt": "Điều 4: Nhiệm vụ của Ban cán sự lớp là gì?",
+        "response": "Nhiệm vụ của Ban cán sự lớp gồm tổ chức thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động sinh hoạt, đời sống và các hoạt động xã hội theo kế hoạch của Nhà trường và các đơn vị thuộc và trực thuộc trường."
+    },
+    {
+        "prompt": "Điều 4: Ban cán sự lớp có nhiệm vụ gì liên quan đến việc báo cáo?",
+        "response": "Ban cán sự lớp có nhiệm vụ báo cáo đầy đủ, chính xác tình hình học tập, rèn luyện theo học kỳ, năm học và những việc đột xuất của lớp với cố vấn học tập hoặc đơn vị phụ trách Công tác Sinh viên."
+    },
+    {
+        "prompt": "Điều 5: Quyền lợi của Ban cán sự lớp là gì?",
+        "response": "Ban cán sự lớp có quyền lợi được cộng điểm rèn luyện trong từng học kỳ, ưu tiên khi xét ở ký túc xá, học bổng, thực tập và việc làm, có quyền đại diện tập thể lớp kiến nghị đến các đơn vị trong trường, và tham gia các phong trào của Đoàn thanh niên, Hội sinh viên."
+    },
+    {
+        "prompt": "Điều 5: Ban cán sự lớp có quyền lợi gì khi tham gia các phong trào của Đoàn thanh niên?",
+        "response": "Ban cán sự lớp được ưu tiên xem xét tham gia các phong trào của Đoàn Thanh niên, Hội sinh viên và xét bồi dưỡng kết nạp Đảng."
+    },
+    {
+        "prompt": "Điều 6: Ban cán sự lớp được bầu như thế nào?",
+        "response": "Ban cán sự lớp được bầu theo phương thức phổ thông bỏ phiếu hoặc giơ tay (tùy theo hình thức họp trực tiếp hoặc trực tuyến). Người trúng cử phải được trên 50% tổng số người tham dự bầu."
+    },
+    {
+        "prompt": "Điều 6: Ban cán sự lớp được bầu vào thời điểm nào?",
+        "response": "Ban cán sự lớp được bầu vào học kỳ 1 năm nhất và duy trì Ban cán sự lớp trong suốt quá trình học tập tại trường."
+    },
+    {
+        "prompt": "Điều 6: Trong trường hợp nào Ban cán sự lớp có thể bị miễn nhiệm?",
+        "response": "Ban cán sự lớp có thể bị miễn nhiệm nếu một thành viên vi phạm kỷ luật, không hoàn thành nhiệm vụ, hoặc không được tập thể lớp tín nhiệm."
+    },
+    {
+        "prompt": "Điều 7: Các Khoa/Bộ môn có nhiệm vụ gì liên quan đến Ban cán sự lớp?",
+        "response": "Các Khoa/Bộ môn có nhiệm vụ cung cấp danh sách sinh viên từng lớp cho cố vấn học tập để tổ chức họp lớp bầu Ban cán sự lớp."
+    },
+    {
+        "prompt": "Điều 7: Phòng Công tác Sinh viên có nhiệm vụ gì?",
+        "response": "Phòng Công tác Sinh viên có nhiệm vụ tổng hợp danh sách Ban cán sự lớp của các Khoa/Bộ môn, phối hợp tổ chức tập huấn, đánh giá, xếp loại mức độ hoàn thành nhiệm vụ của Ban cán sự lớp."
+    },
+    {
+        "prompt": "Điều 7: Phòng Đào tạo Đại học có nhiệm vụ gì?",
+        "response": "Phòng Đào tạo Đại học có nhiệm vụ cung cấp danh sách lớp và thông tin Cố vấn học tập."
+    },
+    {
+        "prompt": "Điều 8: Tiêu chí đánh giá Ban cán sự lớp là gì?",
+        "response": "Tiêu chí đánh giá Ban cán sự lớp bao gồm tham dự đầy đủ các phiên họp, triển khai các nội quy, quy định, báo cáo đúng thời hạn, tổ chức thực hiện nhiệm vụ rèn luyện, và tích cực hoạt động phối hợp với Đoàn Thanh niên, Hội sinh viên."
+    },
+    {
+        "prompt": "Điều 8: Mức độ hoàn thành nhiệm vụ của Ban cán sự lớp được đánh giá như thế nào?",
+        "response": "Mức độ hoàn thành nhiệm vụ của Ban cán sự lớp được đánh giá từ 0 đến 100 điểm, từ hoàn thành xuất sắc nhiệm vụ (90 – 100 điểm) đến không hoàn thành nhiệm vụ (0 – 49 điểm)."
+    },
+    {
+        "prompt": "Điều 8: Mức độ hoàn thành nhiệm vụ của Ban cán sự lớp được phân loại như thế nào?",
+        "response": "Mức độ hoàn thành nhiệm vụ của Ban cán sự lớp được phân loại như sau: Hoàn thành xuất sắc nhiệm vụ (90 – 100 điểm), Hoàn thành tốt nhiệm vụ (80 – 89 điểm), Hoàn thành nhiệm vụ (50 – 79 điểm), Không hoàn thành nhiệm vụ (0 – 49 điểm)."
+    },
+    {
+        "prompt": "Điều 9: Trách nhiệm tổ chức triển khai Quy định này thuộc về ai?",
+        "response": "Trưởng các đơn vị có trách nhiệm tổ chức triển khai thực hiện đầy đủ các nội dung tại Quy định này."
+    },
+    {
+        "prompt": "Điều 9: Phòng Công tác Sinh viên có nhiệm vụ gì trong quá trình thực hiện Quy định này?",
+        "response": "Phòng Công tác Sinh viên phối hợp với các đơn vị liên quan tham mưu cho Ban Giám hiệu về việc điều chỉnh, bổ sung nội dung của Quy định này cho phù hợp với tình hình thực tế."
+    },
+    {
+        "prompt": "Điều 4: Lớp trưởng có nhiệm vụ gì?",
+        "response": "Lớp trưởng có nhiệm vụ phụ trách chung các vấn đề liên quan đến lớp, đảm bảo mối liên hệ với các thành viên trong lớp, truyền đạt thông tin kịp thời và tham gia các cuộc họp do Khoa/Bộ môn tổ chức."
+    },
+    {
+        "prompt": "Điều 4: Lớp phó có nhiệm vụ gì?",
+        "response": "Lớp phó có nhiệm vụ giúp lớp trưởng và trực tiếp phụ trách các hoạt động phong trào, sinh hoạt của lớp, hỗ trợ công việc hành chính có liên quan đến lớp."
+    },
+    {
+        "prompt": "Điều 4: Lớp trưởng có quyền lợi gì?",
+        "response": "Lớp trưởng có quyền lợi được đại diện tập thể lớp trong việc tham gia các cuộc họp, hội nghị, tập huấn do Khoa/Bộ môn và trường tổ chức."
+    },
+    {
+        "prompt": "Điều 5: Ban cán sự lớp được hỗ trợ gì về tài chính?",
+        "response": "Ban cán sự lớp được hỗ trợ kinh phí cho hoạt động của tập thể lớp và các thành viên trong Ban cán sự lớp."
+    },
+    {
+        "prompt": "Điều 5: Ban cán sự lớp có quyền lợi gì về học bổng?",
+        "response": "Ban cán sự lớp được ưu tiên khi xét các học bổng tài trợ của các tổ chức, đơn vị trong và ngoài Trường."
+    },
+    {
+        "prompt": "Điều 6: Ban cán sự lớp có thể bị miễn nhiệm trong trường hợp nào?",
+        "response": "Ban cán sự lớp có thể bị miễn nhiệm trong trường hợp một thành viên vi phạm kỷ luật, vi phạm quy chế hoặc không được tập thể lớp tín nhiệm."
+    },
+    {
+        "prompt": "Điều 7: Phòng Công tác Sinh viên có vai trò gì trong việc đánh giá Ban cán sự lớp?",
+        "response": "Phòng Công tác Sinh viên phối hợp với các Khoa/Bộ môn tổ chức tập huấn, hướng dẫn việc thực hiện nhiệm vụ của Ban cán sự lớp và đánh giá mức độ hoàn thành nhiệm vụ."
+    },
+    {
+        "prompt": "Điều 7: Khoa/Bộ môn có trách nhiệm gì đối với Ban cán sự lớp?",
+        "response": "Khoa/Bộ môn có trách nhiệm cung cấp danh sách sinh viên lớp và tổ chức họp lớp để bầu Ban cán sự lớp."
+    },
+    {
+        "prompt": "Điều 5: Ban cán sự lớp có quyền gì đối với việc giải quyết vấn đề trong lớp?",
+        "response": "Ban cán sự lớp có quyền liên hệ với cố vấn học tập và các giảng viên bộ môn, đề nghị các khoa, đơn vị phụ trách giải quyết vấn đề có liên quan đến quyền và nghĩa vụ của sinh viên trong lớp."
+    },
+    {
+        "prompt": "Điều 8: Khi nào Ban cán sự lớp bị đánh giá không hoàn thành nhiệm vụ?",
+        "response": "Ban cán sự lớp bị đánh giá không hoàn thành nhiệm vụ khi điểm số đánh giá thấp hơn 50 điểm, nghĩa là không hoàn thành nhiệm vụ."
+    },
+    {
+        "prompt": "Điều 8: Khi nào Ban cán sự lớp bị đánh giá hoàn thành tốt nhiệm vụ?",
+        "response": "Ban cán sự lớp bị đánh giá hoàn thành tốt nhiệm vụ khi đạt điểm từ 80 đến 89, có tinh thần trách nhiệm cao và tham gia tích cực các hoạt động của lớp."
+    },
+    {
+        "prompt": "Điều 9: Quyết định này có những đối tượng áp dụng nào?",
+        "response": "Quyết định này áp dụng đối với tất cả các sinh viên đang theo học tại Trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Điều 9: Sinh viên có thể tham gia Ban cán sự lớp không?",
+        "response": "Sinh viên có thể tham gia Ban cán sự lớp nếu đáp ứng đủ các tiêu chí về đạo đức, học lực và tinh thần trách nhiệm."
+    },
+    {
+        "prompt": "Điều 10: Sinh viên có thể bầu lại Ban cán sự lớp không?",
+        "response": "Sinh viên có thể bầu lại Ban cán sự lớp trong trường hợp có sự thay đổi về nhân sự hoặc các thành viên trong Ban cán sự lớp không hoàn thành nhiệm vụ."
+    },
+    {
+        "prompt": "Điều 10: Cán bộ giảng dạy có tham gia vào công tác quản lý Ban cán sự lớp không?",
+        "response": "Cán bộ giảng dạy có thể tham gia công tác quản lý Ban cán sự lớp thông qua vai trò là cố vấn học tập, giám sát và hỗ trợ các hoạt động của Ban cán sự lớp."
+    },
+    {
+        "prompt": "Điều 11: Sinh viên có thể đổi Ban cán sự lớp không?",
+        "response": "Sinh viên có thể thay đổi Ban cán sự lớp trong trường hợp có sự thay đổi về nhân sự hoặc khi có sự không đồng thuận từ tập thể lớp."
+    },
+    {
+        "prompt": "Điều 11: Ban cán sự lớp có thể tổ chức các hoạt động ngoại khóa không?",
+        "response": "Ban cán sự lớp có thể tổ chức các hoạt động ngoại khóa, giao lưu, thi đấu thể thao hoặc các sự kiện văn hóa nhằm phát triển tinh thần đoàn kết và nâng cao chất lượng học tập."
+    },
+    {
+        "prompt": "Điều 12: Phòng Đào tạo Đại học có trách nhiệm gì trong việc tổ chức các kỳ thi?",
+        "response": "Phòng Đào tạo Đại học có trách nhiệm tổ chức, giám sát và đảm bảo các kỳ thi diễn ra đúng theo quy định và lịch trình đã thông báo."
+    },
+    {
+        "prompt": "Điều 12: Sinh viên phải làm gì trước khi tham gia kỳ thi?",
+        "response": "Sinh viên phải đăng ký dự thi đầy đủ, kiểm tra danh sách thi và các thông tin cần thiết, chuẩn bị các tài liệu theo yêu cầu và tham gia ôn tập trước kỳ thi."
+    },
+    {
+        "prompt": "Điều 13: Sinh viên có thể đăng ký thi lại không?",
+        "response": "Sinh viên có thể đăng ký thi lại nếu không đạt yêu cầu điểm số trong kỳ thi trước đó hoặc nếu bị ốm, có lý do chính đáng."
+    },
+    {
+        "prompt": "Điều 13: Thời gian đăng ký thi lại là bao lâu?",
+        "response": "Thời gian đăng ký thi lại thường được thông báo sau khi kết thúc mỗi học kỳ, và sinh viên phải đăng ký trong vòng 1 tuần sau khi có thông báo."
+    },
+    {
+        "prompt": "Điều 14: Sinh viên cần làm gì nếu không thể tham gia kỳ thi vì lý do sức khỏe?",
+        "response": "Sinh viên cần cung cấp giấy tờ xác nhận từ cơ sở y tế và xin phép với Ban giám hiệu hoặc Phòng Đào tạo để được hoãn thi hoặc xét lại kỳ thi."
+    },
+    {
+        "prompt": "Điều 14: Sinh viên không tham gia kỳ thi có bị xử lý không?",
+        "response": "Sinh viên không tham gia kỳ thi mà không có lý do chính đáng sẽ bị xử lý theo quy chế của nhà trường, có thể bị trừ điểm rèn luyện hoặc không được công nhận kết quả học tập."
+    },
+    {
+        "prompt": "Điều 15: Ban cán sự lớp có trách nhiệm gì trong việc tổ chức học nhóm?",
+        "response": "Ban cán sự lớp có trách nhiệm khuyến khích sinh viên tổ chức học nhóm, giúp đỡ lẫn nhau trong học tập và tạo ra môi trường học tập tích cực."
+    },
+    {
+        "prompt": "Điều 15: Ban cán sự lớp có thể tổ chức cuộc thi học thuật không?",
+        "response": "Ban cán sự lớp có thể tổ chức các cuộc thi học thuật hoặc các hoạt động học tập để khuyến khích sinh viên nâng cao kiến thức và rèn luyện kỹ năng."
+    },
+    {
+        "prompt": "Điều 16: Ban cán sự lớp có thể tham gia các sự kiện quốc tế không?",
+        "response": "Ban cán sự lớp có thể tham gia các sự kiện quốc tế như các cuộc thi, hội nghị hoặc chương trình trao đổi sinh viên nếu có sự chỉ đạo của nhà trường."
+    },
+    {
+        "prompt": "Điều 16: Sinh viên có thể đề xuất ý tưởng cho các sự kiện không?",
+        "response": "Sinh viên có thể đề xuất ý tưởng cho các sự kiện và hoạt động, và nếu được sự đồng thuận của Ban cán sự lớp và nhà trường, ý tưởng sẽ được triển khai."
+    },
+    {
+        "prompt": "Điều 17: Sinh viên có thể xin nghỉ học trong thời gian dài không?",
+        "response": "Sinh viên có thể xin nghỉ học trong thời gian dài nếu có lý do chính đáng như ốm nặng, tai nạn, hoặc lý do cá nhân đặc biệt, nhưng phải có giấy tờ xác minh và được sự đồng ý của Nhà trường."
+    },
+    {
+        "prompt": "Điều 17: Khi nào sinh viên bị xem xét thôi học?",
+        "response": "Sinh viên sẽ bị xem xét thôi học nếu không hoàn thành nhiệm vụ học tập trong một thời gian dài, vi phạm quy định kỷ luật nghiêm trọng hoặc không có sự tiến bộ trong học tập."
+    },
+    {
+        "prompt": "Điều 18: Sinh viên có thể chuyển ngành trong trường không?",
+        "response": "Sinh viên có thể chuyển ngành nếu đạt đủ điều kiện và có sự chấp thuận của Bộ môn hoặc Khoa chuyên môn, và cần thực hiện thủ tục chuyển ngành theo quy định."
+    },
+    {
+        "prompt": "Điều 18: Sinh viên chuyển trường có cần xét tuyển lại không?",
+        "response": "Sinh viên chuyển trường cần phải xét tuyển lại và đáp ứng yêu cầu của trường nhận chuyển, bao gồm các tiêu chí về học lực và điểm thi đầu vào."
+    },
+    {
+        "prompt": "Điều 19: Sinh viên có thể đăng ký chương trình trao đổi sinh viên không?",
+        "response": "Sinh viên có thể đăng ký tham gia chương trình trao đổi sinh viên nếu đáp ứng đủ điều kiện về học lực và ngoại ngữ, và được sự đồng ý của cố vấn học tập và các bộ môn liên quan."
+    },
+    {
+        "prompt": "Điều 19: Chương trình trao đổi sinh viên kéo dài bao lâu?",
+        "response": "Chương trình trao đổi sinh viên có thể kéo dài từ một học kỳ đến một năm, tùy vào chương trình hợp tác giữa trường và các đối tác quốc tế."
+    },
+    {
+        "prompt": "Điều 20: Sinh viên có thể học đồng thời hai chương trình không?",
+        "response": "Sinh viên có thể học đồng thời hai chương trình nếu đáp ứng đủ các yêu cầu về học lực, thời gian học và các quy định của trường."
+    },
+    {
+        "prompt": "Điều 20: Sinh viên học đồng thời hai chương trình có được tốt nghiệp cả hai không?",
+        "response": "Sinh viên học đồng thời hai chương trình có thể tốt nghiệp cả hai nếu đáp ứng đủ các yêu cầu về học tập và hoàn thành đủ các tín chỉ của cả hai chương trình."
+    }
+]
