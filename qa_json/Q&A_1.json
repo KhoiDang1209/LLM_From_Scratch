@@ -1,0 +1,977 @@
+[
+    {
+        "prompt": "Công tác tư vấn học tập và hướng nghiệp của Trường Đại học Quốc tế bao gồm những gì?",
+        "response": "Công tác tư vấn học tập và hướng nghiệp bao gồm tư vấn, hỗ trợ sinh viên trong việc xây dựng kế hoạch học tập, phương pháp học tập và cung cấp thông tin về chương trình đào tạo."
+    },
+    {
+        "prompt": "Trường Đại học Quốc tế có tổ chức hoạt động tư vấn nghề nghiệp cho sinh viên không?",
+        "response": "Có, Trường tổ chức các hoạt động tư vấn nghề nghiệp, kỹ năng, thực tập và việc làm cho sinh viên."
+    },
+    {
+        "prompt": "Trường Đại học Quốc tế có hợp tác với các cơ quan và doanh nghiệp không?",
+        "response": "Có, Trường chủ động hợp tác với các cơ quan, doanh nghiệp để theo dõi tình hình việc làm của sinh viên sau khi tốt nghiệp."
+    },
+    {
+        "prompt": "Trường Đại học Quốc tế hỗ trợ sinh viên về tài chính như thế nào?",
+        "response": "Trường phối hợp với các tổ chức, cá nhân xây dựng các quỹ học bổng và tổ chức trao học bổng cho sinh viên xuất sắc và sinh viên có hoàn cảnh khó khăn."
+    },
+    {
+        "prompt": "Trường Đại học Quốc tế có hỗ trợ sinh viên khuyết tật không?",
+        "response": "Có, Trường tạo điều kiện giúp đỡ sinh viên khuyết tật, sinh viên diện chính sách và có hoàn cảnh khó khăn trong học tập và sinh hoạt."
+    },
+    {
+        "prompt": "Sinh viên có được hỗ trợ chăm sóc sức khỏe tại Trường không?",
+        "response": "Có, Trường phối hợp tổ chức các dịch vụ chăm sóc sức khỏe cho sinh viên khi gặp phải các vấn đề thể chất và tinh thần."
+    },
+    {
+        "prompt": "Trường Đại học Quốc tế có tổ chức các dịch vụ sinh viên nào?",
+        "response": "Trường tổ chức các dịch vụ như Internet, điện thoại, nhà ăn, căn tin, trông giữ xe, sân chơi, bãi tập và các điểm sinh hoạt văn hóa, văn nghệ."
+    },
+    {
+        "prompt": "Trường có tổ chức khảo sát ý kiến sinh viên về các dịch vụ không?",
+        "response": "Có, Trường tổ chức khảo sát ý kiến sinh viên để đảm bảo cung cấp dịch vụ tốt nhất."
+    },
+    {
+        "prompt": "Hệ thống tổ chức công tác sinh viên tại Trường Đại học Quốc tế gồm những ai?",
+        "response": "Hệ thống tổ chức công tác sinh viên gồm Hiệu trưởng, Phó Hiệu trưởng phụ trách công tác sinh viên, Phòng Công tác Sinh viên, các Khoa/Bộ môn và các tổ chức đoàn thể."
+    },
+    {
+        "prompt": "Hiệu trưởng có trách nhiệm gì trong công tác sinh viên?",
+        "response": "Hiệu trưởng hoặc Phó Hiệu trưởng phụ trách công tác sinh viên chịu trách nhiệm chỉ đạo công tác sinh viên toàn Trường."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có nhiệm vụ gì?",
+        "response": "Phòng Công tác Sinh viên tham mưu cho Hiệu trưởng tổ chức triển khai công tác sinh viên, tạo điều kiện thuận lợi cho sinh viên trong học tập và rèn luyện."
+    },
+    {
+        "prompt": "Khoa/Bộ môn có trách nhiệm gì đối với sinh viên?",
+        "response": "Khoa/Bộ môn quản lý sinh viên toàn diện và triển khai các hoạt động rèn luyện, học tập thông qua hệ thống cố vấn học tập và lớp sinh viên."
+    },
+    {
+        "prompt": "Cố vấn học tập có nhiệm vụ gì?",
+        "response": "Cố vấn học tập tư vấn, hướng dẫn sinh viên thực hiện quy chế đào tạo và hỗ trợ sinh viên xây dựng kế hoạch học tập."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có thực hiện các hoạt động tư vấn hướng nghiệp không?",
+        "response": "Có, Phòng Công tác Sinh viên phối hợp tổ chức các hoạt động tư vấn hướng nghiệp, tuyển sinh, tư vấn nghề nghiệp và việc làm cho sinh viên."
+    },
+    {
+        "prompt": "Trường có tổ chức các buổi sinh hoạt chính trị cho sinh viên không?",
+        "response": "Có, Trường tổ chức 'Tuần sinh hoạt công dân – Sinh viên' vào đầu khóa, giữa khóa và cuối khóa để cung cấp thông tin về chính trị, pháp luật và nghề nghiệp."
+    },
+    {
+        "prompt": "Trường có xét miễn giảm học phí cho sinh viên không?",
+        "response": "Có, Trường tổ chức xét miễn giảm học phí cho sinh viên theo quy định và cấp học bổng tài trợ cho sinh viên xuất sắc."
+    },
+    {
+        "prompt": "Trường có tổ chức các cuộc thi học thuật cho sinh viên không?",
+        "response": "Có, Trường phối hợp tổ chức các cuộc thi học thuật, sân chơi phong trào văn hóa văn nghệ, thể dục thể thao cho sinh viên."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có quản lý hồ sơ sinh viên không?",
+        "response": "Có, Phòng Công tác Sinh viên quản lý hành chính hồ sơ của sinh viên và cập nhật dữ liệu sinh viên."
+    },
+    {
+        "prompt": "Trường có hỗ trợ các hoạt động tư vấn pháp lý cho sinh viên không?",
+        "response": "Có, Trường phối hợp tổ chức dịch vụ tư vấn pháp lý để hỗ trợ sinh viên khi gặp các vấn đề pháp lý."
+    },
+    {
+        "prompt": "Trường có hỗ trợ sinh viên trong việc vay vốn ngân hàng không?",
+        "response": "Có, Trường có chính sách hỗ trợ sinh viên có hoàn cảnh khó khăn vay vốn ngân hàng để học tập."
+    },
+    {
+        "prompt": "Trường có tổ chức các chương trình đào tạo kỹ năng mềm cho sinh viên không?",
+        "response": "Có, Trường xây dựng chương trình giáo dục kỹ năng sống, kỹ năng mềm và tổ chức triển khai các lớp huấn luyện kỹ năng cho sinh viên."
+    },
+    {
+        "prompt": "Sinh viên có thể đăng ký tham gia các hoạt động văn hóa, văn nghệ tại Trường không?",
+        "response": "Có, Trường tổ chức các hoạt động văn hóa, văn nghệ để sinh viên tham gia và rèn luyện kỹ năng cá nhân."
+    },
+    {
+        "prompt": "Trường có tổ chức các hoạt động thể dục thể thao cho sinh viên không?",
+        "response": "Có, Trường tổ chức các hoạt động thể dục thể thao cho sinh viên tham gia nhằm nâng cao sức khỏe."
+    },
+    {
+        "prompt": "Trường có chính sách hỗ trợ sinh viên trong việc đăng ký tạm trú không?",
+        "response": "Có, Trường thực hiện các thủ tục hành chính xác nhận sinh viên để đăng ký tạm trú và tạm vắng."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có quản lý việc học bổng cho sinh viên không?",
+        "response": "Có, Phòng Công tác Sinh viên tổ chức xét học bổng tài trợ cho sinh viên và quản lý các quỹ học bổng."
+    },
+    {
+        "prompt": "Trường có tổ chức các lớp huấn luyện kỹ năng cho sinh viên không?",
+        "response": "Có, Trường tổ chức các lớp huấn luyện kỹ năng sống, kỹ năng mềm theo nhu cầu của sinh viên và các khoa."
+    },
+    {
+        "prompt": "Trường có chính sách hỗ trợ sinh viên diện chính sách không?",
+        "response": "Có, Trường có chính sách hỗ trợ cho sinh viên diện chính sách, sinh viên dân tộc, tôn giáo."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có trách nhiệm gì đối với công tác thi đua, khen thưởng sinh viên?",
+        "response": "Phòng Công tác Sinh viên phối hợp với các đơn vị theo dõi và đề xuất công tác thi đua, khen thưởng, kỷ luật sinh viên."
+    },
+    {
+        "prompt": "Trường có tổ chức các chương trình hỗ trợ sinh viên tham gia các hoạt động đại diện cho Trường không?",
+        "response": "Có, Trường tổ chức các hoạt động để sinh viên tham gia đại diện cho Trường khi có sự huy động từ địa phương hoặc tổ chức bên ngoài."
+    },
+    {
+        "prompt": "Trường có tổ chức các chương trình đào tạo nghề nghiệp cho sinh viên không?",
+        "response": "Có, Trường tổ chức các chương trình đào tạo kỹ năng nghề nghiệp và tư vấn việc làm cho sinh viên."
+    },
+    {
+        "prompt": "Trường có tạo điều kiện cho sinh viên tham gia các hoạt động xã hội không?",
+        "response": "Có, Trường tổ chức các hoạt động xã hội và các chương trình phát triển cộng đồng cho sinh viên."
+    },
+    {
+        "prompt": "Trường có tạo cơ hội cho sinh viên tham gia các chương trình thực tập không?",
+        "response": "Có, Trường tổ chức các chương trình thực tập nghề nghiệp và hợp tác với các doanh nghiệp để sinh viên trải nghiệm thực tế."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có tổ chức các hoạt động chăm sóc sức khỏe cho sinh viên không?",
+        "response": "Có, Phòng Công tác Sinh viên phối hợp tổ chức các hoạt động chăm sóc sức khỏe cho sinh viên, bao gồm cả các dịch vụ hỗ trợ tâm lý."
+    },
+    {
+        "prompt": "Trường có tổ chức các hoạt động thể dục thể thao cho sinh viên không?",
+        "response": "Có, Trường tổ chức các cuộc thi thể dục thể thao nhằm khuyến khích sinh viên nâng cao sức khỏe."
+    },
+    {
+        "prompt": "Trường có chính sách hỗ trợ sinh viên khuyết tật không?",
+        "response": "Có, Trường tạo điều kiện học tập tốt nhất cho sinh viên khuyết tật, hỗ trợ các sinh viên này trong các hoạt động học tập và sinh hoạt."
+    },
+    {
+        "prompt": "Sinh viên có được cấp thẻ sinh viên tại Trường không?",
+        "response": "Có, Trường cấp thẻ sinh viên và thực hiện các thủ tục hành chính liên quan đến việc cấp thẻ này."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên có đảm bảo việc quản lý dữ liệu sinh viên không?",
+        "response": "Có, Phòng Công tác Sinh viên cập nhật và quản lý dữ liệu sinh viên để đáp ứng yêu cầu tra cứu, xác minh của các khoa và đơn vị chức năng."
+    },
+    {
+        "prompt": "Trường có tổ chức các hoạt động hỗ trợ sinh viên có hoàn cảnh khó khăn không?",
+        "response": "Có, Trường có các chương trình hỗ trợ sinh viên có hoàn cảnh khó khăn thông qua học bổng và các dịch vụ tài chính."
+    },
+    {
+        "prompt": "Điều 7 quy định về các hoạt động phối hợp với bộ phận Quan hệ Doanh nghiệp - Phòng CTSV. Mục đích của việc này là gì?",
+        "response": "Mục đích là xây dựng mối quan hệ hợp tác với các doanh nghiệp, tổ chức và cá nhân nhằm hỗ trợ SV, tổ chức các sự kiện nghề nghiệp, tư vấn việc làm và tìm kiếm các cơ hội thực tập/việc làm cho SV."
+    },
+    {
+        "prompt": "Trong Điều 7, các sự kiện gì được tổ chức cho SV trong mối quan hệ hợp tác với doanh nghiệp?",
+        "response": "Các sự kiện bao gồm Ngày hội thực tập – việc làm, các cuộc thi nghề nghiệp, các chương trình giao lưu, hội thảo."
+    },
+    {
+        "prompt": "Điều 7 yêu cầu các doanh nghiệp đóng góp vào những hoạt động nào?",
+        "response": "Doanh nghiệp được yêu cầu vận động và tiếp nhận các nguồn tài trợ cho Quỹ học bổng, các sự kiện và các hoạt động của SV từ các doanh nghiệp, tổ chức và cá nhân hợp tác với Trường."
+    },
+    {
+        "prompt": "Điều 8 quy định phối hợp giữa Phòng Công tác Sinh viên và Phòng Đào tạo Đại học để làm gì?",
+        "response": "Phối hợp tổ chức tiếp nhận SV trúng tuyển vào Trường, cập nhật dữ liệu SV đầu khóa học, giải quyết các thủ tục hành chính liên quan đến học vụ của SV."
+    },
+    {
+        "prompt": "Trong Điều 8, Phòng Đào tạo Đại học phối hợp như thế nào với Phòng CTSV trong việc đánh giá rèn luyện SV?",
+        "response": "Phối hợp triển khai thực hiện công tác đánh giá rèn luyện SV theo quy định của pháp luật."
+    },
+    {
+        "prompt": "Phòng Đào tạo Đại học có nhiệm vụ gì khi có khiếu nại liên quan đến học vụ của SV?",
+        "response": "Phòng Đào tạo Đại học sẽ phối hợp giải quyết những khiếu nại liên quan đến học vụ của SV."
+    },
+    {
+        "prompt": "Điều 9 quy định các hoạt động phối hợp với Phòng Hợp tác Đào tạo Nước ngoài và Trung tâm Trao đổi Giáo dục Quốc tế là gì?",
+        "response": "Phối hợp tổ chức các hoạt động trao đổi, giao lưu tại nước ngoài, hỗ trợ SV quốc tế học tại Trường và các hoạt động giao lưu văn hóa, tham quan đến các trường đối tác liên kết đào tạo."
+    },
+    {
+        "prompt": "Điều 10 yêu cầu phối hợp giữa các phòng ban nào để thực hiện công tác y tế trường học?",
+        "response": "Yêu cầu phối hợp giữa Phòng Tổ chức Cán bộ, Phòng Quản lý Khoa học và Trung tâm Đổi mới Sáng tạo và Chuyển giao Công nghệ để thực hiện công tác y tế trường học."
+    },
+    {
+        "prompt": "Trong Điều 10, công tác y tế trường học bao gồm những nhiệm vụ gì?",
+        "response": "Công tác y tế trường học bao gồm lưu hồ sơ sức khỏe của SV và thực hiện các công tác y tế theo quy định."
+    },
+    {
+        "prompt": "Điều 11 quy định những công việc hành chính nào liên quan đến SV?",
+        "response": "Điều 11 quy định các công việc hành chính bao gồm cấp bản sao từ sổ gốc, xác nhận các đơn từ, văn bản theo yêu cầu của SV hoặc địa phương."
+    },
+    {
+        "prompt": "Điều 12 yêu cầu Phòng Kế hoạch Tài chính phối hợp với Phòng CTSV về những vấn đề gì?",
+        "response": "Phối hợp thông báo đến SV các khoản học phí, lệ phí tới hạn, hỗ trợ các thông báo về học bổng, khen thưởng và các khoản tài trợ cho SV."
+    },
+    {
+        "prompt": "Điều 12 quy định về việc tư vấn cho SV vay vốn ngân hàng như thế nào?",
+        "response": "Phòng Kế hoạch Tài chính tư vấn cho SV vay vốn ngân hàng, gia hạn học phí hoặc lệ phí trong các trường hợp có lý do chính đáng."
+    },
+    {
+        "prompt": "Điều 13 quy định Phòng Quan hệ Đối ngoại phối hợp với Phòng CTSV trong những hoạt động nào?",
+        "response": "Phối hợp tổ chức và thực hiện các chương trình giao lưu văn hóa, trao đổi SV quốc tế và quản lý SV quốc tế và lưu học sinh tại Trường."
+    },
+    {
+        "prompt": "Điều 13 yêu cầu Phòng Quan hệ Đối ngoại làm gì để hỗ trợ SV quốc tế?",
+        "response": "Phòng Quan hệ Đối ngoại hỗ trợ SV quốc tế các thông tin về học bổng du học, trao đổi SV và các chương trình học kỳ hè ở nước ngoài."
+    },
+    {
+        "prompt": "Điều 14 yêu cầu Phòng Bảo đảm Chất lượng Giáo dục và Khảo thí phối hợp như thế nào với Phòng CTSV?",
+        "response": "Phối hợp trong việc thu thập ý kiến SV để nâng cao chất lượng đào tạo và đánh giá công tác Công tác Sinh viên định kỳ."
+    },
+    {
+        "prompt": "Điều 14 yêu cầu Phòng Bảo đảm Chất lượng Giáo dục phối hợp với các khoa trong những công việc nào?",
+        "response": "Phối hợp tổ chức thu thập ý kiến SV nhằm nâng cao chất lượng đào tạo và phục vụ của Trường."
+    },
+    {
+        "prompt": "Phối hợp giữa Phòng CTSV và Phòng Bảo đảm Chất lượng Giáo dục có mục đích gì?",
+        "response": "Mục đích là đánh giá công tác Công tác Sinh viên định kỳ và cải tiến chất lượng đào tạo của Trường."
+    },
+    {
+        "prompt": "Điều 14 yêu cầu Phòng Bảo đảm Chất lượng Giáo dục phối hợp với Phòng CTSV trong công tác nào?",
+        "response": "Phối hợp trong công tác Công tác Sinh viên (CSV) để có thêm thông tin cần thiết nhằm đánh giá sản phẩm đào tạo của Trường."
+    },
+    {
+        "prompt": "Điều 7 yêu cầu các doanh nghiệp hỗ trợ những hoạt động nào trong việc phát triển nghề nghiệp cho SV?",
+        "response": "Các doanh nghiệp hỗ trợ tư vấn việc làm, các chuyên đề trang bị kỹ năng nghề nghiệp và giới thiệu cơ hội thực tập/việc làm cho SV."
+    },
+    {
+        "prompt": "Phòng CTSV có vai trò gì trong việc hỗ trợ việc làm cho SV theo Điều 7?",
+        "response": "Phòng CTSV phối hợp tổ chức các hoạt động tư vấn việc làm và xây dựng hệ thống thông tin về việc làm, thực tập."
+    },
+    {
+        "prompt": "Điều 9 yêu cầu Phòng Hợp tác Đào tạo Nước ngoài phối hợp với Phòng CTSV trong việc gì?",
+        "response": "Phối hợp tổ chức các hoạt động trao đổi, giao lưu SV quốc tế và quản lý SV quốc tế học tại Trường."
+    },
+    {
+        "prompt": "Điều 8 yêu cầu phối hợp giữa các Phòng trong việc tổ chức Lễ khai giảng và tốt nghiệp như thế nào?",
+        "response": "Phối hợp tổ chức các Lễ khai giảng, lễ tốt nghiệp cho SV."
+    },
+    {
+        "prompt": "Điều 8 yêu cầu Phòng Đào tạo Đại học làm gì trong việc giải quyết thủ tục học vụ?",
+        "response": "Giải quyết các thủ tục hành chính liên quan đến học vụ, chuyển trường, chuyển ngành và các giấy tờ học vụ khác cho SV."
+    },
+    {
+        "prompt": "Điều 10 yêu cầu phối hợp với Phòng Tổ chức Cán bộ về công tác gì?",
+        "response": "Phối hợp tổ chức cho SV tìm hiểu và thực hiện Luật BHYT, tư vấn công tác khám chữa bệnh."
+    },
+    {
+        "prompt": "Điều 12 yêu cầu Phòng Kế hoạch Tài chính phối hợp thông báo các khoản gì đến SV?",
+        "response": "Thông báo về học phí, lệ phí đến hạn, khen thưởng và các trợ cấp cho SV."
+    },
+    {
+        "prompt": "Điều 12 yêu cầu Phòng Kế hoạch Tài chính hỗ trợ SV như thế nào trong việc học phí?",
+        "response": "Hỗ trợ tư vấn về việc gia hạn học phí, lệ phí cho SV trong trường hợp có lý do chính đáng."
+    },
+    {
+        "prompt": "Điều 9 yêu cầu Phòng Quan hệ Đối ngoại phối hợp tổ chức những chương trình gì?",
+        "response": "Tổ chức các chương trình giao lưu văn hóa, trao đổi SV quốc tế."
+    },
+    {
+        "prompt": "Điều 7 yêu cầu các hoạt động nào từ Phòng CTSV để hỗ trợ SV?",
+        "response": "Phòng CTSV tổ chức các sự kiện nghề nghiệp, hỗ trợ tư vấn việc làm và kết nối với các doanh nghiệp."
+    },
+    {
+        "prompt": "Điều 7 quy định những hoạt động hỗ trợ nào cho SV từ các tổ chức bên ngoài?",
+        "response": "Hỗ trợ thông qua việc tiếp nhận tài trợ từ các doanh nghiệp cho học bổng và các sự kiện hoạt động của SV."
+    },
+    {
+        "prompt": "Điều 10 yêu cầu Phòng Quản lý Khoa học phối hợp tổ chức hoạt động gì cho SV?",
+        "response": "Phối hợp tổ chức các hoạt động học thuật, nghiên cứu sáng tạo, và chuyển giao công nghệ."
+    },
+    {
+        "prompt": "Điều 11 yêu cầu giải quyết thủ tục gì cho SV?",
+        "response": "Cấp bản sao từ sổ gốc và xác nhận các đơn từ, văn bản theo yêu cầu của SV."
+    },
+    {
+        "prompt": "Điều 15 yêu cầu phối hợp với Phòng Quản trị Cơ sở Vật chất nhằm mục đích gì?",
+        "response": "Tiếp nhận các góp ý về chất lượng món ăn và cung cách phục vụ dành cho sinh viên."
+    },
+    {
+        "prompt": "Điều 16 nêu rõ trách nhiệm của Đoàn Thanh niên trong việc tổ chức các hoạt động nào?",
+        "response": "Tổ chức các hoạt động ngoại khóa, học thuật, nghiên cứu khoa học, văn hóa, văn nghệ, và thể thao cho sinh viên."
+    },
+    {
+        "prompt": "Điều 17 yêu cầu CVHT thực hiện nhiệm vụ gì đối với sinh viên?",
+        "response": "Tư vấn, hướng dẫn sinh viên thực hiện quy chế, xây dựng kế hoạch học tập và quản lý thông tin sinh viên."
+    },
+    {
+        "prompt": "Điều 18 quy định sinh viên được phép sử dụng các dịch vụ nào của nhà trường?",
+        "response": "Hệ thống thư viện, trang thiết bị phục vụ học tập, nghiên cứu khoa học, văn hóa, văn nghệ, thể thao, và các dịch vụ xã hội khác."
+    },
+    {
+        "prompt": "Điều 19 yêu cầu sinh viên tuân thủ quy định gì về học phí và BHYT?",
+        "response": "Đóng học phí, lệ phí BHYT đầy đủ và đúng thời hạn theo quy định."
+    },
+    {
+        "prompt": "Điều 20 nêu rõ hành vi nào bị nghiêm cấm trong giờ học?",
+        "response": "Hút thuốc, uống rượu bia, sử dụng chất kích thích hoặc say rượu bia khi đến lớp học."
+    },
+    {
+        "prompt": "Mục tiêu của Tuần Sinh hoạt Công dân theo Điều 21 là gì?",
+        "response": "Nâng cao nhận thức sinh viên về đường lối của Đảng, pháp luật của Nhà nước và trách nhiệm của công dân."
+    },
+    {
+        "prompt": "Theo Điều 22, sinh viên không tham gia Tuần Sinh hoạt Công dân Đầu Khóa sẽ bị xử lý như thế nào?",
+        "response": "Bị trừ 25 điểm rèn luyện ở nội dung ý thức và phải học lại với khóa sau."
+    },
+    {
+        "prompt": "Điều 23 nêu mục đích của việc đánh giá kết quả rèn luyện là gì?",
+        "response": "Góp phần thực hiện mục tiêu giáo dục toàn diện và làm căn cứ xét tốt nghiệp, học bổng, khen thưởng."
+    },
+    {
+        "prompt": "Điều 15 yêu cầu phối hợp quản lý các hoạt động của sinh viên ở đâu?",
+        "response": "Tại căn tin, thư viện, nhà thi đấu, phòng nghỉ sinh viên và lớp học."
+    },
+    {
+        "prompt": "Điều 16 yêu cầu Đoàn Thanh niên làm gì để bảo vệ quyền lợi sinh viên?",
+        "response": "Đại diện tiếng nói sinh viên khi cần thiết và phối hợp tổ chức đối thoại với lãnh đạo nhà trường."
+    },
+    {
+        "prompt": "Theo Điều 17, trợ lý khoa có trách nhiệm gì?",
+        "response": "Tham mưu cho lãnh đạo khoa về công tác Đoàn, Hội và hướng dẫn các phong trào sinh viên."
+    },
+    {
+        "prompt": "Điều 18 quy định sinh viên được nghỉ các dịp nào?",
+        "response": "Nghỉ tết, nghỉ lễ và nghỉ hè theo quy định."
+    },
+    {
+        "prompt": "Điều 19 yêu cầu sinh viên thực hiện trách nhiệm nào liên quan đến sức khỏe?",
+        "response": "Tham gia khám sức khỏe đầu khóa, cuối khóa và định kỳ trong thời gian học tập."
+    },
+    {
+        "prompt": "Theo Điều 20, sinh viên không được phép thực hiện hành vi nào trên mạng xã hội?",
+        "response": "Đăng tải, bình luận, chia sẻ nội dung chống phá Đảng, Nhà nước, hoặc xúc phạm cá nhân, tổ chức."
+    },
+    {
+        "prompt": "Điều 21 yêu cầu nội dung Tuần Sinh hoạt Công dân phải bao gồm những gì?",
+        "response": "Các nội dung theo hướng dẫn của Bộ GD&ĐT và ĐHQG-HCM, phù hợp với năm học."
+    },
+    {
+        "prompt": "Điều 22 nêu hậu quả của việc không tham gia Tuần Sinh hoạt Công dân hai lần liên tiếp là gì?",
+        "response": "Bị trừ 35 điểm rèn luyện và tạm dừng 1 học kỳ kế tiếp."
+    },
+    {
+        "prompt": "Điều 23 quy định kết quả rèn luyện được sử dụng vào mục đích gì?",
+        "response": "Xét tốt nghiệp, xét cấp học bổng, xét danh hiệu kỷ luật, và các ưu tiên khác."
+    },
+    {
+        "prompt": "Theo Điều 15, Phòng Quản trị Cơ sở Vật chất cần phối hợp để giải quyết gì cho sinh viên?",
+        "response": "Các khiếu nại, góp ý về chất lượng cơ sở vật chất, dịch vụ căn tin, và các tiện ích khác."
+    },
+    {
+        "prompt": "Điều 16 yêu cầu tổ chức phân loại đoàn viên và hội viên gắn với nội dung gì?",
+        "response": "Đánh giá kết quả rèn luyện sinh viên."
+    },
+    {
+        "prompt": "Theo Điều 17, Ban Chủ nhiệm khoa cần làm gì để hỗ trợ sinh viên nghiên cứu khoa học?",
+        "response": "Chỉ đạo tổ chức các hoạt động nghiên cứu khoa học và câu lạc bộ học thuật cho sinh viên."
+    },
+    {
+        "prompt": "Điều 18 cho phép sinh viên được xét nhận học bổng nào?",
+        "response": "Học bổng khuyến khích học tập, trợ cấp xã hội và tài trợ từ tổ chức, cá nhân trong và ngoài nước."
+    },
+    {
+        "prompt": "Điều 19 yêu cầu sinh viên thực hiện nghĩa vụ gì tại địa phương cư trú?",
+        "response": "Đăng ký tạm trú, tạm vắng và báo cáo địa chỉ mới khi có thay đổi."
+    },
+    {
+        "prompt": "Theo Điều 20, sinh viên không được phép thực hiện hành vi nào trong trường học?",
+        "response": "Gây rối trật tự, xâm phạm tài sản, an ninh hoặc tham gia tệ nạn xã hội."
+    },
+    {
+        "prompt": "Điều 21 quy định Tuần Sinh hoạt Công dân được phân loại như thế nào?",
+        "response": "Gồm Tuần SHCD Đầu Khóa, Giữa Khóa và Cuối Khóa."
+    },
+    {
+        "prompt": "Điều 22 nêu sinh viên phải hoàn thành Tuần Sinh hoạt Công dân để đạt tiêu chí gì?",
+        "response": "Được xét tốt nghiệp và nhận bằng tốt nghiệp."
+    },
+    {
+        "prompt": "Theo Điều 23, đối tượng nào không áp dụng quy chế đánh giá rèn luyện sinh viên?",
+        "response": "Sinh viên quốc tế và sinh viên chương trình trao đổi lấy tín chỉ."
+    },
+    {
+        "prompt": "Điều 15 nêu vai trò của Phòng Quản trị Cơ sở Vật chất trong việc quản lý hoạt động nào?",
+        "response": "Các hoạt động sinh viên tại thư viện, căn tin, nhà thi đấu và lớp học."
+    },
+    {
+        "prompt": "Điều 16 yêu cầu phối hợp với Đảng ủy để làm gì trong công tác sinh viên?",
+        "response": "Theo dõi và tạo điều kiện cho công tác phát triển Đảng trong sinh viên."
+    },
+    {
+        "prompt": "Theo Điều 17, Thư ký Khoa có trách nhiệm gì trong công tác sinh viên?",
+        "response": "Làm đầu mối phối hợp công việc với các đơn vị liên quan đến công tác sinh viên."
+    },
+    {
+        "prompt": "Điều 18 quy định sinh viên có thể đề đạt nguyện vọng với ai để bảo vệ quyền lợi?",
+        "response": "Hiệu trưởng nhà trường."
+    },
+    {
+        "prompt": "Điều 19 yêu cầu sinh viên tham gia các hoạt động nào để góp phần bảo vệ cộng đồng?",
+        "response": "Phòng chống tội phạm, tệ nạn xã hội và giữ gìn an ninh trật tự."
+    },
+    {
+        "prompt": "Theo Điều 20, hành vi nào liên quan đến chất cấm bị nghiêm cấm?",
+        "response": "Tàng trữ, buôn bán, sử dụng hoặc lôi kéo người khác sử dụng chất ma túy."
+    },
+    {
+        "prompt": "Điều 21 yêu cầu tổ chức Tuần Sinh hoạt Công dân với các yêu cầu nào về hiệu quả?",
+        "response": "Phải đạt hiệu quả giáo dục cao, có thảo luận, đối thoại và đánh giá kết quả cuối kỳ."
+    },
+    {
+        "prompt": "Điều 22 quy định sinh viên học lại Tuần Sinh hoạt Công dân phải làm gì?",
+        "response": "Đóng lệ phí học bổ sung trừ khi có lý do chính đáng được xét miễn."
+    },
+    {
+        "prompt": "Theo Điều 23, kết quả rèn luyện sinh viên được xét dựa trên các tiêu chí nào?",
+        "response": "Ý thức, kết quả chấp hành nội quy, đóng góp xã hội và thành tích cá nhân."
+    },
+    {
+        "prompt": "Theo Điều 23, kết quả rèn luyện sinh viên được xét dựa trên các tiêu chí nào?",
+        "response": "Ý thức, kết quả chấp hành nội quy, đóng góp xã hội và thành tích cá nhân."
+    },
+    {
+        "prompt": "Điều 24 quy định về thang điểm rèn luyện sinh viên như thế nào?",
+        "response": "Các nội dung rèn luyện được đánh giá bằng thang điểm 100 và không vượt quá 100 điểm."
+    },
+    {
+        "prompt": "Kết quả rèn luyện xuất sắc được quy định thế nào?",
+        "response": "Sinh viên có điểm rèn luyện cao nhất, tuân thủ nội quy, có đóng góp tích cực."
+    },
+    {
+        "prompt": "Sinh viên bị kỷ luật mức khiển trách thì kết quả rèn luyện tối đa là gì?",
+        "response": "Không được vượt quá loại Khá."
+    },
+    {
+        "prompt": "Điều 25 quy định thế nào về sinh viên bị kỷ luật mức cảnh cáo?",
+        "response": "Không được vượt quá loại Trung bình."
+    },
+    {
+        "prompt": "Sinh viên bị đình chỉ học tập thì có được đánh giá rèn luyện không?",
+        "response": "Không được đánh giá rèn luyện trong thời gian bị đình chỉ."
+    },
+    {
+        "prompt": "Sinh viên bị buộc thôi học có được đánh giá rèn luyện không?",
+        "response": "Không được đánh giá kết quả rèn luyện."
+    },
+    {
+        "prompt": "Sinh viên nghỉ học tạm thời có được bảo lưu kết quả rèn luyện không?",
+        "response": "Được bảo lưu kết quả rèn luyện và sẽ được đánh giá khi tiếp tục học."
+    },
+    {
+        "prompt": "Sinh viên học hai chương trình đào tạo được đánh giá thế nào?",
+        "response": "Được đánh giá tại đơn vị quản lý chương trình thứ nhất và tham khảo ý kiến chương trình thứ hai."
+    },
+    {
+        "prompt": "Sinh viên khuyết tật hoặc hoàn cảnh khó khăn được hỗ trợ thế nào?",
+        "response": "Được ưu tiên, động viên, cộng điểm tùy thuộc vào đối tượng và hoàn cảnh cụ thể."
+    },
+    {
+        "prompt": "Sinh viên chương trình liên kết quốc tế được đánh giá rèn luyện thế nào?",
+        "response": "Theo thời gian học tại cơ sở đào tạo trong nước."
+    },
+    {
+        "prompt": "Sinh viên chuyển trường được bảo lưu kết quả rèn luyện không?",
+        "response": "Được bảo lưu kết quả rèn luyện tại cơ sở đào tạo cũ."
+    },
+    {
+        "prompt": "Sinh viên tốt nghiệp trước thời hạn được đánh giá rèn luyện ra sao?",
+        "response": "Theo số học kỳ chính thực tế sinh viên học tại Trường."
+    },
+    {
+        "prompt": "Điều 26 quy định quy trình đánh giá rèn luyện thế nào?",
+        "response": "Sinh viên tự đánh giá, họp lớp xác nhận, Hội đồng các cấp xem xét và phê duyệt."
+    },
+    {
+        "prompt": "Ai là người chủ trì họp lớp để đánh giá rèn luyện?",
+        "response": "Cố vấn học tập (CVHT) chủ trì họp lớp."
+    },
+    {
+        "prompt": "Hội đồng cấp khoa xử lý khiếu nại trong bao lâu?",
+        "response": "Tối đa 07 ngày làm việc."
+    },
+    {
+        "prompt": "Kết quả rèn luyện được công bố như thế nào?",
+        "response": "Qua tài khoản sinh viên và thông báo trước 20 ngày trước khi chính thức công nhận."
+    },
+    {
+        "prompt": "Sinh viên có được khiếu nại kết quả rèn luyện không?",
+        "response": "Có quyền khiếu nại qua các cấp hội đồng."
+    },
+    {
+        "prompt": "Kết quả rèn luyện được phân loại như thế nào?",
+        "response": "Thành các loại xuất sắc, tốt, khá, trung bình, yếu và kém."
+    },
+    {
+        "prompt": "Sinh viên đạt loại trung bình trở lên có ý nghĩa gì?",
+        "response": "Là đạt kết quả rèn luyện."
+    },
+    {
+        "prompt": "Quy trình đánh giá rèn luyện cấp trường bao gồm gì?",
+        "response": "Xem xét hồ sơ, xử lý khiếu nại và phê duyệt kết quả."
+    },
+    {
+        "prompt": "Sinh viên có kết quả rèn luyện xuất sắc cần đáp ứng tiêu chí nào?",
+        "response": "Điểm tối đa và tham gia tích cực các hoạt động xã hội."
+    },
+    {
+        "prompt": "Sinh viên có thành tích đặc biệt được xem xét ra sao?",
+        "response": "Được cộng điểm hoặc ưu tiên trong đánh giá."
+    },
+    {
+        "prompt": "Sinh viên bị kỷ luật có được khiếu nại không?",
+        "response": "Có quyền khiếu nại kết quả đánh giá rèn luyện."
+    },
+    {
+        "prompt": "Hội đồng cấp trường họp để làm gì?",
+        "response": "Xem xét, xử lý khiếu nại và thống nhất kết quả."
+    },
+    {
+        "prompt": "Kết quả rèn luyện được xét trên cơ sở gì?",
+        "response": "Minh chứng xác nhận kết quả và biểu quyết tại các cấp."
+    },
+    {
+        "prompt": "Hội đồng cấp khoa phải làm gì với khiếu nại của sinh viên?",
+        "response": "Xử lý và phản hồi trong 07 ngày làm việc."
+    },
+    {
+        "prompt": "Sinh viên có quyền gì trong đánh giá rèn luyện?",
+        "response": "Tự đánh giá và khiếu nại kết quả."
+    },
+    {
+        "prompt": "Khi nào sinh viên liên kết quốc tế được đánh giá rèn luyện?",
+        "response": "Trong thời gian học tại cơ sở đào tạo trong nước."
+    },
+    {
+        "prompt": "Sinh viên khuyết tật có phải tham gia mọi hoạt động rèn luyện không?",
+        "response": "Không, được ưu tiên và hỗ trợ đánh giá theo khả năng."
+    },
+    {
+        "prompt": "Quy trình họp lớp đánh giá rèn luyện yêu cầu gì?",
+        "response": "Thông tin đầy đủ, công khai đến sinh viên."
+    },
+    {
+        "prompt": "Hội đồng cấp khoa tổng hợp kết quả rèn luyện để làm gì?",
+        "response": "Chuyển hồ sơ lên Hội đồng cấp trường."
+    },
+    {
+        "prompt": "Kết quả rèn luyện được quyết định bởi ai?",
+        "response": "Hội đồng các cấp và Hiệu trưởng nhà trường."
+    },
+    {
+        "prompt": "Sinh viên có hoàn cảnh đặc biệt cần làm gì để được hỗ trợ đánh giá?",
+        "response": "Cung cấp xác nhận của địa phương theo quy định."
+    },
+    {
+        "prompt": "Sinh viên đồng thời học hai chương trình có được đánh giá đồng thời không?",
+        "response": "Được, dựa trên ý kiến từ cả hai chương trình."
+    },
+    {
+        "prompt": "Hội đồng cấp trường tổng hợp kết quả rèn luyện từ đâu?",
+        "response": "Từ hồ sơ đánh giá của Hội đồng cấp khoa, bộ môn."
+    },
+    {
+        "prompt": "Cố vấn học tập có trách nhiệm gì trong đánh giá rèn luyện?",
+        "response": "Chủ trì họp lớp và xác nhận biên bản họp."
+    },
+    {
+        "prompt": "Sinh viên chuyển trường có phải đánh giá lại rèn luyện không?",
+        "response": "Không, kết quả từ cơ sở cũ được bảo lưu."
+    },
+    {
+        "prompt": "Sinh viên khiếu nại kết quả rèn luyện có bị ảnh hưởng gì không?",
+        "response": "Không, khiếu nại được xử lý khách quan."
+    },
+    {
+        "prompt": "Điều 25 có nói gì về sinh viên bị đình chỉ học tập?",
+        "response": "Không được đánh giá rèn luyện trong thời gian bị đình chỉ."
+    },
+    {
+        "prompt": "Sinh viên liên kết quốc tế được ưu tiên gì trong đánh giá rèn luyện?",
+        "response": "Được xét theo thời gian học tại cơ sở trong nước."
+    },
+    {
+        "prompt": "Sinh viên khuyết tật được đánh giá rèn luyện ra sao?",
+        "response": "Dựa trên nỗ lực và tiến bộ thay vì yêu cầu chung."
+    },
+    {
+        "prompt": "Quy trình đánh giá rèn luyện cấp lớp bắt đầu từ đâu?",
+        "response": "Từ tự đánh giá của sinh viên."
+    },
+    {
+        "prompt": "Hội đồng cấp khoa phải công bố kết quả rèn luyện trong bao lâu?",
+        "response": "Trong vòng 07 ngày làm việc sau khi họp."
+    },
+    {
+        "prompt": "Điều 26 yêu cầu gì về tính công khai trong đánh giá rèn luyện?",
+        "response": "Kết quả và quy trình phải thông báo rõ ràng cho sinh viên."
+    },
+    {
+        "prompt": "Hội đồng cấp trường có thể từ chối kết quả rèn luyện không?",
+        "response": "Có quyền điều chỉnh kết quả nếu cần thiết."
+    },
+    {
+        "prompt": "Sinh viên bị khiển trách có được đánh giá rèn luyện xuất sắc không?",
+        "response": "Không, tối đa chỉ được loại Khá."
+    },{
+        "prompt": "Sinh viên bị khiển trách có được đánh giá rèn luyện xuất sắc không?",
+        "response": "Không, tối đa chỉ được loại Khá."
+    },
+    {
+        "prompt": "Hội nghị cấp lớp chỉ họp xét kết quả rèn luyện khi nào?",
+        "response": "Khi có từ 2/3 tổng số sinh viên của lớp tham dự."
+    },
+    {
+        "prompt": "Nguyên tắc làm việc của Hội nghị cấp lớp là gì?",
+        "response": "Hội nghị làm việc theo nguyên tắc tập trung dân chủ và biểu quyết bằng cách giơ tay."
+    },
+    {
+        "prompt": "Ý kiến quyết định của Hội nghị cấp lớp trong trường hợp biểu quyết 50/50 thuộc về ai?",
+        "response": "Ý kiến quyết định thuộc về cố vấn học tập (CVHT)."
+    },
+    {
+        "prompt": "Thành phần của Hội đồng đánh giá kết quả rèn luyện cấp khoa bao gồm những ai?",
+        "response": "Trưởng khoa, Phó trưởng khoa, thư ký khoa, CVHT, đại diện Ban chấp hành Đoàn khoa, Ban chấp hành liên chi Hội sinh viên khoa."
+    },
+    {
+        "prompt": "Hội đồng cấp khoa chỉ họp xét kết quả rèn luyện khi nào?",
+        "response": "Khi có từ 2/3 số thành viên tham dự."
+    },
+    {
+        "prompt": "Ai là người ra quyết định cuối cùng trong trường hợp biểu quyết 50/50 ở Hội đồng cấp khoa?",
+        "response": "Ý kiến quyết định thuộc về Chủ tịch Hội đồng cấp khoa."
+    },
+    {
+        "prompt": "Hội đồng cấp trường chỉ họp xét kết quả rèn luyện khi nào?",
+        "response": "Khi có từ 2/3 số thành viên tham dự."
+    },
+    {
+        "prompt": "Sinh viên có thể khiếu nại kết quả rèn luyện trong thời gian bao lâu sau khi công bố cấp khoa?",
+        "response": "Trong vòng 7 ngày làm việc."
+    },
+    {
+        "prompt": "Sinh viên có thể khiếu nại kết quả rèn luyện trong thời gian bao lâu sau khi công bố cấp trường?",
+        "response": "Trong vòng 20 ngày làm việc."
+    },
+    {
+        "prompt": "Điểm rèn luyện học kỳ được tính như thế nào?",
+        "response": "Là tổng điểm đạt được của 6 nội dung đánh giá theo quy định."
+    },
+    {
+        "prompt": "Điểm rèn luyện năm học được tính như thế nào?",
+        "response": "Là trung bình cộng của điểm rèn luyện các học kỳ trong năm học đó."
+    },
+    {
+        "prompt": "Sinh viên nghỉ học tạm thời thì điểm rèn luyện được tính như thế nào?",
+        "response": "Thời gian nghỉ học không tính điểm rèn luyện."
+    },
+    {
+        "prompt": "Sinh viên chuyển trường có được bảo lưu kết quả rèn luyện không?",
+        "response": "Có, nếu được sự đồng ý của Hiệu trưởng hai trường."
+    },
+    {
+        "prompt": "Điểm rèn luyện toàn khóa được tính như thế nào?",
+        "response": "Là trung bình cộng của điểm rèn luyện các học kỳ chính của khóa học."
+    },
+    {
+        "prompt": "Sinh viên có thể bị buộc thôi học trong trường hợp nào liên quan đến điểm rèn luyện?",
+        "response": "Nếu bị xếp loại rèn luyện yếu trong hai học kỳ chính liên tiếp lần thứ hai."
+    },
+    {
+        "prompt": "Điểm rèn luyện tối thiểu để xét học bổng khuyến khích học kỳ là bao nhiêu?",
+        "response": "Từ mức Tốt 80 điểm trở lên."
+    },
+    {
+        "prompt": "Sinh viên có quyền khiếu nại kết quả rèn luyện trong trường hợp nào?",
+        "response": "Khi kết quả được công bố chưa chính xác, có thiếu sót hoặc có lý do giải trình hợp lý."
+    },
+    {
+        "prompt": "Phòng CTSV có trách nhiệm gì trong việc đánh giá rèn luyện?",
+        "response": "Xây dựng quy định, tổng hợp thông tin, cập nhật kết quả và giám sát công tác đánh giá rèn luyện."
+    },
+    {
+        "prompt": "Hội đồng cấp khoa có trách nhiệm gì trong công tác đánh giá rèn luyện?",
+        "response": "Xem xét, đánh giá, xử lý khiếu nại và công bố kết quả rèn luyện của sinh viên."
+    },
+    {
+        "prompt": "Đoàn TN-Hội SV cung cấp thông tin gì cho quá trình đánh giá rèn luyện?",
+        "response": "Danh sách sinh viên tham gia hoạt động Đoàn – Hội, câu lạc bộ, đội nhóm và các hoạt động tình nguyện."
+    },
+    {
+        "prompt": "Phòng Đào tạo Đại học có trách nhiệm gì trong đánh giá rèn luyện?",
+        "response": "Cung cấp và cập nhật kết quả học tập đúng thời gian quy định."
+    },
+    {
+        "prompt": "Cố vấn học tập cần làm gì đầu mỗi học kỳ?",
+        "response": "Tổ chức sinh hoạt lớp để phổ biến, hướng dẫn công tác đánh giá rèn luyện."
+    },
+    {
+        "prompt": "Sinh viên cần cung cấp tài liệu gì trong quá trình tự đánh giá rèn luyện?",
+        "response": "Minh chứng liên quan đến kết quả rèn luyện khi được yêu cầu."
+    },
+    {
+        "prompt": "Sinh viên cần làm gì khi muốn bổ sung kết quả rèn luyện?",
+        "response": "Thực hiện quyền khiếu nại, bổ sung và điều chỉnh kết quả theo quy định."
+    },
+    {
+        "prompt": "Bộ phận y tế của trường có trách nhiệm gì với sức khỏe sinh viên?",
+        "response": "Thống kê, lưu hồ sơ sức khỏe, theo dõi và cập nhật thông tin sức khỏe của sinh viên."
+    },
+    {
+        "prompt": "Sinh viên không đạt tiêu chuẩn sức khỏe phải làm gì?",
+        "response": "Phải tạm dừng học theo quy định và được kiểm tra lại trước khi học tiếp."
+    },
+    {
+        "prompt": "Sinh viên phải tham gia BHYT theo quy định nào?",
+        "response": "Theo quy định của Nhà nước."
+    },
+    {
+        "prompt": "Sinh viên cần làm gì trong hoạt động tình nguyện?",
+        "response": "Tham gia tích cực các hoạt động công tác xã hội, ngoại khóa và vì cộng đồng."
+    },
+    {
+        "prompt": "Đoàn Thanh niên cần làm gì để hỗ trợ hoạt động tình nguyện của sinh viên?",
+        "response": "Tổ chức, hướng dẫn và xác nhận các hoạt động tình nguyện của sinh viên."
+    },
+    {
+        "prompt": "Tiêu chí cụ thể về ngày công tác xã hội của sinh viên được ai đưa ra?",
+        "response": "Tổ chức Đoàn Thanh niên - Hội Sinh viên."
+    },
+    {
+        "prompt": "Hội đồng cấp trường do ai thành lập?",
+        "response": "Do Hiệu trưởng hoặc Phó Hiệu trưởng được Hiệu trưởng ủy quyền ký quyết định."
+    },
+    {
+        "prompt": "Kết quả rèn luyện toàn khóa có ý nghĩa gì trong xét tốt nghiệp?",
+        "response": "Là căn cứ để xét tốt nghiệp theo quy định của Trường và ĐHQG-HCM."
+    },
+    {
+        "prompt": "Kết quả rèn luyện được lưu trữ ở đâu?",
+        "response": "Trong hồ sơ quản lý sinh viên của trường."
+    },
+    {
+        "prompt": "Sinh viên đạt loại xuất sắc trong rèn luyện có thể được khen thưởng gì?",
+        "response": "Có thể được biểu dương và đề nghị Bằng khen Giám đốc ĐHQG-HCM."
+    },
+    {
+        "prompt": "Sinh viên có cần tham gia các hội thảo nghiên cứu khoa học để được điểm rèn luyện không?",
+        "response": "Có, các hội thảo sẽ được tổng hợp làm cơ sở đánh giá rèn luyện."
+    },
+    {
+        "prompt": "Ai có trách nhiệm công bố kết quả rèn luyện cấp trường?",
+        "response": "Hội đồng cấp trường sau khi thông qua biểu quyết."
+    },
+    {
+        "prompt": "Sinh viên có cần nộp minh chứng khi tự đánh giá rèn luyện không?",
+        "response": "Có, nếu được yêu cầu."
+    },
+    {
+        "prompt": "Điểm rèn luyện yếu trong một học kỳ có ảnh hưởng gì không?",
+        "response": "Nếu liên tiếp 2 học kỳ chính, có thể bị buộc thôi học."
+    },
+    {
+        "prompt": "Sinh viên có thể xem kết quả rèn luyện của mình ở đâu?",
+        "response": "Trên hệ thống đánh giá kết quả rèn luyện trực tuyến."
+    },
+    {
+        "prompt": "Điểm rèn luyện ảnh hưởng thế nào đến việc xét học bổng tài trợ?",
+        "response": "Sinh viên phải đạt từ loại Tốt (80 điểm) trở lên."
+    },
+    {
+        "prompt": "Sinh viên nghỉ học tạm thời có được đánh giá điểm rèn luyện không?",
+        "response": "Không, thời gian nghỉ học không được tính điểm rèn luyện."
+    },
+    {
+        "prompt": "Điểm rèn luyện toàn khóa được ghi vào tài liệu nào?",
+        "response": "Được ghi chung vào bảng điểm tốt nghiệp của sinh viên."
+    },
+    {
+        "prompt": "Sinh viên có thể phản hồi kết quả rèn luyện trong trường hợp nào?",
+        "response": "Khi có sai sót hoặc lý do cần giải trình."
+    },
+    {
+        "prompt": "Hội đồng cấp trường có thể bỏ phiếu bằng hình thức nào?",
+        "response": "Bằng cách giơ tay hoặc bỏ phiếu, do Hội đồng quyết định."
+    },
+    {
+        "prompt": "Sinh viên có quyền khiếu nại kết quả rèn luyện của các học kỳ trước không?",
+        "response": "Có, nếu phát hiện sai sót trong cập nhật kết quả."
+    },
+    {
+        "prompt": "Sinh viên đạt danh hiệu Xuất sắc cần có kết quả học tập và rèn luyện ở mức nào?",
+        "response": "Cả hai đều đạt xuất sắc."
+    },
+    {
+        "prompt": "Hình thức kỷ luật nào áp dụng với sinh viên vi phạm lần đầu ở mức độ nhẹ?",
+        "response": "Khiển trách."
+    },
+    {
+        "prompt": "Sinh viên bị cảnh cáo sẽ được chấm dứt hiệu lực kỷ luật sau bao lâu nếu không tái phạm?",
+        "response": "Sau 6 tháng."
+    },
+    {
+        "prompt": "Hội đồng thi đua, khen thưởng và kỷ luật sinh viên cấp Trường cần tối thiểu bao nhiêu thành viên có mặt để họp?",
+        "response": "2/3 số lượng thành viên."
+    },
+    {
+        "prompt": "Hội đồng thi đua, khen thưởng và kỷ luật sinh viên họp định kỳ bao lâu một lần?",
+        "response": "Mỗi học kỳ một lần."
+    },
+    {
+        "prompt": "Tiêu chí nào sau đây không thuộc nội dung đánh giá điểm rèn luyện?",
+        "response": "Số lần tham gia các lớp học thêm."
+    },
+    {
+        "prompt": "Điểm rèn luyện xuất sắc được tính từ mức nào?",
+        "response": "Từ 90 đến 100 điểm."
+    },
+    {
+        "prompt": "Điểm rèn luyện yếu là dưới bao nhiêu điểm?",
+        "response": "Dưới 50 điểm."
+    },
+    {
+        "prompt": "Sinh viên có hành vi vi phạm nhưng không làm bản tự kiểm điểm sẽ bị xử lý như thế nào?",
+        "response": "Hội đồng vẫn họp và xử lý dựa trên chứng cứ."
+    },
+    {
+        "prompt": "Thời gian gửi đơn khiếu nại về khen thưởng, kỷ luật là khi nào?",
+        "response": "Sau buổi họp thông qua kết quả sau cùng."
+    },
+    {
+        "prompt": "Sinh viên bị đình chỉ học tập cần cung cấp tài liệu gì để được tiếp nhận học tiếp?",
+        "response": "Chứng nhận chấp hành tốt nghĩa vụ công dân từ địa phương."
+    },
+    {
+        "prompt": "Điều kiện nào để sinh viên nhận danh hiệu Giỏi?",
+        "response": "Học tập giỏi và rèn luyện từ tốt trở lên."
+    },
+    {
+        "prompt": "Danh hiệu Thủ khoa được trao khi nào?",
+        "response": "Sau khi kết thúc khóa học."
+    },
+    {
+        "prompt": "Thời hạn đình chỉ học tập tối đa có thể kéo dài bao lâu?",
+        "response": "Tùy thuộc vào quy định của cơ sở giáo dục."
+    },
+    {
+        "prompt": "Hội đồng khen thưởng và kỷ luật sinh viên có thể mời ai tham gia góp ý?",
+        "response": "Lớp trưởng hoặc Bí thư chi đoàn lớp có sinh viên liên quan."
+    },
+    {
+        "prompt": "Quy chế này có hiệu lực từ khi nào?",
+        "response": "Kể từ ngày ký."
+    },
+    {
+        "prompt": "Sinh viên đạt danh hiệu Khá cần có kết quả học tập và rèn luyện ở mức nào?",
+        "response": "Cả hai từ khá trở lên."
+    },
+    {
+        "prompt": "Hình thức khen thưởng định kỳ được xét vào thời điểm nào?",
+        "response": "Cuối năm học hoặc khóa học."
+    },
+    {
+        "prompt": "Hình thức kỷ luật nào áp dụng đối với sinh viên vi phạm pháp luật bị xử phạt tù giam?",
+        "response": "Buộc thôi học."
+    },
+    {
+        "prompt": "Hình thức kỷ luật của sinh viên sẽ được ghi nhận ở đâu?",
+        "response": "Hồ sơ sinh viên."
+    },
+    {
+        "prompt": "Sinh viên có quyền khiếu nại kết quả rèn luyện của các học kỳ trước không?",
+        "response": "Có, nếu phát hiện sai sót trong cập nhật kết quả."
+    },
+    {
+        "prompt": "Thời gian chấm dứt hiệu lực của quyết định khiển trách là bao lâu?",
+        "response": "3 tháng nếu không tái phạm."
+    },
+    {
+        "prompt": "Điểm tối đa cho ý thức học tập trong khung điểm rèn luyện là bao nhiêu?",
+        "response": "20 điểm."
+    },
+    {
+        "prompt": "Điểm tối đa cho ý thức công dân trong quan hệ cộng đồng là bao nhiêu?",
+        "response": "25 điểm."
+    },
+    {
+        "prompt": "Điểm cộng thêm tối đa trong khung điểm rèn luyện là bao nhiêu?",
+        "response": "10 điểm."
+    },
+    {
+        "prompt": "Điểm rèn luyện Tốt được tính từ mức nào?",
+        "response": "Từ 80 đến dưới 90 điểm."
+    },
+    {
+        "prompt": "Sinh viên đạt điểm rèn luyện từ 65 đến dưới 80 được xếp loại nào?",
+        "response": "Khá."
+    },
+    {
+        "prompt": "Hình thức đình chỉ học tập có thể áp dụng trong trường hợp nào?",
+        "response": "Sinh viên bị cảnh cáo nhưng vẫn tái phạm."
+    },
+    {
+        "prompt": "Thành phần Hội đồng khen thưởng và kỷ luật cấp trường không bao gồm ai?",
+        "response": "Phụ huynh sinh viên."
+    },
+    {
+        "prompt": "Danh hiệu cá nhân của sinh viên sẽ được ghi nhận ở đâu?",
+        "response": "Hồ sơ sinh viên."
+    },
+    {
+        "prompt": "Mức khen thưởng thường xuyên cho sinh viên do ai quy định?",
+        "response": "Hiệu trưởng."
+    },
+    {
+        "prompt": "Sinh viên bị khiển trách vẫn có thể được xét khen thưởng không?",
+        "response": "Không, nếu thời gian chưa đủ để xóa hiệu lực kỷ luật."
+    },
+    {
+        "prompt": "Sinh viên có quyền làm gì nếu thấy hình thức kỷ luật không thỏa đáng?",
+        "response": "Nộp đơn khiếu nại lên Phòng CTSV."
+    },
+    {
+        "prompt": "Khoa hoặc đơn vị phụ trách sinh viên phải làm gì trước khi đề nghị Hội đồng khen thưởng?",
+        "response": "Tổ chức họp xét và lập hồ sơ đề nghị."
+    },
+    {
+        "prompt": "Sinh viên đạt điểm dưới 50 sẽ bị xếp loại nào?",
+        "response": "Yếu."
+    },
+    {
+        "prompt": "Hình thức nào không thuộc nội dung khen thưởng trong quy chế?",
+        "response": "Điểm danh đầy đủ trong các buổi học."
+    },
+    {
+        "prompt": "Danh hiệu SV giỏi yêu cầu xếp loại học tập ở mức nào?",
+        "response": "Giỏi trở lên."
+    },
+    {
+        "prompt": "Hình thức xử phạt nào áp dụng với sinh viên tái phạm khi đang bị cảnh cáo?",
+        "response": "Đình chỉ học tập."
+    },
+    {
+        "prompt": "Sinh viên không đến họp Hội đồng kỷ luật mà không có lý do chính đáng sẽ bị xử lý ra sao?",
+        "response": "Bị xét thêm khuyết điểm thiếu ý thức tổ chức."
+    },
+    {
+        "prompt": "Hội đồng kỷ luật cấp trường có thể họp bất thường khi nào?",
+        "response": "Khi cần thiết."
+    },
+    {
+        "prompt": "Thành tích nào sau đây được xét khen thưởng ở cấp ĐHQG-HCM?",
+        "response": "Đoạt giải trong các cuộc thi học thuật cấp quốc gia."
+    },
+    {
+        "prompt": "Hình thức xử lý nào áp dụng cho sinh viên bị xử phạt tù giam?",
+        "response": "Buộc thôi học."
+    },
+    {
+        "prompt": "Điểm tối đa cho ý thức và kết quả chấp hành nội quy, quy chế là bao nhiêu?",
+        "response": "25 điểm."
+    },
+    {
+        "prompt": "Ai có quyền ban hành quyết định kỷ luật sinh viên?",
+        "response": "Hiệu trưởng."
+    },
+    {
+        "prompt": "Nội dung nào không thuộc tiêu chí đánh giá điểm rèn luyện?",
+        "response": "Số lần đăng ký học lại."
+    },
+    {
+        "prompt": "Sinh viên có thành tích đặc biệt trong rèn luyện sẽ được cộng thêm tối đa bao nhiêu điểm?",
+        "response": "10 điểm."
+    }
+]

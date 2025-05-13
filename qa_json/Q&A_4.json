@@ -1,0 +1,194 @@
+[
+    {
+        "prompt": "Vào thời gian nào Phòng Đào tạo Đại học cung cấp danh sách sinh viên để xét khen thưởng?",
+        "response": "Vào đầu tháng 11 hàng năm."
+    },
+    {
+        "prompt": "Ai là đơn vị phụ trách điểm cho tiêu chí đánh giá kết quả học tập?",
+        "response": "P.ĐTĐH."
+    },
+    {
+        "prompt": "Điểm tối đa cho tiêu chí đánh giá về ý thức tham gia học tập là bao nhiêu?",
+        "response": "20 điểm."
+    },
+    {
+        "prompt": "Điểm tối đa cho tiêu chí đánh giá về ý thức chấp hành nội quy là bao nhiêu?",
+        "response": "25 điểm."
+    },
+    {
+        "prompt": "Nếu GPA của sinh viên từ 80 ≤ GPA < 90, điểm cho tiêu chí này là bao nhiêu?",
+        "response": "18 điểm."
+    },
+    {
+        "prompt": "Sinh viên sẽ nhận được bao nhiêu điểm nếu GPA của họ dưới 50?",
+        "response": "10 điểm."
+    },
+    {
+        "prompt": "Điểm cho tiêu chí 'Môn học không tính GPA' là bao nhiêu?",
+        "response": "12 điểm."
+    },
+    {
+        "prompt": "Sinh viên có GPA tăng so với học kỳ trước sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Tham gia hoạt động nghiên cứu khoa học sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Nếu sinh viên tham gia một khóa học đào tạo kỹ năng mềm, họ sẽ được cộng bao nhiêu điểm?",
+        "response": "2 điểm."
+    },
+    {
+        "prompt": "Nếu sinh viên là trợ giảng môn học, họ sẽ được cộng bao nhiêu điểm?",
+        "response": "10 điểm."
+    },
+    {
+        "prompt": "Mức cảnh cáo trở lên khi vi phạm nội quy sẽ trừ bao nhiêu điểm?",
+        "response": "15 điểm."
+    },
+    {
+        "prompt": "Mức khiển trách khi vi phạm nội quy sẽ trừ bao nhiêu điểm?",
+        "response": "10 điểm."
+    },
+    {
+        "prompt": "Sinh viên vi phạm các quy định của Nhà nước sẽ bị trừ bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Sinh viên không tham gia sinh hoạt lớp mà không xin phép trước sẽ bị trừ bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Tham gia sinh hoạt công dân nhưng vắng mặt không xin phép sẽ bị trừ bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Tham gia đội tuyển thi Olympic cấp Tỉnh sẽ được cộng bao nhiêu điểm?",
+        "response": "10 điểm."
+    },
+    {
+        "prompt": "Tham gia cuộc thi học thuật cấp ĐHQG-HCM sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Tham gia cuộc thi học thuật cấp Khoa, BM, Trường sẽ được cộng bao nhiêu điểm?",
+        "response": "4 điểm."
+    },
+    {
+        "prompt": "Tham gia sinh hoạt chuyên đề về học thuật trực tiếp sẽ được cộng bao nhiêu điểm?",
+        "response": "3 điểm."
+    },
+    {
+        "prompt": "Tham gia sinh hoạt chuyên đề về học thuật trực tuyến sẽ được cộng bao nhiêu điểm?",
+        "response": "2 điểm."
+    },
+    {
+        "prompt": "Tham gia tổ chức sự kiện theo quyết định thành lập BTC sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Điểm cho tiêu chí 'Tuân thủ các quy định trong và ngoài Nhà trường' là bao nhiêu?",
+        "response": "25 điểm."
+    },
+    {
+        "prompt": "Điểm cho tiêu chí 'Vi phạm các quy định của Nhà nước' là bao nhiêu?",
+        "response": "-5 điểm."
+    },
+    {
+        "prompt": "Khi sinh viên bị lập biên bản, họ sẽ bị trừ bao nhiêu điểm?",
+        "response": "-5 điểm."
+    },
+    {
+        "prompt": "Điểm tối đa cho tiêu chí 'Hoạt động học thuật, sáng tạo và tăng cường kỹ năng' là bao nhiêu?",
+        "response": "20 điểm."
+    },
+    {
+        "prompt": "Tham gia một khóa học đào tạo kỹ năng mềm sẽ được cộng bao nhiêu điểm?",
+        "response": "2 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia một phòng thí nghiệm sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Tham gia đề tài nghiên cứu khoa học nhưng không thực hiện mà không có lý do chính đáng sẽ bị trừ bao nhiêu điểm?",
+        "response": "-5 điểm."
+    },
+    {
+        "prompt": "Tham gia một hoạt động nghiên cứu khoa học từ cấp Khoa/BM trở lên sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Điểm tối đa cho tiêu chí 'Hoạt động chính trị, xã hội, văn hóa' là bao nhiêu?",
+        "response": "20 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia cuộc thi học thuật, sáng tạo cấp ĐHQG-HCM sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia cuộc thi học thuật, sáng tạo cấp Khoa, BM sẽ được cộng bao nhiêu điểm?",
+        "response": "4 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia sinh hoạt chuyên đề trực tiếp sẽ được cộng bao nhiêu điểm?",
+        "response": "3 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia sinh hoạt chuyên đề trực tuyến sẽ được cộng bao nhiêu điểm?",
+        "response": "2 điểm."
+    },
+    {
+        "prompt": "Sinh viên có điểm GPA từ 70 đến dưới 80 sẽ được cộng bao nhiêu điểm?",
+        "response": "16 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia tổ chức theo quyết định thành lập BTC sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Nếu sinh viên không tham gia sinh hoạt Lớp/Khoa mà không xin phép trước, họ sẽ bị trừ bao nhiêu điểm?",
+        "response": "-5 điểm."
+    },
+    {
+        "prompt": "Sinh viên có điểm GPA từ 60 đến dưới 70 sẽ được cộng bao nhiêu điểm?",
+        "response": "14 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia các hoạt động học thuật và sáng tạo sẽ được cộng bao nhiêu điểm?",
+        "response": "10 điểm."
+    },
+    {
+        "prompt": "Nếu sinh viên tham gia các hoạt động văn hóa và văn nghệ, họ sẽ được cộng bao nhiêu điểm?",
+        "response": "5 điểm."
+    },
+    {
+        "prompt": "Sinh viên vi phạm các quy định trong và ngoài Nhà trường sẽ bị trừ bao nhiêu điểm?",
+        "response": "-5 điểm."
+    },
+    {
+        "prompt": "Điểm tối đa cho tiêu chí đánh giá về ý thức tham gia học tập là bao nhiêu?",
+        "response": "20 điểm."
+    },
+    {
+        "prompt": "Sinh viên không tham gia sinh hoạt Lớp/Khoa mà không xin phép trước sẽ bị trừ bao nhiêu điểm?",
+        "response": "-5 điểm."
+    },
+    {
+        "prompt": "Sinh viên tham gia sinh hoạt chuyên đề về học thuật sẽ được cộng bao nhiêu điểm?",
+        "response": "2 điểm."
+    },
+    {
+        "prompt": "Điểm tối đa cho tiêu chí đánh giá về ý thức tham gia học tập là bao nhiêu?",
+        "response": "20 điểm."
+    },
+    {
+        "prompt": "Tham gia các hoạt động của Nhà trường sẽ được cộng bao nhiêu điểm?",
+        "response": "25 điểm."
+    },
+    {
+        "prompt": "Điểm tối đa cho tiêu chí 'Tham gia các hoạt động văn hóa, văn nghệ' là bao nhiêu?",
+        "response": "20 điểm."
+    }
+]

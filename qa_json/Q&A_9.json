@@ -1,0 +1,222 @@
+[
+    {
+        "prompt": "Ai là người ban hành Quyết định về chế độ chính sách miễn, giảm học phí?",
+        "response": "Hiệu trưởng trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Quyết định này bắt đầu có hiệu lực từ khi nào?",
+        "response": "Học kỳ 1, năm học 2024–2025."
+    },
+    {
+        "prompt": "Đối tượng áp dụng của Quy định này là ai?",
+        "response": "Sinh viên đại học chính quy học văn bằng thứ nhất tại trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Mục đích của Quy định này là gì?",
+        "response": "Cụ thể hóa các chính sách miễn, giảm học phí, hỗ trợ chi phí học tập và hỗ trợ học tập cho sinh viên."
+    },
+    {
+        "prompt": "Các đối tượng nào được miễn, giảm học phí?",
+        "response": "Theo quy định tại Nghị định số 81/2021/NĐ-CP và các Nghị định khác có liên quan."
+    },
+    {
+        "prompt": "Sinh viên dân tộc thiểu số thuộc hộ nghèo hoặc cận nghèo sẽ được hỗ trợ học tập như thế nào?",
+        "response": "Hỗ trợ chi phí học tập bằng 60% mức lương cơ sở, không quá 10 tháng/năm học."
+    },
+    {
+        "prompt": "Quyết định này có quy định gì về sinh viên bỏ học?",
+        "response": "Sinh viên bỏ học không được nhận kinh phí hỗ trợ chi phí học tập từ thời điểm quyết định kỷ luật có hiệu lực."
+    },
+    {
+        "prompt": "Quy trình xét miễn, giảm học phí được thực hiện qua những bước nào?",
+        "response": "Sinh viên nộp hồ sơ, Phòng CTSV kiểm tra, đối chiếu và trình Ban Giám hiệu duyệt danh sách miễn, giảm."
+    },
+    {
+        "prompt": "Thời gian xét miễn, giảm học phí kéo dài bao lâu?",
+        "response": "Trong vòng 10 ngày làm việc sau khi nhận đủ hồ sơ hợp lệ."
+    },
+    {
+        "prompt": "Nguồn kinh phí miễn, giảm học phí được cấp từ đâu?",
+        "response": "Nhà nước cấp bù học phí trực tiếp cho nhà trường."
+    },
+    {
+        "prompt": "Sinh viên thuộc diện được hỗ trợ học tập cần nộp hồ sơ mấy lần trong năm học?",
+        "response": "01 lần vào đầu năm học."
+    },
+    {
+        "prompt": "Sinh viên thuộc diện hỗ trợ chi phí học tập cần làm gì nếu gia đình thoát nghèo?",
+        "response": "Nộp văn bản chứng nhận hộ thoát nghèo để dừng nhận chi trả từ học kỳ tiếp theo."
+    },
+    {
+        "prompt": "Sinh viên thuộc diện hỗ trợ nhưng không nộp hồ sơ đúng hạn thì có được giải quyết không?",
+        "response": "Không được nhận hỗ trợ chi phí học tập của học kỳ đó và không được truy lĩnh."
+    },
+    {
+        "prompt": "Đối tượng nào được hưởng mức hỗ trợ 100% lương cơ sở mỗi tháng?",
+        "response": "Sinh viên dân tộc thiểu số rất ít người."
+    },
+    {
+        "prompt": "Thời gian hỗ trợ học tập cho sinh viên dân tộc thiểu số rất ít người là bao lâu?",
+        "response": "12 tháng/năm hoặc theo thời gian học thực tế."
+    },
+    {
+        "prompt": "Sinh viên dân tộc thiểu số rất ít người học nhiều trường có được nhận hỗ trợ nhiều lần không?",
+        "response": "Không, chỉ được nhận hỗ trợ một lần."
+    },
+    {
+        "prompt": "Hồ sơ xin miễn, giảm học phí bao gồm những gì?",
+        "response": "Đơn đề nghị và các giấy tờ chứng minh thuộc đối tượng miễn, giảm."
+    },
+    {
+        "prompt": "Hồ sơ hỗ trợ chi phí học tập bao gồm những gì?",
+        "response": "Mẫu đơn đề nghị hỗ trợ và giấy tờ chứng minh hộ nghèo, cận nghèo."
+    },
+    {
+        "prompt": "Phòng CTSV thông báo hướng dẫn nộp hồ sơ miễn, giảm học phí vào thời điểm nào?",
+        "response": "Đầu mỗi học kỳ."
+    },
+    {
+        "prompt": "Khi nào sinh viên sẽ nhận được kết quả xét miễn, giảm học phí?",
+        "response": "Sau khi Phòng CTSV trình danh sách và Ban Giám hiệu duyệt."
+    },
+    {
+        "prompt": "Thời gian chi trả miễn, giảm học phí diễn ra trong bao nhiêu tháng/năm?",
+        "response": "10 tháng/năm (5 tháng/học kỳ)."
+    },
+    {
+        "prompt": "Quyết định này có áp dụng cho các khóa trước 2024 không?",
+        "response": "Không, chỉ áp dụng cho sinh viên từ khóa 2024 trở về sau."
+    },
+    {
+        "prompt": "Sinh viên bị kỷ luật buộc thôi học có được nhận kinh phí hỗ trợ không?",
+        "response": "Không, và phải dừng nhận hỗ trợ từ thời điểm quyết định có hiệu lực."
+    },
+    {
+        "prompt": "Sinh viên bị đình chỉ học tập có được nhận hỗ trợ không?",
+        "response": "Không, trừ trường hợp đình chỉ do lý do khách quan được xác nhận."
+    },
+    {
+        "prompt": "Quyết định này thay thế các quy định trước đây không?",
+        "response": "Có, các quy định trước đây trái với Quyết định này đều bị bãi bỏ."
+    },
+    {
+        "prompt": "Khi nào Quy định này có hiệu lực?",
+        "response": "Quy định này có hiệu lực kể từ ngày ký."
+    },
+    {
+        "prompt": "Quy định này thay thế cho các văn bản nào?",
+        "response": "Quy định này thay thế cho các văn bản quy định về chính sách miễn, giảm học phí, hỗ trợ học phí, hỗ trợ chi phí học tập, hỗ trợ học tập tại trường ĐHQT trước đây."
+    },
+    {
+        "prompt": "Ai chịu trách nhiệm tổ chức triển khai thực hiện Quy định này?",
+        "response": "Trưởng các đơn vị có trách nhiệm tổ chức triển khai thực hiện đầy đủ các nội dung tại Quy định này."
+    },
+    {
+        "prompt": "Phòng CTSV có vai trò gì trong việc thực hiện Quy định?",
+        "response": "Phòng CTSV phối hợp với các đơn vị liên quan tham mưu cho Ban Giám hiệu về việc điều chỉnh, bổ sung nội dung của Quy định này cho phù hợp với tình hình thực tế."
+    },
+    {
+        "prompt": "Quy định về chế độ miễn giảm học phí được ban hành kèm theo văn bản nào?",
+        "response": "Quy định này được ban hành kèm theo Quyết định số 668/QĐ-ĐHQT ngày 16 tháng 9 năm 2024 của Hiệu trưởng trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Đối tượng nào được miễn 100% học phí theo Quy định này?",
+        "response": "Các đối tượng được miễn 100% học phí bao gồm: người có công với cách mạng và thân nhân của họ, sinh viên khuyết tật, người mồ côi không có nguồn nuôi dưỡng, sinh viên dân tộc thiểu số thuộc hộ nghèo hoặc cận nghèo, và sinh viên dân tộc thiểu số rất ít người ở vùng khó khăn."
+    },
+    {
+        "prompt": "Đối tượng nào được giảm 70% học phí?",
+        "response": "Sinh viên dân tộc thiểu số ở thôn bản đặc biệt khó khăn, khu vực III, vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo được giảm 70% học phí."
+    },
+    {
+        "prompt": "Đối tượng nào được giảm 50% học phí?",
+        "response": "Sinh viên là con cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên được giảm 50% học phí."
+    },
+    {
+        "prompt": "Đối tượng sinh viên khuyết tật cần cung cấp giấy tờ gì để được miễn học phí?",
+        "response": "Sinh viên khuyết tật cần cung cấp Giấy chứng nhận của Hội đồng thẩm định y khoa cấp có thẩm quyền và Quyết định về việc trợ cấp xã hội."
+    },
+    {
+        "prompt": "Sinh viên mồ côi cần nộp giấy tờ gì để được miễn học phí?",
+        "response": "Sinh viên mồ côi cần nộp bản sao giấy khai sinh và bản sao giấy chứng tử của cha và mẹ."
+    },
+    {
+        "prompt": "Sinh viên dân tộc thiểu số thuộc hộ nghèo cần giấy tờ gì?",
+        "response": "Sinh viên cần nộp bản sao giấy khai sinh, bản sao sổ hộ nghèo hoặc cận nghèo, và giấy xác nhận thông tin cư trú (mẫu CT07)."
+    },
+    {
+        "prompt": "Giấy tờ nào cần thiết để xác nhận đối tượng là thân nhân người có công với cách mạng?",
+        "response": "Cần có bản sao giấy khai sinh, giấy chứng nhận thân nhân người có công với cách mạng, và giấy chứng nhận của Phòng LĐTBXH hoặc Quyết định cấp sổ ưu đãi giáo dục."
+    },
+    {
+        "prompt": "Sinh viên thuộc diện miễn giảm học phí chỉ cần nộp hồ sơ bao nhiêu lần?",
+        "response": "Sinh viên thuộc diện miễn giảm học phí chỉ cần nộp một lần cho cả thời gian học tập."
+    },
+    {
+        "prompt": "Trường hợp sinh viên nộp hồ sơ miễn giảm học phí trễ thì được giải quyết như thế nào?",
+        "response": "Hồ sơ sẽ được nhận và giải quyết ở học kỳ sau và không được truy lĩnh cho học kỳ trước đó."
+    },
+    {
+        "prompt": "Sinh viên được miễn giảm học phí nhưng học nhiều trường thì sẽ áp dụng chính sách như thế nào?",
+        "response": "Sinh viên chỉ được hưởng chế độ ưu đãi miễn giảm học phí tại một trường duy nhất."
+    },
+    {
+        "prompt": "Sinh viên bị kỷ luật ngừng học có được miễn giảm học phí không?",
+        "response": "Sinh viên bị kỷ luật ngừng học không được hưởng chế độ miễn giảm học phí."
+    },
+    {
+        "prompt": "Hồ sơ của sinh viên dân tộc thiểu số rất ít người cần có gì?",
+        "response": "Cần bản sao giấy khai sinh và giấy xác nhận thông tin cư trú (mẫu CT07)."
+    },
+    {
+        "prompt": "Sinh viên thuộc diện miễn giảm học phí có được nhận đồng thời nhiều chính sách hỗ trợ không?",
+        "response": "Sinh viên chỉ được nhận một chế độ ưu đãi cao nhất."
+    },
+    {
+        "prompt": "Chính sách miễn giảm học phí áp dụng cho sinh viên học cao học không?",
+        "response": "Chính sách này không áp dụng cho sinh viên học cao học."
+    },
+    {
+        "prompt": "Đối tượng được miễn giảm học phí sẽ áp dụng theo pháp lệnh nào?",
+        "response": "Áp dụng theo pháp lệnh ưu đãi người có công với cách mạng số 02/2020/UBTVQH14 hoặc các pháp lệnh khác sửa đổi, bổ sung."
+    },
+    {
+        "prompt": "Điều kiện để được hỗ trợ học phí cho sinh viên mồ côi cha hoặc mẹ là gì?",
+        "response": "Sinh viên cần nộp bản sao giấy khai sinh và bản sao giấy chứng tử của cha hoặc mẹ."
+    },
+    {
+        "prompt": "Mức hỗ trợ học phí cho sinh viên có anh chị em ruột học tại trường là bao nhiêu?",
+        "response": "Mức hỗ trợ là 10% học phí."
+    },
+    {
+        "prompt": "Hồ sơ cần nộp để sinh viên được hỗ trợ học phí khi có anh chị em ruột cùng học tại trường?",
+        "response": "Giấy xác nhận thông tin cư trú (mẫu CT07) và bản sao giấy khai sinh của cả hai anh chị em ruột."
+    },
+    {
+        "prompt": "Mức hỗ trợ học phí cho sinh viên là con cán bộ viên chức đang làm việc trong trường?",
+        "response": "Mức hỗ trợ từ 20% đến 30%, tùy theo quy chế chi tiêu nội bộ hàng năm của nhà trường."
+    },
+    {
+        "prompt": "Hồ sơ cần thiết để sinh viên là con cán bộ viên chức được hỗ trợ học phí là gì?",
+        "response": "Bản sao giấy khai sinh và giấy xác nhận thời gian công tác của Phòng Tổ chức Cán bộ trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Sinh viên có thể nhận hỗ trợ học phí cho bao nhiêu học kỳ trong năm học?",
+        "response": "Sinh viên được hỗ trợ học phí cho 2 học kỳ chính (học kỳ 1 và học kỳ 2)."
+    },
+    {
+        "prompt": "Sinh viên được hưởng nhiều chính sách hỗ trợ học phí cùng lúc sẽ được tính như thế nào?",
+        "response": "Sinh viên chỉ được hưởng một chế độ ưu đãi cao nhất."
+    },
+    {
+        "prompt": "Sinh viên bị kỷ luật ngừng học có được nhận hỗ trợ học phí không?",
+        "response": "Không, sinh viên bị kỷ luật ngừng học hoặc buộc thôi học sẽ không được áp dụng chế độ hỗ trợ học phí."
+    },
+    {
+        "prompt": "Sinh viên thuộc diện anh chị em ruột cần thực hiện điều gì để được hỗ trợ học phí?",
+        "response": "Cần thông báo với Phòng CTSV để cập nhật mã số sinh viên và chương trình đào tạo của cả hai anh chị em ruột."
+    },
+    {
+        "prompt": "Hồ sơ nộp trễ hạn có được giải quyết hỗ trợ học phí không?",
+        "response": "Hồ sơ nộp trễ hạn sẽ được giải quyết ở học kỳ sau và không được truy lĩnh cho học kỳ trước đó."
+    }
+]

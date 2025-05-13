@@ -1,0 +1,222 @@
+[
+    {
+        "prompt": "Điều gì quy định công tác khen thưởng sinh viên tại trường Đại học Quốc tế?",
+        "response": "Công tác khen thưởng sinh viên tại trường Đại học Quốc tế được quy định trong Quyết định số 808/QĐ-ĐHQT ngày 30 tháng 10 năm 2024 của Hiệu trưởng."
+    },
+    {
+        "prompt": "Quyết định khen thưởng sinh viên tại trường Đại học Quốc tế có hiệu lực từ khi nào?",
+        "response": "Quyết định này có hiệu lực kể từ ngày ký."
+    },
+    {
+        "prompt": "Điều gì sẽ không còn hiệu lực sau khi ban hành Quyết định này?",
+        "response": "Các Quyết định trước đây trái với Quyết định này đều không còn hiệu lực."
+    },
+    {
+        "prompt": "Quy định công tác khen thưởng sinh viên áp dụng cho đối tượng nào?",
+        "response": "Quy định này áp dụng cho sinh viên trình độ đại học hệ chính quy và sinh viên trình độ đại học hệ liên kết đang theo học tại trường Đại học Quốc tế."
+    },
+    {
+        "prompt": "Mục đích của công tác khen thưởng sinh viên là gì?",
+        "response": "Mục đích là tôn vinh, động viên và khuyến khích các tập thể, cá nhân đạt thành tích xuất sắc."
+    },
+    {
+        "prompt": "Nguyên tắc của công tác khen thưởng sinh viên bao gồm những gì?",
+        "response": "Nguyên tắc bao gồm chính xác, kịp thời, khách quan, công bằng, công khai, minh bạch và đúng quy định."
+    },
+    {
+        "prompt": "Có xét khen thưởng đối với sinh viên vi phạm kỷ luật không?",
+        "response": "Không, không xét khen thưởng đối với sinh viên vi phạm kỷ luật từ mức khiển trách trở lên trong năm học."
+    },
+    {
+        "prompt": "Sinh viên có điểm kết thúc học phần dưới mức trung bình có được khen thưởng không?",
+        "response": "Không, sinh viên có điểm kết thúc học phần dưới mức trung bình sẽ không được khen thưởng."
+    },
+    {
+        "prompt": "Sinh viên đang bảo lưu có được khen thưởng không?",
+        "response": "Không, sinh viên bảo lưu không được xét khen thưởng."
+    },
+    {
+        "prompt": "Sinh viên đã có quyết định thôi học có được khen thưởng không?",
+        "response": "Không, sinh viên đã có quyết định thôi học sẽ không được khen thưởng."
+    },
+    {
+        "prompt": "Điều kiện xét danh hiệu Sinh viên Xuất sắc là gì?",
+        "response": "Sinh viên cần đạt xếp loại học tập Xuất sắc và điểm rèn luyện trung bình Xuất sắc trong cả năm học."
+    },
+    {
+        "prompt": "Sinh viên đạt danh hiệu Sinh viên Giỏi cần có những điều kiện nào?",
+        "response": "Sinh viên cần đạt xếp loại học tập Giỏi trở lên và điểm rèn luyện trung bình loại Tốt trở lên."
+    },
+    {
+        "prompt": "Sinh viên trong danh sách chờ xét tốt nghiệp có được khen thưởng không?",
+        "response": "Có, sinh viên trong danh sách chờ xét tốt nghiệp sẽ được khen thưởng theo Quy định xét khen thưởng Tốt nghiệp."
+    },
+    {
+        "prompt": "Sinh viên có thành tích nghiên cứu khoa học được khen thưởng như thế nào?",
+        "response": "Sinh viên là tác giả đứng đầu hoặc tác giả liên hệ của bài báo đăng trên các tạp chí quốc tế uy tín hoặc đạt giải trong các hội nghị nghiên cứu khoa học được khen thưởng."
+    },
+    {
+        "prompt": "Sinh viên đạt giải trong các cuộc thi học thuật được khen thưởng không?",
+        "response": "Có, sinh viên đạt giải Nhất, Nhì, Ba trong các cuộc thi học thuật cấp Quốc gia hoặc Quốc tế sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Hình thức khen thưởng đối với sinh viên có thành tích xuất sắc trong hoạt động sinh viên là gì?",
+        "response": "Tập thể, cá nhân sinh viên đạt thành tích sẽ được tặng Giấy khen của Hiệu trưởng và mức khen thưởng theo quy định."
+    },
+    {
+        "prompt": "Cơ cấu Hội đồng khen thưởng sinh viên cấp Trường bao gồm những ai?",
+        "response": "Hội đồng bao gồm Hiệu trưởng, Trưởng phòng Công tác Sinh viên, các đại diện các Khoa, Bộ môn, và các đại diện khác."
+    },
+    {
+        "prompt": "Hội đồng khen thưởng sinh viên cấp Trường họp khi nào?",
+        "response": "Hội đồng khen thưởng họp định kỳ mỗi năm một lần vào tháng 11 và có thể họp bất thường khi cần thiết."
+    },
+    {
+        "prompt": "Hội đồng khen thưởng có bao nhiêu thành viên?",
+        "response": "Số lượng thành viên của Hội đồng phụ thuộc vào thành phần, khuyến nghị là số lẻ."
+    },
+    {
+        "prompt": "Ai có thể tham gia góp ý trong cuộc họp của Hội đồng khen thưởng?",
+        "response": "Lớp trưởng hoặc Bí thư chi đoàn, và cố vấn học tập của lớp có sinh viên được khen thưởng có thể tham gia góp ý."
+    },
+    {
+        "prompt": "Hội đồng khen thưởng sinh viên có thể quyết định mức khen thưởng như thế nào?",
+        "response": "Kết luận của Hội đồng phải được sự nhất trí của trên 50% thành viên Hội đồng."
+    },
+    {
+        "prompt": "Sinh viên tham gia các hoạt động xã hội có thể được khen thưởng không?",
+        "response": "Có, sinh viên có thành tích xuất sắc trong các hoạt động xã hội, như bảo vệ an ninh tổ quốc, sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Các giải thưởng trong các cuộc thi văn hóa, thể thao cấp Quốc gia có ảnh hưởng đến việc khen thưởng sinh viên không?",
+        "response": "Có, sinh viên đạt giải Nhất, Nhì, Ba trong các cuộc thi văn hóa, thể thao cấp Quốc gia hoặc Quốc tế sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Sinh viên đạt giải trong các cuộc thi cấp Đại học Quốc gia có được khen thưởng không?",
+        "response": "Có, sinh viên đạt giải Nhất trong các cuộc thi cấp Đại học Quốc gia hoặc cấp tỉnh/thành phố sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Sinh viên 5 Tốt cấp ĐHQG-HCM có được khen thưởng không?",
+        "response": "Có, sinh viên đạt danh hiệu 5 Tốt cấp ĐHQG-HCM sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Sinh viên 5 Tốt cấp Trường có được khen thưởng không?",
+        "response": "Có, sinh viên đạt danh hiệu 5 Tốt cấp Trường trong 03 năm liên tiếp sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Hình thức khen thưởng đối với sinh viên có thành tích đặc biệt khác là gì?",
+        "response": "Sinh viên có thành tích đặc biệt khác có thể được khen thưởng bằng các hình thức như Giấy khen hoặc các bằng khen từ cơ quan có thẩm quyền."
+    },
+    {
+        "prompt": "Sinh viên có thành tích xuất sắc trong các hoạt động Đoàn Thanh niên, Hội Sinh viên có được khen thưởng không?",
+        "response": "Có, sinh viên có thành tích xuất sắc trong các hoạt động Đoàn Thanh niên, Hội Sinh viên từ cấp Trường trở lên sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Các thành viên của Hội đồng khen thưởng có quyền thay đổi quy định về khen thưởng sinh viên không?",
+        "response": "Có, Hội đồng có thể đề xuất bổ sung hoặc thay thế các quy định về khen thưởng sinh viên."
+    },
+    {
+        "prompt": "Sinh viên tham gia phong trào toàn dân bảo vệ an ninh tổ quốc có được khen thưởng không?",
+        "response": "Có, sinh viên tham gia phong trào bảo vệ an ninh tổ quốc và các hoạt động xã hội có thể được khen thưởng."
+    },
+    {
+        "prompt": "Điều kiện để sinh viên được xét danh hiệu Sinh viên Giỏi là gì?",
+        "response": "Sinh viên phải đạt xếp loại học tập Giỏi và điểm rèn luyện trung bình loại Tốt trở lên trong năm học."
+    },
+    {
+        "prompt": "Sinh viên có thành tích xuất sắc trong các cuộc thi khoa học kỹ thuật gắn có được khen thưởng không?",
+        "response": "Có, sinh viên đạt giải trong các cuộc thi khoa học kỹ thuật cấp Quốc gia hoặc Quốc tế sẽ được khen thưởng."
+    },
+    {
+        "prompt": "Quy định về khen thưởng sinh viên có sự thay đổi nào sau khi Quyết định 808/QĐ-ĐHQT được ban hành?",
+        "response": "Các Quyết định trước đây trái với Quyết định này sẽ không còn hiệu lực."
+    },
+    {
+        "prompt": "Vào thời gian nào Phòng Đào tạo Đại học cung cấp danh sách sinh viên để xét khen thưởng?",
+        "response": "Vào đầu tháng 11 hàng năm."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên chịu trách nhiệm gì trong quy trình xét khen thưởng?",
+        "response": "Phòng Công tác Sinh viên chịu trách nhiệm tổng hợp và đề xuất danh sách sinh viên đạt tiêu chuẩn khen thưởng."
+    },
+    {
+        "prompt": "Hội đồng Khen thưởng Sinh viên cấp Trường thực hiện công việc gì trong quy trình xét khen thưởng?",
+        "response": "Hội đồng Khen thưởng Sinh viên cấp Trường tổ chức họp, xem xét, biểu quyết và đề nghị Hiệu trưởng công nhận danh hiệu đối với cá nhân và tập thể sinh viên."
+    },
+    {
+        "prompt": "Khi nào các khoa/bộ môn thông báo cho các lớp sinh viên về việc đăng ký xét khen thưởng?",
+        "response": "Vào đầu tháng 09 hàng năm."
+    },
+    {
+        "prompt": "Hồ sơ đề nghị khen thưởng phải đính kèm những tài liệu gì?",
+        "response": "Hồ sơ đề nghị khen thưởng phải đính kèm báo cáo thành tích có xác nhận của cố vấn học tập hoặc giảng viên hướng dẫn và các minh chứng hoặc xác nhận thành tích."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên đề xuất danh sách khen thưởng của cá nhân và tập thể ở đâu?",
+        "response": "Phòng Công tác Sinh viên đề xuất danh sách khen thưởng lên Hội đồng Khen thưởng Sinh viên cấp Trường."
+    },
+    {
+        "prompt": "Đối với những thành tích đặc biệt, ai chịu trách nhiệm đề xuất khen thưởng lên Hội đồng Khen thưởng Sinh viên cấp Trường?",
+        "response": "Phòng Công tác Sinh viên chịu trách nhiệm đề xuất khen thưởng đối với các cá nhân, tập thể có thành tích đặc biệt."
+    },
+    {
+        "prompt": "Quyết định công nhận danh hiệu khen thưởng được đề nghị bởi ai?",
+        "response": "Quyết định công nhận danh hiệu khen thưởng được đề nghị bởi Hội đồng Khen thưởng Sinh viên cấp Trường."
+    },
+    {
+        "prompt": "Hồ sơ khen thưởng bao gồm những văn bản gì?",
+        "response": "Hồ sơ khen thưởng bao gồm văn bản đề xuất khen thưởng của Phòng Công tác Sinh viên và danh sách đề nghị công nhận danh hiệu khen thưởng."
+    },
+    {
+        "prompt": "Phòng Công tác Sinh viên cần cung cấp những minh chứng nào để đề xuất khen thưởng?",
+        "response": "Phòng Công tác Sinh viên cần cung cấp minh chứng hoặc xác nhận thành tích để đề xuất khen thưởng."
+    },
+    {
+        "prompt": "Để khen thưởng thành tích nghiên cứu khoa học, hồ sơ cần có những gì?",
+        "response": "Hồ sơ cần có báo cáo thành tích có xác nhận của cố vấn học tập hoặc giảng viên hướng dẫn và các minh chứng hoặc xác nhận thành tích."
+    },
+    {
+        "prompt": "Những cá nhân và tập thể nào được đề xuất khen thưởng theo quy định của Điều 7?",
+        "response": "Các cá nhân và tập thể có thành tích đặc biệt trong các hoạt động nghiên cứu khoa học, thể dục, thể thao, văn hóa, văn nghệ và các cuộc thi học thuật được đề xuất khen thưởng."
+    },
+    {
+        "prompt": "Cá nhân hoặc tập thể có quyền khiếu nại về khen thưởng ở đâu?",
+        "response": "Cá nhân hoặc tập thể có thể nộp đơn khiếu nại cho Hội đồng Khen thưởng Sinh viên thông qua Phòng Công tác Sinh viên."
+    },
+    {
+        "prompt": "Khi nào một cá nhân hoặc tập thể có thể khiếu nại lên cấp có thẩm quyền cao hơn?",
+        "response": "Khi Hội đồng Khen thưởng Sinh viên cấp Trường đã xem xét lại mà cá nhân và tập thể vẫn chưa thỏa đáng."
+    },
+    {
+        "prompt": "Quy định khen thưởng có hiệu lực thi hành từ khi nào?",
+        "response": "Quy định này có hiệu lực thi hành kể từ ngày ký Quyết định ban hành."
+    },
+    {
+        "prompt": "Điều gì sẽ xảy ra nếu có sự sửa đổi, bổ sung quy định khen thưởng?",
+        "response": "Việc sửa đổi, bổ sung Quy định này do Hội đồng Khen thưởng Sinh viên xem xét và đề xuất Hiệu trưởng ra Quyết định."
+    },
+    {
+        "prompt": "Ai có trách nhiệm thông báo và tiếp nhận thông tin khen thưởng?",
+        "response": "Phòng Công tác Sinh viên có trách nhiệm thông báo và tiếp nhận thông tin khen thưởng."
+    },
+    {
+        "prompt": "Ai là người giải ngân kinh phí thực hiện công tác khen thưởng sinh viên?",
+        "response": "Phòng Kế hoạch Tài chính giải ngân kinh phí thực hiện công tác khen thưởng sinh viên."
+    },
+    {
+        "prompt": "Phòng nào có trách nhiệm cung cấp các dữ liệu và thông tin cần thiết về khen thưởng?",
+        "response": "Phòng Đào tạo Đại học, Phòng Quản lý Khoa học, Đoàn Thanh Niên, Hội Sinh viên, Trung tâm Đổi mới Sáng tạo và Chuyển giao Công nghệ, Phòng Quan hệ Đối ngoại, Phòng Bảo đảm Chất lượng Giáo dục và Khảo thí cung cấp các dữ liệu và thông tin cần thiết."
+    },
+    {
+        "prompt": "Phòng nào thực hiện báo cáo, thống kê định kỳ về công tác khen thưởng?",
+        "response": "Phòng Công tác Sinh viên và Phòng Kế hoạch Tài chính thực hiện báo cáo, thống kê định kỳ về công tác khen thưởng."
+    },
+    {
+        "prompt": "Khi nào các Khoa, Bộ môn cần gửi danh sách đề cử khen thưởng lên Hội đồng Khen thưởng Sinh viên cấp Trường?",
+        "response": "Các Khoa, Bộ môn cần gửi danh sách đề cử khen thưởng lên Hội đồng Khen thưởng Sinh viên cấp Trường vào đầu tháng 11 hàng năm."
+    },
+    {
+        "prompt": "Các cá nhân hoặc tập thể có thành tích xuất sắc trong các cuộc thi học thuật sẽ được khen thưởng như thế nào?",
+        "response": "Các cá nhân hoặc tập thể có thành tích xuất sắc trong các cuộc thi học thuật sẽ được khen thưởng thông qua đề xuất của Phòng Công tác Sinh viên."
+    }
+]
