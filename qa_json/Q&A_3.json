@@ -1,0 +1,122 @@
+[
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên đi học muộn lần thứ 2?",
+            "response": "Sinh viên đi học muộn lần thứ 2 sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hậu quả của việc nghỉ học không có lý do trong 01 học kỳ là gì?",
+            "response": "Sinh viên nghỉ học không có lý do trong 01 học kỳ sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên có số lần cảnh báo học tập vượt quá 02 lần liên tiếp?",
+            "response": "Sinh viên có số lần cảnh báo học tập vượt quá 02 lần liên tiếp sẽ bị buộc thôi học."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên có thời gian học tập vượt quá 02 lần thời gian theo chương trình đào tạo là gì?",
+            "response": "Sinh viên có thời gian học tập vượt quá 02 lần thời gian theo chương trình đào tạo sẽ bị buộc thôi học."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên làm việc riêng trong giờ học lần thứ 3?",
+            "response": "Sinh viên làm việc riêng trong giờ học lần thứ 3 sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên đi học thay người khác hoặc nhờ người khác đi học thay lần đầu tiên là gì?",
+            "response": "Sinh viên đi học thay người khác hoặc nhờ người khác đi học thay lần đầu tiên sẽ bị đình chỉ học tập."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên tổ chức học, thi, kiểm tra thay?",
+            "response": "Sinh viên tổ chức học, thi, kiểm tra thay sẽ bị buộc thôi học và có thể bị giao cho cơ quan chức năng điều tra xử lý theo quy định của pháp luật."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên sử dụng hồ sơ, văn bằng, chứng chỉ giả để trúng tuyển là gì?",
+            "response": "Sinh viên sử dụng hồ sơ, văn bằng, chứng chỉ giả để trúng tuyển sẽ bị buộc thôi học."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên uống rượu, bia trong giờ học lần đầu tiên?",
+            "response": "Sinh viên uống rượu, bia trong giờ học lần đầu tiên sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên hút thuốc lá trong khuôn viên nhà trường lần thứ 2 là gì?",
+            "response": "Sinh viên hút thuốc lá trong khuôn viên nhà trường lần thứ 2 sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên đánh bạc trong khuôn viên nhà trường lần đầu tiên?",
+            "response": "Sinh viên đánh bạc trong khuôn viên nhà trường lần đầu tiên sẽ bị khiển trách và có thể bị giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên tàng trữ, lưu hành sản phẩm văn hoá đồi trụy lần đầu tiên là gì?",
+            "response": "Sinh viên tàng trữ, lưu hành sản phẩm văn hoá đồi trụy lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên buôn bán, vận chuyển ma tuý?",
+            "response": "Sinh viên buôn bán, vận chuyển ma tuý sẽ bị buộc thôi học và bị giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên đánh nhau trong khuôn viên trường lần đầu tiên là gì?",
+            "response": "Sinh viên đánh nhau trong khuôn viên trường lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên vi phạm an toàn giao thông lần đầu tiên?",
+            "response": "Sinh viên vi phạm an toàn giao thông lần đầu tiên sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên vi phạm an toàn giao thông lần đầu tiên là gì?",
+            "response": "Sinh viên vi phạm an toàn giao thông lần đầu tiên sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên giả mạo chữ ký của người khác lần đầu tiên?",
+            "response": "Sinh viên giả mạo chữ ký của người khác lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên đưa người lạ vào trường không xin phép lần đầu tiên là gì?",
+            "response": "Sinh viên đưa người lạ vào trường không xin phép lần đầu tiên sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên giả mạo thẻ CMND, thẻ SV của người khác lần đầu tiên?",
+            "response": "Sinh viên giả mạo thẻ CMND, thẻ SV của người khác lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên nhặt được của rơi không trả lại người bị mất là gì?",
+            "response": "Tùy theo giá trị tài sản, sinh viên có thể bị xử lý từ khiển trách đến buộc thôi học hoặc bị giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên mặc trang phục hở hang, lộ liễu lần thứ 2?",
+            "response": "Sinh viên mặc trang phục hở hang, lộ liễu lần thứ 2 sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên có những hành động cử chỉ tình cảm vượt quá giới hạn trong khuôn viên nhà trường lần đầu tiên là gì?",
+            "response": "Sinh viên có những hành động cử chỉ tình cảm vượt quá giới hạn trong khuôn viên nhà trường lần đầu tiên sẽ được nhắc nhở."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên vay, cho vay tín dụng đen lần đầu tiên?",
+            "response": "Sinh viên vay, cho vay tín dụng đen lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên tham gia hoạt động đa cấp bất chính lần đầu tiên là gì?",
+            "response": "Sinh viên tham gia hoạt động đa cấp bất chính lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên tham gia biểu tình, tụ tập đông người trái quy định lần đầu tiên?",
+            "response": "Sinh viên tham gia biểu tình, tụ tập đông người trái quy định lần đầu tiên sẽ bị khiển trách."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên đăng tải bài viết có nội dung xúc phạm uy tín của tổ chức lần đầu tiên là gì?",
+            "response": "Sinh viên đăng tải bài viết có nội dung xúc phạm uy tín của tổ chức lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên quấy rối, xúc phạm nhân phẩm người khác lần đầu tiên?",
+            "response": "Sinh viên quấy rối, xúc phạm nhân phẩm người khác lần đầu tiên sẽ bị đình chỉ học tập."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên cố tình quay phim, ghi âm khi không có sự đồng thuận của người khác lần đầu tiên là gì?",
+            "response": "Sinh viên cố tình quay phim, ghi âm khi không có sự đồng thuận của người khác lần đầu tiên sẽ bị cảnh cáo."
+        },
+        {
+            "prompt": "Hình thức xử lý kỷ luật nào được áp dụng cho sinh viên chứa chấp, môi giới hoạt động mại dâm?",
+            "response": "Sinh viên chứa chấp, môi giới hoạt động mại dâm sẽ bị buộc thôi học và bị giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+        },
+        {
+            "prompt": "Hậu quả của việc sinh viên lấy cắp tài sản lần đầu tiên là gì?",
+            "response": "Sinh viên lấy cắp tài sản lần đầu tiên sẽ bị cảnh cáo."
+        }
+]

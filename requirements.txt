@@ -1,0 +1,13 @@
+transformers==4.39.3
+datasets==2.19.0
+peft==0.10.0
+accelerate==0.27.2
+trl==0.7.10
+bitsandbytes==0.43.1
+sentencepiece
+protobuf
+torch==2.1.0
+einops
+scipy
+# Optional for Composer (only if you're using Composer instead of HF)
+composer==0.17.0  # Official MosaicML training engine
