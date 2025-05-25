@@ -979,31 +979,31 @@
     "qa_pairs": [
       {
         "prompt": "Nội quy này được ban hành nhằm mục đích gì?",
-        "response": "Để đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc gia TP.HCM. [cite: 1-2]"
+        "response": "Để đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc gia TP.HCM. "
       },
       {
         "prompt": "Nội quy này được ban hành theo quyết định nào?",
-        "response": "Ban hành theo Quyết định số 276/QĐ-ĐHQT/ĐT ngày 10/9/2008 của Hiệu trưởng Trường Đại học Quốc tế Tp.HCM. [cite: 3-4]"
+        "response": "Ban hành theo Quyết định số 276/QĐ-ĐHQT/ĐT ngày 10/9/2008 của Hiệu trưởng Trường Đại học Quốc tế Tp.HCM. "
       },
       {
         "prompt": "Quy định về việc lên lớp và trang phục của sinh viên là gì?",
-        "response": "Phải lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh lịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường bằng Tiếng Anh. [cite: 5-7]"
+        "response": "Phải lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh lịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường bằng Tiếng Anh."
       },
       {
         "prompt": "Quy định về thái độ với thầy cô và bạn bè là gì?",
-        "response": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa đồng và sẵn sàng giúp đỡ bạn bè. [cite: 8-9]"
+        "response": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa đồng và sẵn sàng giúp đỡ bạn bè."
       },
       {
         "prompt": "Quy định về việc đi xe buýt là gì?",
-        "response": "Cần xếp hàng thứ tự trước sau khi lên xe, giữ gìn vệ sinh, văn minh lịch sự và trật tự trên xe buýt. [cite: 10-11]"
+        "response": "Cần xếp hàng thứ tự trước sau khi lên xe, giữ gìn vệ sinh, văn minh lịch sự và trật tự trên xe buýt."
       },
       {
         "prompt": "Quy định về vệ sinh và sử dụng phòng học là gì?",
-        "response": "Phải giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không được mang hoặc sử dụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm. [cite: 12-13]"
+        "response": "Phải giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không được mang hoặc sử dụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm."
       },
       {
         "prompt": "Quy định về việc nghỉ trưa là gì?",
-        "response": "Không được nằm ở khu vực hành lang, trên lối đi. Được nghỉ trưa tại phòng học từ 11 giờ 30 đến 12 giờ 30. [cite: 14-15]"
+        "response": "Không được nằm ở khu vực hành lang, trên lối đi. Được nghỉ trưa tại phòng học từ 11 giờ 30 đến 12 giờ 30. "
       },
       {
         "prompt": "Quy định về an ninh trật tự trong khuôn viên trường là gì?",
@@ -1035,15 +1035,15 @@
       },
       {
         "prompt": "Quy định về các hoạt động bị cấm là gì?",
-        "response": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép. [cite: 32-33]"
+        "response": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép. "
       },
       {
         "prompt": "Quy định về việc sản xuất, buôn bán và sử dụng các chất cấm là gì?",
-        "response": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất gây cháy nổ, chất ma túy, hàng cấm; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet. [cite: 34-35]"
+        "response": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất gây cháy nổ, chất ma túy, hàng cấm; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet."
       },
       {
         "prompt": "Quy định về các hoạt động tôn giáo và mê tín dị đoan là gì?",
-        "response": "Nghiêm cấm tổ chức, tham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn giáo trong nhà trường và các hoạt động vi phạm đạo đức khác. [cite: 36-37]"
+        "response": "Nghiêm cấm tổ chức, tham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn giáo trong nhà trường và các hoạt động vi phạm đạo đức khác."
       },
       {
         "prompt": "Hiệu lực thi hành của nội quy này là gì?",
@@ -1081,99 +1081,99 @@
   },
   {
     "prompt": "Quy tắc này quy định về vấn đề gì?",
-    "response": "Quy tắc này quy định các chuẩn mực ứng xử phù hợp với văn hóa, đạo đức, quy định của Pháp luật và Trường Đại học Quốc tế. [cite: 1-2]"
+    "response": "Quy tắc này quy định các chuẩn mực ứng xử phù hợp với văn hóa, đạo đức, quy định của Pháp luật và Trường Đại học Quốc tế."
   },
   {
     "prompt": "Quy tắc này áp dụng cho những đối tượng nào?",
-    "response": "Quy tắc này áp dụng cho người học đang học tập tại trường Đại học Quốc tế - Đại học Quốc gia thành phố Hồ Chí Minh. [cite: 3-4]"
+    "response": "Quy tắc này áp dụng cho người học đang học tập tại trường Đại học Quốc tế - Đại học Quốc gia thành phố Hồ Chí Minh."
   },
   {
     "prompt": "Mục đích của Quy tắc ứng xử là gì?",
-    "response": "Mục đích bao gồm: quy định các chuẩn mực ứng xử để xây dựng tính kỷ cương, nề nếp và môi trường văn hóa trong nhà trường; giúp người học nâng cao ý thức bản thân, trách nhiệm với cộng đồng; xây dựng môi trường học tập lành mạnh, thân thiện; làm cơ sở để giám sát, đánh giá và xử lý vi phạm. [cite: 5-8]"
+    "response": "Mục đích bao gồm: quy định các chuẩn mực ứng xử để xây dựng tính kỷ cương, nề nếp và môi trường văn hóa trong nhà trường; giúp người học nâng cao ý thức bản thân, trách nhiệm với cộng đồng; xây dựng môi trường học tập lành mạnh, thân thiện; làm cơ sở để giám sát, đánh giá và xử lý vi phạm."
   },
   {
     "prompt": "Các nguyên tắc xây dựng Quy tắc ứng xử là gì?",
-    "response": "Bao gồm: tuân thủ pháp luật và phù hợp với chuẩn mực đạo đức, thuần phong mỹ tục; tăng cường xây dựng văn hóa ứng xử trong trường học; dễ hiểu, dễ thực hiện; việc xây dựng, sửa đổi phải được thảo luận dân chủ, đồng thuận. [cite: 9-12]"
+    "response": "Bao gồm: tuân thủ pháp luật và phù hợp với chuẩn mực đạo đức, thuần phong mỹ tục; tăng cường xây dựng văn hóa ứng xử trong trường học; dễ hiểu, dễ thực hiện; việc xây dựng, sửa đổi phải được thảo luận dân chủ, đồng thuận."
   },
   {
     "prompt": "Các quy tắc ứng xử chung của người học là gì?",
-    "response": "Bao gồm: thực hiện nghiêm túc các quy định pháp luật; chấp hành chủ trương, chính sách của Đảng; thực hiện đầy đủ các quy định, nội quy đào tạo; chấp hành Luật Nghĩa vụ quân sự; có ý thức xây dựng, bảo vệ truyền thống nhà trường; đóng học phí đầy đủ; hưởng ứng các hoạt động của nhà trường. [cite: 13-19]"
+    "response": "Bao gồm: thực hiện nghiêm túc các quy định pháp luật; chấp hành chủ trương, chính sách của Đảng; thực hiện đầy đủ các quy định, nội quy đào tạo; chấp hành Luật Nghĩa vụ quân sự; có ý thức xây dựng, bảo vệ truyền thống nhà trường; đóng học phí đầy đủ; hưởng ứng các hoạt động của nhà trường."
   },
   {
     "prompt": "Những hành vi nào bị nghiêm cấm trong quy tắc ứng xử chung?",
-    "response": "Bao gồm: thành lập, tham gia các hoạt động chính trị trái pháp luật; tổ chức, tham gia các hoạt động tập thể khi chưa được cho phép; hút thuốc, sử dụng đồ uống có cồn, chất cấm trong cơ sở giáo dục; sử dụng mạng xã hội để phát tán thông tin trái thuần phong mỹ tục; gian lận, dối trá, vu khống, gây hiềm khích; gây ồn ào, mất trật tự. [cite: 20-25]"
+    "response": "Bao gồm: thành lập, tham gia các hoạt động chính trị trái pháp luật; tổ chức, tham gia các hoạt động tập thể khi chưa được cho phép; hút thuốc, sử dụng đồ uống có cồn, chất cấm trong cơ sở giáo dục; sử dụng mạng xã hội để phát tán thông tin trái thuần phong mỹ tục; gian lận, dối trá, vu khống, gây hiềm khích; gây ồn ào, mất trật tự."
   },
   {
     "prompt": "Quy tắc ứng xử với cán bộ, giảng viên, nhân viên là gì?",
-    "response": "Bao gồm: thực hiện nghiêm túc các quy chế, quy định; kính trọng, lễ phép, trung thực; không sử dụng mạng xã hội để đăng tin thiếu tính xây dựng; nghiêm túc thực hiện quy chế thi; khách quan, trung thực trong phản hồi; tích cực hợp tác trong các hoạt động; tham gia phòng chống tiêu cực, gian lận. [cite: 26-32]"
+    "response": "Bao gồm: thực hiện nghiêm túc các quy chế, quy định; kính trọng, lễ phép, trung thực; không sử dụng mạng xã hội để đăng tin thiếu tính xây dựng; nghiêm túc thực hiện quy chế thi; khách quan, trung thực trong phản hồi; tích cực hợp tác trong các hoạt động; tham gia phòng chống tiêu cực, gian lận."
   },
   {
     "prompt": "Quy tắc ứng xử với bạn học là gì?",
-    "response": "Bao gồm: tôn trọng sự khác biệt, ứng xử chân thành, thân thiện; không ganh ghét, đố kỵ, kỳ thị; sử dụng ngôn từ trong sáng; biết lắng nghe và phản hồi mang tính xây dựng; không chen lấn, xô đẩy; đoàn kết, giúp đỡ lẫn nhau; tôn trọng đối thủ trong thi đấu thể thao. [cite: 33-39]"
+    "response": "Bao gồm: tôn trọng sự khác biệt, ứng xử chân thành, thân thiện; không ganh ghét, đố kỵ, kỳ thị; sử dụng ngôn từ trong sáng; biết lắng nghe và phản hồi mang tính xây dựng; không chen lấn, xô đẩy; đoàn kết, giúp đỡ lẫn nhau; tôn trọng đối thủ trong thi đấu thể thao."
   },
   {
     "prompt": "Quy tắc ứng xử với khách đến thăm và làm việc tại trường là gì?",
-    "response": "Bao gồm: có thái độ lịch sự, lễ phép trong giao tiếp; nhiệt tình giúp đỡ, hướng dẫn và giải thích trong giới hạn cho phép và hiểu biết của mình khi khách có yêu cầu. [cite: 40-41]"
+    "response": "Bao gồm: có thái độ lịch sự, lễ phép trong giao tiếp; nhiệt tình giúp đỡ, hướng dẫn và giải thích trong giới hạn cho phép và hiểu biết của mình khi khách có yêu cầu."
   },
   {
     "prompt": "Trách nhiệm của các Khoa, Bộ môn trong việc thực hiện Quy tắc ứng xử là gì?",
-    "response": "Có trách nhiệm quán triệt đến người học đang học tập tại trường Đại học Quốc tế việc thực hiện Quy tắc ứng xử của người học. [cite: 42-43]"
+    "response": "Có trách nhiệm quán triệt đến người học đang học tập tại trường Đại học Quốc tế việc thực hiện Quy tắc ứng xử của người học."
   },
   {
     "prompt": "Trách nhiệm của người học trong việc thực hiện Quy tắc ứng xử là gì?",
-    "response": "Toàn thể người học đang học tập tại Trường đều phải có trách nhiệm thực hiện đúng, đồng thời vận động, nhắc nhở những người học khác thực hiện nghiêm túc các nội dung trong Quy tắc ứng xử. [cite: 44-45]"
+    "response": "Toàn thể người học đang học tập tại Trường đều phải có trách nhiệm thực hiện đúng, đồng thời vận động, nhắc nhở những người học khác thực hiện nghiêm túc các nội dung trong Quy tắc ứng xử."
   },
   {
     "prompt": "Trách nhiệm của Phòng Công tác Sinh viên trong việc thực hiện Quy tắc ứng xử là gì?",
-    "response": "Phối hợp với Phòng Đào tạo đại học, các đơn vị Khoa, Bộ môn, Phòng Thanh tra Pháp chế, Phòng Bảo đảm Chất lượng Giáo dục, Đoàn thanh niên và Hội sinh viên Trường trong việc ban hành và theo dõi việc thực hiện Quy tắc ứng xử. [cite: 46-47]"
+    "response": "Phối hợp với Phòng Đào tạo đại học, các đơn vị Khoa, Bộ môn, Phòng Thanh tra Pháp chế, Phòng Bảo đảm Chất lượng Giáo dục, Đoàn thanh niên và Hội sinh viên Trường trong việc ban hành và theo dõi việc thực hiện Quy tắc ứng xử."
   },
   {
     "prompt": "Trách nhiệm của Phòng Đào tạo đại học trong việc thực hiện Quy tắc ứng xử là gì?",
-    "response": "Có trách nhiệm rà soát, hoàn thiện các văn bản liên quan làm cơ sở xây dựng Bộ Quy tắc ứng xử dành cho người học như quy chế học vụ, quy chế công tác học sinh sinh viên, quy chế đánh giá điểm rèn luyện, nội quy sinh viên. [cite: 48-49]"
+    "response": "Có trách nhiệm rà soát, hoàn thiện các văn bản liên quan làm cơ sở xây dựng Bộ Quy tắc ứng xử dành cho người học như quy chế học vụ, quy chế công tác học sinh sinh viên, quy chế đánh giá điểm rèn luyện, nội quy sinh viên."
   },
   {
     "prompt": "Trách nhiệm của các Khoa, Bộ môn, Đoàn thanh niên, Hội sinh viên trong việc tuyên truyền Quy tắc ứng xử là gì?",
-    "response": "Có trách nhiệm tuyên truyền, tổ chức các hoạt động tạo môi trường văn hóa trong trường học và tuyên truyền các mô hình văn hóa ứng xử cho học sinh, sinh viên trong suốt năm học. [cite: 50-51]"
+    "response": "Có trách nhiệm tuyên truyền, tổ chức các hoạt động tạo môi trường văn hóa trong trường học và tuyên truyền các mô hình văn hóa ứng xử cho học sinh, sinh viên trong suốt năm học."
   },
   {
     "prompt": "Trách nhiệm của Phòng Đào tạo đại học và Phòng Bảo đảm Chất lượng Giáo dục trong việc kiểm tra, đánh giá là gì?",
-    "response": "Tổ chức kiểm tra, đánh giá, lấy ý kiến phản hồi quá trình thực hiện từ các khoa, bộ môn, người học; phát hiện, giới thiệu Phòng Công tác Sinh viên khen thưởng các tấm gương điển hình trong việc xây dựng văn hóa ứng xử trong nhà trường. [cite: 52-53]"
+    "response": "Tổ chức kiểm tra, đánh giá, lấy ý kiến phản hồi quá trình thực hiện từ các khoa, bộ môn, người học; phát hiện, giới thiệu Phòng Công tác Sinh viên khen thưởng các tấm gương điển hình trong việc xây dựng văn hóa ứng xử trong nhà trường."
   },
   {
     "prompt": "Quy định về việc xử lý các vấn đề vướng mắc trong quá trình thực hiện là gì?",
-    "response": "Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc hoặc phát sinh, các đơn vị phản ánh về Phòng Công tác Sinh viên để tổng hợp trình Hiệu trưởng xem xét, điều chỉnh, bổ sung cho phù hợp. [cite: 54-55]"
+    "response": "Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc hoặc phát sinh, các đơn vị phản ánh về Phòng Công tác Sinh viên để tổng hợp trình Hiệu trưởng xem xét, điều chỉnh, bổ sung cho phù hợp."
   },
   {
     "prompt": "Hiệu lực thi hành của Quy tắc ứng xử được quy định như thế nào?",
-    "response": "Quy tắc ứng xử có hiệu lực kể từ ngày ký Quyết định. Những trường hợp vi phạm không thuộc phạm vi của Quy tắc ứng xử sẽ được xử lý theo pháp luật quy định. [cite: 56-57]"
+    "response": "Quy tắc ứng xử có hiệu lực kể từ ngày ký Quyết định. Những trường hợp vi phạm không thuộc phạm vi của Quy tắc ứng xử sẽ được xử lý theo pháp luật quy định."
   },
   {
     "prompt": "Quy định về việc điều chỉnh Quy tắc ứng xử là gì?",
-    "response": "Trong trường hợp cần thiết, Hiệu trưởng có thể quyết định điều chỉnh quy định cụ thể cho phù hợp với tình hình thực tế và hướng dẫn để các đơn vị áp dụng tạm thời trước khi xem xét sửa đổi chính thức. [cite: 58-59]"
+    "response": "Trong trường hợp cần thiết, Hiệu trưởng có thể quyết định điều chỉnh quy định cụ thể cho phù hợp với tình hình thực tế và hướng dẫn để các đơn vị áp dụng tạm thời trước khi xem xét sửa đổi chính thức."
   },
   {
     "prompt": "Quy định về trang phục của người học là gì?",
-    "response": "Trang phục, diện mạo của người học phải phù hợp với lứa tuổi và hoạt động giáo dục. Không trang điểm, ăn mặc phản cảm làm xấu đi hình ảnh của bản thân và nhà trường. [cite: 60-61]"
+    "response": "Trang phục, diện mạo của người học phải phù hợp với lứa tuổi và hoạt động giáo dục. Không trang điểm, ăn mặc phản cảm làm xấu đi hình ảnh của bản thân và nhà trường. "
   },
   {
     "prompt": "Quy định về việc sử dụng mạng xã hội của người học là gì?",
-    "response": "Không được sử dụng mạng xã hội để phát tán, tuyên truyền, bình luận những thông tin hoặc hình ảnh trái thuần phong mỹ tục, trái đường lối của Đảng, chính sách, pháp luật của nhà nước hoặc làm ảnh hưởng xấu đến môi trường giáo dục. [cite: 62-63]"
+    "response": "Không được sử dụng mạng xã hội để phát tán, tuyên truyền, bình luận những thông tin hoặc hình ảnh trái thuần phong mỹ tục, trái đường lối của Đảng, chính sách, pháp luật của nhà nước hoặc làm ảnh hưởng xấu đến môi trường giáo dục."
   },
   {
     "prompt": "Quy định về việc bảo vệ cơ sở vật chất của người học là gì?",
-    "response": "Phải bảo vệ, giữ gìn cảnh quan cơ sở giáo dục; xây dựng môi trường giáo dục an toàn, thân thiện, xanh, sạch, đẹp. Giữ gìn và bảo vệ cơ sở vật chất, trang thiết bị dạy và học, thực hành tiết kiệm, chống lãng phí của công. [cite: 64-65]"
+    "response": "Phải bảo vệ, giữ gìn cảnh quan cơ sở giáo dục; xây dựng môi trường giáo dục an toàn, thân thiện, xanh, sạch, đẹp. Giữ gìn và bảo vệ cơ sở vật chất, trang thiết bị dạy và học, thực hành tiết kiệm, chống lãng phí của công."
   },
   {
     "prompt": "Quy định về việc tham gia các hoạt động xã hội của người học là gì?",
-    "response": "Phải tham gia lao động và hoạt động xã hội, hoạt động bảo vệ môi trường phù hợp với năng lực, sức khỏe và yêu cầu của nhà trường. [cite: 66-67]"
+    "response": "Phải tham gia lao động và hoạt động xã hội, hoạt động bảo vệ môi trường phù hợp với năng lực, sức khỏe và yêu cầu của nhà trường."
   },
   {
     "prompt": "Quy định về việc thực hiện lối sống của người học là gì?",
-    "response": "Phải thực hiện lối sống lành mạnh, tích cực, quan tâm chia sẻ và giúp đỡ người khác. [cite: 68-69]"
+    "response": "Phải thực hiện lối sống lành mạnh, tích cực, quan tâm chia sẻ và giúp đỡ người khác. "
   },
   {
     "prompt": "Quy định về việc chấp hành nghĩa vụ quân sự của người học là gì?",
-    "response": "Phải chấp hành nghiêm chỉnh Luật Nghĩa vụ quân sự: đăng ký tạm hoãn nghĩa vụ quân sự tại địa phương trong thời gian học tập tại trường; chấp hành lệnh điều động tham dự huấn luyện sĩ quan dự bị trong quá trình học tập tại trường hoặc phục vụ các lực lượng Vũ trang sau khi tốt nghiệp. [cite: 70-71]"
+    "response": "Phải chấp hành nghiêm chỉnh Luật Nghĩa vụ quân sự: đăng ký tạm hoãn nghĩa vụ quân sự tại địa phương trong thời gian học tập tại trường; chấp hành lệnh điều động tham dự huấn luyện sĩ quan dự bị trong quá trình học tập tại trường hoặc phục vụ các lực lượng Vũ trang sau khi tốt nghiệp."
   },
   {
     "prompt": "Bảng 1: Thang điểm 10 có bao nhiêu mức xếp loại?",
@@ -4093,255 +4093,255 @@
   },
   {
     "prompt": "Quy chế này quy định về vấn đề gì?",
-    "response": "Quy chế này quy định việc đánh giá kết quả rèn luyện của sinh viên tại Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), bao gồm: Đánh giá kết quả rèn luyện và khung điểm; phân loại và quy trình đánh giá; tổ chức đánh giá và sử dụng kết quả; tổ chức thực hiện. [cite: 1-3]"
+    "response": "Quy chế này quy định việc đánh giá kết quả rèn luyện của sinh viên tại Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), bao gồm: Đánh giá kết quả rèn luyện và khung điểm; phân loại và quy trình đánh giá; tổ chức đánh giá và sử dụng kết quả; tổ chức thực hiện."
   },
   {
     "prompt": "Quy chế này áp dụng cho những đối tượng nào?",
-    "response": "Quy chế này áp dụng đối với sinh viên được đào tạo trình độ đại học hệ chính quy tại các trường đại học thành viên, khoa trực thuộc và các đơn vị được ĐHQG-HCM giao nhiệm vụ đào tạo trình độ đại học (gọi chung là cơ sở đào tạo). [cite: 4-6]"
+    "response": "Quy chế này áp dụng đối với sinh viên được đào tạo trình độ đại học hệ chính quy tại các trường đại học thành viên, khoa trực thuộc và các đơn vị được ĐHQG-HCM giao nhiệm vụ đào tạo trình độ đại học (gọi chung là cơ sở đào tạo). "
   },
   {
     "prompt": "Mục đích của việc đánh giá kết quả rèn luyện sinh viên là gì?",
-    "response": "Mục đích là góp phần thực hiện mục tiêu giáo dục con người phát triển toàn diện; nâng cao công tác giáo dục thái độ, bồi dưỡng đạo đức, nhân cách, phẩm chất và năng lực hoạt động xã hội cho sinh viên, đáp ứng yêu cầu của sự nghiệp xây dựng, phát triển và bảo vệ đất nước; đảm bảo hoàn thành tầm nhìn, sứ mạng, mục tiêu của ĐHQG-HCM và cơ sở đào tạo. [cite: 7-10]"
+    "response": "Mục đích là góp phần thực hiện mục tiêu giáo dục con người phát triển toàn diện; nâng cao công tác giáo dục thái độ, bồi dưỡng đạo đức, nhân cách, phẩm chất và năng lực hoạt động xã hội cho sinh viên, đáp ứng yêu cầu của sự nghiệp xây dựng, phát triển và bảo vệ đất nước; đảm bảo hoàn thành tầm nhìn, sứ mạng, mục tiêu của ĐHQG-HCM và cơ sở đào tạo."
   },
   {
     "prompt": "Các nguyên tắc đánh giá kết quả rèn luyện sinh viên là gì?",
-    "response": "Các nguyên tắc bao gồm: thực hiện nghiêm túc quy trình và tiêu chí đánh giá; đảm bảo khách quan, chính xác, công bằng, công khai; đảm bảo bình đẳng, dân chủ; tạo điều kiện cho sinh viên rèn luyện; thể hiện tính hệ thống, thống nhất; ứng dụng công nghệ thông tin; phối hợp đồng bộ giữa các bộ phận. [cite: 11-17]"
+    "response": "Các nguyên tắc bao gồm: thực hiện nghiêm túc quy trình và tiêu chí đánh giá; đảm bảo khách quan, chính xác, công bằng, công khai; đảm bảo bình đẳng, dân chủ; tạo điều kiện cho sinh viên rèn luyện; thể hiện tính hệ thống, thống nhất; ứng dụng công nghệ thông tin; phối hợp đồng bộ giữa các bộ phận."
   },
   {
     "prompt": "Các nội dung đánh giá kết quả rèn luyện bao gồm những gì?",
-    "response": "Bao gồm 5 nội dung: Ý thức và thái độ tham gia học tập và nghiên cứu khoa học (tối đa 30đ); Ý thức chấp hành nội quy, quy chế, quy định (tối đa 20đ); Ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao (tối đa 25đ); Ý thức công dân trong quan hệ cộng đồng (tối đa 25đ); Các nội dung cộng thêm (tối đa 10đ). [cite: 18-22]"
+    "response": "Bao gồm 5 nội dung: Ý thức và thái độ tham gia học tập và nghiên cứu khoa học (tối đa 30đ); Ý thức chấp hành nội quy, quy chế, quy định (tối đa 20đ); Ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao (tối đa 25đ); Ý thức công dân trong quan hệ cộng đồng (tối đa 25đ); Các nội dung cộng thêm (tối đa 10đ). "
   },
   {
     "prompt": "Các tiêu chí đánh giá về ý thức và thái độ tham gia học tập và nghiên cứu khoa học là gì?",
-    "response": "Bao gồm: Ý thức và thái độ trong học tập; Ý thức tham gia các câu lạc bộ học thuật, hoạt động ngoại khóa, nghiên cứu khoa học; Ý thức tham gia các kỳ thi, cuộc thi; Tinh thần vượt khó, phấn đấu vươn lên; Hỗ trợ và tham gia tích cực vào các hoạt động học thuật; Kết quả học tập và nghiên cứu khoa học. [cite: 23-28]"
+    "response": "Bao gồm: Ý thức và thái độ trong học tập; Ý thức tham gia các câu lạc bộ học thuật, hoạt động ngoại khóa, nghiên cứu khoa học; Ý thức tham gia các kỳ thi, cuộc thi; Tinh thần vượt khó, phấn đấu vươn lên; Hỗ trợ và tham gia tích cực vào các hoạt động học thuật; Kết quả học tập và nghiên cứu khoa học."
   },
   {
     "prompt": "Các tiêu chí đánh giá về ý thức chấp hành nội quy, quy chế, quy định là gì?",
-    "response": "Bao gồm: Ý thức chấp hành chủ trương chính sách, pháp luật của Nhà nước; Ý thức chấp hành các nội quy, quy chế và quy định trong cơ sở đào tạo; Ý thức tham gia Tuần Sinh hoạt công dân - sinh viên. [cite: 29-31]"
+    "response": "Bao gồm: Ý thức chấp hành chủ trương chính sách, pháp luật của Nhà nước; Ý thức chấp hành các nội quy, quy chế và quy định trong cơ sở đào tạo; Ý thức tham gia Tuần Sinh hoạt công dân - sinh viên. "
   },
   {
     "prompt": "Các tiêu chí đánh giá về ý thức tham gia các hoạt động chính trị, xã hội là gì?",
-    "response": "Bao gồm: Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao; Ý thức và hiệu quả tham gia xây dựng, đóng góp, quảng bá hình ảnh của cơ sở đào tạo và ĐHQG-HCM; Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội. [cite: 32-34]"
+    "response": "Bao gồm: Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao; Ý thức và hiệu quả tham gia xây dựng, đóng góp, quảng bá hình ảnh của cơ sở đào tạo và ĐHQG-HCM; Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội."
   },
   {
     "prompt": "Các tiêu chí đánh giá về ý thức công dân trong quan hệ cộng đồng là gì?",
-    "response": "Bao gồm: Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng; Ý thức và hiệu quả tham gia các hoạt động công ích, tình nguyện, công tác xã hội. [cite: 35-36]"
+    "response": "Bao gồm: Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng; Ý thức và hiệu quả tham gia các hoạt động công ích, tình nguyện, công tác xã hội."
   },
   {
     "prompt": "Các nội dung cộng thêm điểm bao gồm những gì?",
-    "response": "Bao gồm: Sinh viên được cấp trung ương, tỉnh/thành phố khen thưởng hoặc được tặng Bằng khen của Giám đốc ĐHQG-HCM; Sinh viên có hoàn cảnh gia đình đặc biệt khó khăn, khuyết tật, mồ côi có nghị lực phấn đấu; Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của sinh viên được phân công nhiệm vụ quản lý. [cite: 37-39]"
+    "response": "Bao gồm: Sinh viên được cấp trung ương, tỉnh/thành phố khen thưởng hoặc được tặng Bằng khen của Giám đốc ĐHQG-HCM; Sinh viên có hoàn cảnh gia đình đặc biệt khó khăn, khuyết tật, mồ côi có nghị lực phấn đấu; Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của sinh viên được phân công nhiệm vụ quản lý. "
   },
   {
     "prompt": "Thời gian và cách tính kết quả rèn luyện được quy định như thế nào?",
-    "response": "Việc đánh giá được tiến hành định kỳ theo học kỳ chính, năm học và toàn khóa học. Điểm rèn luyện học kỳ là tổng điểm của 5 nội dung đánh giá. Điểm năm học là trung bình cộng của điểm các học kỳ chính. Điểm toàn khóa là trung bình cộng của điểm các học kỳ chính. [cite: 40-43]"
+    "response": "Việc đánh giá được tiến hành định kỳ theo học kỳ chính, năm học và toàn khóa học. Điểm rèn luyện học kỳ là tổng điểm của 5 nội dung đánh giá. Điểm năm học là trung bình cộng của điểm các học kỳ chính. Điểm toàn khóa là trung bình cộng của điểm các học kỳ chính."
   },
   {
     "prompt": "Phân loại kết quả rèn luyện được quy định như thế nào?",
-    "response": "Kết quả rèn luyện được phân thành các loại: xuất sắc (90-100 điểm), tốt (80-89 điểm), khá (65-79 điểm), trung bình (50-64 điểm), yếu (dưới 50 điểm). Sinh viên có kết quả từ trung bình trở lên là đạt. [cite: 44-48]"
+    "response": "Kết quả rèn luyện được phân thành các loại: xuất sắc (90-100 điểm), tốt (80-89 điểm), khá (65-79 điểm), trung bình (50-64 điểm), yếu (dưới 50 điểm). Sinh viên có kết quả từ trung bình trở lên là đạt."
   },
   {
     "prompt": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên bị kỷ luật là gì?",
-    "response": "Sinh viên bị kỷ luật mức khiển trách không được vượt quá loại khá. Sinh viên bị kỷ luật mức cảnh cáo không được vượt quá loại trung bình. Sinh viên bị kỷ luật mức buộc thôi học không được đánh giá kết quả rèn luyện. [cite: 49-51]"
+    "response": "Sinh viên bị kỷ luật mức khiển trách không được vượt quá loại khá. Sinh viên bị kỷ luật mức cảnh cáo không được vượt quá loại trung bình. Sinh viên bị kỷ luật mức buộc thôi học không được đánh giá kết quả rèn luyện."
   },
   {
     "prompt": "Quy trình đánh giá kết quả rèn luyện được thực hiện như thế nào?",
-    "response": "Quy trình gồm các bước: Sinh viên tự đánh giá; Giáo viên chủ nhiệm và Ban cán sự xem xét, thông qua mức điểm tự đánh giá; Hội đồng cấp khoa xem xét, thống nhất; Hội đồng cấp cơ sở đào tạo họp xét, thống nhất; Thủ trưởng quyết định công nhận kết quả. [cite: 52-56]"
+    "response": "Quy trình gồm các bước: Sinh viên tự đánh giá; Giáo viên chủ nhiệm và Ban cán sự xem xét, thông qua mức điểm tự đánh giá; Hội đồng cấp khoa xem xét, thống nhất; Hội đồng cấp cơ sở đào tạo họp xét, thống nhất; Thủ trưởng quyết định công nhận kết quả."
   },
   {
     "prompt": "Thành phần của Hội đồng cấp cơ sở đào tạo bao gồm những ai?",
-    "response": "Bao gồm: Chủ tịch Hội đồng (Thủ trưởng hoặc Phó Thủ trưởng được ủy quyền); Thường trực Hội đồng (Trưởng phòng công tác sinh viên); Các ủy viên (Đại diện Lãnh đạo các khoa, phòng chức năng, Đoàn thanh niên và Hội sinh viên). [cite: 57-59]"
+    "response": "Bao gồm: Chủ tịch Hội đồng (Thủ trưởng hoặc Phó Thủ trưởng được ủy quyền); Thường trực Hội đồng (Trưởng phòng công tác sinh viên); Các ủy viên (Đại diện Lãnh đạo các khoa, phòng chức năng, Đoàn thanh niên và Hội sinh viên)."
   },
   {
     "prompt": "Kết quả đánh giá rèn luyện được sử dụng như thế nào?",
-    "response": "Được sử dụng để: xét tốt nghiệp; xét duyệt học bổng; xét khen thưởng - kỷ luật; xét tham gia hoạt động giao lưu quốc tế; xét thôi học, ngừng học; xét lưu trú ký túc xá; xét giải quyết việc làm thêm; xét miễn giảm chi phí, dịch vụ. [cite: 60-63]"
+    "response": "Được sử dụng để: xét tốt nghiệp; xét duyệt học bổng; xét khen thưởng - kỷ luật; xét tham gia hoạt động giao lưu quốc tế; xét thôi học, ngừng học; xét lưu trú ký túc xá; xét giải quyết việc làm thêm; xét miễn giảm chi phí, dịch vụ."
   },
   {
     "prompt": "Quy định về khen thưởng đối với sinh viên có kết quả rèn luyện xuất sắc là gì?",
-    "response": "Sinh viên có kết quả rèn luyện xuất sắc được cơ sở đào tạo xem xét biểu dương, khen thưởng và đề nghị tặng Bằng khen Giám đốc ĐHQG-HCM theo quy định tại Quy chế thi đua, khen thưởng và Kỷ luật học sinh, sinh viên ĐHQG-HCM. [cite: 64-65]"
+    "response": "Sinh viên có kết quả rèn luyện xuất sắc được cơ sở đào tạo xem xét biểu dương, khen thưởng và đề nghị tặng Bằng khen Giám đốc ĐHQG-HCM theo quy định tại Quy chế thi đua, khen thưởng và Kỷ luật học sinh, sinh viên ĐHQG-HCM."
   },
   {
     "prompt": "Quy định về kỷ luật đối với sinh viên có kết quả rèn luyện yếu là gì?",
-    "response": "Sinh viên bị xếp loại rèn luyện yếu trong hai học kỳ chính liên tiếp lần thứ nhất thì xem xét kỷ luật ở mức độ cảnh cáo và nếu bị xếp loại rèn luyện yếu hai học kỳ chính liên tiếp lần thứ hai sẽ bị buộc thôi học. [cite: 66-67]"
+    "response": "Sinh viên bị xếp loại rèn luyện yếu trong hai học kỳ chính liên tiếp lần thứ nhất thì xem xét kỷ luật ở mức độ cảnh cáo và nếu bị xếp loại rèn luyện yếu hai học kỳ chính liên tiếp lần thứ hai sẽ bị buộc thôi học."
   },
   {
     "prompt": "Quyền khiếu nại về kết quả đánh giá rèn luyện được quy định như thế nào?",
-    "response": "Sinh viên có quyền khiếu nại lên các phòng chức năng hoặc Thủ trưởng cơ sở đào tạo nếu thấy công tác đánh giá kết quả rèn luyện chưa chính xác. Cơ sở đào tạo có trách nhiệm giải quyết, trả lời theo quy định của pháp luật về khiếu nại. [cite: 68-69]"
+    "response": "Sinh viên có quyền khiếu nại lên các phòng chức năng hoặc Thủ trưởng cơ sở đào tạo nếu thấy công tác đánh giá kết quả rèn luyện chưa chính xác. Cơ sở đào tạo có trách nhiệm giải quyết, trả lời theo quy định của pháp luật về khiếu nại."
   },
   {
     "prompt": "Trách nhiệm của ĐHQG-HCM trong công tác đánh giá kết quả rèn luyện là gì?",
-    "response": "ĐHQG-HCM có trách nhiệm chỉ đạo, kiểm tra việc thực hiện công tác đánh giá kết quả rèn luyện sinh viên ở các cơ sở đào tạo; giao Ban Công tác Sinh viên tham mưu, giúp việc cho Giám đốc ĐHQG-HCM, làm đầu mối phối hợp với các ban chức năng và các trung tâm trực thuộc. [cite: 70-72]"
+    "response": "ĐHQG-HCM có trách nhiệm chỉ đạo, kiểm tra việc thực hiện công tác đánh giá kết quả rèn luyện sinh viên ở các cơ sở đào tạo; giao Ban Công tác Sinh viên tham mưu, giúp việc cho Giám đốc ĐHQG-HCM, làm đầu mối phối hợp với các ban chức năng và các trung tâm trực thuộc."
   },
   {
     "prompt": "Trách nhiệm của cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện là gì?",
-    "response": "Bao gồm: ban hành văn bản quy định thực hiện quy chế và khung tiêu chí đánh giá chi tiết; đánh giá hàng năm; đề xuất điều chỉnh, sửa đổi nội dung phù hợp; công nhận kết quả hoạt động rèn luyện; tạo điều kiện cho sinh viên tham gia hoạt động rèn luyện; báo cáo công tác thực hiện về ĐHQG-HCM. [cite: 73-78]"
+    "response": "Bao gồm: ban hành văn bản quy định thực hiện quy chế và khung tiêu chí đánh giá chi tiết; đánh giá hàng năm; đề xuất điều chỉnh, sửa đổi nội dung phù hợp; công nhận kết quả hoạt động rèn luyện; tạo điều kiện cho sinh viên tham gia hoạt động rèn luyện; báo cáo công tác thực hiện về ĐHQG-HCM."
   },
   {
     "prompt": "Trách nhiệm của Trung tâm Quản lý Ký túc xá ĐHQG-HCM là gì?",
-    "response": "Bao gồm: cấp giấy chứng nhận hoặc xác nhận đối với sinh viên tham gia các hoạt động rèn luyện tại Ký túc xá ĐHQG-HCM; phối hợp với cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện sinh viên. [cite: 79-80]"
+    "response": "Bao gồm: cấp giấy chứng nhận hoặc xác nhận đối với sinh viên tham gia các hoạt động rèn luyện tại Ký túc xá ĐHQG-HCM; phối hợp với cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện sinh viên."
   },
   {
     "prompt": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên khuyết tật hoặc có hoàn cảnh đặc biệt là gì?",
-    "response": "Sinh viên khuyết tật hoặc mồ côi, có hoàn cảnh gia đình đặc biệt khó khăn có xác nhận của địa phương không có khả năng tham gia hoặc không đáp ứng yêu cầu chung các hoạt động rèn luyện thì được ưu tiên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện. [cite: 81-82]"
+    "response": "Sinh viên khuyết tật hoặc mồ côi, có hoàn cảnh gia đình đặc biệt khó khăn có xác nhận của địa phương không có khả năng tham gia hoặc không đáp ứng yêu cầu chung các hoạt động rèn luyện thì được ưu tiên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện."
   },
   {
     "prompt": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên học hai chương trình đào tạo là gì?",
-    "response": "Sinh viên đồng thời học hai chương trình đào tạo sẽ được đánh giá kết quả rèn luyện tại cơ sở đào tạo quản lý chương trình thứ nhất. Trường hợp chương trình thứ nhất đã hoàn thành thì cơ sở đào tạo quản lý chương trình thứ hai sẽ tiếp tục đánh giá kết quả rèn luyện của sinh viên. [cite: 83-85]"
+    "response": "Sinh viên đồng thời học hai chương trình đào tạo sẽ được đánh giá kết quả rèn luyện tại cơ sở đào tạo quản lý chương trình thứ nhất. Trường hợp chương trình thứ nhất đã hoàn thành thì cơ sở đào tạo quản lý chương trình thứ hai sẽ tiếp tục đánh giá kết quả rèn luyện của sinh viên."
   },
   {
     "prompt": "Quy định này quy định về vấn đề gì?",
-    "response": "Quy định này quy định những vấn đề chung về công tác khen thưởng học sinh, sinh viên (HSSV) tại Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), phù hợp với đặc thù về tổ chức và hoạt động của ĐHQG-HCM. [cite: 1-3]"
+    "response": "Quy định này quy định những vấn đề chung về công tác khen thưởng học sinh, sinh viên (HSSV) tại Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), phù hợp với đặc thù về tổ chức và hoạt động của ĐHQG-HCM. "
   },
   {
     "prompt": "Quy định này áp dụng cho những đối tượng nào?",
-    "response": "Đối tượng khen thưởng được áp dụng theo Quy định này bao gồm: HSSV đang theo học hệ đào tạo chính quy tại các cơ sở đào tạo thành viên và trực thuộc ĐHQG-HCM (gọi chung là đơn vị). [cite: 4-6]"
+    "response": "Đối tượng khen thưởng được áp dụng theo Quy định này bao gồm: HSSV đang theo học hệ đào tạo chính quy tại các cơ sở đào tạo thành viên và trực thuộc ĐHQG-HCM (gọi chung là đơn vị)."
   },
   {
     "prompt": "Mục đích của công tác khen thưởng là gì?",
-    "response": "Mục đích của công tác khen thưởng bao gồm: xây dựng cơ sở pháp lý cho công tác khen thưởng HSSV; xây dựng môi trường giáo dục toàn diện; xây dựng mẫu hình HSSV ĐHQG-HCM: bản lĩnh, tự tin, năng động, sáng tạo, trách nhiệm, hội nhập; tăng cường công tác giáo dục chính trị, tư tưởng cho HSSV. [cite: 7-10]"
+    "response": "Mục đích của công tác khen thưởng bao gồm: xây dựng cơ sở pháp lý cho công tác khen thưởng HSSV; xây dựng môi trường giáo dục toàn diện; xây dựng mẫu hình HSSV ĐHQG-HCM: bản lĩnh, tự tin, năng động, sáng tạo, trách nhiệm, hội nhập; tăng cường công tác giáo dục chính trị, tư tưởng cho HSSV. "
   },
   {
     "prompt": "Nguyên tắc của công tác khen thưởng là gì?",
-    "response": "Nguyên tắc của công tác khen thưởng bao gồm: bảo đảm chính xác, kịp thời, công khai, minh bạch; kịp thời phát hiện, bồi dưỡng, tổng kết và nhân rộng gương điển hình tiên tiến trong HSSV, tạo sự lan tỏa trong ĐHQG-HCM. [cite: 11-12]"
+    "response": "Nguyên tắc của công tác khen thưởng bao gồm: bảo đảm chính xác, kịp thời, công khai, minh bạch; kịp thời phát hiện, bồi dưỡng, tổng kết và nhân rộng gương điển hình tiên tiến trong HSSV, tạo sự lan tỏa trong ĐHQG-HCM."
   },
   {
     "prompt": "Các hình thức khen thưởng bao gồm những gì?",
-    "response": "Các hình thức khen thưởng bao gồm: khen thưởng định kỳ (hàng năm sau khi kết thúc năm học); khen thưởng theo đợt hoặc theo chuyên đề; khen thưởng đột xuất (cho thành tích đặc biệt xuất sắc). [cite: 13-15]"
+    "response": "Các hình thức khen thưởng bao gồm: khen thưởng định kỳ (hàng năm sau khi kết thúc năm học); khen thưởng theo đợt hoặc theo chuyên đề; khen thưởng đột xuất (cho thành tích đặc biệt xuất sắc)."
   },
   {
     "prompt": "Những tiêu chuẩn nào để được khen thưởng Giấy khen của Giám đốc ĐHQG-HCM?",
-    "response": "Các tiêu chuẩn bao gồm: đạt huy chương tại các kỳ thi Olympic quốc tế; đạt huy chương Vàng Olympic quốc gia; đạt giải nhất trong Kỳ thi chọn học sinh giỏi quốc gia; thủ khoa tuyển sinh đầu vào; thủ khoa tốt nghiệp đại học; sinh viên tốt nghiệp xuất sắc; có công trình nghiên cứu khoa học đạt giải nhất; đạt giải nhất trong các cuộc thi về chính trị, tư tưởng, học thuật; đạt giải nhất trong các cuộc thi văn hóa, văn nghệ, thể thao; có thành tích trong phong trào bảo vệ an ninh Tổ quốc; sinh viên 5 tốt tiêu biểu cấp ĐHQG-HCM. [cite: 16-27]"
+    "response": "Các tiêu chuẩn bao gồm: đạt huy chương tại các kỳ thi Olympic quốc tế; đạt huy chương Vàng Olympic quốc gia; đạt giải nhất trong Kỳ thi chọn học sinh giỏi quốc gia; thủ khoa tuyển sinh đầu vào; thủ khoa tốt nghiệp đại học; sinh viên tốt nghiệp xuất sắc; có công trình nghiên cứu khoa học đạt giải nhất; đạt giải nhất trong các cuộc thi về chính trị, tư tưởng, học thuật; đạt giải nhất trong các cuộc thi văn hóa, văn nghệ, thể thao; có thành tích trong phong trào bảo vệ an ninh Tổ quốc; sinh viên 5 tốt tiêu biểu cấp ĐHQG-HCM."
   },
   {
     "prompt": "Quy trình khen thưởng định kỳ được thực hiện như thế nào?",
-    "response": "Quy trình khen thưởng định kỳ gồm các bước: Thủ trưởng các đơn vị tổ chức họp Hội đồng cấp đơn vị để bình xét; các đơn vị gửi văn bản đề xuất khen thưởng về Ban Công tác Sinh viên thẩm định; Giám đốc ĐHQG-HCM quyết định khen thưởng dựa trên kết quả thẩm định. [cite: 28-30]"
+    "response": "Quy trình khen thưởng định kỳ gồm các bước: Thủ trưởng các đơn vị tổ chức họp Hội đồng cấp đơn vị để bình xét; các đơn vị gửi văn bản đề xuất khen thưởng về Ban Công tác Sinh viên thẩm định; Giám đốc ĐHQG-HCM quyết định khen thưởng dựa trên kết quả thẩm định."
   },
   {
     "prompt": "Hồ sơ đề xuất khen thưởng cấp ĐHQG-HCM bao gồm những gì?",
-    "response": "Hồ sơ bao gồm: văn bản đề xuất khen thưởng của Thủ trưởng đơn vị; biên bản họp của Hội đồng cấp đơn vị; báo cáo thành tích tập thể, cá nhân HSSV; minh chứng hoặc bản xác nhận thành tích, khen thưởng. [cite: 31-34]"
+    "response": "Hồ sơ bao gồm: văn bản đề xuất khen thưởng của Thủ trưởng đơn vị; biên bản họp của Hội đồng cấp đơn vị; báo cáo thành tích tập thể, cá nhân HSSV; minh chứng hoặc bản xác nhận thành tích, khen thưởng."
   },
   {
     "prompt": "Thời gian gửi hồ sơ đề xuất khen thưởng định kỳ là khi nào?",
-    "response": "Các đơn vị phải gửi hồ sơ đề xuất khen thưởng về ĐHQG-HCM qua Ban Công tác Sinh viên trước ngày 20 tháng 8 hàng năm. [cite: 35]"
+    "response": "Các đơn vị phải gửi hồ sơ đề xuất khen thưởng về ĐHQG-HCM qua Ban Công tác Sinh viên trước ngày 20 tháng 8 hàng năm. "
   },
   {
     "prompt": "Thời gian gửi hồ sơ đề xuất khen thưởng đột xuất hoặc chuyên đề là khi nào?",
-    "response": "Các đơn vị phải gửi hồ sơ đề xuất khen thưởng về ĐHQG-HCM qua Ban Công tác Sinh viên trước ít nhất 05 ngày làm việc trước khi đơn vị tổ chức trao. [cite: 36]"
+    "response": "Các đơn vị phải gửi hồ sơ đề xuất khen thưởng về ĐHQG-HCM qua Ban Công tác Sinh viên trước ít nhất 05 ngày làm việc trước khi đơn vị tổ chức trao."
   },
   {
     "prompt": "Quyền khiếu nại về khen thưởng được quy định như thế nào?",
-    "response": "Tập thể và cá nhân HSSV có quyền khiếu nại lên các phòng chức năng liên quan hoặc Thủ trưởng đơn vị; nếu các đơn vị đã xem xét lại mà chưa thỏa đáng có thể khiếu nại lên cấp có thẩm quyền theo quy định của pháp luật về khiếu nại, tố cáo. [cite: 37-38]"
+    "response": "Tập thể và cá nhân HSSV có quyền khiếu nại lên các phòng chức năng liên quan hoặc Thủ trưởng đơn vị; nếu các đơn vị đã xem xét lại mà chưa thỏa đáng có thể khiếu nại lên cấp có thẩm quyền theo quy định của pháp luật về khiếu nại, tố cáo."
   },
   {
     "prompt": "Chức năng của Hội đồng ĐHQG-HCM là gì?",
-    "response": "Hội đồng ĐHQG-HCM có chức năng tham mưu giúp Giám đốc ĐHQG-HCM chỉ đạo, tổ chức thực hiện công tác khen thưởng HSSV cấp ĐHQG-HCM. [cite: 39-40]"
+    "response": "Hội đồng ĐHQG-HCM có chức năng tham mưu giúp Giám đốc ĐHQG-HCM chỉ đạo, tổ chức thực hiện công tác khen thưởng HSSV cấp ĐHQG-HCM. "
   },
   {
     "prompt": "Nhiệm vụ của Hội đồng ĐHQG-HCM bao gồm những gì?",
-    "response": "Nhiệm vụ bao gồm: xây dựng chương trình, kế hoạch chỉ đạo công tác khen thưởng; định kỳ đánh giá công tác khen thưởng; xây dựng tiêu chí, tiêu chuẩn về khen thưởng; hướng dẫn bình xét khen thưởng hàng năm; đề xuất bổ sung, thay thế thành viên của Hội đồng. [cite: 41-45]"
+    "response": "Nhiệm vụ bao gồm: xây dựng chương trình, kế hoạch chỉ đạo công tác khen thưởng; định kỳ đánh giá công tác khen thưởng; xây dựng tiêu chí, tiêu chuẩn về khen thưởng; hướng dẫn bình xét khen thưởng hàng năm; đề xuất bổ sung, thay thế thành viên của Hội đồng."
   },
   {
     "prompt": "Mức tiền thưởng được quy định như thế nào?",
-    "response": "Mức tiền thưởng tập thể, cá nhân HSSV căn cứ theo Nghị định 91/2017/NĐ-CP và Thông tư 10/2016/TT-BGDĐT, do Giám đốc ĐHQG-HCM quyết định. [cite: 46-48]"
+    "response": "Mức tiền thưởng tập thể, cá nhân HSSV căn cứ theo Nghị định 91/2017/NĐ-CP và Thông tư 10/2016/TT-BGDĐT, do Giám đốc ĐHQG-HCM quyết định."
   },
   {
     "prompt": "Nguồn kinh phí thưởng được lấy từ đâu?",
-    "response": "Kinh phí khen thưởng được lấy từ nguồn kinh phí của ĐHQG-HCM, do Văn phòng ĐHQG-HCM chi trả. Khuyến khích sử dụng nguồn kinh phí tài trợ do Quỹ Phát triển ĐHQG-HCM quản lý. [cite: 49-51]"
+    "response": "Kinh phí khen thưởng được lấy từ nguồn kinh phí của ĐHQG-HCM, do Văn phòng ĐHQG-HCM chi trả. Khuyến khích sử dụng nguồn kinh phí tài trợ do Quỹ Phát triển ĐHQG-HCM quản lý."
   },
   {
     "prompt": "Trách nhiệm của Thủ trưởng đơn vị trong công tác khen thưởng là gì?",
-    "response": "Thủ trưởng đơn vị có trách nhiệm tổ chức triển khai thực hiện đầy đủ các nội dung quy định; phân công đơn vị phụ trách công tác khen thưởng HSSV chủ trì, phối hợp với Đoàn Thanh niên - Hội Sinh viên và các đơn vị liên quan thực hiện. [cite: 52-53]"
+    "response": "Thủ trưởng đơn vị có trách nhiệm tổ chức triển khai thực hiện đầy đủ các nội dung quy định; phân công đơn vị phụ trách công tác khen thưởng HSSV chủ trì, phối hợp với Đoàn Thanh niên - Hội Sinh viên và các đơn vị liên quan thực hiện."
   },
   {
     "prompt": "Chế độ báo cáo trong công tác khen thưởng được quy định như thế nào?",
-    "response": "Các đơn vị phải thực hiện báo cáo, thống kê định kỳ về công tác khen thưởng HSSV và các nội dung khác theo yêu cầu của ĐHQG-HCM. [cite: 54]"
+    "response": "Các đơn vị phải thực hiện báo cáo, thống kê định kỳ về công tác khen thưởng HSSV và các nội dung khác theo yêu cầu của ĐHQG-HCM."
   },
   {
     "prompt": "Điều kiện để sinh viên tốt nghiệp đại học được khen thưởng là gì?",
-    "response": "Sinh viên tốt nghiệp đại học đạt loại xuất sắc, có điểm trung bình tích lũy toàn khóa đạt từ 9.0 trở lên và kết quả đánh giá rèn luyện toàn khóa đạt loại tốt trở lên. [cite: 55-56]"
+    "response": "Sinh viên tốt nghiệp đại học đạt loại xuất sắc, có điểm trung bình tích lũy toàn khóa đạt từ 9.0 trở lên và kết quả đánh giá rèn luyện toàn khóa đạt loại tốt trở lên."
   },
   {
     "prompt": "Điều kiện để thủ khoa tốt nghiệp đại học được khen thưởng là gì?",
-    "response": "Thủ khoa tốt nghiệp đại học toàn trường, có điểm trung bình tích lũy toàn khóa đạt từ 8.0 trở lên và kết quả đánh giá rèn luyện toàn khóa đạt loại xuất sắc. [cite: 57-58]"
+    "response": "Thủ khoa tốt nghiệp đại học toàn trường, có điểm trung bình tích lũy toàn khóa đạt từ 8.0 trở lên và kết quả đánh giá rèn luyện toàn khóa đạt loại xuất sắc. "
   },
   {
     "prompt": "Điều kiện để sinh viên 5 tốt tiêu biểu cấp ĐHQG-HCM được khen thưởng là gì?",
-    "response": "Sinh viên 5 tốt tiêu biểu cấp ĐHQG-HCM phải có điểm trung bình năm học đạt từ 8.0 trở lên; hoặc sinh viên có 03 năm liên tục đạt danh hiệu Sinh viên 5 tốt cấp ĐHQG-HCM. [cite: 59-60]"
+    "response": "Sinh viên 5 tốt tiêu biểu cấp ĐHQG-HCM phải có điểm trung bình năm học đạt từ 8.0 trở lên; hoặc sinh viên có 03 năm liên tục đạt danh hiệu Sinh viên 5 tốt cấp ĐHQG-HCM. "
   },
   {
     "prompt": "Quy định về khen thưởng đối với sinh viên có công trình nghiên cứu khoa học là gì?",
-    "response": "Sinh viên có công trình nghiên cứu khoa học đạt giải nhất tại các cuộc thi cấp trung ương, toàn quốc, cấp ĐHQG-HCM hoặc là tác giả đứng đầu/tác giả liên hệ, đồng tác giả của bài báo đăng trên các tạp chí quốc tế uy tín của ngành, được công nhận bởi ISI. [cite: 61-62]"
+    "response": "Sinh viên có công trình nghiên cứu khoa học đạt giải nhất tại các cuộc thi cấp trung ương, toàn quốc, cấp ĐHQG-HCM hoặc là tác giả đứng đầu/tác giả liên hệ, đồng tác giả của bài báo đăng trên các tạp chí quốc tế uy tín của ngành, được công nhận bởi ISI. "
   },
   {
     "prompt": "Quy định về khen thưởng đối với sinh viên đạt giải trong các cuộc thi văn hóa, văn nghệ, thể thao là gì?",
-    "response": "Sinh viên đạt giải nhất trong các cuộc thi văn hóa, văn nghệ, thể dục thể thao cấp tỉnh/thành phố trực thuộc trung ương hoặc đạt giải nhất, nhì, ba trong các cuộc thi văn hóa, văn nghệ, thể dục thể thao toàn quốc, quốc tế. [cite: 63-64]"
+    "response": "Sinh viên đạt giải nhất trong các cuộc thi văn hóa, văn nghệ, thể dục thể thao cấp tỉnh/thành phố trực thuộc trung ương hoặc đạt giải nhất, nhì, ba trong các cuộc thi văn hóa, văn nghệ, thể dục thể thao toàn quốc, quốc tế."
   },
   {
     "prompt": "Quy định về khen thưởng đối với sinh viên có thành tích trong phong trào bảo vệ an ninh Tổ quốc là gì?",
-    "response": "Sinh viên có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an ninh Tổ quốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ nạn xã hội, thiên tai, dịch bệnh, hành động anh dũng giúp đỡ người khác trong tình thế hiểm nghèo, chống tiêu cực, tham nhũng, được cơ quan chức năng xác nhận. [cite: 65-66]"
+    "response": "Sinh viên có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an ninh Tổ quốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ nạn xã hội, thiên tai, dịch bệnh, hành động anh dũng giúp đỡ người khác trong tình thế hiểm nghèo, chống tiêu cực, tham nhũng, được cơ quan chức năng xác nhận. "
   },
   {
     "prompt": "Quy định về việc điều chỉnh nội dung của Quy định này được quy định như thế nào?",
-    "response": "Trong trường hợp cần thiết, Giám đốc ĐHQG-HCM có thể quyết định điều chỉnh một số nội dung cụ thể trong Quy định này cho phù hợp với tình hình thực tế và hướng dẫn để các đơn vị áp dụng tạm thời trước khi xem xét sửa đổi chính thức. [cite: 67-68]"
+    "response": "Trong trường hợp cần thiết, Giám đốc ĐHQG-HCM có thể quyết định điều chỉnh một số nội dung cụ thể trong Quy định này cho phù hợp với tình hình thực tế và hướng dẫn để các đơn vị áp dụng tạm thời trước khi xem xét sửa đổi chính thức. "
   },
   {
     "prompt": "Quy chế này quy định về vấn đề gì?",
-    "response": "Quy chế này quy định những vấn đề chung nhất về công tác sinh viên (CTSV) nội trú tại hệ thống ký túc xá (KTX) Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), KTX do trường trực tiếp quản lý (KTX Trường), KTX xã hội hóa, phù hợp với đặc thù tổ chức và hoạt động của ĐHQG-HCM. [cite: 118, 119]"
+    "response": "Quy chế này quy định những vấn đề chung nhất về công tác sinh viên (CTSV) nội trú tại hệ thống ký túc xá (KTX) Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), KTX do trường trực tiếp quản lý (KTX Trường), KTX xã hội hóa, phù hợp với đặc thù tổ chức và hoạt động của ĐHQG-HCM."
   },
   {
     "prompt": "Quy chế này áp dụng cho những đối tượng nào?",
-    "response": "Quy chế này áp dụng đối với các cơ sở đào tạo (CSĐT) thành viên và trực thuộc ĐHQG-HCM; KTX ĐHQG-HCM; KTX Trường; KTX xã hội hóa và sinh viên cư trú tại KTX ĐHQG-HCM. [cite: 120, 121]"
+    "response": "Quy chế này áp dụng đối với các cơ sở đào tạo (CSĐT) thành viên và trực thuộc ĐHQG-HCM; KTX ĐHQG-HCM; KTX Trường; KTX xã hội hóa và sinh viên cư trú tại KTX ĐHQG-HCM. "
   },
   {
     "prompt": "Sinh viên nội trú được định nghĩa như thế nào?",
-    "response": "Sinh viên nội trú (SVNT) là sinh viên đang theo học tại các CSĐT thành viên, trực thuộc ĐHQG-HCM, cư trú tại KTX ĐHQG-HCM, KTX Trường hoặc KTX xã hội hóa. [cite: 123]"
+    "response": "Sinh viên nội trú (SVNT) là sinh viên đang theo học tại các CSĐT thành viên, trực thuộc ĐHQG-HCM, cư trú tại KTX ĐHQG-HCM, KTX Trường hoặc KTX xã hội hóa. "
   },
   {
     "prompt": "Mục đích của công tác sinh viên nội trú là gì?",
-    "response": "Mục đích của công tác sinh viên nội trú là xây dựng cơ sở pháp lý nhằm: Đảm bảo thực hiện đầy đủ các quyền và nghĩa vụ đối với SVNT; Đảm bảo an ninh, trật tự và đời sống tinh thần cho SVNT; Đảm bảo cho SVNT được sống, tự học và rèn luyện trong điều kiện đạt chuẩn về không gian và môi trường sinh hoạt; Xây dựng KTX không chỉ là nơi ở mà còn là nơi để sinh viên tự rèn luyện nhằm góp phần rèn luyện đạo đức, lối sống và bồi dưỡng nhân cách cho sinh viên. [cite: 126, 127, 128, 129]"
+    "response": "Mục đích của công tác sinh viên nội trú là xây dựng cơ sở pháp lý nhằm: Đảm bảo thực hiện đầy đủ các quyền và nghĩa vụ đối với SVNT; Đảm bảo an ninh, trật tự và đời sống tinh thần cho SVNT; Đảm bảo cho SVNT được sống, tự học và rèn luyện trong điều kiện đạt chuẩn về không gian và môi trường sinh hoạt; Xây dựng KTX không chỉ là nơi ở mà còn là nơi để sinh viên tự rèn luyện nhằm góp phần rèn luyện đạo đức, lối sống và bồi dưỡng nhân cách cho sinh viên."
   },
   {
     "prompt": "Những yêu cầu nào được đặt ra cho công tác sinh viên nội trú?",
-    "response": "Yêu cầu đối với công tác sinh viên nội trú là: Thực hiện đúng đường lối, chính sách của Đảng, pháp luật của Nhà nước; Xây dựng mô hình quản lý và hoạt động hiện đại, đảm bảo tiện ích nhất cho SVNT; Phối hợp chặt chẽ, thường xuyên giữa các đơn vị trong ĐHQG-HCM, giữa chính quyền với Đoàn Thanh niên và Hội sinh viên, giữa KTX với gia đình và chính quyền địa phương; giữa KTX ĐHQG-HCM với các trường ngoài ĐHQG-HCM. [cite: 130, 131, 132, 133]"
+    "response": "Yêu cầu đối với công tác sinh viên nội trú là: Thực hiện đúng đường lối, chính sách của Đảng, pháp luật của Nhà nước; Xây dựng mô hình quản lý và hoạt động hiện đại, đảm bảo tiện ích nhất cho SVNT; Phối hợp chặt chẽ, thường xuyên giữa các đơn vị trong ĐHQG-HCM, giữa chính quyền với Đoàn Thanh niên và Hội sinh viên, giữa KTX với gia đình và chính quyền địa phương; giữa KTX ĐHQG-HCM với các trường ngoài ĐHQG-HCM."
   },
   {
     "prompt": "Trách nhiệm cao nhất đối với công tác sinh viên nội trú thuộc về ai?",
-    "response": "Giám đốc ĐHQG-HCM chỉ đạo và chịu trách nhiệm cao nhất đối với CTSV nội trú trong toàn ĐHQG-HCM. [cite: 133]"
+    "response": "Giám đốc ĐHQG-HCM chỉ đạo và chịu trách nhiệm cao nhất đối với CTSV nội trú trong toàn ĐHQG-HCM. "
   },
   {
     "prompt": "Ban Công tác Sinh viên (Ban CTSV) có vai trò gì trong công tác sinh viên nội trú?",
-    "response": "Ban Công tác Sinh viên (Ban CTSV) tham mưu về chủ trương, chính sách, tổ chức đánh giá CTSV nội trú. [cite: 134]"
+    "response": "Ban Công tác Sinh viên (Ban CTSV) tham mưu về chủ trương, chính sách, tổ chức đánh giá CTSV nội trú."
   },
   {
     "prompt": "Hội đồng KTX ĐHQG-HCM có chức năng gì?",
-    "response": "Hội đồng KTX ĐHQG-HCM (Hội đồng) do Giám đốc ĐHQG-HCM ký quyết định thành lập, có chức năng quyết định các chính sách lớn, các chiến lược về ký túc xá ĐHQG-HCM. [cite: 135]"
+    "response": "Hội đồng KTX ĐHQG-HCM (Hội đồng) do Giám đốc ĐHQG-HCM ký quyết định thành lập, có chức năng quyết định các chính sách lớn, các chiến lược về ký túc xá ĐHQG-HCM."
   },
   {
     "prompt": "Đoàn ĐHQG-HCM có vai trò gì trong công tác sinh viên nội trú?",
-    "response": "Ban Cán sự Đoàn ĐHQG-HCM phối hợp, tổ chức các hoạt động nhằm nâng cao ý thức chính trị-tư tưởng, giáo dục truyền thống, giáo dục pháp luật, rèn luyện đạo đức và phát triển các kỹ năng của SVNT. [cite: 138]"
+    "response": "Ban Cán sự Đoàn ĐHQG-HCM phối hợp, tổ chức các hoạt động nhằm nâng cao ý thức chính trị-tư tưởng, giáo dục truyền thống, giáo dục pháp luật, rèn luyện đạo đức và phát triển các kỹ năng của SVNT."
   },
   {
     "prompt": "Sinh viên nội trú cần làm thủ tục gì với công an địa phương?",
-    "response": "Thông báo và hướng dẫn sinh viên làm thủ tục tạm trú với công an địa phương theo đúng quy định của Luật Cư trú. [cite: 139]"
+    "response": "Thông báo và hướng dẫn sinh viên làm thủ tục tạm trú với công an địa phương theo đúng quy định của Luật Cư trú."
   },
   {
     "prompt": "KTX có những biện pháp nào để đảm bảo an ninh, trật tự?",
-    "response": "Các KTX xây dựng kế hoạch đảm bảo an ninh, trật tự, phòng chống tội phạm, tệ nạn trong KTX; phối hợp chặt chẽ với CSĐT, TTQL KĐT và cơ quan chức năng của địa phương trong công tác đảm bảo an ninh trật tự, phòng chống tội phạm, tệ nạn tại KTX và trong KĐT; xây dựng các biện pháp nâng cao nhận thức của sinh viên trong việc giữ gìn, đảm bảo an ninh, trật tự, an toàn xã hội, vệ sinh an toàn thực phẩm, phòng chống dịch bệnh; phát động phong trào thi đua trong toàn thể cán bộ, viên chức, nhân viên và sinh viên nhằm xây dựng KTX an toàn, văn minh, xanh, sạch đẹp. [cite: 147, 148, 149, 150]"
+    "response": "Các KTX xây dựng kế hoạch đảm bảo an ninh, trật tự, phòng chống tội phạm, tệ nạn trong KTX; phối hợp chặt chẽ với CSĐT, TTQL KĐT và cơ quan chức năng của địa phương trong công tác đảm bảo an ninh trật tự, phòng chống tội phạm, tệ nạn tại KTX và trong KĐT; xây dựng các biện pháp nâng cao nhận thức của sinh viên trong việc giữ gìn, đảm bảo an ninh, trật tự, an toàn xã hội, vệ sinh an toàn thực phẩm, phòng chống dịch bệnh; phát động phong trào thi đua trong toàn thể cán bộ, viên chức, nhân viên và sinh viên nhằm xây dựng KTX an toàn, văn minh, xanh, sạch đẹp."
   },
   {
     "prompt": "Trạm y tế KTX ĐHQG-HCM thực hiện những công việc gì?",
-    "response": "Trạm y tế KTX ĐHQG-HCM thực hiện công tác chăm sóc sức khỏe cho sinh viên nội trú: sơ cứu, cấp cứu, khám bệnh, chữa bệnh theo phân tuyến kỹ thuật, chăm sóc sức khỏe ban đầu, cấp thuốc thông thường; chuyển bệnh nhân lên cơ sở y tế tuyến trên trong những trường hợp cần thiết; tổ chức khám sức khỏe định kỳ hằng năm; phân loại sức khỏe; quản lý và lưu hồ sơ sức khỏe sinh viên nội trú; báo cáo định kỳ về CSĐT quản lý sinh viên. [cite: 151, 152, 153, 154, 155]"
+    "response": "Trạm y tế KTX ĐHQG-HCM thực hiện công tác chăm sóc sức khỏe cho sinh viên nội trú: sơ cứu, cấp cứu, khám bệnh, chữa bệnh theo phân tuyến kỹ thuật, chăm sóc sức khỏe ban đầu, cấp thuốc thông thường; chuyển bệnh nhân lên cơ sở y tế tuyến trên trong những trường hợp cần thiết; tổ chức khám sức khỏe định kỳ hằng năm; phân loại sức khỏe; quản lý và lưu hồ sơ sức khỏe sinh viên nội trú; báo cáo định kỳ về CSĐT quản lý sinh viên. "
   },
   {
     "prompt": "Các KTX tổ chức những dịch vụ tiện ích nào cho sinh viên?",
-    "response": "Các KTX tổ chức các dịch vụ tiện ích phục vụ cho sinh viên đáp ứng nhu cầu thiết yếu trong đời sống của sinh viên, phù hợp với điều kiện kinh tế, đảm bảo vệ sinh, an toàn thực phẩm cho sinh viên nội trú; bố trí phòng thư viện, phòng tự học, đọc sách, báo, tivi, phòng sinh hoạt văn hóa-văn nghệ tại KTX cho sinh viên nội trú; tạo điều kiện thuận lợi cho việc thành lập, tổ chức hoạt động của các câu lạc bộ đội nhóm về học thuật và sở thích của sinh viên nội trú hoạt động; thường xuyên tổ chức các hoạt động văn hóa tinh thần như hội diễn, hội thao, hội thi nhằm tạo sân chơi lành mạnh, góp phần giáo dục toàn diện cho sinh viên nội trú. [cite: 160, 161, 162, 163]"
+    "response": "Các KTX tổ chức các dịch vụ tiện ích phục vụ cho sinh viên đáp ứng nhu cầu thiết yếu trong đời sống của sinh viên, phù hợp với điều kiện kinh tế, đảm bảo vệ sinh, an toàn thực phẩm cho sinh viên nội trú; bố trí phòng thư viện, phòng tự học, đọc sách, báo, tivi, phòng sinh hoạt văn hóa-văn nghệ tại KTX cho sinh viên nội trú; tạo điều kiện thuận lợi cho việc thành lập, tổ chức hoạt động của các câu lạc bộ đội nhóm về học thuật và sở thích của sinh viên nội trú hoạt động; thường xuyên tổ chức các hoạt động văn hóa tinh thần như hội diễn, hội thao, hội thi nhằm tạo sân chơi lành mạnh, góp phần giáo dục toàn diện cho sinh viên nội trú."
   },
   {
     "prompt": "Mục đích của việc đánh giá CTSV nội trú là gì?",
-    "response": "Mục đích đánh giá CTSV nội trú là: Đảm bảo sự thống nhất, từng bước chuẩn hóa để thúc đẩy sự phát triển CTSV nội trú, góp phần nâng cao chất lượng phục vụ sinh viên nội trú; Làm căn cứ để các ký túc xá xây dựng chương trình, kế hoạch củng cố, hoàn thiện và tăng cường CTSV nội trú sau mỗi năm học; Làm cơ sở để đề xuất khen thưởng và kỷ luật. [cite: 166, 167, 168]"
+    "response": "Mục đích đánh giá CTSV nội trú là: Đảm bảo sự thống nhất, từng bước chuẩn hóa để thúc đẩy sự phát triển CTSV nội trú, góp phần nâng cao chất lượng phục vụ sinh viên nội trú; Làm căn cứ để các ký túc xá xây dựng chương trình, kế hoạch củng cố, hoàn thiện và tăng cường CTSV nội trú sau mỗi năm học; Làm cơ sở để đề xuất khen thưởng và kỷ luật."
   },
   {
     "prompt": "Kết quả đánh giá CTSV nội trú được sử dụng như thế nào?",
-    "response": "Kết quả đánh giá CTSV nội trú thể hiện năng lực và chất lượng phục vụ sinh viên, được thông báo công khai trên website của CSĐT và KTX ĐHQG-HCM; là căn cứ để CSĐT và TTQL KTX xây dựng kế hoạch để tăng cường CTSV nội trú và chất lượng phục vụ sinh viên theo các tiêu chuẩn đánh giá CTSV nội trú; là căn cứ để CSĐT và KTX ĐHQG-HCM đề nghị ĐHQG-HCM hoặc cơ quan quản lý cấp trên khen thưởng về CTSV nội trú, đảm bảo các điều kiện cần thiết để CSĐT và KTX ĐHQG-HCM phấn đấu đạt các tiêu chuẩn đánh giá CTSV và được sử dụng để tham khảo trong công tác kiểm định chất lượng giáo dục. [cite: 204, 205, 206]"
+    "response": "Kết quả đánh giá CTSV nội trú thể hiện năng lực và chất lượng phục vụ sinh viên, được thông báo công khai trên website của CSĐT và KTX ĐHQG-HCM; là căn cứ để CSĐT và TTQL KTX xây dựng kế hoạch để tăng cường CTSV nội trú và chất lượng phục vụ sinh viên theo các tiêu chuẩn đánh giá CTSV nội trú; là căn cứ để CSĐT và KTX ĐHQG-HCM đề nghị ĐHQG-HCM hoặc cơ quan quản lý cấp trên khen thưởng về CTSV nội trú, đảm bảo các điều kiện cần thiết để CSĐT và KTX ĐHQG-HCM phấn đấu đạt các tiêu chuẩn đánh giá CTSV và được sử dụng để tham khảo trong công tác kiểm định chất lượng giáo dục."
   },
   {
     "prompt": "Quy chế công tác sinh viên nội trú này có những chương nào?",
@@ -4387,99 +4387,99 @@
     "qa_pairs": [
       {
         "prompt": "Quy chế này quy định về vấn đề gì?",
-        "response": "Quy chế này quy định việc đánh giá kết quả rèn luyện của sinh viên tại Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), bao gồm: Đánh giá kết quả rèn luyện và khung điểm; phân loại và quy trình đánh giá; tổ chức đánh giá và sử dụng kết quả; tổ chức thực hiện. [cite: 1-3]"
+        "response": "Quy chế này quy định việc đánh giá kết quả rèn luyện của sinh viên tại Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), bao gồm: Đánh giá kết quả rèn luyện và khung điểm; phân loại và quy trình đánh giá; tổ chức đánh giá và sử dụng kết quả; tổ chức thực hiện. "
       },
       {
         "prompt": "Quy chế này áp dụng cho những đối tượng nào?",
-        "response": "Quy chế này áp dụng đối với sinh viên được đào tạo trình độ đại học hệ chính quy tại các trường đại học thành viên, khoa trực thuộc và các đơn vị được ĐHQG-HCM giao nhiệm vụ đào tạo trình độ đại học (gọi chung là cơ sở đào tạo). [cite: 4-6]"
+        "response": "Quy chế này áp dụng đối với sinh viên được đào tạo trình độ đại học hệ chính quy tại các trường đại học thành viên, khoa trực thuộc và các đơn vị được ĐHQG-HCM giao nhiệm vụ đào tạo trình độ đại học (gọi chung là cơ sở đào tạo). "
       },
       {
         "prompt": "Mục đích của việc đánh giá kết quả rèn luyện sinh viên là gì?",
-        "response": "Mục đích là góp phần thực hiện mục tiêu giáo dục con người phát triển toàn diện; nâng cao công tác giáo dục thái độ, bồi dưỡng đạo đức, nhân cách, phẩm chất và năng lực hoạt động xã hội cho sinh viên, đáp ứng yêu cầu của sự nghiệp xây dựng, phát triển và bảo vệ đất nước; đảm bảo hoàn thành tầm nhìn, sứ mạng, mục tiêu của ĐHQG-HCM và cơ sở đào tạo. [cite: 7-10]"
+        "response": "Mục đích là góp phần thực hiện mục tiêu giáo dục con người phát triển toàn diện; nâng cao công tác giáo dục thái độ, bồi dưỡng đạo đức, nhân cách, phẩm chất và năng lực hoạt động xã hội cho sinh viên, đáp ứng yêu cầu của sự nghiệp xây dựng, phát triển và bảo vệ đất nước; đảm bảo hoàn thành tầm nhìn, sứ mạng, mục tiêu của ĐHQG-HCM và cơ sở đào tạo."
       },
       {
         "prompt": "Các nguyên tắc đánh giá kết quả rèn luyện sinh viên là gì?",
-        "response": "Các nguyên tắc bao gồm: thực hiện nghiêm túc quy trình và tiêu chí đánh giá; đảm bảo khách quan, chính xác, công bằng, công khai; đảm bảo bình đẳng, dân chủ; tạo điều kiện cho sinh viên rèn luyện; thể hiện tính hệ thống, thống nhất; ứng dụng công nghệ thông tin; phối hợp đồng bộ giữa các bộ phận. [cite: 11-17]"
+        "response": "Các nguyên tắc bao gồm: thực hiện nghiêm túc quy trình và tiêu chí đánh giá; đảm bảo khách quan, chính xác, công bằng, công khai; đảm bảo bình đẳng, dân chủ; tạo điều kiện cho sinh viên rèn luyện; thể hiện tính hệ thống, thống nhất; ứng dụng công nghệ thông tin; phối hợp đồng bộ giữa các bộ phận."
       },
       {
         "prompt": "Các nội dung đánh giá kết quả rèn luyện bao gồm những gì?",
-        "response": "Bao gồm 5 nội dung: Ý thức và thái độ tham gia học tập và nghiên cứu khoa học (tối đa 30đ); Ý thức chấp hành nội quy, quy chế, quy định (tối đa 20đ); Ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao (tối đa 25đ); Ý thức công dân trong quan hệ cộng đồng (tối đa 25đ); Các nội dung cộng thêm (tối đa 10đ). [cite: 18-22]"
+        "response": "Bao gồm 5 nội dung: Ý thức và thái độ tham gia học tập và nghiên cứu khoa học (tối đa 30đ); Ý thức chấp hành nội quy, quy chế, quy định (tối đa 20đ); Ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao (tối đa 25đ); Ý thức công dân trong quan hệ cộng đồng (tối đa 25đ); Các nội dung cộng thêm (tối đa 10đ)."
       },
       {
         "prompt": "Các tiêu chí đánh giá về ý thức và thái độ tham gia học tập và nghiên cứu khoa học là gì?",
-        "response": "Bao gồm: Ý thức và thái độ trong học tập; Ý thức tham gia các câu lạc bộ học thuật, hoạt động ngoại khóa, nghiên cứu khoa học; Ý thức tham gia các kỳ thi, cuộc thi; Tinh thần vượt khó, phấn đấu vươn lên; Hỗ trợ và tham gia tích cực vào các hoạt động học thuật; Kết quả học tập và nghiên cứu khoa học. [cite: 23-28]"
+        "response": "Bao gồm: Ý thức và thái độ trong học tập; Ý thức tham gia các câu lạc bộ học thuật, hoạt động ngoại khóa, nghiên cứu khoa học; Ý thức tham gia các kỳ thi, cuộc thi; Tinh thần vượt khó, phấn đấu vươn lên; Hỗ trợ và tham gia tích cực vào các hoạt động học thuật; Kết quả học tập và nghiên cứu khoa học."
       },
       {
         "prompt": "Các tiêu chí đánh giá về ý thức chấp hành nội quy, quy chế, quy định là gì?",
-        "response": "Bao gồm: Ý thức chấp hành chủ trương chính sách, pháp luật của Nhà nước; Ý thức chấp hành các nội quy, quy chế và quy định trong cơ sở đào tạo; Ý thức tham gia Tuần Sinh hoạt công dân - sinh viên. [cite: 29-31]"
+        "response": "Bao gồm: Ý thức chấp hành chủ trương chính sách, pháp luật của Nhà nước; Ý thức chấp hành các nội quy, quy chế và quy định trong cơ sở đào tạo; Ý thức tham gia Tuần Sinh hoạt công dân - sinh viên."
       },
       {
         "prompt": "Các tiêu chí đánh giá về ý thức tham gia các hoạt động chính trị, xã hội là gì?",
-        "response": "Bao gồm: Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao; Ý thức và hiệu quả tham gia xây dựng, đóng góp, quảng bá hình ảnh của cơ sở đào tạo và ĐHQG-HCM; Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội. [cite: 32-34]"
+        "response": "Bao gồm: Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao; Ý thức và hiệu quả tham gia xây dựng, đóng góp, quảng bá hình ảnh của cơ sở đào tạo và ĐHQG-HCM; Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội."
       },
       {
         "prompt": "Các tiêu chí đánh giá về ý thức công dân trong quan hệ cộng đồng là gì?",
-        "response": "Bao gồm: Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng; Ý thức và hiệu quả tham gia các hoạt động công ích, tình nguyện, công tác xã hội. [cite: 35-36]"
+        "response": "Bao gồm: Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng; Ý thức và hiệu quả tham gia các hoạt động công ích, tình nguyện, công tác xã hội."
       },
       {
         "prompt": "Các nội dung cộng thêm điểm bao gồm những gì?",
-        "response": "Bao gồm: Sinh viên được cấp trung ương, tỉnh/thành phố khen thưởng hoặc được tặng Bằng khen của Giám đốc ĐHQG-HCM; Sinh viên có hoàn cảnh gia đình đặc biệt khó khăn, khuyết tật, mồ côi có nghị lực phấn đấu; Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của sinh viên được phân công nhiệm vụ quản lý. [cite: 37-39]"
+        "response": "Bao gồm: Sinh viên được cấp trung ương, tỉnh/thành phố khen thưởng hoặc được tặng Bằng khen của Giám đốc ĐHQG-HCM; Sinh viên có hoàn cảnh gia đình đặc biệt khó khăn, khuyết tật, mồ côi có nghị lực phấn đấu; Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của sinh viên được phân công nhiệm vụ quản lý."
       },
       {
         "prompt": "Thời gian và cách tính kết quả rèn luyện được quy định như thế nào?",
-        "response": "Việc đánh giá được tiến hành định kỳ theo học kỳ chính, năm học và toàn khóa học. Điểm rèn luyện học kỳ là tổng điểm của 5 nội dung đánh giá. Điểm năm học là trung bình cộng của điểm các học kỳ chính. Điểm toàn khóa là trung bình cộng của điểm các học kỳ chính. [cite: 40-43]"
+        "response": "Việc đánh giá được tiến hành định kỳ theo học kỳ chính, năm học và toàn khóa học. Điểm rèn luyện học kỳ là tổng điểm của 5 nội dung đánh giá. Điểm năm học là trung bình cộng của điểm các học kỳ chính. Điểm toàn khóa là trung bình cộng của điểm các học kỳ chính."
       },
       {
         "prompt": "Phân loại kết quả rèn luyện được quy định như thế nào?",
-        "response": "Kết quả rèn luyện được phân thành các loại: xuất sắc (90-100 điểm), tốt (80-89 điểm), khá (65-79 điểm), trung bình (50-64 điểm), yếu (dưới 50 điểm). Sinh viên có kết quả từ trung bình trở lên là đạt. [cite: 44-48]"
+        "response": "Kết quả rèn luyện được phân thành các loại: xuất sắc (90-100 điểm), tốt (80-89 điểm), khá (65-79 điểm), trung bình (50-64 điểm), yếu (dưới 50 điểm). Sinh viên có kết quả từ trung bình trở lên là đạt."
       },
       {
         "prompt": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên bị kỷ luật là gì?",
-        "response": "Sinh viên bị kỷ luật mức khiển trách không được vượt quá loại khá. Sinh viên bị kỷ luật mức cảnh cáo không được vượt quá loại trung bình. Sinh viên bị kỷ luật mức buộc thôi học không được đánh giá kết quả rèn luyện. [cite: 49-51]"
+        "response": "Sinh viên bị kỷ luật mức khiển trách không được vượt quá loại khá. Sinh viên bị kỷ luật mức cảnh cáo không được vượt quá loại trung bình. Sinh viên bị kỷ luật mức buộc thôi học không được đánh giá kết quả rèn luyện."
       },
       {
         "prompt": "Quy trình đánh giá kết quả rèn luyện được thực hiện như thế nào?",
-        "response": "Quy trình gồm các bước: Sinh viên tự đánh giá; Giáo viên chủ nhiệm và Ban cán sự xem xét, thông qua mức điểm tự đánh giá; Hội đồng cấp khoa xem xét, thống nhất; Hội đồng cấp cơ sở đào tạo họp xét, thống nhất; Thủ trưởng quyết định công nhận kết quả. [cite: 52-56]"
+        "response": "Quy trình gồm các bước: Sinh viên tự đánh giá; Giáo viên chủ nhiệm và Ban cán sự xem xét, thông qua mức điểm tự đánh giá; Hội đồng cấp khoa xem xét, thống nhất; Hội đồng cấp cơ sở đào tạo họp xét, thống nhất; Thủ trưởng quyết định công nhận kết quả."
       },
       {
         "prompt": "Thành phần của Hội đồng cấp cơ sở đào tạo bao gồm những ai?",
-        "response": "Bao gồm: Chủ tịch Hội đồng (Thủ trưởng hoặc Phó Thủ trưởng được ủy quyền); Thường trực Hội đồng (Trưởng phòng công tác sinh viên); Các ủy viên (Đại diện Lãnh đạo các khoa, phòng chức năng, Đoàn thanh niên và Hội sinh viên). [cite: 57-59]"
+        "response": "Bao gồm: Chủ tịch Hội đồng (Thủ trưởng hoặc Phó Thủ trưởng được ủy quyền); Thường trực Hội đồng (Trưởng phòng công tác sinh viên); Các ủy viên (Đại diện Lãnh đạo các khoa, phòng chức năng, Đoàn thanh niên và Hội sinh viên)"
       },
       {
         "prompt": "Kết quả đánh giá rèn luyện được sử dụng như thế nào?",
-        "response": "Được sử dụng để: xét tốt nghiệp; xét duyệt học bổng; xét khen thưởng - kỷ luật; xét tham gia hoạt động giao lưu quốc tế; xét thôi học, ngừng học; xét lưu trú ký túc xá; xét giải quyết việc làm thêm; xét miễn giảm chi phí, dịch vụ. [cite: 60-63]"
+        "response": "Được sử dụng để: xét tốt nghiệp; xét duyệt học bổng; xét khen thưởng - kỷ luật; xét tham gia hoạt động giao lưu quốc tế; xét thôi học, ngừng học; xét lưu trú ký túc xá; xét giải quyết việc làm thêm; xét miễn giảm chi phí, dịch vụ. "
       },
       {
         "prompt": "Quy định về khen thưởng đối với sinh viên có kết quả rèn luyện xuất sắc là gì?",
-        "response": "Sinh viên có kết quả rèn luyện xuất sắc được cơ sở đào tạo xem xét biểu dương, khen thưởng và đề nghị tặng Bằng khen Giám đốc ĐHQG-HCM theo quy định tại Quy chế thi đua, khen thưởng và Kỷ luật học sinh, sinh viên ĐHQG-HCM. [cite: 64-65]"
+        "response": "Sinh viên có kết quả rèn luyện xuất sắc được cơ sở đào tạo xem xét biểu dương, khen thưởng và đề nghị tặng Bằng khen Giám đốc ĐHQG-HCM theo quy định tại Quy chế thi đua, khen thưởng và Kỷ luật học sinh, sinh viên ĐHQG-HCM."
       },
       {
         "prompt": "Quy định về kỷ luật đối với sinh viên có kết quả rèn luyện yếu là gì?",
-        "response": "Sinh viên bị xếp loại rèn luyện yếu trong hai học kỳ chính liên tiếp lần thứ nhất thì xem xét kỷ luật ở mức độ cảnh cáo và nếu bị xếp loại rèn luyện yếu hai học kỳ chính liên tiếp lần thứ hai sẽ bị buộc thôi học. [cite: 66-67]"
+        "response": "Sinh viên bị xếp loại rèn luyện yếu trong hai học kỳ chính liên tiếp lần thứ nhất thì xem xét kỷ luật ở mức độ cảnh cáo và nếu bị xếp loại rèn luyện yếu hai học kỳ chính liên tiếp lần thứ hai sẽ bị buộc thôi học."
       },
       {
         "prompt": "Quyền khiếu nại về kết quả đánh giá rèn luyện được quy định như thế nào?",
-        "response": "Sinh viên có quyền khiếu nại lên các phòng chức năng hoặc Thủ trưởng cơ sở đào tạo nếu thấy công tác đánh giá kết quả rèn luyện chưa chính xác. Cơ sở đào tạo có trách nhiệm giải quyết, trả lời theo quy định của pháp luật về khiếu nại. [cite: 68-69]"
+        "response": "Sinh viên có quyền khiếu nại lên các phòng chức năng hoặc Thủ trưởng cơ sở đào tạo nếu thấy công tác đánh giá kết quả rèn luyện chưa chính xác. Cơ sở đào tạo có trách nhiệm giải quyết, trả lời theo quy định của pháp luật về khiếu nại."
       },
       {
         "prompt": "Trách nhiệm của ĐHQG-HCM trong công tác đánh giá kết quả rèn luyện là gì?",
-        "response": "ĐHQG-HCM có trách nhiệm chỉ đạo, kiểm tra việc thực hiện công tác đánh giá kết quả rèn luyện sinh viên ở các cơ sở đào tạo; giao Ban Công tác Sinh viên tham mưu, giúp việc cho Giám đốc ĐHQG-HCM, làm đầu mối phối hợp với các ban chức năng và các trung tâm trực thuộc. [cite: 70-72]"
+        "response": "ĐHQG-HCM có trách nhiệm chỉ đạo, kiểm tra việc thực hiện công tác đánh giá kết quả rèn luyện sinh viên ở các cơ sở đào tạo; giao Ban Công tác Sinh viên tham mưu, giúp việc cho Giám đốc ĐHQG-HCM, làm đầu mối phối hợp với các ban chức năng và các trung tâm trực thuộc."
       },
       {
         "prompt": "Trách nhiệm của cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện là gì?",
-        "response": "Bao gồm: ban hành văn bản quy định thực hiện quy chế và khung tiêu chí đánh giá chi tiết; đánh giá hàng năm; đề xuất điều chỉnh, sửa đổi nội dung phù hợp; công nhận kết quả hoạt động rèn luyện; tạo điều kiện cho sinh viên tham gia hoạt động rèn luyện; báo cáo công tác thực hiện về ĐHQG-HCM. [cite: 73-78]"
+        "response": "Bao gồm: ban hành văn bản quy định thực hiện quy chế và khung tiêu chí đánh giá chi tiết; đánh giá hàng năm; đề xuất điều chỉnh, sửa đổi nội dung phù hợp; công nhận kết quả hoạt động rèn luyện; tạo điều kiện cho sinh viên tham gia hoạt động rèn luyện; báo cáo công tác thực hiện về ĐHQG-HCM."
       },
       {
         "prompt": "Trách nhiệm của Trung tâm Quản lý Ký túc xá ĐHQG-HCM là gì?",
-        "response": "Bao gồm: cấp giấy chứng nhận hoặc xác nhận đối với sinh viên tham gia các hoạt động rèn luyện tại Ký túc xá ĐHQG-HCM; phối hợp với cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện sinh viên. [cite: 79-80]"
+        "response": "Bao gồm: cấp giấy chứng nhận hoặc xác nhận đối với sinh viên tham gia các hoạt động rèn luyện tại Ký túc xá ĐHQG-HCM; phối hợp với cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện sinh viên."
       },
       {
         "prompt": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên khuyết tật hoặc có hoàn cảnh đặc biệt là gì?",
-        "response": "Sinh viên khuyết tật hoặc mồ côi, có hoàn cảnh gia đình đặc biệt khó khăn có xác nhận của địa phương không có khả năng tham gia hoặc không đáp ứng yêu cầu chung các hoạt động rèn luyện thì được ưu tiên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện. [cite: 81-82]"
+        "response": "Sinh viên khuyết tật hoặc mồ côi, có hoàn cảnh gia đình đặc biệt khó khăn có xác nhận của địa phương không có khả năng tham gia hoặc không đáp ứng yêu cầu chung các hoạt động rèn luyện thì được ưu tiên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện."
       },
       {
         "prompt": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên học hai chương trình đào tạo là gì?",
-        "response": "Sinh viên đồng thời học hai chương trình đào tạo sẽ được đánh giá kết quả rèn luyện tại cơ sở đào tạo quản lý chương trình thứ nhất. Trường hợp chương trình thứ nhất đã hoàn thành thì cơ sở đào tạo quản lý chương trình thứ hai sẽ tiếp tục đánh giá kết quả rèn luyện của sinh viên. [cite: 83-85]"
+        "response": "Sinh viên đồng thời học hai chương trình đào tạo sẽ được đánh giá kết quả rèn luyện tại cơ sở đào tạo quản lý chương trình thứ nhất. Trường hợp chương trình thứ nhất đã hoàn thành thì cơ sở đào tạo quản lý chương trình thứ hai sẽ tiếp tục đánh giá kết quả rèn luyện của sinh viên. "
       }
     ]
   },
@@ -4487,99 +4487,99 @@
     "qa_pairs": [
       {
         "prompt": "Quy tắc này quy định về vấn đề gì?",
-        "response": "Quy tắc này quy định các chuẩn mực ứng xử phù hợp với văn hóa, đạo đức, quy định của Pháp luật và Trường Đại học Quốc tế. [cite: 1-2]"
+        "response": "Quy tắc này quy định các chuẩn mực ứng xử phù hợp với văn hóa, đạo đức, quy định của Pháp luật và Trường Đại học Quốc tế."
       },
       {
         "prompt": "Quy tắc này áp dụng cho những đối tượng nào?",
-        "response": "Quy tắc này áp dụng cho người học đang học tập tại trường Đại học Quốc tế - Đại học Quốc gia thành phố Hồ Chí Minh. [cite: 3-4]"
+        "response": "Quy tắc này áp dụng cho người học đang học tập tại trường Đại học Quốc tế - Đại học Quốc gia thành phố Hồ Chí Minh."
       },
       {
         "prompt": "Mục đích của Quy tắc ứng xử là gì?",
-        "response": "Mục đích bao gồm: quy định các chuẩn mực ứng xử để xây dựng tính kỷ cương, nề nếp và môi trường văn hóa trong nhà trường; giúp người học nâng cao ý thức bản thân, trách nhiệm với cộng đồng; xây dựng môi trường học tập lành mạnh, thân thiện; làm cơ sở để giám sát, đánh giá và xử lý vi phạm. [cite: 5-8]"
+        "response": "Mục đích bao gồm: quy định các chuẩn mực ứng xử để xây dựng tính kỷ cương, nề nếp và môi trường văn hóa trong nhà trường; giúp người học nâng cao ý thức bản thân, trách nhiệm với cộng đồng; xây dựng môi trường học tập lành mạnh, thân thiện; làm cơ sở để giám sát, đánh giá và xử lý vi phạm."
       },
       {
         "prompt": "Các nguyên tắc xây dựng Quy tắc ứng xử là gì?",
-        "response": "Bao gồm: tuân thủ pháp luật và phù hợp với chuẩn mực đạo đức, thuần phong mỹ tục; tăng cường xây dựng văn hóa ứng xử trong trường học; dễ hiểu, dễ thực hiện; việc xây dựng, sửa đổi phải được thảo luận dân chủ, đồng thuận. [cite: 9-12]"
+        "response": "Bao gồm: tuân thủ pháp luật và phù hợp với chuẩn mực đạo đức, thuần phong mỹ tục; tăng cường xây dựng văn hóa ứng xử trong trường học; dễ hiểu, dễ thực hiện; việc xây dựng, sửa đổi phải được thảo luận dân chủ, đồng thuận. "
       },
       {
         "prompt": "Các quy tắc ứng xử chung của người học là gì?",
-        "response": "Bao gồm: thực hiện nghiêm túc các quy định pháp luật; chấp hành chủ trương, chính sách của Đảng; thực hiện đầy đủ các quy định, nội quy đào tạo; chấp hành Luật Nghĩa vụ quân sự; có ý thức xây dựng, bảo vệ truyền thống nhà trường; đóng học phí đầy đủ; hưởng ứng các hoạt động của nhà trường. [cite: 13-19]"
+        "response": "Bao gồm: thực hiện nghiêm túc các quy định pháp luật; chấp hành chủ trương, chính sách của Đảng; thực hiện đầy đủ các quy định, nội quy đào tạo; chấp hành Luật Nghĩa vụ quân sự; có ý thức xây dựng, bảo vệ truyền thống nhà trường; đóng học phí đầy đủ; hưởng ứng các hoạt động của nhà trường. "
       },
       {
         "prompt": "Những hành vi nào bị nghiêm cấm trong quy tắc ứng xử chung?",
-        "response": "Bao gồm: thành lập, tham gia các hoạt động chính trị trái pháp luật; tổ chức, tham gia các hoạt động tập thể khi chưa được cho phép; hút thuốc, sử dụng đồ uống có cồn, chất cấm trong cơ sở giáo dục; sử dụng mạng xã hội để phát tán thông tin trái thuần phong mỹ tục; gian lận, dối trá, vu khống, gây hiềm khích; gây ồn ào, mất trật tự. [cite: 20-25]"
+        "response": "Bao gồm: thành lập, tham gia các hoạt động chính trị trái pháp luật; tổ chức, tham gia các hoạt động tập thể khi chưa được cho phép; hút thuốc, sử dụng đồ uống có cồn, chất cấm trong cơ sở giáo dục; sử dụng mạng xã hội để phát tán thông tin trái thuần phong mỹ tục; gian lận, dối trá, vu khống, gây hiềm khích; gây ồn ào, mất trật tự."
       },
       {
         "prompt": "Quy tắc ứng xử với cán bộ, giảng viên, nhân viên là gì?",
-        "response": "Bao gồm: thực hiện nghiêm túc các quy chế, quy định; kính trọng, lễ phép, trung thực; không sử dụng mạng xã hội để đăng tin thiếu tính xây dựng; nghiêm túc thực hiện quy chế thi; khách quan, trung thực trong phản hồi; tích cực hợp tác trong các hoạt động; tham gia phòng chống tiêu cực, gian lận. [cite: 26-32]"
+        "response": "Bao gồm: thực hiện nghiêm túc các quy chế, quy định; kính trọng, lễ phép, trung thực; không sử dụng mạng xã hội để đăng tin thiếu tính xây dựng; nghiêm túc thực hiện quy chế thi; khách quan, trung thực trong phản hồi; tích cực hợp tác trong các hoạt động; tham gia phòng chống tiêu cực, gian lận."
       },
       {
         "prompt": "Quy tắc ứng xử với bạn học là gì?",
-        "response": "Bao gồm: tôn trọng sự khác biệt, ứng xử chân thành, thân thiện; không ganh ghét, đố kỵ, kỳ thị; sử dụng ngôn từ trong sáng; biết lắng nghe và phản hồi mang tính xây dựng; không chen lấn, xô đẩy; đoàn kết, giúp đỡ lẫn nhau; tôn trọng đối thủ trong thi đấu thể thao. [cite: 33-39]"
+        "response": "Bao gồm: tôn trọng sự khác biệt, ứng xử chân thành, thân thiện; không ganh ghét, đố kỵ, kỳ thị; sử dụng ngôn từ trong sáng; biết lắng nghe và phản hồi mang tính xây dựng; không chen lấn, xô đẩy; đoàn kết, giúp đỡ lẫn nhau; tôn trọng đối thủ trong thi đấu thể thao."
       },
       {
         "prompt": "Quy tắc ứng xử với khách đến thăm và làm việc tại trường là gì?",
-        "response": "Bao gồm: có thái độ lịch sự, lễ phép trong giao tiếp; nhiệt tình giúp đỡ, hướng dẫn và giải thích trong giới hạn cho phép và hiểu biết của mình khi khách có yêu cầu. [cite: 40-41]"
+        "response": "Bao gồm: có thái độ lịch sự, lễ phép trong giao tiếp; nhiệt tình giúp đỡ, hướng dẫn và giải thích trong giới hạn cho phép và hiểu biết của mình khi khách có yêu cầu."
       },
       {
         "prompt": "Trách nhiệm của các Khoa, Bộ môn trong việc thực hiện Quy tắc ứng xử là gì?",
-        "response": "Có trách nhiệm quán triệt đến người học đang học tập tại trường Đại học Quốc tế việc thực hiện Quy tắc ứng xử của người học. [cite: 42-43]"
+        "response": "Có trách nhiệm quán triệt đến người học đang học tập tại trường Đại học Quốc tế việc thực hiện Quy tắc ứng xử của người học."
       },
       {
         "prompt": "Trách nhiệm của người học trong việc thực hiện Quy tắc ứng xử là gì?",
-        "response": "Toàn thể người học đang học tập tại Trường đều phải có trách nhiệm thực hiện đúng, đồng thời vận động, nhắc nhở những người học khác thực hiện nghiêm túc các nội dung trong Quy tắc ứng xử. [cite: 44-45]"
+        "response": "Toàn thể người học đang học tập tại Trường đều phải có trách nhiệm thực hiện đúng, đồng thời vận động, nhắc nhở những người học khác thực hiện nghiêm túc các nội dung trong Quy tắc ứng xử. "
       },
       {
         "prompt": "Trách nhiệm của Phòng Công tác Sinh viên trong việc thực hiện Quy tắc ứng xử là gì?",
-        "response": "Phối hợp với Phòng Đào tạo đại học, các đơn vị Khoa, Bộ môn, Phòng Thanh tra Pháp chế, Phòng Bảo đảm Chất lượng Giáo dục, Đoàn thanh niên và Hội sinh viên Trường trong việc ban hành và theo dõi việc thực hiện Quy tắc ứng xử. [cite: 46-47]"
+        "response": "Phối hợp với Phòng Đào tạo đại học, các đơn vị Khoa, Bộ môn, Phòng Thanh tra Pháp chế, Phòng Bảo đảm Chất lượng Giáo dục, Đoàn thanh niên và Hội sinh viên Trường trong việc ban hành và theo dõi việc thực hiện Quy tắc ứng xử."
       },
       {
         "prompt": "Trách nhiệm của Phòng Đào tạo đại học trong việc thực hiện Quy tắc ứng xử là gì?",
-        "response": "Có trách nhiệm rà soát, hoàn thiện các văn bản liên quan làm cơ sở xây dựng Bộ Quy tắc ứng xử dành cho người học như quy chế học vụ, quy chế công tác học sinh sinh viên, quy chế đánh giá điểm rèn luyện, nội quy sinh viên. [cite: 48-49]"
+        "response": "Có trách nhiệm rà soát, hoàn thiện các văn bản liên quan làm cơ sở xây dựng Bộ Quy tắc ứng xử dành cho người học như quy chế học vụ, quy chế công tác học sinh sinh viên, quy chế đánh giá điểm rèn luyện, nội quy sinh viên."
       },
       {
         "prompt": "Trách nhiệm của các Khoa, Bộ môn, Đoàn thanh niên, Hội sinh viên trong việc tuyên truyền Quy tắc ứng xử là gì?",
-        "response": "Có trách nhiệm tuyên truyền, tổ chức các hoạt động tạo môi trường văn hóa trong trường học và tuyên truyền các mô hình văn hóa ứng xử cho học sinh, sinh viên trong suốt năm học. [cite: 50-51]"
+        "response": "Có trách nhiệm tuyên truyền, tổ chức các hoạt động tạo môi trường văn hóa trong trường học và tuyên truyền các mô hình văn hóa ứng xử cho học sinh, sinh viên trong suốt năm học."
       },
       {
         "prompt": "Trách nhiệm của Phòng Đào tạo đại học và Phòng Bảo đảm Chất lượng Giáo dục trong việc kiểm tra, đánh giá là gì?",
-        "response": "Tổ chức kiểm tra, đánh giá, lấy ý kiến phản hồi quá trình thực hiện từ các khoa, bộ môn, người học; phát hiện, giới thiệu Phòng Công tác Sinh viên khen thưởng các tấm gương điển hình trong việc xây dựng văn hóa ứng xử trong nhà trường. [cite: 52-53]"
+        "response": "Tổ chức kiểm tra, đánh giá, lấy ý kiến phản hồi quá trình thực hiện từ các khoa, bộ môn, người học; phát hiện, giới thiệu Phòng Công tác Sinh viên khen thưởng các tấm gương điển hình trong việc xây dựng văn hóa ứng xử trong nhà trường."
       },
       {
         "prompt": "Quy định về việc xử lý các vấn đề vướng mắc trong quá trình thực hiện là gì?",
-        "response": "Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc hoặc phát sinh, các đơn vị phản ánh về Phòng Công tác Sinh viên để tổng hợp trình Hiệu trưởng xem xét, điều chỉnh, bổ sung cho phù hợp. [cite: 54-55]"
+        "response": "Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc hoặc phát sinh, các đơn vị phản ánh về Phòng Công tác Sinh viên để tổng hợp trình Hiệu trưởng xem xét, điều chỉnh, bổ sung cho phù hợp. "
       },
       {
         "prompt": "Hiệu lực thi hành của Quy tắc ứng xử được quy định như thế nào?",
-        "response": "Quy tắc ứng xử có hiệu lực kể từ ngày ký Quyết định. Những trường hợp vi phạm không thuộc phạm vi của Quy tắc ứng xử sẽ được xử lý theo pháp luật quy định. [cite: 56-57]"
+        "response": "Quy tắc ứng xử có hiệu lực kể từ ngày ký Quyết định. Những trường hợp vi phạm không thuộc phạm vi của Quy tắc ứng xử sẽ được xử lý theo pháp luật quy định."
       },
       {
         "prompt": "Quy định về việc điều chỉnh Quy tắc ứng xử là gì?",
-        "response": "Trong trường hợp cần thiết, Hiệu trưởng có thể quyết định điều chỉnh quy định cụ thể cho phù hợp với tình hình thực tế và hướng dẫn để các đơn vị áp dụng tạm thời trước khi xem xét sửa đổi chính thức. [cite: 58-59]"
+        "response": "Trong trường hợp cần thiết, Hiệu trưởng có thể quyết định điều chỉnh quy định cụ thể cho phù hợp với tình hình thực tế và hướng dẫn để các đơn vị áp dụng tạm thời trước khi xem xét sửa đổi chính thức."
       },
       {
         "prompt": "Quy định về trang phục của người học là gì?",
-        "response": "Trang phục, diện mạo của người học phải phù hợp với lứa tuổi và hoạt động giáo dục. Không trang điểm, ăn mặc phản cảm làm xấu đi hình ảnh của bản thân và nhà trường. [cite: 60-61]"
+        "response": "Trang phục, diện mạo của người học phải phù hợp với lứa tuổi và hoạt động giáo dục. Không trang điểm, ăn mặc phản cảm làm xấu đi hình ảnh của bản thân và nhà trường."
       },
       {
         "prompt": "Quy định về việc sử dụng mạng xã hội của người học là gì?",
-        "response": "Không được sử dụng mạng xã hội để phát tán, tuyên truyền, bình luận những thông tin hoặc hình ảnh trái thuần phong mỹ tục, trái đường lối của Đảng, chính sách, pháp luật của nhà nước hoặc làm ảnh hưởng xấu đến môi trường giáo dục. [cite: 62-63]"
+        "response": "Không được sử dụng mạng xã hội để phát tán, tuyên truyền, bình luận những thông tin hoặc hình ảnh trái thuần phong mỹ tục, trái đường lối của Đảng, chính sách, pháp luật của nhà nước hoặc làm ảnh hưởng xấu đến môi trường giáo dục."
       },
       {
         "prompt": "Quy định về việc bảo vệ cơ sở vật chất của người học là gì?",
-        "response": "Phải bảo vệ, giữ gìn cảnh quan cơ sở giáo dục; xây dựng môi trường giáo dục an toàn, thân thiện, xanh, sạch, đẹp. Giữ gìn và bảo vệ cơ sở vật chất, trang thiết bị dạy và học, thực hành tiết kiệm, chống lãng phí của công. [cite: 64-65]"
+        "response": "Phải bảo vệ, giữ gìn cảnh quan cơ sở giáo dục; xây dựng môi trường giáo dục an toàn, thân thiện, xanh, sạch, đẹp. Giữ gìn và bảo vệ cơ sở vật chất, trang thiết bị dạy và học, thực hành tiết kiệm, chống lãng phí của công."
       },
       {
         "prompt": "Quy định về việc tham gia các hoạt động xã hội của người học là gì?",
-        "response": "Phải tham gia lao động và hoạt động xã hội, hoạt động bảo vệ môi trường phù hợp với năng lực, sức khỏe và yêu cầu của nhà trường. [cite: 66-67]"
+        "response": "Phải tham gia lao động và hoạt động xã hội, hoạt động bảo vệ môi trường phù hợp với năng lực, sức khỏe và yêu cầu của nhà trường."
       },
       {
         "prompt": "Quy định về việc thực hiện lối sống của người học là gì?",
-        "response": "Phải thực hiện lối sống lành mạnh, tích cực, quan tâm chia sẻ và giúp đỡ người khác. [cite: 68-69]"
+        "response": "Phải thực hiện lối sống lành mạnh, tích cực, quan tâm chia sẻ và giúp đỡ người khác."
       },
       {
         "prompt": "Quy định về việc chấp hành nghĩa vụ quân sự của người học là gì?",
-        "response": "Phải chấp hành nghiêm chỉnh Luật Nghĩa vụ quân sự: đăng ký tạm hoãn nghĩa vụ quân sự tại địa phương trong thời gian học tập tại trường; chấp hành lệnh điều động tham dự huấn luyện sĩ quan dự bị trong quá trình học tập tại trường hoặc phục vụ các lực lượng Vũ trang sau khi tốt nghiệp. [cite: 70-71]"
+        "response": "Phải chấp hành nghiêm chỉnh Luật Nghĩa vụ quân sự: đăng ký tạm hoãn nghĩa vụ quân sự tại địa phương trong thời gian học tập tại trường; chấp hành lệnh điều động tham dự huấn luyện sĩ quan dự bị trong quá trình học tập tại trường hoặc phục vụ các lực lượng Vũ trang sau khi tốt nghiệp."
       }
     ]
   },
@@ -4587,103 +4587,103 @@
     "qa_pairs": [
       {
         "prompt": "Nội quy này được ban hành nhằm mục đích gì?",
-        "response": "Để đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc gia TP.HCM. [cite: 1-2]"
+        "response": "Để đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc gia TP.HCM."
       },
       {
         "prompt": "Nội quy này được ban hành theo quyết định nào?",
-        "response": "Ban hành theo Quyết định số 276/QĐ-ĐHQT/ĐT ngày 10/9/2008 của Hiệu trưởng Trường Đại học Quốc tế Tp.HCM. [cite: 3-4]"
+        "response": "Ban hành theo Quyết định số 276/QĐ-ĐHQT/ĐT ngày 10/9/2008 của Hiệu trưởng Trường Đại học Quốc tế Tp.HCM."
       },
       {
         "prompt": "Quy định về việc lên lớp và trang phục của sinh viên là gì?",
-        "response": "Phải lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh lịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường bằng Tiếng Anh. [cite: 5-7]"
+        "response": "Phải lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh lịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường bằng Tiếng Anh."
       },
       {
         "prompt": "Quy định về thái độ với thầy cô và bạn bè là gì?",
-        "response": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa đồng và sẵn sàng giúp đỡ bạn bè. [cite: 8-9]"
+        "response": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa đồng và sẵn sàng giúp đỡ bạn bè. "
       },
       {
         "prompt": "Quy định về việc đi xe buýt là gì?",
-        "response": "Cần xếp hàng thứ tự trước sau khi lên xe, giữ gìn vệ sinh, văn minh lịch sự và trật tự trên xe buýt. [cite: 10-11]"
+        "response": "Cần xếp hàng thứ tự trước sau khi lên xe, giữ gìn vệ sinh, văn minh lịch sự và trật tự trên xe buýt."
       },
       {
         "prompt": "Quy định về vệ sinh và sử dụng phòng học là gì?",
-        "response": "Phải giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không được mang hoặc sử dụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm. [cite: 12-13]"
+        "response": "Phải giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không được mang hoặc sử dụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm."
       },
       {
         "prompt": "Quy định về việc nghỉ trưa là gì?",
-        "response": "Không được nằm ở khu vực hành lang, trên lối đi. Được nghỉ trưa tại phòng học từ 11 giờ 30 đến 12 giờ 30. [cite: 14-15]"
+        "response": "Không được nằm ở khu vực hành lang, trên lối đi. Được nghỉ trưa tại phòng học từ 11 giờ 30 đến 12 giờ 30."
       },
       {
         "prompt": "Quy định về an ninh trật tự trong khuôn viên trường là gì?",
-        "response": "Phải đảm bảo an ninh trật tự trong khuôn viên nhà trường, không gây tiếng ồn, không sử dụng các phương tiện gây tiếng ồn; không chơi thể thao, chạy nhảy đùa giỡn trong phòng học, khu vực gần phòng học, khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường. [cite: 16-18]"
+        "response": "Phải đảm bảo an ninh trật tự trong khuôn viên nhà trường, không gây tiếng ồn, không sử dụng các phương tiện gây tiếng ồn; không chơi thể thao, chạy nhảy đùa giỡn trong phòng học, khu vực gần phòng học, khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường."
       },
       {
         "prompt": "Quy định về việc tuân thủ quy định chung của tòa nhà là gì?",
-        "response": "Phải tuân thủ theo tất cả quy định chung của tòa nhà Điều hành ĐHQG-HCM. Các loại phương tiện vào trường phải gửi đúng nơi quy định. [cite: 19-20]"
+        "response": "Phải tuân thủ theo tất cả quy định chung của tòa nhà Điều hành ĐHQG-HCM. Các loại phương tiện vào trường phải gửi đúng nơi quy định."
       },
       {
         "prompt": "Quy định về việc bảo quản tài sản và trang thiết bị là gì?",
-        "response": "Phải giữ gìn bảo quản tài sản và các trang thiết bị của nhà trường. Thực hiện tốt quy định về việc mượn và trả thiết bị phục vụ công tác giảng dạy. Không tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không dán giấy, viết vẽ trên tường, bàn học. [cite: 21-23]"
+        "response": "Phải giữ gìn bảo quản tài sản và các trang thiết bị của nhà trường. Thực hiện tốt quy định về việc mượn và trả thiết bị phục vụ công tác giảng dạy. Không tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không dán giấy, viết vẽ trên tường, bàn học."
       },
       {
         "prompt": "Quy định về việc tổ chức hội họp và sử dụng trang thiết bị là gì?",
-        "response": "Chỉ được phép tổ chức hội họp, di chuyển bàn ghế, trang trí phòng học, sử dụng các trang thiết bị khi có sự chấp thuận của Phòng Quản trị Thiết bị. [cite: 24-25]"
+        "response": "Chỉ được phép tổ chức hội họp, di chuyển bàn ghế, trang trí phòng học, sử dụng các trang thiết bị khi có sự chấp thuận của Phòng Quản trị Thiết bị."
       },
       {
         "prompt": "Quy định về việc sử dụng trang thiết bị của nhà trường là gì?",
-        "response": "Không được sử dụng trang thiết bị của nhà trường vào các mục đích khác với học tập và nghiên cứu. [cite: 26-27]"
+        "response": "Không được sử dụng trang thiết bị của nhà trường vào các mục đích khác với học tập và nghiên cứu."
       },
       {
         "prompt": "Quy định về việc sử dụng thang máy là gì?",
-        "response": "Không được đùa giỡn trong thang máy, tùy tiện bấm chọn các tầng khi không có nhu cầu. [cite: 28-29]"
+        "response": "Không được đùa giỡn trong thang máy, tùy tiện bấm chọn các tầng khi không có nhu cầu."
       },
       {
         "prompt": "Quy định về việc hút thuốc và uống rượu bia là gì?",
-        "response": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học. [cite: 30-31]"
+        "response": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học."
       },
       {
         "prompt": "Quy định về các hoạt động bị cấm là gì?",
-        "response": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép. [cite: 32-33]"
+        "response": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
       },
       {
         "prompt": "Quy định về việc sản xuất, buôn bán và sử dụng các chất cấm là gì?",
-        "response": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất gây cháy nổ, chất ma túy, hàng cấm; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet. [cite: 34-35]"
+        "response": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất gây cháy nổ, chất ma túy, hàng cấm; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet."
       },
       {
         "prompt": "Quy định về các hoạt động tôn giáo và mê tín dị đoan là gì?",
-        "response": "Nghiêm cấm tổ chức, tham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn giáo trong nhà trường và các hoạt động vi phạm đạo đức khác. [cite: 36-37]"
+        "response": "Nghiêm cấm tổ chức, tham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn giáo trong nhà trường và các hoạt động vi phạm đạo đức khác."
       },
       {
         "prompt": "Hiệu lực thi hành của nội quy này là gì?",
-        "response": "Nội quy này được áp dụng kể từ ngày ký. [cite: 38-39]"
+        "response": "Nội quy này được áp dụng kể từ ngày ký."
       },
       {
         "prompt": "Quy định về xử lý vi phạm nội quy là gì?",
-        "response": "Mọi vi phạm tùy mức độ cụ thể sẽ được xử lý từ khiển trách đến buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan chức năng xử lý theo qui định của pháp luật. [cite: 40-41]"
+        "response": "Mọi vi phạm tùy mức độ cụ thể sẽ được xử lý từ khiển trách đến buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan chức năng xử lý theo qui định của pháp luật."
       },
       {
         "prompt": "Quy định về việc sử dụng phòng học và giảng đường là gì?",
-        "response": "Không được mang thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm. Không được chơi thể thao, chạy nhảy đùa giỡn trong phòng học và khu vực gần phòng học. [cite: 42-43]"
+        "response": "Không được mang thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm. Không được chơi thể thao, chạy nhảy đùa giỡn trong phòng học và khu vực gần phòng học."
       },
       {
         "prompt": "Quy định về việc sử dụng khu vực hành chính là gì?",
-        "response": "Không được gây ồn ào, mất trật tự trong khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường. [cite: 44-45]"
+        "response": "Không được gây ồn ào, mất trật tự trong khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường."
       },
       {
         "prompt": "Quy định về việc sử dụng tài sản công là gì?",
-        "response": "Phải giữ gìn và bảo vệ tài sản công, không được tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không được dán giấy, viết vẽ trên tường, bàn học. [cite: 46-47]"
+        "response": "Phải giữ gìn và bảo vệ tài sản công, không được tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không được dán giấy, viết vẽ trên tường, bàn học."
       },
       {
         "prompt": "Quy định về việc sử dụng Internet trong trường là gì?",
-        "response": "Cấm truy cập các nguồn thông tin không lành mạnh trên Internet. [cite: 48-49]"
+        "response": "Cấm truy cập các nguồn thông tin không lành mạnh trên Internet."
       },
       {
         "prompt": "Quy định về việc tổ chức các hoạt động trong trường là gì?",
-        "response": "Không được tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép. [cite: 50-51]"
+        "response": "Không được tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
       },
       {
         "prompt": "Quy định về việc sử dụng ngôn ngữ giao tiếp trong trường là gì?",
-        "response": "Ngôn ngữ giao tiếp trong khuôn viên Nhà trường phải bằng Tiếng Anh. [cite: 52-53]"
+        "response": "Ngôn ngữ giao tiếp trong khuôn viên Nhà trường phải bằng Tiếng Anh"
       }
     ]
   },
@@ -5758,5 +5758,325 @@
   {
     "prompt": "Lộ trình học tập của ngành Quản Trị Doanh Nghiệp qua các năm như thế nào?",
     "response": "Chương trình học:\nNăm 1:\n\nHọc kì 1:\nEN007IU – Writing AE1 (2)\nEN008IU – Listening AE1 (2)\nBA117IU – Introduction to Microeconomics (3)\nBA115IU – Introduction to Business Administration (3)\nBA120IU – Business Computing Skills (3)\nBA005IU – Financial Accounting (3)\nPE015IU – Philosophy of Marxism and Leninism (3)\nPT001IU – Physical Training 1 (TD)\n\nHọc kì 2:\nEN011IU – Writing AE2 (2)\nEN012IU – Speaking AE2 (2)\nBA282IU – Math for Business (4)\nBA119IU – Introduction to Macro Economics (3)\nBA123IU – Principles of Management (3)\nPE016IU - Political economics of Marxism and Leninism (2)\nPE008IU – Critical Thinking (3) (Summer semester)\nPE017IU - Scientific Socialism (2) (Summer semester)\n\nPT002IU – Physical Training 2 (TD)\n\n\nNăm 2:\nHọc kì 1:\nBA003IU – Principles of Marketing (3)\nBA080IU – Statistics for Business (3)\nPE021IU – General Law (3)\nPE018IU - History of Vietnamese Communist Party (2)\nChọn 01 trong 02 môn học:\nBA118IU – Introduction to Psychology (3)\nBA197IU – Introduction to Sociology (3)\n\nHọc kì 2:\nBA256IU – Workshop 1 (3)\nBA130IU – Organizational Behavior (3)\nBA068IU – International Economics (3)\nBA168IU – Quantitative Methods for Business (3)\nBA016IU – Fundamental of Financial Management (3)\nPE019IU – Ho Chi Minh’s Thoughts (2)\nChọn 01 trong 02 môn học:\nPE007IU – World Economic Geography (3)\nPE010IU – Vietnamese History and Culture (3)\n\nNăm 3:\nHọc kì 1:\nBA020IU – Business Ethics (3)\nBA081IU – Business Law (3)\nBA162IU – Strategy Formulation and Implementation (3)\nBA164IU – Production and Operations Management (3)\nChọn 01 trong 02 môn học:\nBA027IU – E – Commerce (3)\nBA169IU – Management Information Systems (3)\n\nHọc kì 2:\nBA018IU – Quality Management (3)\nBA006IU – Business Communication (3)\nBA154IU – Entrepreneurship and Small Business Management (3)\nBA156IU – Human Resource Management (3)\nBA153IU – Internship (3) \nBA255IU – Specialized Internship (3) (Summer Semester)\n\nNăm 4:\nHọc kì 1:\nBA022IU – Logistic and Supply Chain Management (3)\nBA023IU – Project Management (3)\nBA161IU – Business Research Methods (3)\nBA274IU – Workshop 2 on Business Management (2)\nMôn tự chọn 2 (3)\nMôn tự chọn 3 (3)\nHọc kì 2:\nBA170IU – Thesis (12)\n\nMôn tự chọn của QUẢN TRỊ DOANNH NGHIỆP: \n(chọn 03 trong 12 môn học bên dưới)\nBA032IU – Sales Management (3)\nBA038IU – Customer Service Management (3)\nBA051IU – International Financial Management (3)\nBA098IU – Leadership (3)\nBA140IU – Business Game (3)\nBA150IU – Special Study (3)\nBA151IU – International Business Management (3)\nBA158IU – Organizational Design and Change (3)\nBA160IU – Negotiation and Relationship Management (3)\nBA171IU – Risk Management (3)\nBA176IU – Franchising (3)\nBA285IU - Geographical Information System (3)\n"
+  },
+  {
+    "prompt": "Quy định về việc hút thuốc và uống rượu bia là gì?",
+    "response": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học."
+  },
+  {
+    "prompt": "Quy định về các hoạt động bị cấm là gì?",
+    "response": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
+  },
+  {
+    "prompt": "Trường Đại học Quốc tế (HCMIU) được thành lập vào ngày nào?",
+    "response": "Trường Đại học Quốc tế được Thủ tướng Chính phủ ký quyết định thành lập chính thức vào ngày 5/12/2003."
+  },
+  {
+    "prompt": "Trường Đại học Quốc tế là loại hình đại học nào?",
+    "response": "Trường Đại học Quốc tế là đại học quốc tế đầu tiên của Việt Nam và là đại học công lập đa ngành, đa lĩnh vực, thành viên của ĐHQG-HCM."
+  },
+  {
+    "prompt": "Tầm nhìn của Trường Đại học Quốc tế là gì?",
+    "response": "Trường ĐHQT phấn đấu trở thành trường đại học theo định hướng nghiên cứu hàng đầu tại Việt Nam và châu Á; là cơ sở giáo dục ngang tầm quốc tế, tự chủ, sáng tạo; là nơi vun đắp và phát triển nguồn nhân lực chất lượng cao cho thị trường lao động trong nước và quốc tế."
+  },
+  {
+    "prompt": "Sứ mạng của Trường Đại học Quốc tế là gì?",
+    "response": "Là cơ sở giáo dục quốc tế, mang bản sắc văn hóa Việt Nam. Là cơ sở giáo dục đại học đi tiên phong trong đổi mới cơ chế quản trị đại học theo mô hình tự chủ và tiên tiến. Đào tạo chất lượng cao đa ngành – đa lĩnh vực, đạt chuẩn kiểm định chất lượng giáo dục theo tiêu chuẩn quốc tế/khu vực. Giảng dạy và nghiên cứu thực hiện bằng tiếng Anh. Nghiên cứu cơ bản và ứng dụng, đáp ứng yêu cầu đổi mới sáng tạo và phát triển bền vững của doanh nghiệp, địa phương và xã hội; quan tâm, thúc đẩy các hoạt động kết nối và phục vụ cộng đồng."
+  },
+  {
+    "prompt": "Các giá trị cốt lõi của Trường Đại học Quốc tế là gì?",
+    "response": "Các giá trị cốt lõi bao gồm: Chất lượng, Sáng tạo, Chính trực, và Trách nhiệm."
+  },
+  {
+    "prompt": "Triết lý giáo dục của Trường Đại học Quốc tế là gì?",
+    "response": "Triết lý giáo dục của Trường Đại học Quốc tế là TOÀN DIỆN – KHAI PHÓNG – TIÊN PHONG – HỘI NHẬP."
+  },
+  {
+    "prompt": "Phòng Y tế có chức năng gì?",
+    "response": "Phòng Y tế tư vấn công tác y tế trường học cho Ban Giám Hiệu, tổ chức thực hiện công tác quản lý, chăm sóc sức khoẻ cho giảng viên, cán bộ công chức và sinh viên, sơ cứu, cấp cứu, khám bệnh, chữa bệnh theo phân tuyến kỹ thuật, chăm sóc sức khoẻ ban đầu, cấp thuốc thông thường, chuyển bệnh nhân lên cơ sở y tế tuyến trên trong những trường hợp cần thiết."
+  },
+  {
+    "prompt": "Phòng Đào tạo Đại học có nhiệm vụ gì?",
+    "response": "Phòng Đào tạo Đại học tham mưu, giúp Hiệu trưởng trong kế hoạch đào tạo ngắn hạn và dài hạn, tổ chức chỉ đạo thực hiện, kiểm tra và giám sát toàn bộ công tác giảng dạy và học tập trong trường, các hệ đào tạo chính quy đại học và sau đại học. Đồng thời, phối hợp tổ chức lịch giảng dạy, đăng ký kiểm tra, thi và đánh giá kết quả học tập, theo dõi kiểm tra việc thực hiện qui chế giảng dạy, học tập, và tập hợp, thống kê, xử lý, lưu trữ thông tin về học vụ."
+  },
+  {
+    "prompt": "Khoa Quản trị Kinh doanh đào tạo các chuyên ngành nào?",
+    "response": "Khoa Quản trị Kinh doanh đào tạo cử nhân các chuyên ngành Quản trị Kinh doanh, Kinh doanh Quốc tế, Marketing, và Quản trị Khách sạn. Sau đại học có các chương trình Thạc sỹ Quản trị Kinh doanh (MBA) và chương trình Tiến sĩ."
+  },
+  {
+    "prompt": "Cơ hội nghề nghiệp cho sinh viên tốt nghiệp Khoa Công nghệ Thông tin là gì?",
+    "response": "Sinh viên tốt nghiệp Khoa Công nghệ Thông tin có thể làm việc tại các doanh nghiệp CNTT hàng đầu trong và ngoài nước như Renesas, FPT, DXC, GCS, TMA, Intel, VNG, TPS, Hitachi Vantara, Bosch, hoặc các ngân hàng, doanh nghiệp như BIDV, Sacombank, MB. Nhiều sinh viên cũng tiếp tục học lên Thạc sĩ và Tiến sĩ với học bổng toàn phần hoặc bán phần ở các trường Đại học hàng đầu thế giới."
+  },
+  {
+    "prompt": "Khoa Điện - Điện tử có các ngành đào tạo nào?",
+    "response": "Khoa Điện – Điện tử có các ngành đào tạo Kỹ thuật Điện tử – Viễn thông và Kỹ Thuật Điều Khiển và Tự Động Hóa."
+  },
+  {
+    "prompt": "Ngành Công nghệ Sinh học và Hóa sinh của Khoa Công nghệ Sinh học đã đạt chuẩn kiểm định nào?",
+    "response": "Ngành Công nghệ Sinh học và ngành Hóa sinh của Khoa CNSH đã đạt chuẩn kiểm định chất lượng giáo dục Châu Âu – ASIIN."
+  },
+  {
+    "prompt": "Sinh viên tốt nghiệp ngành Ngôn ngữ Anh có thể làm việc ở đâu?",
+    "response": "Sinh viên tốt nghiệp có thể làm việc trong các văn phòng chính phủ, nhà xuất bản, công ty chuyên về dịch thuật, phiên dịch, biên tập, du lịch, các viện nghiên cứu và trường đại học, các trường trung học, trung tâm ngoại ngữ, các công ty trong nước và quốc tế có nhu cầu về nhân lực chất lượng cao trong dịch vụ khách hàng, truyền thông và quan hệ đối ngoại, hoặc tiếp tục học sau đại học."
+  },
+  {
+    "prompt": "Khoa Kỹ thuật và Quản lý Công nghiệp tập trung vào các định hướng nghiên cứu nào?",
+    "response": "Khoa tập trung nghiên cứu Tối ưu hóa trong sản xuất và chuỗi cung ứng, Ra quyết định đa mục tiêu, Điều độ tối ưu, Quy hoạch toán học và Vận trù học, Mô phỏng và mô hình hóa, Giải thuật tìm kiếm tối ưu, Công nghệ thông minh trong quản lý sản xuất, thương mại điện tử, chuỗi cung ứng đông lạnh, Học máy và Trí tuệ nhân tạo, Internet Vạn Vật (IoT), và Đào tạo doanh nghiệp và chuyển giao công nghệ."
+  },
+  {
+    "prompt": "Mục tiêu của Khoa Kỹ thuật và Quản lý Xây dựng là gì?",
+    "response": "Mục tiêu của Khoa Kỹ thuật và Quản lý Xây dựng là cung cấp cho sinh viên những kiến thức cơ bản, vững chắc về các kiến thức kỹ thuật và quản lý, giúp sinh viên tốt nghiệp có chuyên môn vững chắc và trình độ ngoại ngữ cao, đáp ứng nhanh nhất cho yêu cầu kinh tế hội nhập và có khả năng làm chủ các công nghệ tiên tiến trong xây dựng."
+  },
+  {
+    "prompt": "Khoa Kỹ thuật Y Sinh tập trung vào những hướng phát triển chính nào?",
+    "response": "Khoa Kỹ thuật Y Sinh đang đẩy mạnh phát triển hai hướng chính là: Thiết kế và ứng dụng thiết bị y tế nhằm thỏa mãn nhu cầu cấp thiết của đất nước, và Y học tái tạo nhằm góp phần vào một hướng khoa học tiên tiến trong quá trình toàn cầu hóa."
+  },
+  {
+    "prompt": "Bộ môn Toán đào tạo các ngành đại học nào?",
+    "response": "Bộ môn Toán đang đào tạo bậc Đại học ngành Toán ứng dụng (Kỹ Thuật Tài Chính và Quản Trị Rủi Ro) từ năm 2013 và ngành Thống kê (Thống kê ứng dụng) từ năm 2023."
+  },
+  {
+    "prompt": "Ngành Kỹ thuật Không gian tại Bộ môn Vật lý đào tạo về những gì?",
+    "response": "Chương trình Kỹ thuật Không gian đào tạo các kỹ sư ứng dụng công nghệ vệ tinh, bao gồm xử lý và phân tích tín hiệu, hình ảnh vệ tinh, công nghệ viễn thám, định vị và phân tích và ứng dụng dữ liệu lớn."
+  },
+  {
+    "prompt": "Khoa Kỹ thuật Hóa học và Môi trường đào tạo các chương trình nào?",
+    "response": "Khoa Kỹ thuật Hóa học & Môi trường đào tạo Chương trình Kỹ thuật Hóa học và Chương trình Kỹ thuật Môi trường."
+  },
+  {
+    "prompt": "Khoa Kinh tế, Tài chính và Kế toán đào tạo các chuyên ngành nào?",
+    "response": "Chương trình đào tạo cấp đại học của Khoa gồm có các chuyên ngành: Kinh tế; Tài chính và Ngân hàng; và ngành Kế toán – Kiểm Toán."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Phòng A1.306 (Khoa Kinh tế, Tài chính và Kế toán), Trường Đại học Quốc tế – Đại học Quốc gia TP.HCM, Khu phố 6, phường Linh Trung, thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Điện thoại: (84-28) 37244270 – số nội bộ : 3344."
+  },
+  {
+    "prompt": "Email của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Email: efaiu@hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Website của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Website: https://efa.hcmiu.edu.vn/."
+  },
+  {
+    "prompt": "Quy định về việc hút thuốc và uống rượu bia là gì?",
+    "response": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học."
+  },
+  {
+    "prompt": "Quy định về các hoạt động bị cấm là gì?",
+    "response": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
+  },
+  {
+    "prompt": "Trường Đại học Quốc tế (HCMIU) được thành lập vào ngày nào?",
+    "response": "Trường Đại học Quốc tế được Thủ tướng Chính phủ ký quyết định thành lập chính thức vào ngày 5/12/2003."
+  },
+  {
+    "prompt": "Trường Đại học Quốc tế là loại hình đại học nào?",
+    "response": "Trường Đại học Quốc tế là đại học quốc tế đầu tiên của Việt Nam và là đại học công lập đa ngành, đa lĩnh vực, thành viên của ĐHQG-HCM."
+  },
+  {
+    "prompt": "Tầm nhìn của Trường Đại học Quốc tế là gì?",
+    "response": "Trường ĐHQT phấn đấu trở thành trường đại học theo định hướng nghiên cứu hàng đầu tại Việt Nam và châu Á; là cơ sở giáo dục ngang tầm quốc tế, tự chủ, sáng tạo; là nơi vun đắp và phát triển nguồn nhân lực chất lượng cao cho thị trường lao động trong nước và quốc tế."
+  },
+  {
+    "prompt": "Sứ mạng của Trường Đại học Quốc tế là gì?",
+    "response": "Là cơ sở giáo dục quốc tế, mang bản sắc văn hóa Việt Nam. Là cơ sở giáo dục đại học đi tiên phong trong đổi mới cơ chế quản trị đại học theo mô hình tự chủ và tiên tiến. Đào tạo chất lượng cao đa ngành – đa lĩnh vực, đạt chuẩn kiểm định chất lượng giáo dục theo tiêu chuẩn quốc tế/khu vực. Giảng dạy và nghiên cứu thực hiện bằng tiếng Anh. Nghiên cứu cơ bản và ứng dụng, đáp ứng yêu cầu đổi mới sáng tạo và phát triển bền vững của doanh nghiệp, địa phương và xã hội; quan tâm, thúc đẩy các hoạt động kết nối và phục vụ cộng đồng."
+  },
+  {
+    "prompt": "Các giá trị cốt lõi của Trường Đại học Quốc tế là gì?",
+    "response": "Các giá trị cốt lõi bao gồm: Chất lượng, Sáng tạo, Chính trực, và Trách nhiệm."
+  },
+  {
+    "prompt": "Triết lý giáo dục của Trường Đại học Quốc tế là gì?",
+    "response": "Triết lý giáo dục của Trường Đại học Quốc tế là TOÀN DIỆN – KHAI PHÓNG – TIÊN PHONG – HỘI NHẬP."
+  },
+  {
+    "prompt": "Phòng Y tế có chức năng gì?",
+    "response": "Phòng Y tế tư vấn công tác y tế trường học cho Ban Giám Hiệu, tổ chức thực hiện công tác quản lý, chăm sóc sức khoẻ cho giảng viên, cán bộ công chức và sinh viên, sơ cứu, cấp cứu, khám bệnh, chữa bệnh theo phân tuyến kỹ thuật, chăm sóc sức khoẻ ban đầu, cấp thuốc thông thường, chuyển bệnh nhân lên cơ sở y tế tuyến trên trong những trường hợp cần thiết."
+  },
+  {
+    "prompt": "Phòng Đào tạo Đại học có nhiệm vụ gì?",
+    "response": "Phòng Đào tạo Đại học tham mưu, giúp Hiệu trưởng trong kế hoạch đào tạo ngắn hạn và dài hạn, tổ chức chỉ đạo thực hiện, kiểm tra và giám sát toàn bộ công tác giảng dạy và học tập trong trường, các hệ đào tạo chính quy đại học và sau đại học. Đồng thời, phối hợp tổ chức lịch giảng dạy, đăng ký kiểm tra, thi và đánh giá kết quả học tập, theo dõi kiểm tra việc thực hiện qui chế giảng dạy, học tập, và tập hợp, thống kê, xử lý, lưu trữ thông tin về học vụ."
+  },
+  {
+    "prompt": "Khoa Quản trị Kinh doanh đào tạo các chuyên ngành nào?",
+    "response": "Khoa Quản trị Kinh doanh đào tạo cử nhân các chuyên ngành Quản trị Kinh doanh, Kinh doanh Quốc tế, Marketing, và Quản trị Khách sạn. Sau đại học có các chương trình Thạc sỹ Quản trị Kinh doanh (MBA) và chương trình Tiến sĩ."
+  },
+  {
+    "prompt": "Cơ hội nghề nghiệp cho sinh viên tốt nghiệp Khoa Công nghệ Thông tin là gì?",
+    "response": "Sinh viên tốt nghiệp Khoa Công nghệ Thông tin có thể làm việc tại các doanh nghiệp CNTT hàng đầu trong và ngoài nước như Renesas, FPT, DXC, GCS, TMA, Intel, VNG, TPS, Hitachi Vantara, Bosch, hoặc các ngân hàng, doanh nghiệp như BIDV, Sacombank, MB. Nhiều sinh viên cũng tiếp tục học lên Thạc sĩ và Tiến sĩ với học bổng toàn phần hoặc bán phần ở các trường Đại học hàng đầu thế giới."
+  },
+  {
+    "prompt": "Khoa Điện - Điện tử có các ngành đào tạo nào?",
+    "response": "Khoa Điện – Điện tử có các ngành đào tạo Kỹ thuật Điện tử – Viễn thông và Kỹ Thuật Điều Khiển và Tự Động Hóa."
+  },
+  {
+    "prompt": "Ngành Công nghệ Sinh học và Hóa sinh của Khoa Công nghệ Sinh học đã đạt chuẩn kiểm định nào?",
+    "response": "Ngành Công nghệ Sinh học và ngành Hóa sinh của Khoa CNSH đã đạt chuẩn kiểm định chất lượng giáo dục Châu Âu – ASIIN."
+  },
+  {
+    "prompt": "Sinh viên tốt nghiệp ngành Ngôn ngữ Anh có thể làm việc ở đâu?",
+    "response": "Sinh viên tốt nghiệp có thể làm việc trong các văn phòng chính phủ, nhà xuất bản, công ty chuyên về dịch thuật, phiên dịch, biên tập, du lịch, các viện nghiên cứu và trường đại học, các trường trung học, trung tâm ngoại ngữ, các công ty trong nước và quốc tế có nhu cầu về nhân lực chất lượng cao trong dịch vụ khách hàng, truyền thông và quan hệ đối ngoại, hoặc tiếp tục học sau đại học."
+  },
+  {
+    "prompt": "Khoa Kỹ thuật và Quản lý Công nghiệp tập trung vào các định hướng nghiên cứu nào?",
+    "response": "Khoa tập trung nghiên cứu Tối ưu hóa trong sản xuất và chuỗi cung ứng, Ra quyết định đa mục tiêu, Điều độ tối ưu, Quy hoạch toán học và Vận trù học, Mô phỏng và mô hình hóa, Giải thuật tìm kiếm tối ưu, Công nghệ thông minh trong quản lý sản xuất, thương mại điện tử, chuỗi cung ứng đông lạnh, Học máy và Trí tuệ nhân tạo, Internet Vạn Vật (IoT), và Đào tạo doanh nghiệp và chuyển giao công nghệ."
+  },
+  {
+    "prompt": "Mục tiêu của Khoa Kỹ thuật và Quản lý Xây dựng là gì?",
+    "response": "Mục tiêu của Khoa Kỹ thuật và Quản lý Xây dựng là cung cấp cho sinh viên những kiến thức cơ bản, vững chắc về các kiến thức kỹ thuật và quản lý, giúp sinh viên tốt nghiệp có chuyên môn vững chắc và trình độ ngoại ngữ cao, đáp ứng nhanh nhất cho yêu cầu kinh tế hội nhập và có khả năng làm chủ các công nghệ tiên tiến trong xây dựng."
+  },
+  {
+    "prompt": "Khoa Kỹ thuật Y Sinh tập trung vào những hướng phát triển chính nào?",
+    "response": "Khoa Kỹ thuật Y Sinh đang đẩy mạnh phát triển hai hướng chính là: Thiết kế và ứng dụng thiết bị y tế nhằm thỏa mãn nhu cầu cấp thiết của đất nước, và Y học tái tạo nhằm góp phần vào một hướng khoa học tiên tiến trong quá trình toàn cầu hóa."
+  },
+  {
+    "prompt": "Bộ môn Toán đào tạo các ngành đại học nào?",
+    "response": "Bộ môn Toán đang đào tạo bậc Đại học ngành Toán ứng dụng (Kỹ Thuật Tài Chính và Quản Trị Rủi Ro) từ năm 2013 và ngành Thống kê (Thống kê ứng dụng) từ năm 2023."
+  },
+  {
+    "prompt": "Ngành Kỹ thuật Không gian tại Bộ môn Vật lý đào tạo về những gì?",
+    "response": "Chương trình Kỹ thuật Không gian đào tạo các kỹ sư ứng dụng công nghệ vệ tinh, bao gồm xử lý và phân tích tín hiệu, hình ảnh vệ tinh, công nghệ viễn thám, định vị và phân tích và ứng dụng dữ liệu lớn."
+  },
+  {
+    "prompt": "Khoa Kỹ thuật Hóa học và Môi trường đào tạo các chương trình nào?",
+    "response": "Khoa Kỹ thuật Hóa học & Môi trường đào tạo Chương trình Kỹ thuật Hóa học và Chương trình Kỹ thuật Môi trường."
+  },
+  {
+    "prompt": "Khoa Kinh tế, Tài chính và Kế toán đào tạo các chuyên ngành nào?",
+    "response": "Chương trình đào tạo cấp đại học của Khoa gồm có các chuyên ngành: Kinh tế; Tài chính và Ngân hàng; và ngành Kế toán – Kiểm Toán."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Phòng A1.306 (Khoa Kinh tế, Tài chính và Kế toán), Trường Đại học Quốc tế – Đại học Quốc gia TP.HCM, Khu phố 6, phường Linh Trung, thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Điện thoại: (84-28) 37244270 – số nội bộ : 3344."
+  },
+  {
+    "prompt": "Email của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Email: efaiu@hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Website của Khoa Kinh tế, Tài chính và Kế toán là gì?",
+    "response": "Website: https://efa.hcmiu.edu.vn/."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Phòng Tổ chức Cán bộ là gì?",
+    "response": "Phòng O2.709A, Trường Đại học Quốc tế, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Phòng Tổ chức Cán bộ là gì?",
+    "response": "Điện thoại: (028) 37244270."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Phòng Y tế là gì?",
+    "response": "Phòng O2 – 305, Trường Đại học Quốc tế, Khu phố 6, Phường Linh Trung, Quận Thủ Đức, TP. HCM."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Phòng Y tế là gì?",
+    "response": "Điện thoại: (028) 37244270 – số máy lẻ: 3369."
+  },
+  {
+    "prompt": "Fax của Phòng Y tế là gì?",
+    "response": "Fax: (84-28) 37-244-271."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Phòng Đào tạo Đại học là gì?",
+    "response": "Phòng O2 – 708, Trường Đại học Quốc tế, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Phòng Đào tạo Đại học là gì?",
+    "response": "Điện thoại: (028) 37244270 – số máy lẻ: 3777, 3229."
+  },
+  {
+    "prompt": "Fax của Phòng Đào tạo Đại học là gì?",
+    "response": "Fax: (028) 37244271."
+  },
+  {
+    "prompt": "Email của Phòng Đào tạo Đại học là gì?",
+    "response": "Email: pdtdh@hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Website của Phòng Đào tạo Đại học là gì?",
+    "response": "Website: https://ouaa.hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Phòng Đào tạo Sau Đại học là gì?",
+    "response": "Room O2 – 609, Trường Đại học Quốc tế, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Phòng Đào tạo Sau Đại học là gì?",
+    "response": "Telephone: (84)-28-37244270. Ext: 3120."
+  },
+  {
+    "prompt": "Fax của Phòng Đào tạo Sau Đại học là gì?",
+    "response": "Fax: (84-28) 37244271."
+  },
+  {
+    "prompt": "Website của Phòng Đào tạo Sau Đại học là gì?",
+    "response": "Website: https://oga.hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Phòng Quản lý Khoa học là gì?",
+    "response": "Phòng O2 – 705, Trường Đại học Quốc tế, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Phòng Quản lý Khoa học là gì?",
+    "response": "Điện thoại: (84-28) 37244270. Số máy lẻ: 3338 – 3855 – 3959."
+  },
+  {
+    "prompt": "Email của Phòng Quản lý Khoa học là gì?",
+    "response": "Email: qlkh@hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Fax của Phòng Quản lý Khoa học là gì?",
+    "response": "Fax: (84-28) 37244271."
+  },
+  {
+    "prompt": "Website của Phòng Quản lý Khoa học là gì?",
+    "response": "Website: https://ord.hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Phòng Quan hệ Đối ngoại là gì?",
+    "response": "Phòng O2 – 704, Trường Đại học Quốc tế, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Phòng Quan hệ Đối ngoại là gì?",
+    "response": "Điện thoại: (028) 37244270 – số máy lẻ: 3220."
+  },
+  {
+    "prompt": "Fax của Phòng Quan hệ Đối ngoại là gì?",
+    "response": "Fax: (028) 37244271."
+  },
+  {
+    "prompt": "Địa chỉ liên hệ của Phòng Kế hoạch Tài chính là gì?",
+    "response": "Phòng O2 – 701, Trường Đại học Quốc tế, Khu phố 6, Phường Linh Trung, Thành phố Thủ Đức, TP. HCM."
+  },
+  {
+    "prompt": "Số điện thoại liên hệ của Phòng Kế hoạch Tài chính là gì?",
+    "response": "Điện thoại: (028) 37244270 – số máy lẻ: 3420, 3837."
+  },
+  {
+    "prompt": "Fax của Phòng Kế hoạch Tài chính là gì?",
+    "response": "Fax: (028) 37244271."
+  },
+  {
+    "prompt": "Website của Phòng Kế hoạch Tài chính là gì?",
+    "response": "Website: https://khtc.hcmiu.edu.vn."
+  },
+  {
+    "prompt": "Phòng Công tác Sinh viên được thành lập khi nào?",
+    "response": "Phòng Công tác Sinh viên (PCTSV) được thành lập vào tháng 12/2009."
+  },
+  {
+    "prompt": "Chức năng của Phòng Công tác Sinh viên là gì?",
+    "response": "Phòng Công tác Sinh viên là đơn vị tham mưu giúp việc cho Ban Giám hiệu trong công tác thực hiện chế độ chính sách, học bổng Doanh nghiệp, khen thưởng-kỷ luật sinh viên; tư vấn và hỗ trợ sinh viên (học tập, kỹ năng mềm, kỹ năng sống đời sống, chỗ ở, việc làm, …); Tổ chức các dịch vụ; Chăm sóc sức khỏe; Quản lý sinh viên nội, ngoại trú."
   }
 ]
