@@ -1,0 +1,460 @@
+{
+  "document_id": "quy_dinh_diem_ren_luyen",
+  "type": "diem_ren_luyen",
+  "content": {
+    "danh_sach_tieu_chi": [
+      {
+        "id": "1",
+        "name": "Đánh giá về ý thức tham gia học tập (0-20đ)",
+        "max_points": "20",
+        "subcategories": [
+          {
+            "id": "1.1",
+            "name": "Kết quả học tập",
+            "items": [
+              {
+                "id": "1.1.1",
+                "description": "90 ≤ GPA ≤ 100",
+                "points": "+20",
+                "responsible_unit": "P.ĐTĐH"
+              },
+              {
+                "id": "1.1.2",
+                "description": "80 ≤ GPA < 90",
+                "points": "+18",
+                "responsible_unit": "P.ĐTĐH"
+              },
+              {
+                "id": "1.1.3",
+                "description": "70 ≤ GPA < 80",
+                "points": "+16",
+                "responsible_unit": "P.ĐTĐH"
+              },
+              {
+                "id": "1.1.4",
+                "description": "60 ≤ GPA < 70",
+                "points": "+14",
+                "responsible_unit": "P.ĐTĐH"
+              },
+              {
+                "id": "1.1.5",
+                "description": "50 ≤ GPA < 60",
+                "points": "+12",
+                "responsible_unit": "P.ĐTĐH"
+              },
+              {
+                "id": "1.1.6",
+                "description": "GPA < 50",
+                "points": "+10",
+                "responsible_unit": "P.ĐTĐH"
+              },
+              {
+                "id": "1.1.7",
+                "description": "Môn học không tính GPA (chương trình tiếng Anh tăng cường)",
+                "points": "+12",
+                "responsible_unit": "P.ĐTĐH"
+              },
+              {
+                "id": "1.1.8",
+                "description": "GPA tăng so với học kỳ trước",
+                "points": "+5",
+                "responsible_unit": "P.ĐTĐH"
+              }
+            ]
+          },
+          {
+            "id": "1.2",
+            "name": "Nghiên cứu khoa học, phát triển kỹ năng",
+            "items": [
+              {
+                "id": "1.2.1",
+                "description": "Tham gia 01 hoạt động nghiên cứu khoa học (Hội nghị/Bài báo/Đề tài nghiên cứu khoa học từ cấp Khoa/BM/Phòng/Trung tâm trở lên).",
+                "points": "+5",
+                "responsible_unit": "P.QLKH, Khoa/BM, ĐVK"
+              },
+              {
+                "id": "1.2.2",
+                "description": "Đăng ký tham gia đề tài nghiên cứu khoa học nhưng không thực hiện/không hoàn thành mà không có lý do chính đáng.",
+                "points": "-5",
+                "responsible_unit": "P.QLKH, Khoa/BM, ĐVK"
+              },
+              {
+                "id": "1.2.3",
+                "description": "Là thành viên tích cực của 01 phòng thí nghiệm.",
+                "points": "+5",
+                "responsible_unit": "Khoa/BM, ĐVK"
+              },
+              {
+                "id": "1.2.4",
+                "description": "Tham gia 01 khóa học đào tạo tăng cường về kỹ năng mềm, kỹ năng nghề nghiệp, hoặc có ý thức tốt trong học tập,… (có giấy chứng nhận/danh sách tham gia).",
+                "points": "+2",
+                "responsible_unit": "P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+              },
+              {
+                "id": "1.2.5",
+                "description": "Là trợ giảng môn học (có xác nhận của Khoa/BM/P.HTĐTNN).",
+                "points": "+10",
+                "responsible_unit": "Khoa/BM, P.HTĐTNN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Đánh giá về ý thức chấp hành nội quy, quy chế, quy định trong nhà trường (0-25đ)",
+        "max_points": "25",
+        "subcategories": [
+          {
+            "id": "2.1",
+            "name": "Tuân thủ các quy định trong và ngoài Nhà trường, tích cực tham gia các hoạt động do Trường/Khoa/BM/Lớp tổ chức.",
+            "items": []
+          },
+          {
+            "id": "2.2",
+            "name": "Trừ điểm khi vi phạm nội quy, quy chế trong và ngoài Nhà trường",
+            "items": [
+              {
+                "id": "2.2.1",
+                "description": "Mức cảnh cáo trở lên.",
+                "points": "-15",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, Khoa/BM,"
+              },
+              {
+                "id": "2.2.2",
+                "description": "Mức khiển trách.",
+                "points": "-10",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, Khoa/BM,"
+              },
+              {
+                "id": "2.2.3",
+                "description": "Mức bị lập biên bản.",
+                "points": "-5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, Khoa/BM,"
+              },
+              {
+                "id": "2.2.4",
+                "description": "Vi phạm các quy định khác theo Quy chế Công tác sinh viên, Quy chế Đào tạo Đại học, Quy chế thi.",
+                "points": "-5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, Khoa/BM,"
+              },
+              {
+                "id": "2.2.5",
+                "description": "Vi phạm các quy định của Nhà nước và quy định trong và ngoài khối ĐHQG-HCM.",
+                "points": "-5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, Khoa/BM,"
+              },
+              {
+                "id": "2.2.6",
+                "description": "Không tham gia sinh hoạt Lớp/Khoa/BM/Phòng tổ chức (theo diện bắt buộc) mà không xin phép trước với lý do chính đáng.",
+                "points": "-5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, P.HTĐTNN, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "2.2.7",
+                "description": "Đăng ký tham gia Sinh hoạt Công dân và các sinh hoạt khác nhưng vắng mặt mà không xin phép trước với lý do chính đáng.",
+                "points": "-5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, P.HTĐTNN, Khoa/BM, ĐTN/HSV, ĐVK"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Đánh giá về ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể thao, phòng chống tội phạm và các tệ nạn xã hội (0-20đ)",
+        "max_points": "20",
+        "subcategories": [
+          {
+            "id": "3.1",
+            "name": "Hoạt động học thuật, sáng tạo và tăng cường kỹ năng",
+            "items": [
+              {
+                "id": "3.1.1",
+                "description": "Là thành viên đội tuyển tham dự kỳ thi Olympic /kỳ thi học thuật cấp Tỉnh/Thành trở lên",
+                "points": "+10",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.1.2",
+                "description": "Tham gia cuộc thi học thuật, sáng tạo, kỹ năng cấp ĐHQG-HCM",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.1.3",
+                "description": "Tham gia cuộc thi học thuật, sáng tạo, kỹ năng cấp Khoa, BM, Trường",
+                "points": "+4",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.1.4",
+                "description": "Tham gia sinh hoạt chuyên đề, hội thảo về học thuật, sáng tạo, nghiên cứu khoa học, tăng cường kỹ năng theo hình thức trực tiếp",
+                "points": "+3",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.1.5",
+                "description": "Tham gia sinh hoạt chuyên đề, hội thảo về học thuật, sáng tạo, nghiên cứu khoa học, tăng cường kỹ năng theo hình thức trực tuyến",
+                "points": "+2",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.1.6",
+                "description": "Tham gia tổ chức (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              }
+            ]
+          },
+          {
+            "id": "3.2",
+            "name": "Hoạt động phong trào (chính trị, xã hội, hội nhập, văn hóa, văn nghệ, thể dục, thể thao...)",
+            "items": [
+              {
+                "id": "3.2.1",
+                "description": "Tham gia hoạt động phong trào từ cấp ĐHQG-HCM trở lên",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.2.2",
+                "description": "Tham gia hoạt động phong trào cấp Khoa, BM, cấp trường",
+                "points": "+3",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.2.3",
+                "description": "Tham gia hoạt động cổ vũ các cuộc thi",
+                "points": "+1",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "3.2.4",
+                "description": "Tham gia tổ chức (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              }
+            ]
+          },
+          {
+            "id": "3.3",
+            "name": "Đăng kí tham gia các hoạt động phong trào nhưng vắng mặt mà không thông báo lý do chính đáng trước cho BTC.",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Đánh giá về ý thức công dân trong quan hệ cộng đồng (0-25đ)",
+        "max_points": "25",
+        "subcategories": [
+          {
+            "id": "4.1",
+            "name": "Tuân thủ trách nhiệm công dân, trách nhiệm và quan hệ cộng đồng",
+            "items": []
+          },
+          {
+            "id": "4.2",
+            "name": "Hoạt động tình nguyện trong nhà trường",
+            "items": [
+              {
+                "id": "4.2.1",
+                "description": "Tình nguyện 1 buổi (dưới 1 ngày).",
+                "points": "+3",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "4.2.2",
+                "description": "Tình nguyện từ 1 đến dưới 3 ngày (ngắn hạn).",
+                "points": "+5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "4.2.3",
+                "description": "Tình nguyện từ 3 ngày trở lên (dài hạn).",
+                "points": "+10",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "4.2.4",
+                "description": "Tham gia tổ chức hoạt động dưới 3 ngày (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.",
+                "points": "+5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "4.2.5",
+                "description": "Tham gia tổ chức hoạt động từ 3 ngày trở lên (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.",
+                "points": "+10",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+              }
+            ]
+          },
+          {
+            "id": "4.3",
+            "name": "Các hoạt động cộng đồng tại địa phương hoặc các tổ chức xã hội khác",
+            "items": [
+              {
+                "id": "4.3.1",
+                "description": "Tham gia các hoạt động cộng đồng tại địa phương hoặc các tổ chức xã hội khác (có minh chứng).",
+                "points": "+3",
+                "responsible_unit": "P.CTSV, ĐTN/HSV"
+              },
+              {
+                "id": "4.3.2",
+                "description": "Tham gia hiến máu tình nguyện trong và ngoài trường (có giấy chứng nhận).",
+                "points": "+10",
+                "responsible_unit": "P.CTSV, ĐTN/HSV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Đánh giá về ý thức và kết quả khi tham gia công tác cán bộ lớp, các đoàn thể, tổ chức trong cơ sở giáo dục đại học hoặc người học đạt được thành tích đặc biệt trong học tập, rèn luyện (0-10đ)",
+        "max_points": "10",
+        "subcategories": [
+          {
+            "id": "5.1",
+            "name": "Sinh viên đạt thành tích",
+            "items": [
+              {
+                "id": "5.1.1",
+                "description": "Khen thưởng/học bổng từ cấp ĐHQG-HCM trở lên.",
+                "points": "+10",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+              },
+              {
+                "id": "5.1.2",
+                "description": "Khen thưởng/học bổng cấp Trường/Khoa/BM/Phòng/Trung tâm.",
+                "points": "+5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+              },
+              {
+                "id": "5.1.3",
+                "description": "Khen thưởng/học bổng của tổ chức/hiệp hội/doanh nghiệp.",
+                "points": "+10",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+              }
+            ]
+          },
+          {
+            "id": "5.2",
+            "name": "Ban chủ nhiệm/Ban chấp hành/thành viên",
+            "items": [
+              {
+                "id": "5.2.1",
+                "description": "BCH Đoàn trường/BCH Hội Sinh viên trường/BCH Đoàn - Hội thuộc Khoa/BM/Ban chủ nhiệm các CLB/Đội/Nhóm/Ban cán sự lớp.",
+                "points": "+10",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "5.2.2",
+                "description": "Thành viên các CLB/Đội/Nhóm hoặc Cộng tác viên Đoàn - Hội Khoa/BM các cấp.",
+                "points": "+5",
+                "responsible_unit": "P.ĐTĐH, P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Các nội dung cộng thêm (0-10đ)",
+        "max_points": "10",
+        "subcategories": [
+          {
+            "id": "6.1",
+            "name": "Sinh viên có thành tích đặc biệt/đạt giải thưởng các cấp",
+            "items": [
+              {
+                "id": "6.1.1",
+                "description": "Thành tích đặc biệt cấp ĐHQG-HCM trở lên.",
+                "points": "+10",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "6.1.2",
+                "description": "Thành tích đặc biệt cấp Trường/Khoa/BM/Phòng/Trung tâm.",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+              }
+            ]
+          },
+          {
+            "id": "6.2",
+            "name": "Sinh viên có hoàn cảnh gia đình đặc biệt khó khăn; khuyết tật có khó khăn về kinh tế; mồ côi cả cha lẫn mẹ có nghị lực phấn đấu vươn lên trong học tập",
+            "items": []
+          },
+          {
+            "id": "6.3",
+            "name": "Đảng viên",
+            "items": [
+              {
+                "id": "6.3.1",
+                "description": "Đạt 01 trong các danh hiệu \"Đảng viên hoàn thành xuất sắc nhiệm vụ\"; \"Dân vận khéo\" cấp Trường; \"Đảng viên trẻ tiêu biểu\" hoặc tương đương; được kết nạp Đảng.",
+                "points": "+10",
+                "responsible_unit": "P.CTSV, ĐTN/HSV"
+              },
+              {
+                "id": "6.3.2",
+                "description": "Hoàn thành lớp cảm tình Đảng hoặc lớp Đảng viên mới.",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, ĐTN/HSV"
+              }
+            ]
+          },
+          {
+            "id": "6.4",
+            "name": "Điểm cộng khác",
+            "items": [
+              {
+                "id": "6.4.1",
+                "description": "Tố giác các hành vi vi phạm quy định/quy chế/pháp luật.",
+                "points": "+10",
+                "responsible_unit": "P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "6.4.2",
+                "description": "Thực hiện các việc làm tốt được ghi nhận.",
+                "points": "+10",
+                "responsible_unit": "P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "6.4.3",
+                "description": "Hoàn thành tất cả các khảo sát đánh giá chất lượng môn học.",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "6.4.4",
+                "description": "Hoàn thành các khảo sát khác của Nhà trường.",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+              },
+              {
+                "id": "6.4.5",
+                "description": "Tham gia 3 hoạt động phong trào từ cấp Khoa/BM/Phòng/Trung tâm trở lên.",
+                "points": "+5",
+                "responsible_unit": "P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "nguồn": "4.json",
+    "ngôn_ngữ": "vi",
+    "ngày_xử_lý": "2025-05-26T22:45:06.165093",
+    "phiên_bản": "1.0",
+    "tổng_số_tiêu_chí": 6,
+    "phân_bố_điểm": {
+      "học_tập": "20",
+      "nội_quy": "25",
+      "hoạt_động": "20"
+    }
+  }
+}

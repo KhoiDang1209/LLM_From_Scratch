@@ -1,0 +1,805 @@
+{
+  "document_id": "quy_dinh_vi_pham",
+  "type": "vi_pham",
+  "content": {
+    "danh_sach_vi_pham": [
+      {
+        "id": "1.",
+        "description": "Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 2",
+          "cảnh_cáo": "Lần 3",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học tập 1 học kỳ",
+        "mức_độ": {
+          "cấp_độ": 2,
+          "loại": "cảnh cáo"
+        },
+        "semantic_id": "vi_pham_1"
+      },
+      {
+        "id": "2.",
+        "description": "Nghỉ học không có lý do trong 01 học kỳ",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "",
+        "mức_độ": {
+          "cấp_độ": 2,
+          "loại": "cảnh cáo"
+        },
+        "semantic_id": "vi_pham_2"
+      },
+      {
+        "id": "3.",
+        "description": "Người học có số lần cảnh báo học tập vượt quá 02 lần liên tiếp hoặc vượt quá 03 lần không liên tiếp",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": "Lần 1"
+        },
+        "ghi_chú": "Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín chỉ tại trường Đại học Quốc tế",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_3"
+      },
+      {
+        "id": "4.",
+        "description": "Người học có thời gian học tập vượt quá 02 lần thời gian theo chương trình đào tạo trình độ đại học của trường.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": "Lần 1"
+        },
+        "ghi_chú": "Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín chỉ tại trường Đại học Quốc tế",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_4"
+      },
+      {
+        "id": "5.",
+        "description": "Mất trật tự, làm việc riêng trong giờ học, giờ thực tập và tự học",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 2",
+          "cảnh_cáo": "Lần 3",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học tập 1 học kỳ",
+        "mức_độ": {
+          "cấp_độ": 2,
+          "loại": "cảnh cáo"
+        },
+        "semantic_id": "vi_pham_5"
+      },
+      {
+        "id": "6.",
+        "description": "Vô lễ, gây gổ, chống đối đe dọa, lăng mạ với giảng viên, viên chức, người lao động làm việc tại trường; xúc phạm danh dự, nhân phẩm người khác.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_6"
+      },
+      {
+        "id": "7.",
+        "description": "Đi học thay người khác hoặc nhờ người khác đi học thay; thi, kiểm tra thay",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "Lần 1",
+          "buộc_thôi_học": "Lần 2"
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học; Thời hạn đình chỉ học",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_7"
+      },
+      {
+        "id": "",
+        "description": "người khác hoặc nhờ người khác thi, kiểm tra thay; làm thay người khác hoặc nhờ người khác làm thay đồ án, khóa luận, tiểu luận hoặc sao chép tiểu luận, đồ án, khóa luận của người khác.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "tập đươc quy định tùy theo mức độ của hành vi vi phạm. Riêng đối với hành vi thi hộ, học hộ (thi thay, học thay) sinh viên bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_"
+      },
+      {
+        "id": "8.",
+        "description": "Tổ chức học, thi, kiểm tra thay; tổ chức làm thay tiểu luận, đồ án, khóa luận tốt nghiệp.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": "Lần 1"
+        },
+        "ghi_chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng điều tra xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_8"
+      },
+      {
+        "id": "9.",
+        "description": "Mang tài liệu vào phòng thi, đưa đề thi ra ngoài nhờ làm hộ, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tùy theo tính chất, mức độ hành vi vi phạm sẽ bị xem xét xử lý theo quy định về xử lý thí sinh vi phạm tại Quy chế thi tốt nghiệp Trung học phổ thông hiện hành, riêng hình thức xử lý đình chỉ học tập và buộc thôi học không áp dụng trong trường hợp này và hành vi liên quan đến việc thi hộ, học hộ bị áp dụng xử lý theo quy định tại mục 7 và 8 của Phụ lục này.",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_9"
+      },
+      {
+        "id": "10.",
+        "description": "Có hành vi mua bán, gian lận trong đăng ký môn học. Cố tình đăng nhập tài khoản của người học khác mà không được sự đồng ý; Sử dụng tài khoản của nhà trường cho các mục đích vi phạm pháp luật.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_10"
+      },
+      {
+        "id": "11.",
+        "description": "Sử dụng hồ sơ, văn bằng, chứng chỉ giả để trúng tuyển hoặc làm điều kiện trúng tuyển.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": "Lần 1"
+        },
+        "ghi_chú": "Căn cứ quy định tại Thông tư số 08/2021/TT-BGDĐT và Quyết định số 719/QĐ- ĐHQT về việc ban hành Quy chế Đào tạo trình độ",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_11"
+      },
+      {
+        "id": "",
+        "description": "",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Đại học theo hệ thống tín chỉ tại trường Đại học Quốc tế.",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_"
+      },
+      {
+        "id": "12.",
+        "description": "Cố tình chậm hoặc không đóng học phí mà không có lý do chính đáng.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học.",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_12"
+      },
+      {
+        "id": "13.",
+        "description": "Không tham gia bảo hiểm y tế theo quy định của nhà nước mà không có lý do chính đáng.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 2",
+          "cảnh_cáo": "Lần 3",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Căn cứ Quyết định 953/QĐ- ĐHQG: Lần 1 – nhắc nhở bằng văn bản và trừ điểm rèn luyện.",
+        "mức_độ": {
+          "cấp_độ": 2,
+          "loại": "cảnh cáo"
+        },
+        "semantic_id": "vi_pham_13"
+      },
+      {
+        "id": "14.",
+        "description": "Làm hư hỏng tài sản, hệ thống mạng, dữ liệu Trường, ký túc xá",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tuỳ theo mức độ xử lý từ khiển trách đến buộc thôi học, phải bồi thường thiệt hại hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_14"
+      },
+      {
+        "id": "15.",
+        "description": "Uống rượu, bia, sử dụng chất kích thích trong giờ học; say rượu, bia khi đến lớp.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 1",
+          "cảnh_cáo": "Lần 2",
+          "đình_chỉ_học_tập": "Lần 3",
+          "buộc_thôi_học": "Lần 4"
+        },
+        "ghi_chú": "",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_15"
+      },
+      {
+        "id": "16.",
+        "description": "Hút thuốc lá (kể cả thuốc lá điện tử) trong khuôn viên nhà trường.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 2",
+          "cảnh_cáo": "Lần 3",
+          "đình_chỉ_học_tập": "Lần 4",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Lần 1 nhắc nhở",
+        "mức_độ": {
+          "cấp_độ": 3,
+          "loại": "đình chỉ học tập"
+        },
+        "semantic_id": "vi_pham_16"
+      },
+      {
+        "id": "17.",
+        "description": "Đánh bạc dưới mọi hình thức trong khuôn viên nhà trường",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 1",
+          "cảnh_cáo": "Lần 2",
+          "đình_chỉ_học_tập": "Lần 3",
+          "buộc_thôi_học": "Lần 4"
+        },
+        "ghi_chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_17"
+      },
+      {
+        "id": "18.",
+        "description": "Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hoá đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo trái phép",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_18"
+      },
+      {
+        "id": "19.",
+        "description": "Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma tuý, chất hướng thần, chất gây nghiện.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": "Lần 1"
+        },
+        "ghi_chú": "Giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_19"
+      },
+      {
+        "id": "20.",
+        "description": "Sử dụng ma tuý, chất hướng thần, chất gây nghiện.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Xử lý theo quy định về xử lý SV sử dụng ma tuý",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_20"
+      },
+      {
+        "id": "21.",
+        "description": "Chứa chấp, môi giới hoạt",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": "Lần 1"
+        },
+        "ghi_chú": "Giao cho cơ quan chức năng",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_21"
+      },
+      {
+        "id": "",
+        "description": "động mại dâm",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_"
+      },
+      {
+        "id": "22.",
+        "description": "Hoạt động mại dâm",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_22"
+      },
+      {
+        "id": "23.",
+        "description": "Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_23"
+      },
+      {
+        "id": "24.",
+        "description": "Chứa chấp buôn bán vũ khí, chất nổ, chất dễ cháy và các hàng cấm theo quy định của Nhà nước.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": "Lần 1"
+        },
+        "ghi_chú": "Giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_24"
+      },
+      {
+        "id": "25.",
+        "description": "Đưa phần tử xấu vào trong Trường, Ký túc xá, gây ảnh hưởng xấu đến an ninh, trật tự trong Trường.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_25"
+      },
+      {
+        "id": "26.",
+        "description": "Gây rối an ninh, trật tự an toàn trong Trường hoặc ngoài xã hội.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học.",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_26"
+      },
+      {
+        "id": "27.",
+        "description": "Đe dọa, khủng bố tinh thần người khác.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 1",
+          "cảnh_cáo": "Lần 2",
+          "đình_chỉ_học_tập": "Lần 3",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ khiển trách đến đình chỉ học tập có thời hạn.",
+        "mức_độ": {
+          "cấp_độ": 3,
+          "loại": "đình chỉ học tập"
+        },
+        "semantic_id": "vi_pham_27"
+      },
+      {
+        "id": "28.",
+        "description": "Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_28"
+      },
+      {
+        "id": "29.",
+        "description": "Kích động, lôi kéo người khác biểu tình, viết truyền đơn, áp phích trái pháp luật.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "Lần 1",
+          "buộc_thôi_học": "Lần 2"
+        },
+        "ghi_chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_29"
+      },
+      {
+        "id": "30.",
+        "description": "Vay, cho vay, tổ chức cho vay tín dụng đen.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_30"
+      },
+      {
+        "id": "31.",
+        "description": "Tham gia, mời gọi, lôi kéo tham gia các hoạt động đa cấp bất chính.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_31"
+      },
+      {
+        "id": "32.",
+        "description": "Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_32"
+      },
+      {
+        "id": "33.",
+        "description": "Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 1",
+          "cảnh_cáo": "Lần 2",
+          "đình_chỉ_học_tập": "Lần 3",
+          "buộc_thôi_học": "Lần 4"
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_33"
+      },
+      {
+        "id": "34.",
+        "description": "Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa Trường, ĐHQG- HCM khi chưa được Hiệu trưởng Nhà trường và ĐHQG-HCM cho phép.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_34"
+      },
+      {
+        "id": "35.",
+        "description": "Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, đưa tin thất thiệt, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng internet. Viết bài, tuyên truyền, phản ánh sai sự thật làm ảnh hưởng đến uy tín nhà trường.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_35"
+      },
+      {
+        "id": "36.",
+        "description": "Có hành động quấy rối, dâm ô, xúc phạm nhân phẩm, đời",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "Lần 1",
+          "buộc_thôi_học": "Lần 2"
+        },
+        "ghi_chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_36"
+      },
+      {
+        "id": "",
+        "description": "tư của người khác.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_"
+      },
+      {
+        "id": "37.",
+        "description": "Cố tình quay phim, ghi âm khi không có sự đồng thuận của người khác.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_37"
+      },
+      {
+        "id": "38.",
+        "description": "Vi phạm các quy định về an toàn giao thông, quy định ngoại trú.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 1",
+          "cảnh_cáo": "Lần 2",
+          "đình_chỉ_học_tập": "Lần 3",
+          "buộc_thôi_học": "Lần 4"
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_38"
+      },
+      {
+        "id": "39.",
+        "description": "Giả mạo chữ ký của người khác; Sử dụng giấy tờ không hợp pháp.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật; Riêng hành vi liên quan đến việc sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp bị áp dụng xử lý theo quy định tại mục 11 của Phụ lục này.",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_39"
+      },
+      {
+        "id": "40.",
+        "description": "Đưa người lạ vào trường, thư viện, phòng lab, lớp học không xin phép; Không tuân thủ đeo thẻ SV trong khuôn viên trường; Có thái độ ứng xử không chuẩn mực với các đơn vị chức năng liên quan.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 1",
+          "cảnh_cáo": "Lần 2",
+          "đình_chỉ_học_tập": "Lần 3",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "",
+        "mức_độ": {
+          "cấp_độ": 3,
+          "loại": "đình chỉ học tập"
+        },
+        "semantic_id": "vi_pham_40"
+      },
+      {
+        "id": "41.",
+        "description": "Giả mạo thẻ CMND, thẻ SV, thẻ nội trú, thẻ xe buýt, thẻ thư viện, thẻ căn tin… của người khác.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Lần 1",
+          "đình_chỉ_học_tập": "Lần 2",
+          "buộc_thôi_học": "Lần 3"
+        },
+        "ghi_chú": "Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_41"
+      },
+      {
+        "id": "42.",
+        "description": "Nhặt được của rơi không trả lại người bị mất, trả lại nhưng đòi tiền chuộc.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "Tài sản ≤ 10 lần mức lương cơ sở",
+          "đình_chỉ_học_tập": "Tài sản > 10 lần mức lương cơ sở",
+          "buộc_thôi_học": "Tài sản thuộc di tích lịch sử, văn hóa"
+        },
+        "ghi_chú": "Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+        "mức_độ": {
+          "cấp_độ": 4,
+          "loại": "buộc thôi học"
+        },
+        "semantic_id": "vi_pham_42"
+      },
+      {
+        "id": "43.",
+        "description": "Mặc trang phục hở hang, lộ liễu, vi phạm thuần phong mỹ tục của dân tộc.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 2",
+          "cảnh_cáo": "Lần 3",
+          "đình_chỉ_học_tập": "Lần 4",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Lần 1 nhắc nhở.",
+        "mức_độ": {
+          "cấp_độ": 3,
+          "loại": "đình chỉ học tập"
+        },
+        "semantic_id": "vi_pham_43"
+      },
+      {
+        "id": "44.",
+        "description": "Có những hành động cử chỉ tình cảm vượt quá giới hạn trong khuôn viên nhà trường.",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "Lần 2",
+          "cảnh_cáo": "Lần 3",
+          "đình_chỉ_học_tập": "Lần 4",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Lần 1 nhắc nhở.",
+        "mức_độ": {
+          "cấp_độ": 3,
+          "loại": "đình chỉ học tập"
+        },
+        "semantic_id": "vi_pham_44"
+      },
+      {
+        "id": "45.",
+        "description": "Các vi phạm khác: Vi phạm quy tắc ứng xử dành cho người học, vi phạm khác ngoài trường, trên mạng xã hội…",
+        "hình_thức_xử_lý": {
+          "khiển_trách": "",
+          "cảnh_cáo": "",
+          "đình_chỉ_học_tập": "",
+          "buộc_thôi_học": ""
+        },
+        "ghi_chú": "Tùy theo mức độ, nhà trường xem xét, nhắc nhở, phê bình, trừ ĐRL hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học.",
+        "mức_độ": {
+          "cấp_độ": 0,
+          "loại": "không có"
+        },
+        "semantic_id": "vi_pham_45"
+      }
+    ]
+  },
+  "metadata": {
+    "nguồn": "3.json",
+    "ngôn_ngữ": "vi",
+    "ngày_xử_lý": "2025-05-26T22:34:53.805235",
+    "phiên_bản": "1.0",
+    "tổng_số_vi_pham": 49,
+    "phân_bố_mức_độ": {
+      "khiển_trách": 0,
+      "cảnh_cáo": 4,
+      "đình_chỉ_học_tập": 5,
+      "buộc_thôi_học": 28
+    }
+  }
+}

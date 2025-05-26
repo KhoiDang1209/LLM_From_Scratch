@@ -1,0 +1,375 @@
+{
+  "document_id": "quy_dinh_9",
+  "type": "quy_dinh",
+  "content": {
+    "articles": [
+      {
+        "id": "1",
+        "title": "Ban hành kèm theo Quyết định này là “Quy định chế độ chính sách miễn, giảm học phí” dành cho sinh viên đang học tập tại trường Đại học Quốc tế, Đại học Quốc gia Thành phố Hồ Chí Minh.",
+        "content": [],
+        "semantic_id": "article_1"
+      },
+      {
+        "id": "2",
+        "title": "Quy định này được áp dụng để xét miễn, giảm học phí, hỗ trợ chi phí học tập dành cho sinh viên diện chính sách đang học tập tại trường.",
+        "content": [],
+        "semantic_id": "article_2"
+      },
+      {
+        "id": "3",
+        "title": "Quyết định này có hiệu lực thi hành kể từ học kỳ 1, năm học 2024 – 2025, áp dụng cho sinh viên từ khóa 2024 trở về sau. Những quy định trước đây trái với quy định này đều bị bãi bỏ.",
+        "content": [],
+        "semantic_id": "article_3"
+      },
+      {
+        "id": "4",
+        "title": "Các Ông (Bà) Trưởng các Phòng chức năng, Trưởng Khoa, Trưởng Bộ môn liên quan và các sinh viên chịu trách nhiệm thi hành Quyết định này./.",
+        "content": [
+          "QUY ĐỊNH",
+          "Chế độ chính sách miễn, giảm học phí cho sinh viên trường Đại học Quốc tế",
+          "(Kèm theo Quyết định số",
+          "668",
+          "/QĐ-ĐHQT ngày 16 tháng 9",
+          "năm 2024",
+          "của Hiệu trưởng trường Đại học Quốc tế)",
+          "Chương I",
+          "NHỮNG QUY ĐỊNH CHUNG"
+        ],
+        "semantic_id": "article_4"
+      },
+      {
+        "id": "1",
+        "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+        "content": [
+          "Quy định này quy định về đối tượng được miễn, giảm học phí, hỗ trợ học tập, hỗ trợ chi phí học tập; mức miễn giảm học phí, mức hỗ trợ chi phí học tập, mức hỗ trợ học tập; quy trình thủ tục thực hiện miễn, giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập sinh viên.",
+          "Quy định này áp dụng đối với tất cả sinh viên đại học chính quy học văn bằng thứ nhất tại trường Đại học Quốc tế trong thời gian thiết kế chương trình đào tạo.",
+          "Việc xét miễn, giảm học phí và hỗ trợ chi phí học tập được xem xét cho sinh viên đang theo học tại trường Đại học Quốc tế theo thời gian thiết kế chương trình đào tạo (theo đề án tuyển sinh hàng năm của trường Đại học Quốc tế của khóa đào tạo văn bằng thứ nhất."
+        ],
+        "semantic_id": "article_1"
+      },
+      {
+        "id": "2",
+        "title": "Mục đích",
+        "content": [
+          "Quy định này nhằm cụ thể hóa các chính sách về việc miễn, giảm học phí, hỗ trợ chi phí học tập, hỗ trợ học tập cho sinh viên trường Đại học Quốc tế được quy định tại Nghị định 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo; Quyết định số 66/2013/QĐ-TTg ngày 11 tháng 11 năm 2013 của Thủ tướng Chính phủ quy định chính sách hỗ trợ chi phí học tập đối với sinh viên là người dân tộc thiểu số tại các cơ sở giáo dục đại học; Nghị định số 57/2017/NĐ-CP quy định chính sách ưu tiên tuyển sinh hỗ trợ học tập đối với trẻ mẫu giáo, học sinh, sinh viên dân tộc thiểu số rất ít người.",
+          "Từ ngữ viết tắt",
+          "CTSV: Công tác Sinh viên.",
+          "ĐHQG-HCM: Đại học Quốc gia Thành phố Hồ Chí Minh. ĐHQT: Đại học Quốc tế.",
+          "ĐTĐH: Đào tạo Đại học. HBTS: Học bổng tuyển sinh.",
+          "HBKKHT: Học bổng khuyến khích học tập. KHTC: Kế hoạch Tài chính.",
+          "LĐTBXH: Lao động Thương binh xã hội. MGHP: Miễn, giảm học phí.",
+          "MSSV: Mã số sinh viên. NĐ: Nghị định.",
+          "TCCB: Tổ chức Cán bộ. SV: Sinh viên",
+          "VC-NLĐ: Viên chức – Người lao động.",
+          "Chương II",
+          "QUY ĐỊNH VỀ CHẾ ĐỘ CHÍNH SÁCH MIỄN, GIẢM HỌC PHÍ"
+        ],
+        "semantic_id": "article_2"
+      },
+      {
+        "id": "3",
+        "title": "Đối tượng được miễn, giảm học phí, hỗ trợ học phí",
+        "content": [
+          "Đối tượng và mức miễn, giảm học phí cho SV thuộc đối tượng theo quy định tại Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo hoặc các Nghị định khác của các cơ quan có thẩm quyền sửa đổi, bổ sung hoặc quy định mới về chính sách miễn, giảm học phí, hỗ trợ chi phí học tập đang theo học tại trường ĐHQT (theo phụ lục I).",
+          "Đối tượng và mức hỗ trợ học phí cho SV thuộc các đối tượng được hỗ trợ học phí theo chính sách riêng đang theo học tại trường ĐHQT (theo phụ lục II)."
+        ],
+        "semantic_id": "article_3"
+      },
+      {
+        "id": "4",
+        "title": "Đối tượng được hỗ trợ chi phí học tập",
+        "content": [
+          "Sinh viên là người dân tộc thiểu số thuộc hộ nghèo hoặc hộ cận nghèo (theo quy định tại Quyết định số 66/2013/QĐ-TTg, ngày 11 tháng 11 năm 2013 của Chính phủ hoặc các quy định khác của các cơ quan có thẩm quyền sửa đổi, bổ sung hoặc quy định mới về sinh viên dân tộc thiểu số thuộc hộ nghèo hoặc hộ cận nghèo) đang học tập hệ đại học tại trường ĐHQT.",
+          "Mức hỗ trợ chi phí học tập bằng 60% mức lương cơ sở và được hưởng không quá 10 tháng/năm học/sinh viên; số năm được hưởng hỗ trợ chi phí học tập theo đúng lộ trình của thời gian thiết kế chương trình đào tạo.",
+          "Sinh viên bỏ học hoặc bị kỷ luật buộc thôi học thì không được nhận kinh phí hỗ trợ chi phí học tập kể từ thời điểm Quyết định kỷ luật có hiệu lực. Trường hợp sinh viên đã nhận kinh phí hỗ trợ chi phí học tập mà bỏ học hoặc bị kỷ luật buộc thôi học thì phải dừng chi trả kinh phí hỗ trợ chi phí học tập vào các học kỳ tiếp theo.",
+          "Trường hợp sinh viên bị đình chỉ học tập (có thời hạn) thì không được nhận kinh phí hỗ trợ chi phí học tập trong thời gian bị đình chỉ, trừ trường hợp dừng học do ốm đau, tai nạn, học lại hoặc dừng học vì lý do khách quan được nhà trường xác nhận. Trường hợp sinh viên đã nhận kinh phí hỗ trợ chi phí học tập mà bị đình chỉ học tập thì sẽ bị khấu trừ số tiền tương ứng với số tháng bị đình chỉ học tập vào học kỳ tiếp theo sau khi sinh viên nhập học lại.",
+          "Sinh viên thuộc đối tượng được hưởng chế độ hỗ trợ chi phí học tập chỉ phải nộp hồ sơ 01 lần vào đầu năm học, trong năm học nếu gia đình sinh viên thuộc diện đã thoát nghèo hoặc cận nghèo thì sinh viên có trách nhiệm nộp văn bản chứng nhận hộ đã thoát nghèo hoặc cận nghèo để dùng việc chi trả chi phí học tập cho học kỳ tiếp theo.",
+          "Trường hợp trong quá trình học tập, sinh viên thuộc đối tượng được hưởng chế độ hỗ trợ chi phí học tập không nộp đơn đề nghị kèm theo đầy đủ các giấy tờ cần thiết theo quy định và thời hạn theo thông báo của Nhà trường sẽ không được nhận hỗ trợ chi phí học tập của học kỳ đó và không được giải quyết truy lĩnh tiền hỗ trợ chi phí học tập đối với thời gian đã xét."
+        ],
+        "semantic_id": "article_4"
+      },
+      {
+        "id": "5",
+        "title": "Đối tượng được hỗ trợ học tập",
+        "content": [
+          "Sinh viên dân tộc thiểu số rất ít người học tại trường ĐHQT (theo quy định tại Nghị định số 57/2017/NĐ-CP ngày 09 tháng 5 năm 2017 của Chính phủ hoặc các Nghị định khác của các cơ quan có thẩm quyền sửa đổi, bổ sung hoặc quy định mới về sinh viên dân tộc thiểu số rất ít người) đang học tập hệ đại học tại trường ĐHQT.",
+          "Mức hỗ trợ học tập bằng 100% mức lương cơ sở/người/tháng. Thời gian được hưởng hỗ trợ 12 tháng/năm cho đối tượng có thời gian học đủ 9 tháng/năm trở lên; trường hợp đối tượng học không đủ 9 tháng/năm thì được hưởng theo thời gian học thực tế.",
+          "Sinh viên dân tộc thiểu số rất ít người học tại trường ĐHQT nếu học đồng thời ở nhiều khoa trong cùng một trường hoặc ở nhiều trường khác nhau thì chỉ được hưởng hỗ trợ một lần. Trường hợp sinh viên bị ngừng học thì thời gian ngừng học không được hưởng hỗ trợ. Trường hợp sinh viên bị buộc thôi học thì thôi hưởng chính sách hỗ trợ ngay sau khi thôi học.",
+          "Sinh viên dân tộc thiểu số rất ít người được hưởng chính sách hỗ trợ học tập quy định tại Nghị định này không được hưởng hỗ trợ chi phí học tập tại Quyết định số 66/2013/QĐ- TTg ngày 11 tháng 11 năm 2013 của Thủ tướng Chính phủ quy định chính sách hỗ trợ chi phí học tập đối với sinh viên là người dân tộc thiểu số học tại các cơ sở giáo dục đại học.",
+          "Chương III",
+          "QUY TRÌNH THỰC HIỆN VÀ PHƯƠNG THỨC CHI TRẢ"
+        ],
+        "semantic_id": "article_5"
+      },
+      {
+        "id": "6",
+        "title": "Hồ sơ miễn, giảm học phí, hỗ trợ chi phí học tập; hỗ trợ học tập",
+        "content": [
+          "Hồ sơ miễn, giảm học phí.",
+          "Đơn đề nghị miễn, giảm học phí (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III).",
+          "Hồ sơ cho từng đối tượng bao gồm các giấy tờ chứng minh thuộc đối tượng miễn, giảm học phí được quy định tại phụ lục I của Quy định này.",
+          "Hồ sơ hỗ trợ học phí",
+          "Đơn đề nghị hỗ trợ học phí (theo biểu mẫu số M02/HTHP-CTSV, phụ lục III).",
+          "Hồ sơ cho từng đối tượng bao gồm các giấy tờ chứng minh thuộc đối tượng miễn, giảm học phí được quy định tại phụ lục II của Quy định này.",
+          "Hồ sơ hỗ trợ chi phí học tập, hỗ trợ học tập.",
+          "Mẫu đơn đề nghị hỗ trợ chi phí học tập đối với sinh viên là người dân tộc thiểu số thuộc hộ nghèo, hộ cận nghèo học tại các cơ sở giáo dục đại học (theo biểu mẫu số M03/HTHT HN-CTSV, phụ lục III).",
+          "Mẫu đơn đề nghị hỗ trợ học tập đối với sinh viên dân tộc thiểu số rất ít người (theo biểu mẫu số M04/HTHT IN-CTSV, phụ lục III)."
+        ],
+        "semantic_id": "article_6"
+      },
+      {
+        "id": "7",
+        "title": "Quy trình thực hiện",
+        "content": [
+          "Vào đầu học kỳ, Phòng CTSV thông báo đến SV về việc hướng dẫn nộp hồ sơ miễn, giảm học phí.",
+          "Sinh viên nộp đủ hồ sơ theo yêu cầu tại thông báo về việc hướng dẫn nộp hồ sơ miễn, giảm học phí.",
+          "Phòng CTSV xem xét hồ sơ và phản hồi cho sinh viên nếu hồ sơ chưa đúng theo quy",
+          "định.",
+          "Phòng ĐTĐH và Phòng CTSV kiểm tra đối chiếu xác nhận học bổng của SV.",
+          "Phòng KHTC và Phòng CTSV kiểm tra đối chiếu xác nhận số tiền học phí của SV.",
+          "Phòng KHTC và Phòng CTSV kiểm tra đối chiếu xác nhận số tiền học bổng của SV.",
+          "Phòng Đào tạo Sau Đại học và Phòng CTSV kiểm tra đối chiếu xác nhận học phí và",
+          "tình trạng học tập của học viên cao học.",
+          "định.",
+          "Phòng CTSV lập danh sách miễn, giảm theo định mức miễn, giảm học phí theo quy",
+          "Phòng CTSV trình Ban Giám hiệu danh sách và Quyết định miễn, giảm học phí.",
+          "Phòng CTSV thông báo kết quả sinh viên được miễn, giảm học phí.",
+          "Phòng KHTC chi trả tiền miễn, giảm học phí cho sinh viên."
+        ],
+        "semantic_id": "article_7"
+      },
+      {
+        "id": "8",
+        "title": "Thời gian xét miễn, giảm học phí",
+        "content": [
+          "Thời gian xét MGHP cho sinh viên thực hiện theo thời gian thiết kế chương trình đào",
+          "tạo của Quy chế đề án tuyển sinh.",
+          "Thời gian giải quyết xét và chi trả kết quả MGHP diễn ra trong vòng 10 ngày làm việc tính từ thời gian sau khi nhận được đơn đề nghị MGHP và sau nhận được kết quả học bổng khuyến khích học tập và học bổng tuyển sinh từ Phòng ĐTĐH.",
+          "Sinh viên được xét MGHP cho học kỳ 1 và học kỳ 2 (theo quy định của Nghị định 81/2021/NĐ-CP hoặc các Nghị định khác của các cơ quan có thẩm quyền sửa đổi, bổ sung hoặc quy định mới về chính sách MGHP, hỗ trợ chi phí học tập)."
+        ],
+        "semantic_id": "article_8"
+      },
+      {
+        "id": "9",
+        "title": "Nguồn kinh phí miễn, giảm và hỗ trợ học phí",
+        "content": [
+          "Việc miễn, giảm học phí cho sinh viên được thực hiện tại trường nơi sinh viên đang học tập. Nhà nước thực hiện cấp bù học phí trực tiếp cho nhà trường để nhà trường thực hiện chế độ miễn, giảm học phí cho SV thuộc đối tượng miễn, giảm học phí. Việc cấp bù học phí theo mức trần học phí quy định tại điểm a khoản 1, điểm a khoản 2 Điều 10, điểm a khoản 1, điểm a khoản 2 Điều 11 của Nghị định số 81/2021/NĐ-CP và cấp theo 10 tháng/năm (5 tháng/học kỳ) căn cứ số lượng người học thực tế thuộc diện được miễn, giảm học phí và mức thu học phí (mức cấp bù học phí cho các trường theo khung học phí của từng nhóm ngành được quy định tại Nghị định số 81/2021/NĐ-CP).",
+          "Nguồn kinh phí hỗ trợ học phí cho SV thuộc các đối tượng được hỗ trợ học phí theo chính sách riêng đang theo học tại trường ĐHQT và được tính theo công thức:",
+          "Hỗ trợ học phí = (tổng học phí thực – HBTS/HBKKHT) x mức hỗ trợ theo quy định."
+        ],
+        "semantic_id": "article_9"
+      },
+      {
+        "id": "10",
+        "title": "Điều khoản thi hành",
+        "content": [
+          "Trưởng các đơn vị có trách nhiệm tổ chức triển khai thực hiện đầy đủ các nội dung tại Quy định này.",
+          "Quy định này có hiệu lực kể từ ngày ký và thay thế cho các văn bản quy định về chính sách MGHP, hỗ trợ học phí, hỗ trợ chi phí học tập, hỗ trợ học tập tại trường ĐHQT trước đây.",
+          "Trong quá trình thực hiện, Phòng CTSV phối hợp với các đơn vị liên quan tham mưu cho Ban Giám hiệu về việc điều chỉnh, bổ sung nội dung của Quy định này cho phù hợp với tình hình thực tế./.",
+          "Phụ lục I",
+          "Quy định về chế độ chính sách miễn, giảm học phí cho sinh viên theo Nghị định 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ: Quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo",
+          "(Kèm theo Quyết định số 668 /QĐ-ĐHQT ngày 16 tháng của Hiệu trưởng trường Đại học Quốc tế)",
+          "9 năm 2024"
+        ],
+        "semantic_id": "article_10"
+      },
+      {
+        "id": "1",
+        "title": "Đối tượng miễn, giảm học phí",
+        "content": [
+          "Đối tượng được miễn học phí",
+          "Miễn 100% học phí dựa trên mức cấp bù học phí của nhà nước cho các trường theo khung học phí của từng nhóm ngành được quy định tại Nghị định số 81/2021/NĐ-CP đối với các đối tượng:",
+          "Đối tượng 1: Người có công với cách mạng và thân nhân của người có công với cách mạng theo quy định tại Pháp lệnh Ưu đãi người có công với cách mạng (sau đây gọi tắt là NCC) bao gồm:",
+          "Người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945;",
+          "Người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945;",
+          "Liệt sỹ;",
+          "Bà mẹ Việt Nam anh hùng;",
+          "đ) Anh hùng Lực lượng vũ trang nhân dân;",
+          "Anh hùng Lao động trong thời kỳ kháng chiến;",
+          "Thương binh; bao gồm cả thương binh loại B được công nhận trước ngày 31 tháng 12 năm 1993; người hưởng chính sách như thương binh;",
+          "Bệnh binh;",
+          "Người hoạt động kháng chiến bị nhiễm chất độc hóa học;",
+          "Người hoạt động cách mạng, kháng chiến, bảo vệ Tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày;",
+          "Người hoạt động cách mạng, kháng chiến giải phóng dân tộc, bảo vệ Tổ quốc, làm nghĩa vụ quốc tế;",
+          "Người có công giúp đỡ cách mạng;",
+          "Thân nhân của người có công với cách mạng bao gồm cha đẻ, mẹ đẻ, vợ hoặc chồng, con (con đẻ, con nuôi), người có công nuôi liệt sĩ.",
+          "Đối tượng 2: Sinh viên khuyết tật (sau đây gọi tắt là SVKT)",
+          "Đối tượng 3: Người từ 16 tuổi đến 22 tuổi đang học giáo dục đại học văn bằng thứ nhất mồ côi, không có nguồn nuôi dưỡng thuộc đối tượng bảo trợ xã hội hưởng trợ cấp xã hội hàng tháng theo quy định tại khoản 1 và khoản 2, điều 5, Nghị định 20/2021/NĐ-CP (sau đây gọi tắt là MC2) cụ thể:",
+          "Bị bỏ rơi chưa có người nhận làm con nuôi;",
+          "Mồ côi cả cha và mẹ;",
+          "Mồ côi cha hoặc mẹ và người còn lại thuộc một trong các trường hợp sau:",
+          "Bị tuyên bố mất tích theo quy định của pháp luật;",
+          "Đang hưởng chế độ chăm sóc, nuôi dưỡng tại cơ sở trợ giúp xã hội, nhà xã hội;",
+          "Đang trong thời gian chấp hành án phạt tù tại trại giam hoặc đang chấp hành quyết định xử lý vi phạm hành chính tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.",
+          "Cả cha và mẹ bị thuộc các trường hợp nêu ở mục 3.3 của Khoản 3, Điều 1 của phụ lục này;",
+          "đ) Cha hoặc mẹ bị tuyên bố mất tích theo quy định của pháp luật và người còn lại thuộc một trong các trường hợp sau:",
+          "Đang hưởng chế độ chăm sóc, nuôi dưỡng tại cơ sở trợ giúp xã hội, nhà xã hội;",
+          "Đang trong thời gian chấp hành án phạt tù tại trại giam hoặc đang chấp hành quyết định xử lý vi phạm hành chính tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;",
+          "Cha hoặc mẹ đang hưởng chế độ chăm sóc, nuôi dưỡng tại cơ sở trợ giúp xã hội và người còn lại đang trong thời gian chấp hành án phạt tù tại trại giam hoặc đang chấp hành",
+          "quyết định xử lý vi phạm hành chính tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.",
+          "Đối tượng 4: Sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo hoặc cận nghèo theo quy định của Thủ tướng Chính phủ (sau đây gọi tắt là TSHN).",
+          "Đối tượng 5: Sinh viên dân tộc thiểu số rất ít người (theo quy định tại Nghị định số 57/2017/NĐ-CP ngày 09 tháng 5 năm 2017 hoặc các Nghị định khác của các cơ quan có thẩm quyền sửa đổi, bổ sung hoặc quy định mới về sinh viên dân tộc thiểu số rất ít người bao gồm: (Ơ Đu, Brâu, Rơ Măm, Pu Péo, Si La, Ngái, Cống, Bố Y, Cơ Lao, Lô Lô, Mảng, Lự, Chứt, Pà Thẻn, La Ha, La Hủ) ở vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (sau đây gọi tắt là TSIN).",
+          "Đối tượng được giảm học phí",
+          "Đối tượng 6: giảm 70% học phí dựa trên mức cấp bù học phí của nhà nước cho các trường theo khung học phí của từng nhóm ngành được quy định tại Nghị định số 81/2021/NĐ- CP đối với sinh viên dân tộc thiểu số ở thôn bản đặc biệt khó khăn, khu vực III, vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo (sau đây gọi tắt là TSKK).",
+          "Đối tượng 7: giảm 50% học phí dựa trên mức cấp bù học phí của nhà nước cho các trường theo khung học phí của từng nhóm ngành được quy định tại Nghị định số 81/2021/NĐ- CP đối với sinh viên là con Cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên (sau đây gọi tắt là TNLĐ)."
+        ],
+        "semantic_id": "article_1"
+      },
+      {
+        "id": "2",
+        "title": "Hồ sơ miễn, giảm học phí",
+        "content": [
+          "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP- CTSV, phụ lục III).",
+          "Hồ sơ khác gồm:",
+          "2 .1. Đối tượng 1 (NCC) hồ sơ gồm:",
+          "Bản sao thẻ thương binh, bệnh binh…;",
+          "Giấy chứng nhận của Phòng LĐTBXH hoặc Quyết định về việc cấp sổ ưu đãi giáo dục;",
+          "Bản sao giấy khai sinh;",
+          "Giấy xác nhận thân nhân người có công cách mạng.",
+          "Đối tượng 2 (SVKT) hồ sơ gồm:",
+          "Giấy chứng nhận của Hội đồng thẩm định y khoa cấp có thẩm quyền;",
+          "Quyết định về việc trợ cấp xã hội.",
+          "Đối tượng 3 (MC2) hồ sơ gồm:",
+          "Bản sao giấy khai sinh;",
+          "Bản sao giấy chứng tử của cha và mẹ.",
+          "Đối tượng 4 (TSHN) hồ sơ gồm:",
+          "Bản sao giấy khai sinh;",
+          "Bản sao sổ hộ nghèo, cận nghèo.",
+          "Giấy xác nhận thông tin cư trú (mẫu CT07).",
+          "Đối tượng 5 (TSIN) hồ sơ gồm:",
+          "Bản sao giấy khai sinh;",
+          "Giấy xác nhận thông tin cư trú (mẫu CT07).",
+          "Đối tượng 6 (TSKK) hồ sơ gồm:",
+          "Bản sao giấy khai sinh;",
+          "Giấy xác nhận thông tin cư trú (mẫu CT07).",
+          "Đối tượng 7 (TNLĐ) hồ sơ gồm:",
+          "Bản sao giấy khai sinh;",
+          "Bản sao sổ hưởng trợ cấp có xác nhận của Phòng LĐTBXH."
+        ],
+        "semantic_id": "article_2"
+      },
+      {
+        "id": "3",
+        "title": "Quy định về miễn, giảm học phí",
+        "content": [
+          "Sinh viên thuộc diện được miễn, giảm học phí, hỗ trợ chi phí học tập mà cùng một lúc được hưởng nhiều chính sách hỗ trợ khác nhau thì chỉ được hưởng một chế độ ưu đãi cao nhất.",
+          "Sinh viên thuộc diện được miễn, giảm học phí mà cùng một lúc học ở nhiều trường (hoặc nhiều khoa trong cùng một trường) thì chỉ được hưởng chế độ ưu đãi về miễn, giảm học phí tại một trường (khoa) duy nhất.",
+          "Không áp dụng miễn, giảm học phí đối với trường hợp đang hưởng lương và sinh hoạt phí khi đi học, các trường hợp học cao học, nghiên cứu sinh.",
+          "Không áp dụng chế độ miễn, giảm học phí, trong thời gian sinh viên bị kỷ luật ngừng học hoặc buộc thôi học, học lưu ban, học lại, học bổ sung. Trường hợp sinh viên phải dừng học, học lại, lưu ban (không quá một lần) do ốm đau, tai nạn hoặc dừng học vì lý do bất khả kháng không do kỷ luật hoặc tự thôi học thì Hiệu trưởng xem xét cho tiếp tục học tập theo quy định và tiếp tục được hưởng chính sách hỗ trợ theo quy định.",
+          "Đối tượng người có công với cách mạng và thân nhân người có công với cách mạng được căn cứ theo pháp lệnh ưu đãi người có công với cách mạng số 02/2020/UBTVQH14 ngày 09 tháng 12 năm 2020 hoặc các pháp lệnh khác của các cơ quan có thẩm quyền sửa đổi, bổ sung hoặc quy định mới về ưu đãi người có công với cách mạng.",
+          "Đối tượng sinh viên dân tộc thiểu số ở thôn bản đặc biệt khó khăn, khu vực III, vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo sẽ áp dụng theo phụ lục I danh mục vùng có điều kiện kinh tế - xã hội khó khăn và đặc biệt khó khăn của Nghị định số 81 hoặc các nghị định khác của các cơ quan có thẩm quyền sửa đổi, bổ sung hoặc quy định mới về chế độ miễn, giảm học phí cho sinh viên.",
+          "Sinh viên thuộc diện miễn, giảm học phí chỉ phải làm 01 bộ hồ sơ nộp lần đầu cho cả thời gian học tập, riêng sinh viên thuộc đối tượng là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo hoặc cận nghèo phải nộp giấy chứng nhận hộ nghèo hoặc cận nghèo vào đầu mỗi học kỳ để làm căn cứ xem xét miễn, giảm học phí cho học kỳ tiếp theo.",
+          "Trường hợp sinh viên nộp hồ sơ quá hạn theo thông báo về việc hướng dẫn nộp hồ sơ miễn, giảm học phí của Phòng CTSV sẽ được nhận và giải quyết ở học kỳ sau và không được truy lĩnh cho học kỳ trước đó./.",
+          "Phụ lục II",
+          "Quy định về hỗ trợ học phí cho sinh viên tại trường Đại học Quốc tế",
+          "(Kèm theo Quyết định số 668 /QĐ-ĐHQT ngày 16 tháng của Hiệu trưởng trường Đại học Quốc tế)",
+          "9 năm 2024"
+        ],
+        "semantic_id": "article_3"
+      },
+      {
+        "id": "1",
+        "title": "Đối tượng và mức hỗ trợ học phí",
+        "content": [
+          "Hỗ trợ học phí theo quy định tại Điều 9 của Quyết định này cho các sinh viên thuộc các đối tượng:",
+          "Đối tượng 1: Hỗ trợ 10% học phí cho sinh viên mồ côi cha hoặc mồ côi mẹ (sau đây gọi tắt là MC1).",
+          "Đối tượng 2: Hỗ trợ 10% học phí cho sinh viên có anh chị em ruột (hệ Đại học hoặc Cao học chính quy) hiện đang phát sinh học phí tại trường Đại học Quốc tế (áp dụng kể từ người thứ hai) (sau đây gọi tắt là ACE).",
+          "Đối tượng 3: Hỗ trợ 20% - 30% học phí cho sinh viên là con cán bộ viên chức – Người lao động đang làm việc trong trường (sau đây gọi tắt là CVC) (Các mức này được điều chỉnh theo Quy chế chi tiêu nội bộ hàng năm của Nhà trường)."
+        ],
+        "semantic_id": "article_1"
+      },
+      {
+        "id": "2",
+        "title": "Hồ sơ hỗ trợ học phí",
+        "content": [
+          "Đối tượng 1 (MC1):",
+          "Bản sao giấy khai sinh;",
+          "Bản sao giấy chứng tử của cha hoặc mẹ.",
+          "Đối tượng 2 (ACE):",
+          "Giấy xác nhận thông tin cư trú (mẫu CT07);",
+          "Bản sao giấy khai sinh của 2 anh chị em ruột.",
+          "Đối tượng 3 (CVC):",
+          "Bản sao giấy khai sinh;",
+          "Giấy xác nhận thời gian công tác của Phòng TCCB trường ĐHQT."
+        ],
+        "semantic_id": "article_2"
+      },
+      {
+        "id": "3",
+        "title": "Quy định về hỗ trợ học phí",
+        "content": [
+          "Sinh viên được hỗ trợ học phí cho 2 học kỳ chính (học kỳ 1 và học kỳ 2) nếu SV có phát sinh học phí trong học kỳ đó.",
+          "Sinh viên thuộc diện hỗ trợ học phí nếu cùng một lúc được hưởng nhiều chính sách hỗ trợ khác nhau thì chỉ được hưởng một chế độ ưu đãi cao nhất.",
+          "Không áp dụng hỗ trợ học phí đối với trường hợp đang hưởng lương và sinh hoạt phí khi đi học, các trường hợp học cao học, nghiên cứu sinh.",
+          "Không áp dụng chế độ hỗ trợ học phí, trong thời gian sinh viên bị kỷ luật ngừng học hoặc buộc thôi học, học lưu ban, học lại, học bổ sung. Trường hợp sinh viên phải dừng học, học lại, lưu ban (không quá một lần) do ốm đau, tai nạn hoặc dừng học vì lý do bất khả kháng không do kỷ luật hoặc tự thôi học thì Hiệu trưởng xem xét cho tiếp tục học tập theo quy định và tiếp tục được hưởng chính sách hỗ trợ theo quy định.",
+          "Đối tượng anh em ruột hoặc chị em ruột đang cùng học tại trường phải cùng phát sinh học phí trong cùng học kỳ thì được xét hỗ trợ học phí áp dụng kể từ người thứ hai.",
+          "Đối tượng anh em ruột hoặc chị em ruột đang cùng học tại trường phải chủ động thông báo P.CTSV cập nhật MSSV, chương trình đào tạo mới của 02 anh chị em ruột (nếu có).",
+          "Đối tượng sinh viên là con cán bộ viên chức đang làm việc trong trường phải nộp giấy xác nhận nhân thân và thời gian công tác của Phòng Tổ chức Cán bộ trường Đại học Quốc tế dành cho VC-NLĐ cơ hữu (Phòng TCCB cấp) vào đầu mỗi năm học.",
+          "Trường hợp sinh viên nộp hồ sơ quá hạn quy định theo thông báo về việc hướng dẫn nộp hồ sơ miễn, giảm và hỗ trợ học phí của Phòng CTSV sẽ được nhận và giải quyết ở học kỳ sau và không được truy lĩnh cho học kỳ trước đó./.",
+          "Phụ lục III",
+          "Các biểu mẫu liên quan đến hồ sơ miễn, giảm học phí",
+          "(Kèm theo Quyết định số 668 /QĐ-ĐHQT ngày 16 tháng 9",
+          "của Hiệu trưởng trường Đại học Quốc tế)",
+          "năm 2024",
+          "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+          "Độc lập – Tự do – Hạnh phúc",
+          "ĐƠN ĐỀ NGHỊ MIỄN, GIẢM HỌC PHÍ",
+          "(Dùng cho học sinh, sinh viên đang học tại các cơ sở giáo dục nghề nghiệp và giáo dục đại học công lập)",
+          "Kính gửi: TRƯỜNG ĐẠI HỌC QUỐC TẾ, ĐHQG-HCM",
+          "Tôi tên : ………………………………………………Sinh ngày……../…..../…….………… Là sinh viên lớp : ……………...……MSSV:………………Khoa :…………………............. Số điện thoại: ......................................Email:............................................................................",
+          "Họ tên cha: .................................................................... Điện thoại di động: .............................",
+          "Họ tên mẹ:..................................................................... Điện thoại di động: .............................",
+          "Hộ khẩu thường trú: ...................................................................................................................",
+          "………………………………………………………………………………………………… Tôi thuộc diện được giảm học phí theo Chính sách MGHP của nhà trường, đối tượng cụ",
+          "thể như sau: (sinh viên đánh dấu chéo (x) vào ô vuông mà mình thuộc diện được miễn giảm).",
+          "Kính đề nghị Ban Giám hiệu, Phòng Công tác Sinh viên xem xét giải quyết cho tôi được miễn giảm học phí theo quy định của nhà trường.",
+          "Trân trọng kính chào./.",
+          "Thành phố Hồ Chí Minh, ngày tháng năm 202…",
+          "Người viết đơn",
+          "ĐƠN ĐỀ NGHỊ HỖ TRỢ HỌC PHÍ",
+          "Kính gửi : TRƯỜNG ĐẠI HỌC QUỐC TẾ, ĐHQG-HCM",
+          "Tôi tên : ………………………………………………Sinh ngày……../…..../…….…………. Là sinh viên lớp : ……………...……MSSV:………………Khoa :………………….............. Số điện thoại:……………………..…Email:………………………………………………….. Họ tên cha: Điện thoại di",
+          "động:…….........................",
+          "Họ tên mẹ: …………………………………………...Điện thoại di động:……........................ Hộ khẩu thường trú: …………………………………………………………………………...",
+          "………………………………………………………………………………………………… Căn cứ Quyết định số /QĐ-ĐHQT ngày tháng năm 2024 của Hiệu trưởng ban hành Quy định hỗ trợ học phí cho sinh viên trường Đại học Quốc tế - ĐHQG-HCM, em kính nộp đơn đề nghị xem xét hỗ trợ học phí của học kỳ năm học ……………..",
+          "Kính đề nghị Ban Giám hiệu, Phòng Công tác Sinh viên xem xét giải quyết cho tôi được hỗ trợ học phí theo quy định của nhà trường.",
+          "Trân trọng kính chào./.",
+          "Thành phố Hồ Chí Minh, ngày tháng năm 202…",
+          "Người viết đơn",
+          "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+          "Độc lập – Tự do – Hạnh phúc",
+          "ĐƠN ĐỀ NGHỊ HỖ TRỢ CHI PHÍ HỌC TẬP",
+          "(Dùng cho đối tượng được hỗ trợ chi phí học tập theo quy định tại Quyết định số 66/2013/QĐ-TTg ngày 11 tháng 11 năm 2013 và Thông tư liên tịch số 35/2014/TTLT- BGDĐT-BTC ngày 15/10/2014)",
+          "Kính gửi : TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐHQG-HCM",
+          "Tôi tên : …………………………………………Sinh ngày……../…..../…….…………. Là sinh viên lớp : ……………...……MSSV:………………Khoa :…………………...... Số điện thoại:……………………..…Email:…………………………………………….. Hộ khẩu thường trú:……………………………………………………………….……....",
+          "………………………………………………………………………………...……… Thuộc đối tượng: Dân tộc thiểu số hộ nghèo hoặc cận nghèo",
+          "(ghi rõ đối tượng được quy định tại Thông tư liên tịch số 35/2014/TTLT-BGDĐT-BTC ngày 15/10/2014 về việc hướng dẫn thực hiện Quyết định số 66/2013/QĐ-TTg ngày 11 tháng 11 năm 2013 của Thủ tướng Chính phủ)",
+          "Căn cứ Thông tư liên tịch số 35/2014/TTLT-BGDĐT-BTC ngày 15/10/2014 của liên Bộ Giáo dục về việc hướng dẫn thực hiện Quyết định số 66/2013/QĐ-TTg ngày 11 tháng 11 năm 2013 của Thủ tướng Chính phủ, tôi làm đơn này đề nghị được xem xét để được cấp tiền hỗ trợ chi phí học tập theo quy định hiện hành./.",
+          "………….., ngày…..tháng…. năm 202…",
+          "Người làm đơn",
+          "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+          "Độc lập – Tự do – Hạnh phúc",
+          "ĐƠN ĐỀ NGHỊ HỖ TRỢ HỌC TẬP",
+          "Dùng cho đối tượng được hỗ trợ học tập theo quy định tại Nghị định số 57/2017/NĐ-CP ngày 09 tháng 5 năm 2017)",
+          "Kính gửi : TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐHQG-HCM",
+          "Tôi tên : …………………………………………Sinh ngày……../…..../…….………….. Là sinh viên lớp : ……………...……MSSV:………………Khoa :…………………....... Số điện thoại:……………………..…Email:……………………………………………… Hộ khẩu thường trú:……………………………………………………………….…….....",
+          "………………………………………………………………………………...……… Thuộc đối tượng: Dân tộc thiểu số rất ít người",
+          "(ghi rõ đối tượng được quy định tại Nghị định số 57/2017/NĐ-CP ngày 09 tháng 5 năm 2017 của Thủ tướng Chính phủ).",
+          "Căn cứ vào Nghị định số 57/2017/NĐ-CP ngày 09 tháng 5 năm 2017 của Thủ tướng Chính phủ, tôi làm đơn này đề nghị được xem xét để được cấp tiền hỗ trợ chi phí học tập theo quy định hiện hành./.",
+          "……………., ngày…..tháng…. năm 202…",
+          "Người làm đơn"
+        ],
+        "semantic_id": "article_3"
+      }
+    ],
+    "sections": []
+  },
+  "metadata": {
+    "nguồn": "9.json",
+    "ngôn_ngữ": "vi",
+    "ngày_xử_lý": "2025-05-26T22:58:39.260369",
+    "phiên_bản": "1.0",
+    "tổng_số_điều": 20,
+    "tổng_số_mục": 0
+  }
+}
