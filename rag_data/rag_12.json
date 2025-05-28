@@ -278,14 +278,51 @@
         "semantic_id": "article_17"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ],
+          [
+            "Số: 515/QĐ-ĐHQT",
+            "Thành phố Hồ Chí Minh, ngày 08 tháng 9 năm 2022"
+          ]
+        ],
+        "semantic_id": "table_1"
+      },
+      {
+        "id": "2",
+        "data": [
+          [
+            "Nơi nhận: Như Điều 3; Lưu: VT, TCCB.",
+            "HIỆU TRƯỞNG Trần Tiến Khoa"
+          ]
+        ],
+        "semantic_id": "table_2"
+      },
+      {
+        "id": "3",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_3"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "12.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:50.153648",
+    "ngày_xử_lý": "2025-05-27T11:13:55.003464",
     "phiên_bản": "1.0",
     "tổng_số_điều": 20,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 3
   }
 }

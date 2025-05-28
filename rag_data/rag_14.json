@@ -180,14 +180,109 @@
         "semantic_id": "article_9"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ Số: 151 /QĐ-ĐHQT",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc Thành phố Hồ Chí Minh, ngày 21 tháng 3 năm 2025"
+          ]
+        ],
+        "semantic_id": "table_1"
+      },
+      {
+        "id": "2",
+        "data": [
+          [
+            "Nơi nhận: Như Điều 3; Ban Giám hiệu (để biết); Lưu: VT, CTSV.",
+            "KT. HIỆU TRƯỞNG PHÓ HIỆU TRƯỞNG Đinh Đức Anh Vũ"
+          ]
+        ],
+        "semantic_id": "table_2"
+      },
+      {
+        "id": "3",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_3"
+      },
+      {
+        "id": "4",
+        "data": [
+          [
+            "STT",
+            "Tiêu chí đánh giá",
+            "Tổng điểm",
+            "Chế độ đánh giá",
+            "Ghi chú"
+          ],
+          [
+            "1",
+            "Tham dự họp lớp",
+            "20",
+            "Thiếu mỗi buổi họp định kỳ trừ 5 điểm.",
+            ""
+          ],
+          [
+            "2",
+            "Triển khai các thông tin đến thành viên lớp",
+            "40",
+            "Không triển khai một hoạt động trừ 2 điểm.",
+            ""
+          ],
+          [
+            "3",
+            "Tham dự tập huấn, đối thoại, hội nghị",
+            "10",
+            "Vắng mặt không lý do buổi đối thoại sinh viên/tập huấn Ban cán sự lớp trừ 5 điểm/lần. Vắng mặt tại các sự kiện khác được triệu tập trừ 2 điểm/lần.",
+            ""
+          ],
+          [
+            "4",
+            "Thực hiện nhiệm vụ rèn luyện cho thành viên lớp",
+            "20",
+            "Không triển khai họp chấm điểm rèn luyện cho các thành viên trong lớp trừ 5 điểm/lần.",
+            ""
+          ],
+          [
+            "5",
+            "Báo cáo đúng thời hạn",
+            "10",
+            "Nộp trễ báo cáo trừ 5 điểm/lần.",
+            ""
+          ],
+          [
+            "6",
+            "Tích cực hoạt động, có trách nhiệm và thường xuyên liên hệ với lớp và CVHT, phối hợp với Đoàn Thanh niên, Hội sinh viên, các Phòng/Ban/Trung tâm liên quan",
+            "10",
+            "CVHT xác nhận thành viên thuộc Ban cán sự lớp tích cực hoạt động, và thường xuyên liên hệ với lớp và CVHT.",
+            "Điểm thưởng (nếu có)"
+          ],
+          [
+            "Tổng điểm tối đa",
+            "Tổng điểm tối đa",
+            "100",
+            "",
+            ""
+          ]
+        ],
+        "semantic_id": "table_4"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "14.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:50.164525",
+    "ngày_xử_lý": "2025-05-27T11:13:55.017139",
     "phiên_bản": "1.0",
     "tổng_số_điều": 12,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 4
   }
 }

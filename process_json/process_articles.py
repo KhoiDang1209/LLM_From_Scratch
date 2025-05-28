@@ -1,131 +1,535 @@
-import json
-from pathlib import Path
 import re
-import unicodedata
-from datetime import datetime
+import json
+import os
+from typing import List, Dict, Any
 
-def clean_text(text):
-    """Clean and normalize text."""
-    if not isinstance(text, str):
-        return text
-    
+def clean_text(text: str) -> str:
+    """Clean and normalize text while preserving newlines."""
     # Normalize Unicode characters
-    text = unicodedata.normalize('NFC', text)
-    
-    # Remove extra whitespace
+    text = text.encode('utf-8', 'ignore').decode('utf-8')
+    # Remove extra whitespace but preserve newlines
     text = re.sub(r'\s+', ' ', text)
-    
-    # Remove newlines within text
-    text = re.sub(r'\n', ' ', text)
-    
+    # Remove extra newlines
+    text = re.sub(r'\n\s*\n', '\n', text)
     return text.strip()
 
-def process_articles(data):
-    """Process articles into RAG-friendly format."""
-    articles = []
+def extract_chapters(text: str) -> List[Dict[str, Any]]:
+    """Extract chapters from text."""
+    chapters = []
+    chapter_pattern = r'Chương\s+([IVX]+)\s*\n(.*?)(?=Chương\s+[IVX]+|$)'
     
-    # Process main articles
-    for article in data.get('articles', []):
-        if not isinstance(article, dict):
-            continue
-            
-        # Clean article data
-        article_number = clean_text(article.get('number', ''))
-        article_title = clean_text(article.get('title', ''))
-        article_content = [clean_text(content) for content in article.get('content', [])]
-        
-        # Create article object
-        article_obj = {
-            'id': article_number,
-            'title': article_title,
-            'content': article_content,
-            'semantic_id': f"article_{article_number.replace('.', '')}"
-        }
-        
-        articles.append(article_obj)
+    for match in re.finditer(chapter_pattern, text, re.DOTALL):
+        chapter_num = match.group(1)
+        chapter_content = match.group(2).strip()
+        chapters.append({
+            'id': chapter_num,
+            'content': chapter_content,
+            'semantic_id': f'chapter_{chapter_num}'
+        })
     
-    # Process sections if they exist
-    sections = []
-    for section in data.get('sections', []):
-        if not isinstance(section, dict):
-            continue
-            
-        # Clean section data
-        section_number = clean_text(section.get('number', ''))
-        section_text = clean_text(section.get('text', ''))
-        section_level = section.get('level', 1)
-        
-        # Create section object
-        section_obj = {
-            'id': section_number,
-            'text': section_text,
-            'level': section_level,
-            'semantic_id': f"section_{section_number.replace('.', '')}"
-        }
-        
-        sections.append(section_obj)
-    
-    return articles, sections
+    return chapters
 
-def create_rag_document(articles, sections, source_file):
-    """Create a RAG-friendly document structure."""
-    document = {
-        'document_id': f"quy_dinh_{source_file.stem}",
-        'type': 'quy_dinh',
-        'content': {
-            'articles': articles,
-            'sections': sections
-        },
-        'metadata': {
-            'nguồn': source_file.name,
-            'ngôn_ngữ': 'vi',
-            'ngày_xử_lý': datetime.now().isoformat(),
-            'phiên_bản': '1.0',
-            'tổng_số_điều': len(articles),
-            'tổng_số_mục': len(sections)
+def extract_articles(text: str) -> List[Dict[str, Any]]:
+    """Extract articles from text."""
+    articles = []
+    article_pattern = r'Điều\s+(\d+)\.\s*(.*?)(?=Điều\s+\d+\.|$)'
+    
+    for match in re.finditer(article_pattern, text, re.DOTALL):
+        article_num = match.group(1)
+        article_content = match.group(2).strip()
+        articles.append({
+            'id': article_num,
+            'content': article_content,
+            'semantic_id': f'article_{article_num}'
+        })
+    
+    return articles
+
+def extract_points(text: str) -> List[Dict[str, Any]]:
+    """Extract numbered points from text."""
+    points = []
+    # First split by numbered points
+    point_pattern = r'(?:^|\n)(\d+)\.\s*(.*?)(?=(?:^|\n)\d+\.|$)'
+    
+    for match in re.finditer(point_pattern, text, re.DOTALL):
+        point_num = match.group(1)
+        point_content = match.group(2).strip()
+        
+        # Check if point has sub-points
+        sub_points = extract_sub_points(point_content)
+        
+        # If sub-points exist, clean the main point text
+        if sub_points:
+            # Remove sub-point content from main text
+            main_text = re.sub(r'[a-z]\)\s*.*?(?=[a-z]\)|$)', '', point_content, flags=re.DOTALL).strip()
+            # Remove the "bao gồm:" or similar text that introduces sub-points
+            main_text = re.sub(r'bao gồm:.*?(?=[a-z]\)|$)', '', main_text, flags=re.DOTALL).strip()
+        else:
+            main_text = point_content
+        
+        points.append({
+            'id': point_num,
+            'text': main_text,
+            'semantic_id': f'point_{point_num}',
+            'sub_points': sub_points
+        })
+    
+    return points
+
+def extract_sub_points(text: str) -> List[Dict[str, Any]]:
+    """Extract sub-points from text."""
+    sub_points = []
+    lines = text.split('\n')
+    current_sub_point = None
+    current_content = []
+    in_table = False
+    table_content = []
+    
+    for i, line in enumerate(lines):
+        line = line.strip()
+        if not line:
+            continue
+            
+        # Check for table start
+        if is_table_start(line):
+            in_table = True
+            table_content = [line]
+            continue
+            
+        # Handle table content
+        if in_table:
+            if is_table_line(line) or is_table_continuation(line, lines[i-1] if i > 0 else ''):
+                table_content.append(line)
+            else:
+                in_table = False
+                if current_sub_point:
+                    current_content.append('\n'.join(table_content))
+                table_content = []
+                
+        # Check for sub-point marker
+        sub_point_match = re.match(r'([a-z])\)\s*(.*)', line)
+        if sub_point_match:
+            # Save previous sub-point if exists
+            if current_sub_point:
+                sub_points.append({
+                    'id': current_sub_point,
+                    'text': '\n'.join(current_content),
+                    'semantic_id': f'sub_point_{current_sub_point}'
+                })
+            # Start new sub-point
+            current_sub_point = sub_point_match.group(1)
+            current_content = [sub_point_match.group(2)]
+        elif current_sub_point:
+            current_content.append(line)
+    
+    # Add last sub-point
+    if current_sub_point:
+        sub_points.append({
+            'id': current_sub_point,
+            'text': '\n'.join(current_content),
+            'semantic_id': f'sub_point_{current_sub_point}'
+        })
+    
+    return sub_points
+
+def is_table_start(line: str) -> bool:
+    """Check if line indicates start of a table."""
+    return bool(re.match(r'^\s*Đơn vị:', line))
+
+def is_table_line(line: str) -> bool:
+    """Check if line is part of a table structure."""
+    # Skip lines that are just numbers or decimal numbers
+    if re.match(r'^\s*\d+(?:\.\d+)?\s*$', line):
+        return False
+    # Check for common table patterns
+    return bool(re.match(r'^\s*(?:\d+\.\d+|\d+|[a-z]\))\s+', line))
+
+def is_table_continuation(line: str, prev_line: str) -> bool:
+    """Check if line is a continuation of a table row."""
+    if not prev_line:
+        return False
+    # If previous line was a table row and current line is just a number or decimal
+    if is_table_line(prev_line) and re.match(r'^\s*\d+(?:\.\d+)?\s*$', line):
+        return True
+    return False
+
+def extract_sections_by_colon(text: str) -> List[Dict[str, Any]]:
+    """Extract sections from text where sections are separated by colons."""
+    sections = []
+    current_section = None
+    current_content = []
+    in_department = False
+    
+    lines = text.split('\n')
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        # Check if line starts with department markers
+        if re.match(r'^(Phòng|Trung|Khoa)\s+.*:', line):
+            # Save previous section if exists
+            if current_section:
+                sections.append({
+                    'title': current_section,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'section_{len(sections) + 1}',
+                    'type': 'department' if in_department else 'general'
+                })
+            # Start new department section
+            current_section = line[:-1]  # Remove the colon
+            current_content = []
+            in_department = True
+        # Check if line ends with colon (indicating a new general section)
+        elif line.endswith(':') and not in_department:
+            # Save previous section if exists
+            if current_section:
+                sections.append({
+                    'title': current_section,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'section_{len(sections) + 1}',
+                    'type': 'general'
+                })
+            # Start new section
+            current_section = line[:-1]  # Remove the colon
+            current_content = []
+        elif current_section:
+            current_content.append(line)
+    
+    # Add last section
+    if current_section:
+        sections.append({
+            'title': current_section,
+            'content': '\n'.join(current_content),
+            'semantic_id': f'section_{len(sections) + 1}',
+            'type': 'department' if in_department else 'general'
+        })
+    
+    return sections
+
+def extract_course_sections(text: str) -> List[Dict[str, Any]]:
+    """Extract sections from text with hierarchical structure."""
+    sections = []
+    current_faculty = None
+    current_major = None
+    current_year = None
+    current_semester = None
+    current_content = []
+    current_section = None
+    in_special_section = False
+    special_section_content = []
+    
+    lines = text.split('\n')
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        # Check for faculty (Khoa)
+        if line.startswith('Khoa ') and line.endswith(':'):
+            # Save previous sections if exists
+            if current_semester and current_year:
+                current_year['semesters'].append({
+                    'title': current_semester,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
+                })
+            if current_year and current_major:
+                current_major['years'].append(current_year)
+            if current_major and current_faculty:
+                current_faculty['majors'].append(current_major)
+            if current_faculty:
+                sections.append(current_faculty)
+            
+            # Start new faculty
+            current_faculty = {
+                'title': line[:-1],
+                'majors': [],
+                'semantic_id': f'faculty_{len(sections) + 1}'
+            }
+            current_major = None
+            current_year = None
+            current_semester = None
+            current_content = []
+            current_section = None
+            in_special_section = False
+            special_section_content = []
+            
+        # Check for major (Ngành)
+        elif line.startswith('Ngành ') and line.endswith(':'):
+            # Save previous sections if exists
+            if current_semester and current_year:
+                current_year['semesters'].append({
+                    'title': current_semester,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
+                })
+            if current_year and current_major:
+                current_major['years'].append(current_year)
+            if current_major and current_faculty:
+                current_faculty['majors'].append(current_major)
+            
+            # Start new major
+            current_major = {
+                'title': line[:-1],
+                'career_opportunities': '',
+                'training_objectives': [],
+                'years': [],
+                'special_sections': {
+                    'content': ''
+                },
+                'semantic_id': f'major_{len(current_faculty["majors"]) + 1}' if current_faculty else 'major_1'
+            }
+            current_year = None
+            current_semester = None
+            current_content = []
+            current_section = None
+            in_special_section = False
+            special_section_content = []
+            
+        # Check for year (Năm X)
+        elif line.startswith('Năm ') and line.endswith(':'):
+            # Save previous sections if exists
+            if current_semester and current_year:
+                current_year['semesters'].append({
+                    'title': current_semester,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
+                })
+            if current_year and current_major:
+                current_major['years'].append(current_year)
+            
+            # Start new year
+            current_year = {
+                'title': line[:-1],
+                'semesters': [],
+                'semantic_id': f'year_{len(current_major["years"]) + 1}' if current_major else 'year_1'
+            }
+            current_semester = None
+            current_content = []
+            current_section = None
+            in_special_section = False
+            
+        # Check for semester (Học kì X)
+        elif line.startswith('Học kì ') and line.endswith(':'):
+            # Save previous semester if exists
+            if current_semester and current_year:
+                current_year['semesters'].append({
+                    'title': current_semester,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
+                })
+            
+            # Start new semester
+            current_semester = line[:-1]
+            current_content = []
+            current_section = None
+            in_special_section = False
+            
+        # Check for special sections (like Môn tự chọn or General Elective Course)
+        elif ('Môn tự chọn' in line or 'General Elective Course' in line or 'ET Elective Courses' in line) and (line.endswith(':') or line.endswith(',')):
+            # Save previous semester if exists
+            if current_semester and current_year:
+                current_year['semesters'].append({
+                    'title': current_semester,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
+                })
+            
+            current_semester = None
+            current_section = line[:-1] if line.endswith(':') else line[:-1] + ':'
+            special_section_content = [line]  # Include the title in the content
+            in_special_section = True
+            
+        # Check for section headers in major content
+        elif current_major and (line.endswith(':') or line == 'Mục tiêu đào tạo' or line == 'Cơ hội nghề nghiệp'):
+            # Save previous section content if exists
+            if current_section and current_content:
+                if current_section == 'Cơ hội nghề nghiệp':
+                    current_major['career_opportunities'] = '\n'.join(current_content)
+                elif current_section == 'Mục tiêu đào tạo':
+                    current_major['training_objectives'] = current_content
+            current_section = line[:-1] if line.endswith(':') else line
+            current_content = []
+            
+        # Regular content line
+        elif current_semester and current_year:
+            current_content.append(line)
+        elif current_year:
+            # If we have content in a year but no semester, it might be a special section
+            if current_content and not current_semester and not in_special_section:
+                if current_major:
+                    current_major['special_sections']['content'] = '\n'.join(current_content)
+                current_content = []
+            current_content.append(line)
+        elif current_major:
+            if in_special_section:
+                special_section_content.append(line)
+            else:
+                current_content.append(line)
+        elif current_faculty:
+            current_content.append(line)
+    
+    # Save last sections
+    if current_semester and current_year:
+        # If this is semester 2 of year 4 and we have special section content, append it
+        if current_year['title'] == 'Năm 4' and current_semester == 'Học kì 2' and special_section_content:
+            current_content.extend(special_section_content)
+        current_year['semesters'].append({
+            'title': current_semester,
+            'content': '\n'.join(current_content),
+            'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
+        })
+    elif current_year and not current_semester and special_section_content:
+        # If we're in year 5 and have special section content but no semester
+        if current_year['title'] == 'Năm 5':
+            # Create a new semester for year 5 if it doesn't exist
+            if not current_year['semesters']:
+                current_year['semesters'].append({
+                    'title': 'Học kì 1',
+                    'content': '\n'.join(current_content + special_section_content),
+                    'semantic_id': 'semester_1'
+                })
+            else:
+                # Append to existing semester
+                current_year['semesters'][0]['content'] += '\n' + '\n'.join(special_section_content)
+    
+    if current_year and current_major:
+        # Check for any remaining content in the year
+        if current_content and not current_semester and not in_special_section:
+            current_major['special_sections']['content'] = '\n'.join(current_content)
+        current_major['years'].append(current_year)
+    if current_major:
+        # Save last major section content
+        if current_section and current_content:
+            if current_section == 'Cơ hội nghề nghiệp':
+                current_major['career_opportunities'] = '\n'.join(current_content)
+            elif current_section == 'Mục tiêu đào tạo':
+                current_major['training_objectives'] = current_content
+        if current_faculty:
+            current_faculty['majors'].append(current_major)
+    if current_faculty:
+        sections.append(current_faculty)
+    
+    return sections
+
+def process_policy_file(file_path: str) -> Dict[str, Any]:
+    """Process a policy text file into a structured format."""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        text = f.read()
+    
+    # Check if file is a course structure file
+    if 'Khoa ' in text and 'Ngành ' in text and 'Năm ' in text and 'Học kì ' in text:
+        sections = extract_course_sections(text)
+        document = {
+            'document_id': os.path.splitext(os.path.basename(file_path))[0],
+            'type': 'course_structure',
+            'content': {
+                'faculties': sections
+            },
+            'metadata': {
+                'total_faculties': len(sections),
+                'total_majors': sum(len(faculty['majors']) for faculty in sections),
+                'total_years': sum(len(major['years']) for faculty in sections for major in faculty['majors']),
+                'total_semesters': sum(
+                    len(year['semesters'])
+                    for faculty in sections
+                    for major in faculty['majors']
+                    for year in major['years']
+                )
+            }
         }
-    }
+    # Check if file is in colon-separated format
+    elif ':' in text and not re.search(r'Điều\s+\d+\.', text):
+        sections = extract_sections_by_colon(text)
+        document = {
+            'document_id': os.path.splitext(os.path.basename(file_path))[0],
+            'type': 'policy',
+            'content': {
+                'sections': sections
+            },
+            'metadata': {
+                'total_sections': len(sections),
+                'total_departments': sum(1 for section in sections if section['type'] == 'department'),
+                'total_general_sections': sum(1 for section in sections if section['type'] == 'general')
+            }
+        }
+    else:
+        # Process as regular policy document with articles
+        header_pattern = r'^(.*?)(?=\d+\.|Điều\s+1\.)'
+        header_match = re.search(header_pattern, text, re.DOTALL)
+        header = header_match.group(1).strip() if header_match else ''
+        
+        # Check if document has chapters and articles
+        has_chapters = bool(re.search(r'Chương\s+[IVX]+', text))
+        
+        if has_chapters:
+            # Process hierarchical document
+            chapters = extract_chapters(text)
+            for chapter in chapters:
+                chapter['articles'] = extract_articles(chapter['content'])
+                for article in chapter['articles']:
+                    article['points'] = extract_points(article['content'])
+            
+            document = {
+                'document_id': os.path.splitext(os.path.basename(file_path))[0],
+                'type': 'policy',
+                'content': {
+                    'header': header,
+                    'chapters': chapters
+                },
+                'metadata': {
+                    'total_chapters': len(chapters),
+                    'total_articles': sum(len(chapter['articles']) for chapter in chapters),
+                    'total_points': sum(len(article['points']) for chapter in chapters for article in chapter['articles']),
+                    'total_sub_points': sum(
+                        sum(len(point['sub_points']) for point in article['points'])
+                        for chapter in chapters for article in chapter['articles']
+                    )
+                }
+            }
+        else:
+            # Process simple numbered list
+            points = extract_points(text)
+            
+            document = {
+                'document_id': os.path.splitext(os.path.basename(file_path))[0],
+                'type': 'policy',
+                'content': {
+                    'header': header,
+                    'points': points
+                },
+                'metadata': {
+                    'total_points': len(points),
+                    'total_sub_points': sum(len(point['sub_points']) for point in points)
+                }
+            }
     
     return document
 
 def main():
     # Define input and output paths
-    input_files = [
-        Path('text_output/12.json'),
-        Path('text_output/13.json'),
-        Path('text_output/14.json'),
-        Path('text_output/15.json'),
-        Path('text_output/16.json'),
-        Path('text_output/17.json'),
-        Path('text_output/18.json'),
-    ]
-    output_dir = Path('rag_data')
-    output_dir.mkdir(exist_ok=True)
+    input_dir = 'data_done'
+    output_dir = 'rag_data'
     
-    for input_file in input_files:
-        try:
-            # Read input file
-            with open(input_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            
-            # Process articles and sections
-            articles, sections = process_articles(data)
-            
-            # Create RAG document
-            rag_document = create_rag_document(articles, sections, input_file)
-            
-            # Save processed document
-            output_file = output_dir / f'rag_{input_file.stem}.json'
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(rag_document, f, ensure_ascii=False, indent=2)
-                
-            print(f"Successfully processed {input_file}")
-            print(f"Total articles processed: {len(articles)}")
-            print(f"Total sections processed: {len(sections)}")
-            print(f"Output saved to: {output_file}")
-            
-        except Exception as e:
-            print(f"Error processing {input_file}: {str(e)}")
+    # Create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Process files
+    input_files = ['EE_HCMIU.txt']
+    
+    for file_name in input_files:
+        input_path = os.path.join(input_dir, file_name)
+        output_path = os.path.join(output_dir, f'rag_{os.path.splitext(file_name)[0]}.json')
+        
+        print(f'Processing {file_name}...')
+        document = process_policy_file(input_path)
+        
+        # Save processed document
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(document, f, ensure_ascii=False, indent=2)
+        
+        print(f'Created {output_path}')
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main() 

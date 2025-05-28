@@ -362,14 +362,255 @@
         "semantic_id": "article_3"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ Số: 668 /QĐ-ĐHQT",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc Thành phố Hồ Chí Minh, ngày 16 tháng 9 năm 2024"
+          ]
+        ],
+        "semantic_id": "table_1"
+      },
+      {
+        "id": "2",
+        "data": [
+          [
+            "Nơi nhận: Như Điều 4; Lưu: VT, CTSV.",
+            "HIỆU TRƯỞNG Lê Văn Thăng"
+          ]
+        ],
+        "semantic_id": "table_2"
+      },
+      {
+        "id": "3",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_3"
+      },
+      {
+        "id": "4",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_4"
+      },
+      {
+        "id": "5",
+        "data": [
+          [
+            "STT",
+            "Đối tượng",
+            "Mức hỗ trợ (quy định tại Điều 9 của Quyết định này)",
+            "Hồ sơ"
+          ],
+          [
+            "1",
+            "NCC",
+            "100%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III). Bản sao thẻ thương binh, bệnh binh…; Giấy chứng nhận của Phòng LĐTBXH hoặc Quyết định về việc cấp sổ ưu đãi giáo dục; Bản sao giấy khai sinh; Giấy xác nhận thân nhân người có công cách mạng."
+          ]
+        ],
+        "semantic_id": "table_5"
+      },
+      {
+        "id": "6",
+        "data": [
+          [
+            "2",
+            "SVKT",
+            "100%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III); Giấy chứng nhận của Hội đồng thẩm định y khoa cấp có thẩm quyền; Quyết định về việc trợ cấp xã hội."
+          ],
+          [
+            "3",
+            "MC2",
+            "100%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III); Bản sao giấy khai sinh; Bản sao giấy chứng tử của cha và mẹ."
+          ],
+          [
+            "4",
+            "TSHN",
+            "100%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III); Bản sao giấy khai sinh Bản sao sổ hộ nghèo, cận nghèo Giấy xác nhận thông tin cư trú (mẫu CT07)."
+          ],
+          [
+            "5",
+            "TSIN",
+            "100%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III); Bản sao giấy khai sinh; Giấy xác nhận thông tin cư trú (mẫu CT07)."
+          ],
+          [
+            "6",
+            "TSKK",
+            "70%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III); Bản sao giấy khai sinh; Giấy xác nhận thông tin cư trú (mẫu CT07)."
+          ],
+          [
+            "7",
+            "TNLĐ",
+            "50%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M01/MGHP-CTSV, phụ lục III); Bản sao giấy khai sinh; Bản sao sổ hưởng trợ cấp có xác nhận của Phòng LĐTBXH."
+          ]
+        ],
+        "semantic_id": "table_6"
+      },
+      {
+        "id": "7",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_7"
+      },
+      {
+        "id": "8",
+        "data": [
+          [
+            "STT",
+            "Đối tượng",
+            "Mức hỗ trợ (quy định tại Điều 9 của Quyết định này)",
+            "Hồ sơ"
+          ],
+          [
+            "1",
+            "MC1",
+            "10%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M02/HTHP-CTSV, phụ lục III); Bản sao giấy khai sinh; Bản sao giấy chứng tử của cha hoặc mẹ;"
+          ],
+          [
+            "2",
+            "ACE",
+            "10%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M02/HTHP-CTSV, phụ lục III); Giấy xác nhận thông tin cư trú (mẫu CT07); Bản sao giấy khai sinh của 2 anh chị em ruột."
+          ],
+          [
+            "3",
+            "CVC",
+            "20% - 30%",
+            "Đơn xin xét miễn, giảm học phí tại trường ĐHQT (theo biểu mẫu số M02/HTHP-CTSV, phụ lục III); Bản sao giấy khai sinh; Giấy xác nhận thời gian công tác của Phòng TCCB trường ĐHQT."
+          ]
+        ],
+        "semantic_id": "table_8"
+      },
+      {
+        "id": "9",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_9"
+      },
+      {
+        "id": "10",
+        "data": [
+          [
+            "1",
+            "Các đối tượng theo quy định tại Pháp lệnh Ưu đãi người có công với cách mạng (sau đây gọi tắt là NCC)",
+            ""
+          ],
+          [
+            "2",
+            "Sinh viên khuyết tật (sau đây gọi tắt là SVKT)",
+            ""
+          ],
+          [
+            "3",
+            "Người từ 16 tuổi đến 22 tuổi đang học giáo dục đại học văn bằng thứ nhất mồ côi, không có nguồn nuôi dưỡng thuộc đối tượng bảo trợ xã hội hưởng trợ cấp",
+            ""
+          ]
+        ],
+        "semantic_id": "table_10"
+      },
+      {
+        "id": "11",
+        "data": [
+          [
+            "",
+            "xã hội hàng tháng theo quy định tại khoản 1 và khoản 2, điều 5, Nghị định 20/2021/NĐ-CP (sau đây gọi tắt là MC2)",
+            ""
+          ],
+          [
+            "4",
+            "Sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo hoặc cận nghèo theo quy định của Thủ tướng Chính phủ (sau đây gọi tắt là TSHN)",
+            ""
+          ],
+          [
+            "5",
+            "Sinh viên dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn (sau đây gọi tắt là TSIN)",
+            ""
+          ],
+          [
+            "6",
+            "Sinh viên dân tộc thiểu số ở thôn bản đặc biệt khó khăn, khu vực III, vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo (sau đây gọi tắt là TSKK)",
+            ""
+          ],
+          [
+            "7",
+            "Sinh viên là con Cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên (sau đây gọi tắt là TNLĐ)",
+            ""
+          ]
+        ],
+        "semantic_id": "table_11"
+      },
+      {
+        "id": "12",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_12"
+      },
+      {
+        "id": "13",
+        "data": [
+          [
+            "01",
+            "Sinh viên mồ côi cha hoặc mồ côi mẹ (sau đây gọi tắt là MC1)",
+            ""
+          ],
+          [
+            "02",
+            "Sinh viên có anh chị em ruột (hệ Đại học hoặc Cao học chính quy) hiện đang phát sinh học phí tại trường Đại học Quốc tế (áp dụng kể từ người thứ hai) (sau đây gọi tắt là ACE) Thông tin anh chị em ruột học cùng trường: Họ và tên: ………………………………………………………………… MSSV: ……………………………………………………………………. Điện thoại: ………………………………………………………………..",
+            ""
+          ],
+          [
+            "03",
+            "Sinh viên là con cán bộ viên chức đang làm việc trong trường (sau đây gọi tắt là CVC)",
+            ""
+          ],
+          [
+            "04",
+            "Khác",
+            ""
+          ]
+        ],
+        "semantic_id": "table_13"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "9.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:39.260369",
+    "ngày_xử_lý": "2025-05-27T11:13:54.995132",
     "phiên_bản": "1.0",
     "tổng_số_điều": 20,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 13
   }
 }

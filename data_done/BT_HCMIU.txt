@@ -1,5 +1,6 @@
 Khoa Công Nghệ Sinh Học:
 Ngành Công Nghệ Sinh Học:
+Mục tiêu đào tạo:
 Chương trình Ngành Công Nghệ Sinh học (CNSH) được thiết kế nhằm trang bị cho sinh viên những kiến thức và kỹ năng toàn diện về các lĩnh vực thuộc Ngành CNSH như CNSH phân tử, kỹ thuật gene và tế bào, kỹ thuật hỗ trợ sinh sản, tế bào gốc, y sinh học tái tạo và các ứng dụng của CNSH hiện đại của thế kỷ 21 phục vụ cho y học, dược học, nông nghiệp và công nghiệp
 Cơ hội nghề nghiệp:
 Trở thành công dân toàn cầu, có năng lực sống và làm việc tại nhiều Quốc gia.
@@ -10,6 +11,7 @@ Kỹ thuật viên phòng xét nghiệm, Chuyên viên, Kỹ thuật viên phòn
 Kinh doanh Hoá chất và thiết bị vật tư Công nghệ Sinh học.
 
 Chương trình học:
+Năm 1:
 Học kì 1:
 EN007IU-Writing AE1-2 
 EN008IU-Listening AE1-2 
@@ -64,7 +66,7 @@ BT333IU	Molecular Biotechnology 3
 BT334IU	Practice in Molecular Biotechnology 1
 BT335IU	Immunology 3
 BT336IU	Practice in Immunology 1
-Chọn ít nhất 2 trong các môn sau:
+Chọn ít nhất 2 trong các môn sau.
 BT218IU Plant Science 3
 BT306IU	Developmental Biology 3
 BT361IU	Scientific Writing Workshop 3
@@ -80,7 +82,7 @@ BT341IU-Bioprocess Engineering-3
 BT342IU-Practice in Bioprocess Engineering-1
 BT337IU-Bioinformatics-3
 BT338IU-Practice in Bioinformatics-1
-Chọn ít nhất 2 trong các môn sau:
+Chọn ít nhất 2 trong các môn sau.
 BT218IU-Plant Science-3
 BT306IU-Developmental Biology-3
 BT361IU-Scientific Writing Workshop-3
@@ -90,7 +92,7 @@ BT340IU-Practice in Protein Biotechnology-1
 BT217IU-Molecular Genetics-3
 BT363IU-Molecular Microbiology-3
 BT364IU-Microbial Genomic-3
-Chọn 1 trong các môn sau:
+Chọn 1 trong các môn sau.
 IS050IU-Project Management-3
 BA115IU-Introduction to Business Administration-3
 BA006IU-Business Communications-3
@@ -103,7 +105,7 @@ BT221IU-Internship-3
 Năm 4:
 Học kì 1:
 BT216IU-Experimental Design-3
-Chọn 3 trong các môn sau(LT-TH):
+Chọn 3 trong các môn sau(LT-TH).
 BT343IU-Medical Genetics-3	
 BT344IU-Practice in Medical Genetics-1	
 BT345IU-Crop Biotechnology-3
@@ -128,6 +130,7 @@ Học kì 2:
 BT179IU-Thesis-12
 
 Ngành Công Nghệ Sinh Học:
+Mục tiêu đào tạo:
 Chương trình Hóa sinh được thiết kế để cung cấp cho sinh viên nền tảng vững chắc về khoa học và Hóa sinh ứng dụng, tập trung vào nghiên cứu khoa học, kỹ năng thực hành và cách tiếp cận đa ngành. Ngành học được thiết kế để đáp ứng nhu cầu của ngành dược phẩm, mỹ phẩm và dinh dưỡng tại Việt Nam.
 Cơ hội nghề nghiệp:
 Cận lâm sàng tại các bệnh viện.
@@ -137,6 +140,7 @@ Phân tích, kiểm nghiệm dược, mỹ phẩm, thực phẩm.
 Đào tạo, nghiên cứu, khoa học tại các viện, trường học.
 
 Chương trình học:
+Năm 1:
 Học kì 1:
 EN007IU-Writing AE1-2
 EN008IU-Listening AE1-2
@@ -208,7 +212,7 @@ BTBC415IU-Fermentation Technology-3
 BTBC416IU-Fermentation Technology lab-1
 BT335IU-Immunology-3
 BT336IU-Practice in Immunology-1
-Chọn 2 trong các môn sau:
+Chọn 2 trong các môn sau.
 IS050IU-Project Management-3
 BA164IU-Production and Operation management-3
 IS029IU-Logistics and Supply chain Management-3
@@ -222,7 +226,7 @@ Năm 4:
 Học kì 1:
 BTBC413IU-Clinical Biochemistry-3
 BTBC414IU-Clinical biochemistry lab-1
-Chọn ít nhất 12 tín chỉ trong các môn sau:
+Chọn ít nhất 12 tín chỉ trong các môn sau.
 BTBC317IU-Nutritional Biochemistry-3
 BTBC318U-Nutritional Biochemistry Lab-1
 BTBC417IU-Nutrition Therapy-3

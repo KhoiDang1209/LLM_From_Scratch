@@ -1,9 +1,9 @@
 Khoa Kỹ Thuật Xây Dựng:
 Ngành Kỹ Thuật Xây Dựng:
-TỔNG QUAN:
+Mục tiêu đào tạo:
 Chương trình Kỹ thuật Xây dựng được thiết kế dựa trên tiêu chí đánh giá của ABET Inc. (Hội đồng Kiểm định Kỹ thuật và Công nghệ, Hoa Kỳ). Kỹ sư xây dựng được trang bị kiến thức cơ bản và chuyên sâu trong nhiều lĩnh vực. Ngoài ra, chương trình còn tích hợp các kiến thức mới liên quan đến công nghệ tính toán, mô phỏng, phân tích dữ liệu và trí tuệ nhân tạo (AI). Ngôn ngữ dạy và học là tiếng Anh, tạo điều kiện cho sinh viên tiếp thu và chuyển giao nhanh chóng các tiến bộ công nghệ từ khắp nơi trên thế giới vào trong nước. Sinh viên tốt nghiệp của chương trình có khả năng theo đuổi nhiều con đường sự nghiệp khác nhau và tiếp tục phát triển các kỹ năng, kiến thức chuyên ngành và trình độ học vấn cả trong nước và quốc tế. Mục đích này nhằm đào tạo một thế hệ kỹ sư có thể đáp ứng yêu cầu lực lượng lao động trong tương lai khi đất nước ngày càng hội nhập với nền kinh tế toàn cầu và cộng đồng ASEAN.
 
-CƠ HỘI NGHỀ NGHIỆP:
+Cơ hội nghề nghiệp:
 Sinh viên tốt nghiệp chương trình Kỹ thuật Xây dựng có nhiều cơ hội nghề nghiệp trong nhiều lĩnh vực khác nhau, cả trong nước và quốc tế, bao gồm xây dựng dân dụng, cơ sở hạ tầng giao thông. Với nền tảng kiến thức vững chắc, sinh viên có thể làm việc xuất sắc ở các vị trí khác nhau như tư vấn thiết kế, thẩm định viên, quản lý xây dựng, giám sát dự án. Ngoài ra, sinh viên tốt nghiệp còn có khả năng tham gia vai trò quản lý trong các cơ quan chính phủ chuyên về xây dựng, giao thông và tài nguyên nước (Bộ, Sở và Ban quản lý dự án địa phương).
 Được đào tạo theo chương trình tiên tiến, hiện đại với nhiều cơ hội tiếp xúc nghiên cứu khoa học, sinh viên tốt nghiệp ngành kỹ thuật dân dụng có lợi thế đáng kể trong việc tiếp cận và tham gia các nghiên cứu học thuật hoặc các dự án khởi nghiệp sử dụng công nghệ mới (vật liệu thông minh, trí tuệ nhân tạo, machine learning và Internet of Things) nhằm nâng cao hiệu quả và chất lượng công trình xây dựng và quản lý cơ sở hạ tầng.
 Trong giai đoạn phát triển và đổi mới hiện nay, nhu cầu về lực lượng lao động có trình độ cao trong ngành xây dựng đang rất cao, tạo ra cơ hội việc làm rộng rãi cho tất cả sinh viên ngành Xây dựng, đặc biệt là những sinh viên tốt nghiệp Đại học Quốc tế – Đại học Quốc gia Thành phố Hồ Chí Minh.
@@ -135,12 +135,12 @@ IT094IU-Information System Management-4
 
 
 Ngành Quản Lý Xây Dựng:
-TỔNG QUAN:
+Mục tiêu đào tạo:
 Bộ Môn Quản lý xây dựng trực thuộc Khoa Kỹ thuật và Quản lý Xây dựng (CEM) của Trường Đại học Quốc tế, Đại học Quốc gia TP.HCM. Tiền thân của Bộ môn là Bộ Môn Xây dựng được thành lập vào tháng 1 năm 2011. Qua quá trình phát triển không ngừng, đến tháng 3 năm 2021, Khoa Kỹ thuật và Quản lý Xây dựng đã chính thức được mở ngành Quản lý Xây dựng nhằm đáp ứng nhu cầu của xã hội. Theo chiến lược phát triển của trường, chương trình Quản lý xây dựng gồm 150 tín chỉ, thời gian đào tạo là 4,5 năm. Chương trình được thiết kế theo tiêu chuẩn ASIIN (Đức) và dựa trên các chương trình tiên tiến của các trường đại học danh tiếng ở nước ngoài.
 
-CƠ HỘI NGHỀ NGHIỆP:
+Cơ hội nghề nghiệp:
 Sau khi tốt nghiệp, kỹ sư Quản lý xây dựng có thể làm việc tại các đơn vị hoặc phòng, ban quản lý dự án. Các công việc bao gồm: tính toán khối lượng, kiểm soát chi phí, tổ chức mua sắm, quản lý hợp đồng, lập kế hoạch tài chính, thẩm định dự án và kinh doanh bất động sản. Kỹ sư Quản lý Xây dựng có nhiều cơ hội làm việc tại các công ty như:
-Cơ quan chính phủ: Bộ Xây dựng, Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Giao thông Vận tải, các ngân hàng, kho bạc và các cơ quan nhà nước khác có liên quan đến quản lý đô thị và xây dựng.
+Cơ quan chính phủ, Bộ Xây dựng, Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Giao thông Vận tải, các ngân hàng, kho bạc và các cơ quan nhà nước khác có liên quan đến quản lý đô thị và xây dựng.
 Nhà đầu tư phát triển bất động sản.
 Các công ty xây dựng (Nhà thầu) tham gia thực hiện dự án.
 Các công ty tư vấn chuyên nghiệp (Quản lý dự án, Thiết kế, Mua sắm, Hợp đồng).

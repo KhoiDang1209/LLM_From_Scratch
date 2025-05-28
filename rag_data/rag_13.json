@@ -206,14 +206,55 @@
         "semantic_id": "article_13"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ Số: 912 /QĐ-ĐHQT",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc Thành phố Hồ Chí Minh, ngày 09 tháng 12 năm 2024"
+          ]
+        ],
+        "semantic_id": "table_1"
+      },
+      {
+        "id": "2",
+        "data": [
+          [
+            "Nơi nhận:",
+            "HIỆU TRƯỞNG"
+          ],
+          [
+            "Như Điều 3; Ban Giám hiệu (để biết);",
+            ""
+          ],
+          [
+            "- Lưu: VT, CTSV.",
+            "Lê Văn Thăng"
+          ]
+        ],
+        "semantic_id": "table_2"
+      },
+      {
+        "id": "3",
+        "data": [
+          [
+            "ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC QUỐC TẾ",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc"
+          ]
+        ],
+        "semantic_id": "table_3"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "13.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:50.160814",
+    "ngày_xử_lý": "2025-05-27T11:13:55.009609",
     "phiên_bản": "1.0",
     "tổng_số_điều": 16,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 3
   }
 }

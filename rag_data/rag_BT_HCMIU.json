@@ -1,0 +1,194 @@
+{
+  "document_id": "BT_HCMIU",
+  "type": "course_structure",
+  "content": {
+    "faculties": [
+      {
+        "title": "Khoa Công Nghệ Sinh Học",
+        "majors": [
+          {
+            "title": "Ngành Công Nghệ Sinh Học",
+            "career_opportunities": "Trở thành công dân toàn cầu, có năng lực sống và làm việc tại nhiều Quốc gia.\nGiảng viên, Nghiên cứu viên tại các Trường Đại học, các Viện Nghiên cứu trên Thế giới.\nChuyên viên quản lý Khoa học và Công nghệ.\nNhân viến Nghiên cứu và Phát triển sản phẩm tại các phòng R&D tại các công ty chuyên về lĩnh vực Công nghệ Sinh học.\nKỹ thuật viên phòng xét nghiệm, Chuyên viên, Kỹ thuật viên phòng thí nghiệm tại các bệnh viện, các viện Nghiên cứu.\nKinh doanh Hoá chất và thiết bị vật tư Công nghệ Sinh học.",
+            "training_objectives": [
+              "Chương trình Ngành Công Nghệ Sinh học (CNSH) được thiết kế nhằm trang bị cho sinh viên những kiến thức và kỹ năng toàn diện về các lĩnh vực thuộc Ngành CNSH như CNSH phân tử, kỹ thuật gene và tế bào, kỹ thuật hỗ trợ sinh sản, tế bào gốc, y sinh học tái tạo và các ứng dụng của CNSH hiện đại của thế kỷ 21 phục vụ cho y học, dược học, nông nghiệp và công nghiệp"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nBT311IU-Biology-3\nBT362IU-Chemistry for Engineers-3\nMA001IU-Calculus 1-4\nBT312IU-Practice in Biology 1-1\nPT001IU-Physical Training 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nPE021IU-General Law-3\nPH058IU-Physics for Biology-2\nPE008IU-Critical Thinking-3\nBT150IU-Introduction to\tBiotechnology-2\nPT002IU-Physical Training 2-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE015IU\tPhilosophy of Marxism and Leninism 3\nPE016IU\tPolitical economics of Marxism and Leninism 2\nPE014IU\tEnvironmental Science 3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BT313IU\tGenetics 3\nBT314IU\tPractice in Genetics 1\nBT010IU\tPlant Physiology 3\nBT315IU\tAnalytical Chemistry 3\nBT316IU\tPractice in Analytical Chemistry1\nPE017IU\tScientific socialism 2",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BT317IU\tBiostatistics 2\nBT318IU\tPractice in Biostatistics 1\nBT319IU\tBiochemistry 3\nBT320IU\tPractice in Biochemistry 1\nBT321IU\tMicrobiology 3\nBT322IU\tPractice in Microbiology 1\nBT009IU\tCell Biology 3\nBT210IU\tHuman Physiology 3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "PE018IU\tHistory of Vietnamese Communist Party 2\nPE019IU\tHo Chi Minh's Thoughts 2\nBT333IU\tMolecular Biotechnology 3\nBT334IU\tPractice in Molecular Biotechnology 1\nBT335IU\tImmunology 3\nBT336IU\tPractice in Immunology 1\nChọn ít nhất 2 trong các môn sau.\nBT218IU Plant Science 3\nBT306IU\tDevelopmental Biology 3\nBT361IU\tScientific Writing Workshop 3\nBT207IU\tHuman Pharmacology 3\nBT339IU\tProtein Biotechnology 3\nBT340IU\tPractice in Protein Biotechnology33\nBT217IU\tMolecular Genetics 3\nBT363IU\tMolecular Microbiology 3\nBT364IU\tMicrobial Genomic 3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BT341IU-Bioprocess Engineering-3\nBT342IU-Practice in Bioprocess Engineering-1\nBT337IU-Bioinformatics-3\nBT338IU-Practice in Bioinformatics-1\nChọn ít nhất 2 trong các môn sau.\nBT218IU-Plant Science-3\nBT306IU-Developmental Biology-3\nBT361IU-Scientific Writing Workshop-3\nBT207IU-Human Pharmacology-3\nBT339IU-Protein Biotechnology-3\nBT340IU-Practice in Protein Biotechnology-1\nBT217IU-Molecular Genetics-3\nBT363IU-Molecular Microbiology-3\nBT364IU-Microbial Genomic-3\nChọn 1 trong các môn sau.\nIS050IU-Project Management-3\nBA115IU-Introduction to Business Administration-3\nBA006IU-Business Communications-3\nBA003IU-Principle of Marketing-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "BT221IU-Internship-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BT216IU-Experimental Design-3\nChọn 3 trong các môn sau(LT-TH).\nBT343IU-Medical Genetics-3\nBT344IU-Practice in Medical Genetics-1\nBT345IU-Crop Biotechnology-3\nBT346IU-Practice in Crop Biotechnology-1\nBT347IU-Techniques in Plant Biotechnology-3\nBT348IU-Practice in Techniques in Plant Biotechnology-1\nBT349IU-Pharmaceutical Biotechnology-3\nBT350IU-Practice in Pharmaceutica Biotechnology-1\nBT351IU-Molecular Diagnostics-3\nBT352IU-Practice in Molecular Diagnostics-1\nBT353IU-Reproductive and Regenerative Biomedicine-3\nBT354IU-Practice in Reproductive and Regenerative Biomedicine-1\nBT355IU-Stem Cell Biology-3\nBT356IU-Practice in Stem Cell Biology-1\nBT357IU-Medical Microbiology 3\nBT358IU-Practice in Medical Microbiology-1\nBT359IU-Microbial Biotechnology-3\nBT360IU-Practice in Microbial Biotechnology-1",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BT179IU-Thesis-12",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_1"
+          },
+          {
+            "title": "Ngành Công Nghệ Sinh Học",
+            "career_opportunities": "Cận lâm sàng tại các bệnh viện.\nNghiên cứu và phát triển các sản phẩm.\nTham gia sản xuất các sản phẩm.\nPhân tích, kiểm nghiệm dược, mỹ phẩm, thực phẩm.\nĐào tạo, nghiên cứu, khoa học tại các viện, trường học.",
+            "training_objectives": [
+              "Chương trình Hóa sinh được thiết kế để cung cấp cho sinh viên nền tảng vững chắc về khoa học và Hóa sinh ứng dụng, tập trung vào nghiên cứu khoa học, kỹ năng thực hành và cách tiếp cận đa ngành. Ngành học được thiết kế để đáp ứng nhu cầu của ngành dược phẩm, mỹ phẩm và dinh dưỡng tại Việt Nam."
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nMA001IU-Calculus 1-4\nBT311IU-Biology-3\nBT312IU-Practice in Biology-1\nCH011IU-Chemistry for Engineers-3\nCH012IU-Chemistry Lab-1\nPH013IU-Physics 1-2\nPT001IU-Physical Training 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nBT317IU-Biostatistics-2\nBT318IU-Practice in Biostatistics-1\nPE008IU-Critical Thinking-3\nBTBC103IU-Inorganic Chemistry-3\nBTBC104IU-Inorganic Chemistry lab-1\nPH014IU-Physics 2-2\nBTBC102IU-Introduction to Biochemistry-2\nPT002IU-Physical Training 2-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE015IU-Philosophy of Marxism and Leninism-3\nPE016IU-Political economics of Marxism and Leninism-2\nPE014IU-Environmental Science-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BTBC213IU-Fundamentals of Analytical Chemistry-3\nBTBC214IU-Fundamental in analytical chemistry lab-1\nBTBC209IU-Biochemistry 1-3\nBT313IU-Genetics-3\nBT314IU-Practice in Genetics-1\nPE017IU-Scientific socialism-2\nBT200IU-Scientific Writing Workshop-2\nBTBC201IU-Organic Chemistry 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BTBC207IU-Organic Chemistry Lab-2\nBTBC211IU-Biochemistry 2-3\nBTBC212IU-Biochemistry 2 lab-2\nBTBC215IU-Instrumental Analysis-3\nBTBC216IU-Instrumental analysis lab-1\nBTBC206IU-Organic Chemistry 2-3\nBT405IU-Physical Chemistry-3\nPE018IU-History of Vietnamese Communist Party-2\nPE019IU-Ho Chi Minh's Thoughts-2",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BT321IU-Microbiology-3\nBT322IU-Practice in Microbiology-1\nBT337IU-Bioinformatics-3\nBT338IU-Practice in Bioinformatics-1\nBTBC302IU-Biophysical Chemistry-3\nBTBC304IU-Biopharmaceutics-3\nBTBC315IU-Enzymology-3\nBTBC316IU-Enzymology lab-1",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BTBC313IU-Methods in Biochemistry-3\nBTBC314IU-Methods in biochemistry lab-2\nBTBC415IU-Fermentation Technology-3\nBTBC416IU-Fermentation Technology lab-1\nBT335IU-Immunology-3\nBT336IU-Practice in Immunology-1\nChọn 2 trong các môn sau.\nIS050IU-Project Management-3\nBA164IU-Production and Operation management-3\nIS029IU-Logistics and Supply chain Management-3\nBA003IU-Principles of Marketing-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "BC309IU-Internship-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BTBC413IU-Clinical Biochemistry-3\nBTBC414IU-Clinical biochemistry lab-1\nChọn ít nhất 12 tín chỉ trong các môn sau.\nBTBC317IU-Nutritional Biochemistry-3\nBTBC318U-Nutritional Biochemistry Lab-1\nBTBC417IU-Nutrition Therapy-3\nBTBC418IU-Nutrition Therapy Lab-1\nBTBC419IU-Clinical Nutrition-3\nBTBC420IU-Clinical Nutrition Lab-1\nBTBC408IU-Drug Development-3\nBTBC409IU-Cosmetics and Cosmeceuticals 1-3\nBTBC410IU-Cosmetics and Cosmeceuticals 2-3\nBTBC411IU-Cosmetics and Cosmeceuticals Lab-2\nBTBC421IU-Nutraceuticals-3\nBTBC422IU-Nutraceuticals Lab-1",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BT179IU-Thesis-12",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_2"
+          }
+        ],
+        "semantic_id": "faculty_1"
+      }
+    ]
+  },
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 2,
+    "total_years": 8,
+    "total_semesters": 20
+  }
+}

@@ -262,14 +262,109 @@
         "semantic_id": "article_14"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "STT",
+            "Tiêu chí đánh giá",
+            "Tổng điểm",
+            "Chế độ đánh giá",
+            "Ghi chú"
+          ],
+          [
+            "1",
+            "Tổ chức họp lớp",
+            "30",
+            "Thiếu mỗi buổi họp lớp định kỳ trừ 06 điểm",
+            ""
+          ],
+          [
+            "2",
+            "Tư vấn đăng ký môn học",
+            "30",
+            "Mỗi trường hợp tư vấn sai trừ 03 điểm. Không duyệt đăng ký môn học/Add- drop đúng thời hạn trừ 10 điểm",
+            ""
+          ]
+        ],
+        "semantic_id": "table_1"
+      },
+      {
+        "id": "2",
+        "data": [
+          [
+            "3",
+            "Thông báo tới SV",
+            "10",
+            "Không thông báo lịch tiếp SV trừ 05 điểm. Không phổ biến các thông báo của Nhà trường trừ 05 điểm",
+            ""
+          ],
+          [
+            "4",
+            "Tham dự tập huấn, Hội nghị, Hội thảo có liên quan",
+            "20",
+            "Vắng không có lý do 01 buổi tập huấn trừ 8 điểm. Vắng mặt các sự kiện khác được triệu tập trừ 04 điểm/lần",
+            ""
+          ],
+          [
+            "5",
+            "Nộp báo cáo đúng hạn",
+            "10",
+            "Trừ 05 điểm mỗi lần trễ hạn nộp báo cáo hoặc nộp điểm đánh giá rèn luyện SV",
+            "Nếu không nộp báo cáo sẽ không được tính điểm CVHT"
+          ],
+          [
+            "",
+            "TỔNG",
+            "100",
+            "",
+            ""
+          ]
+        ],
+        "semantic_id": "table_2"
+      },
+      {
+        "id": "3",
+        "data": [
+          [
+            "Kết quả đánh giá CVHT",
+            "Điểm đánh giá",
+            "Mức hưởng quyền lợi của CVHT"
+          ],
+          [
+            "Hoàn thành xuất sắc nhiệm vụ",
+            "90-100",
+            "100%"
+          ],
+          [
+            "Hoàn thành tốt nhiệm vụ",
+            "70 đến <90",
+            "75%"
+          ],
+          [
+            "Hoàn thành nhiệm vụ",
+            "50 đến <70",
+            "50%"
+          ],
+          [
+            "Không hoàn thành nhiệm vụ",
+            "Dưới 50",
+            "0%"
+          ]
+        ],
+        "semantic_id": "table_3"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "18.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:50.193732",
+    "ngày_xử_lý": "2025-05-27T11:13:55.051169",
     "phiên_bản": "1.0",
     "tổng_số_điều": 17,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 3
   }
 }

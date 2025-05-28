@@ -499,14 +499,221 @@
         "semantic_id": "article_22"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "ĐHQT",
+            "Đại học Quốc tế"
+          ],
+          [
+            "ĐHQG-HCM",
+            "Đại học Quốc gia Thành phố Hồ Chí Minh"
+          ],
+          [
+            "CBGD",
+            "Cán bộ giảng dạy"
+          ],
+          [
+            "CVHT",
+            "Cố vấn học tập"
+          ],
+          [
+            "CTĐT",
+            "Chương trình đào tạo"
+          ],
+          [
+            "CĐR",
+            "Chuẩn đầu ra"
+          ],
+          [
+            "ĐTBHK",
+            "Điểm trung bình học kỳ"
+          ],
+          [
+            "ĐTBTL",
+            "Điểm trung bình tích lũy"
+          ],
+          [
+            "GDQP-AN",
+            "Giáo dục quốc phòng – An ninh"
+          ],
+          [
+            "GDTC",
+            "Giáo dục thể chất"
+          ],
+          [
+            "TC",
+            "Tín chỉ"
+          ],
+          [
+            "TTTN",
+            "Thực tập tốt nghiệp"
+          ],
+          [
+            "LVTN",
+            "Luận văn tốt nghiệp"
+          ]
+        ],
+        "semantic_id": "table_1"
+      },
+      {
+        "id": "2",
+        "data": [
+          [
+            "Xếp loại",
+            "Thang điểm 100",
+            "Điểm chữ",
+            "Thang điểm 4"
+          ],
+          [
+            "Xuất sắc",
+            "Từ 90 đến 100",
+            "A+",
+            "4,0"
+          ],
+          [
+            "Giỏi",
+            "Từ 80 đến cận 90",
+            "A",
+            "3,5"
+          ],
+          [
+            "Khá",
+            "Từ 70 đến cận 80",
+            "B+",
+            "3,0"
+          ],
+          [
+            "Trung bình khá",
+            "Từ 60 đến cận 70",
+            "B",
+            "2,5"
+          ],
+          [
+            "Trung bình",
+            "Từ 50 đến cận 60",
+            "C",
+            "2,0"
+          ]
+        ],
+        "semantic_id": "table_2"
+      },
+      {
+        "id": "3",
+        "data": [
+          [
+            "Xếp loại",
+            "Thang điểm 100",
+            "Điểm chữ",
+            "Thang điểm 4"
+          ],
+          [
+            "Yếu",
+            "Từ 40 đến cận 50",
+            "D+",
+            "1,5"
+          ],
+          [
+            "Kém",
+            "Từ 30 đến cận 40",
+            "D",
+            "1,0"
+          ],
+          [
+            "Kém",
+            "Dưới 30",
+            "F",
+            "0,0"
+          ]
+        ],
+        "semantic_id": "table_3"
+      },
+      {
+        "id": "4",
+        "data": [
+          [
+            "+ A là ĐTBHK hoặc ĐTBTL",
+            "+ ai là điểm của học phần thứ i"
+          ],
+          [
+            "+ ni là số TC của học phần thứ i",
+            "+ N là tổng số học phần"
+          ]
+        ],
+        "semantic_id": "table_4"
+      },
+      {
+        "id": "5",
+        "data": [
+          [
+            "Xếp loại",
+            "Thang điểm 100",
+            "Điểm chữ",
+            "Thang điểm 4"
+          ],
+          [
+            "Xuất sắc",
+            "Từ 90 đến 100",
+            "A+",
+            "4,0"
+          ],
+          [
+            "Giỏi",
+            "Từ 80 đến cận 90",
+            "A",
+            "3,5"
+          ],
+          [
+            "Khá",
+            "Từ 70 đến cận 80",
+            "B+",
+            "3,0"
+          ],
+          [
+            "Trung bình khá",
+            "Từ 60 đến cận 70",
+            "B",
+            "2,5"
+          ],
+          [
+            "Trung bình",
+            "Từ 50 đến cận 60",
+            "C",
+            "2,0"
+          ],
+          [
+            "Yếu",
+            "Từ 40 đến cận 50",
+            "D+",
+            "1,5"
+          ],
+          [
+            "Kém",
+            "Từ 30 đến cận 40",
+            "D",
+            "1,0"
+          ],
+          [
+            "",
+            "Dưới 30",
+            "F",
+            "0,0"
+          ]
+        ],
+        "semantic_id": "table_5"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "15.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:50.172387",
+    "ngày_xử_lý": "2025-05-27T11:13:55.026042",
     "phiên_bản": "1.0",
     "tổng_số_điều": 24,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 5
   }
 }

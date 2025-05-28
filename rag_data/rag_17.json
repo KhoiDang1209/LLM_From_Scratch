@@ -677,14 +677,59 @@
         "semantic_id": "article_34"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "TT",
+            "Nội dung lưu trữ",
+            "Nơi lưu trữ",
+            "Thời gian lưu trữ"
+          ],
+          [
+            "1",
+            "Bài kiểm tra giữa kỳ và bài thi cuối kỳ.",
+            "- Đơn vị tổ chức thi",
+            "Hết khóa"
+          ],
+          [
+            "2",
+            "Bảng điểm từng học phần bao gồm điểm kiểm tra, điểm thi, điểm học phần.",
+            "Đơn vị tổ chức thi Phòng ĐTĐH P.BĐCLGD&KT",
+            "10 năm sau tốt nghiệp"
+          ],
+          [
+            "3",
+            "Tài liệu khác có liên quan đến kỳ thi.",
+            "Đơn vị tổ chức thi Phòng ĐTĐH",
+            "Hết khóa"
+          ]
+        ],
+        "semantic_id": "table_1"
+      },
+      {
+        "id": "2",
+        "data": [
+          [
+            "",
+            "",
+            "P.BĐCLGD&KT Các đơn vị có liên quan",
+            ""
+          ]
+        ],
+        "semantic_id": "table_2"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "17.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:50.186529",
+    "ngày_xử_lý": "2025-05-27T11:13:55.042807",
     "phiên_bản": "1.0",
     "tổng_số_điều": 37,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 2
   }
 }

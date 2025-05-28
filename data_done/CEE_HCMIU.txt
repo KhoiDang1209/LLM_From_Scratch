@@ -1,10 +1,5 @@
 Khoa Kỹ Thuật Hoá Học và Môi Trường:
-Cơ hội việc làm:
-Nghiên cứu và phát triển (R&D) tại các đơn vị R&D của nhà máy, công ty, viện nghiên cứu;
-Giảng dạy và nghiên cứu tại các cơ sở giáo dục như trường đại học, cao đẳng, Viện/Trung tâm nghiên cứu…;
-Sản xuất (vận hành, giám sát, thiết kế) tại các nhà máy, công ty trong các lĩnh vực: (i) hóa dầu (nhà máy lọc dầu, hóa chất, nhựa…); hóa hữu cơ (mỹ phẩm, kem dưỡng da, dầu gội đầu…); hóa dược (thảo dược, bào chế thuốc, thiết bị sản xuất thuốc…), công nghệ vật liệu mới (vật liệu polymer, vật liệu siêu bền, nhẹ); công nghệ thực phẩm; công nghệ sinh học ứng dụng; công nghệ sản xuất năng lượng sạch; (ii) xử lý nước cấp/ nước thải, khí thải, chất thải rắn và chất thải nguy hại, hệ thống xử lý môi trường;
-Kinh doanh – dịch vụ kỹ thuật: cung cấp các giải pháp kỹ thuật tối ưu, thiết bị kỹ thuật và dịch vụ tiện ích trong xử lý và quản lý môi trường, các dịch vụ HSE (Sức khỏe, An toàn và Môi trường); Quan trắc và phân tích môi trường;
-Quản lý và kinh doanh tại các nhà máy, công ty và cơ quan nhà nước ở các lĩnh vực trên.
+
 
 Ngành Kỹ Thuật Hoá Học:
 Trong xu thế phát triển công nghiệp hóa – hiện đại hóa, ngành Kỹ thuật Hóa học trở thành vị trí không thể thiếu trong lĩnh vực sản xuất như sản xuất các mặt hàng tiêu dùng, nông nghiệp, sản xuất vật liệu xây dựng, các ngành công nghiệp lương thực – thực phẩm, công nghiệp dệt – da, công nghiệp điện hóa, công nghiệp hóa chất, công nghiệp cơ khí, công nghiệp điện lực – nhiên liệu – năng lượng…
@@ -14,7 +9,12 @@ Có khả năng vận dụng sáng tạo các kiến thức cơ bản trong ngà
 Có đạo đức nghề nghiệp, hiểu rõ các vấn đề về môi trường, xã hội, an ninh và kinh tế.
 Có đầy đủ các kỹ năng mềm, kỹ năng quản lý, khả năng làm việc nhóm, khả năng lãnh đạo, khả năng giao tiếp và làm việc chuyên môn thành thạo bằng tiếng Anh.
 Có nhận thức về tầm quan trọng của việc trau dồi bản thân và không ngừng học tập suốt đời.
-
+Cơ hội nghề nghiệp:
+Nghiên cứu và phát triển (R&D) tại các đơn vị R&D của nhà máy, công ty, viện nghiên cứu;
+Giảng dạy và nghiên cứu tại các cơ sở giáo dục như trường đại học, cao đẳng, Viện/Trung tâm nghiên cứu…;
+Sản xuất (vận hành, giám sát, thiết kế) tại các nhà máy, công ty trong các lĩnh vực: (i) hóa dầu (nhà máy lọc dầu, hóa chất, nhựa…); hóa hữu cơ (mỹ phẩm, kem dưỡng da, dầu gội đầu…); hóa dược (thảo dược, bào chế thuốc, thiết bị sản xuất thuốc…), công nghệ vật liệu mới (vật liệu polymer, vật liệu siêu bền, nhẹ); công nghệ thực phẩm; công nghệ sinh học ứng dụng; công nghệ sản xuất năng lượng sạch; (ii) xử lý nước cấp/ nước thải, khí thải, chất thải rắn và chất thải nguy hại, hệ thống xử lý môi trường;
+Kinh doanh – dịch vụ kỹ thuật: cung cấp các giải pháp kỹ thuật tối ưu, thiết bị kỹ thuật và dịch vụ tiện ích trong xử lý và quản lý môi trường, các dịch vụ HSE (Sức khỏe, An toàn và Môi trường); Quan trắc và phân tích môi trường;
+Quản lý và kinh doanh tại các nhà máy, công ty và cơ quan nhà nước ở các lĩnh vực trên.
 Chương trình học:
 Học kì 1:
 EN007IU-Writing AE1-2 
@@ -95,7 +95,7 @@ CHE1104IU-Biochemistry-3
 CHE1105IU-Biochemistry Lab-1
 CHE1021IU-Process Instrumentation and Control-2
 CHE2061IU Chemical Reaction Engineering-3
-Chọn 3 trong những môn sau:
+Chọn 3 trong những môn sau.
 CHE3111IU-Green Chemical Engineering -3 
 CHE3211IU-Nanomaterials -3 
 CHE3221IU-Biomaterials -3 
@@ -126,7 +126,7 @@ CHE1111IU-Industrial Chemistry-2
 CHE2081IU-Occupational Health Safety and Environment-2
 CHE0031IU-Research Methodology-2 
 PE020IU-Engineering Ethics and Professional Skills-3
-Chọn 1 trong những môn sau:
+Chọn 1 trong những môn sau.
 IT120IU-Entrepreneurship-3 
 ENEE4011IU-Engineering Project Management-3
 BA115IU-Introduction to Business Administration-3 
@@ -146,7 +146,12 @@ Mục tiêu đào tạo:
 Sinh viên tốt nghiệp có kiến thức đại cương, cơ sở ngành, chuyên ngành và kiến thức bổ trợ liên quan đến các kỹ thuật xử lý nước – nước thải, kiểm soát ô nhiễm không khí, và quản lý chất thải rắn để có thể ứng dụng vào giải quyết các vấn đề môi trường và tiếp tục học tập ở bậc cao hơn.
 Sinh viên tốt nghiệp có khả năng nhận diện vấn đề, hình thành ý tưởng, thiết kế, triển khai và vận hành các thiết bị và hệ thống xử lý môi trường phù hợp với nhu cầu xã hội và tiêu chuẩn ngành.
 Sinh viên tốt nghiệp có kỹ năng nghề nghiệp, thái độ cá nhân; kỹ năng làm việc theo nhóm và giao tiếp hiệu quả trong môi trường chuyên nghiệp để giải quyết các vấn đề liên quan đến kỹ thuật môi trường.
-
+Cơ hội nghề nghiệp:
+Nghiên cứu và phát triển (R&D) tại các đơn vị R&D của nhà máy, công ty, viện nghiên cứu;
+Giảng dạy và nghiên cứu tại các cơ sở giáo dục như trường đại học, cao đẳng, Viện/Trung tâm nghiên cứu…;
+Sản xuất (vận hành, giám sát, thiết kế) tại các nhà máy, công ty trong các lĩnh vực: (i) hóa dầu (nhà máy lọc dầu, hóa chất, nhựa…); hóa hữu cơ (mỹ phẩm, kem dưỡng da, dầu gội đầu…); hóa dược (thảo dược, bào chế thuốc, thiết bị sản xuất thuốc…), công nghệ vật liệu mới (vật liệu polymer, vật liệu siêu bền, nhẹ); công nghệ thực phẩm; công nghệ sinh học ứng dụng; công nghệ sản xuất năng lượng sạch; (ii) xử lý nước cấp/ nước thải, khí thải, chất thải rắn và chất thải nguy hại, hệ thống xử lý môi trường;
+Kinh doanh – dịch vụ kỹ thuật: cung cấp các giải pháp kỹ thuật tối ưu, thiết bị kỹ thuật và dịch vụ tiện ích trong xử lý và quản lý môi trường, các dịch vụ HSE (Sức khỏe, An toàn và Môi trường); Quan trắc và phân tích môi trường;
+Quản lý và kinh doanh tại các nhà máy, công ty và cơ quan nhà nước ở các lĩnh vực trên.
 
 Chương trình học:
 Học kì 1:
@@ -207,7 +212,7 @@ ENEE2023IU-Biological Processes for Environmental Engineering Lab-1
 PE018IU-History of Vietnamese Communist Party-2 
 PE019IU-Ho Chi Minh's Thoughts-2 
 ENEE5004IU-Internship 1-2 
-Chọn 1 trong những môn sau:
+Chọn 1 trong những môn sau.
 IS020IU-Engineering Economy-3
 IT120IU-Entrepreneurship-3
 ENEE4011IU-Engineering Project Management-3
@@ -232,7 +237,7 @@ Học kì 1:
 ENEE3110IU-Project 1-2 
 ENEE3111IU-Project 2-2 
 ENEE2014IU-Heat and Mass Transfer-3 
-Chọn ít nhất 2 trong các môn sau:
+Chọn ít nhất 2 trong các môn sau.
 ENEE4016IU-Construction Measurement and Cost Estimating-3 
 ENEE3105IU-Treatment Plant Operation-3 
 ENEE4019IU-Experimental Design-2
@@ -253,7 +258,7 @@ ENEE3018IU-Solid waste and hazardous waste management-3
 ENEE3019IU-Solid waste and hazardous waste management Lab-1
 ENEE3020IU-Air pollution control-3
 ENEE3021IU-Air pollution control Lab-1
-Chọn ít nhất 1 trong các môn sau:
+Chọn ít nhất 1 trong các môn sau.
 BA115IU-Introduction to Business Administration-3
 BA154IU-Entrepreneurship and Small Business Management-3
 BT010IU-Plant physiology-3

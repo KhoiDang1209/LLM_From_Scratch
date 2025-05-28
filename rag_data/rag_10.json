@@ -1,0 +1,103 @@
+{
+  "document_id": "10",
+  "type": "policy",
+  "content": {
+    "header": "ĐẠI HỌC QUỐC GIA TP.HCM. CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC QUỐC TẾ Độc lập - Tự do - Hạnh phúc \nThành phố Hồ Chí Minh, ngày 9 tháng 9 năm 2008\nNỘI QUY SINH VIÊN\n\n(Ban hành theo Quyết định số 276 /QĐ-ĐHQT/ĐT ngày 10/9/2008\ncủa Hiệu trưởng Trường Đại học Quốc tế Tp.HCM)\n\nĐể đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc\ngia TP.HCM. Trường Đại Học Quốc Tế để ra Nội quy sinh viên như sau:",
+    "points": [
+      {
+        "id": "1",
+        "text": "Lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh\n\nlịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường\n\nbằng Tiếng Anh.",
+        "semantic_id": "point_1",
+        "sub_points": []
+      },
+      {
+        "id": "2",
+        "text": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa\n\nđồng và sẵn sàng giúp đỡ bạn bè.",
+        "semantic_id": "point_2",
+        "sub_points": []
+      },
+      {
+        "id": "3",
+        "text": "Đi xe buýt cần xếp hàng thứ tự trước sau khi lên xe, g1ữ gìn vệ sinh, văn minh lịch sự\n\nvà trật tự trên xe buýt.",
+        "semantic_id": "point_3",
+        "sub_points": []
+      },
+      {
+        "id": "4",
+        "text": "Giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không mang hoặc sử\n\ndụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm.",
+        "semantic_id": "point_4",
+        "sub_points": []
+      },
+      {
+        "id": "5",
+        "text": "Không được nằm ở khu vực hành lang, trên lối đi, được nghỉ trưa tại phòng học từ I1\n\ngiờ 30 đến 12 giờ",
+        "semantic_id": "point_5",
+        "sub_points": []
+      },
+      {
+        "id": "30",
+        "text": "",
+        "semantic_id": "point_30",
+        "sub_points": []
+      },
+      {
+        "id": "6",
+        "text": "Phải đảm bảo an ninh trật tự trong khuôn viên nhà trường, không gây tiếng ồn, không\n\nsử dụng các phương tiện gây tiếng ồn; không chơi thể thao, chạy nhảy đùa giỡn trong\n\nphòng học, khu vực gần phòng học, khu vực hành chính gây ảnh hưởng tới hoạt động của\n\nnhà trường.",
+        "semantic_id": "point_6",
+        "sub_points": []
+      },
+      {
+        "id": "7",
+        "text": "Tuân thủ theo tất cả quy định chung của tòa nhà Điều hành ĐHQG-HCM. Các loại\n\nphương tiện vào trường phải gửi đúng nơi quy định.",
+        "semantic_id": "point_7",
+        "sub_points": []
+      },
+      {
+        "id": "8",
+        "text": "Giữ gìn bảo quản tài sản và các trang thiết bị của nhà trường. Thực hiện tốt quy định\n\nvề việc mượn và trả thiết bị phục vụ công tác giảng dạy. Không tự ý di chuyển, sắp xếp,\n\nđiều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không dán giấy, viết vẽ trên tường,\n\nbàn học. Chỉ được phép tổ chức hội họp, di chuyển bàn ghế, trang trí phòng học, sử dụng\n\ncác trang thiết bị khi có sự chấp thuận của Phòng Quản trị Thiết bị.",
+        "semantic_id": "point_8",
+        "sub_points": []
+      },
+      {
+        "id": "9",
+        "text": "Không được sử dụng trang thiết bị của nhà trường vào các mục đích khác với học tập\n\nvà nghiên cứu.",
+        "semantic_id": "point_9",
+        "sub_points": []
+      },
+      {
+        "id": "10",
+        "text": "Không đùa giỡn trong thang máy, tùy tiện bấm chọn các tầng khi không có nhu cầu.",
+        "semantic_id": "point_10",
+        "sub_points": []
+      },
+      {
+        "id": "11",
+        "text": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học.",
+        "semantic_id": "point_11",
+        "sub_points": []
+      },
+      {
+        "id": "12",
+        "text": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã\n\nhội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được\n\nHiệu trưởng cho phép.",
+        "semantic_id": "point_12",
+        "sub_points": []
+      },
+      {
+        "id": "13",
+        "text": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất\n\ngây cháy nổ, chất ma túy, hàng cấm ..; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet. Nghiêm cấm tổ chức,\ntham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn\ngiáo trong nhà trường và các hoạt động vi phạm đạo đức khác.",
+        "semantic_id": "point_13",
+        "sub_points": []
+      },
+      {
+        "id": "14",
+        "text": "Nội quy này được áp dụng kể từ ngày ký. Mọi vi phạm tùy mức độ cụ thể sẽ được\nxử lý từ khiển trách đến buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan\nchức năng xử lý theo qui định của pháp luật.",
+        "semantic_id": "point_14",
+        "sub_points": []
+      }
+    ]
+  },
+  "metadata": {
+    "total_points": 15,
+    "total_sub_points": 0
+  }
+}

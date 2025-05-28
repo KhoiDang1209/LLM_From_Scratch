@@ -1,0 +1,348 @@
+{
+  "document_id": "BA_HCMIU",
+  "type": "course_structure",
+  "content": {
+    "faculties": [
+      {
+        "title": "Khoa Quản Trị Kinh Doanh",
+        "majors": [
+          {
+            "title": "Ngành Quản Trị Doanh Nghiệp",
+            "career_opportunities": "Sinh viên tốt nghiệp có thể ứng tuyển vào các vị trí kế toán và tài chính, kinh doanh quốc tế, bán lẻ, tiếp thị và nhân sự hoặc bất kỳ bộ phận quản lý nào của nhiều tổ chức như chính phủ, ngân hàng, công ty trong nước và nước ngoài, và các tổ chức phi lợi nhuận.",
+            "training_objectives": [
+              "Phát triển kỹ năng áp dụng lý thuyết vào các tình huống thực tế công việc",
+              "Để phát triển các kỹ năng và kỹ thuật áp dụng trực tiếp cho nghề nghiệp",
+              "Cung cấp cho sinh viên cơ hội để kiểm tra sự quan tâm của họ đối với một nghề nghiệp cụ thể trước khi cam kết lâu dài.",
+              "Cung cấp cho sinh viên cơ hội phát triển các mối quan hệ giữa các cá nhân hiệu quả",
+              "Cung cấp cho sinh viên cơ hội để hiểu các mối quan hệ qua lại giữa các tổ chức không chính thức",
+              "Nâng cao tinh thần trách nhiệm của sinh viên"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU – Writing AE1 (2)\nEN008IU – Listening AE1 (2)\nBA117IU – Introduction to Microeconomics (3)\nBA115IU – Introduction to Business Administration (3)\nBA120IU – Business Computing Skills (3)\nBA005IU – Financial Accounting (3)\nPE015IU – Philosophy of Marxism and Leninism (3)\nPT001IU – Physical Training 1 (TD)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU – Writing AE2 (2)\nEN012IU – Speaking AE2 (2)\nBA282IU – Math for Business (4)\nBA119IU – Introduction to Macro Economics (3)\nBA123IU – Principles of Management (3)\nPE016IU - Political economics of Marxism and Leninism (2)\nPE008IU – Critical Thinking (3) (Summer semester)\nPE017IU - Scientific Socialism (2) (Summer semester)\nPT002IU – Physical Training 2 (TD)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA118IU – Introduction to Psychology (3)\nBA197IU – Introduction to Sociology (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PE007IU – World Economic Geography (3)\nPE010IU – Vietnamese History and Culture (3)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA027IU – E – Commerce (3)\nBA169IU – Management Information Systems (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA018IU – Quality Management (3)\nBA006IU – Business Communication (3)\nBA154IU – Entrepreneurship and Small Business Management (3)\nBA156IU – Human Resource Management (3)\nBA153IU – Internship (3)\nBA255IU – Specialized Internship (3) (Summer Semester)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA022IU – Logistic and Supply Chain Management (3)\nBA023IU – Project Management (3)\nBA161IU – Business Research Methods (3)\nBA274IU – Workshop 2 on Business Management (2)\nMôn tự chọn 2 (3)\nMôn tự chọn 3 (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA170IU – Thesis (12)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_1"
+          },
+          {
+            "title": "Ngành Tiếp Thị",
+            "career_opportunities": "Sinh viên tốt nghiệp sẽ được trang bị để làm việc trong nhiều vai trò tiếp thị, trong các cơ quan tiếp thị hoặc bộ phận tiếp thị của các tổ chức. Sinh viên cũng có thể làm giám đốc điều hành quảng cáo, quản lý tiếp thị, quản lý truyền thông hoặc các vai trò khác liên quan đến tiếp thị",
+            "training_objectives": [
+              "Phát triển kỹ năng áp dụng lý thuyết vào các tình huống thực tế công việc",
+              "Để phát triển các kỹ năng và kỹ thuật áp dụng trực tiếp cho nghề nghiệp",
+              "Cung cấp cho sinh viên cơ hội để kiểm tra sự quan tâm của họ đối với một nghề nghiệp cụ thể trước khi cam kết lâu dài.",
+              "Cung cấp cho sinh viên cơ hội phát triển các mối quan hệ giữa các cá nhân hiệu quả",
+              "Cung cấp cho sinh viên cơ hội để hiểu các mối quan hệ qua lại giữa các tổ chức không chính thức",
+              "Nâng cao tinh thần trách nhiệm của sinh viên"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU – Writing AE1 (2)\nEN008IU – Listening AE1 (2)\nBA117IU – Introduction to Microeconomics (3)\nBA115IU – Introduction to Business Administration (3)\nBA120IU – Business Computing Skills (3)\nBA005IU – Financial Accounting (3)\nPE015IU – Philosophy of Marxism and Leninism (3)\nPT001IU – Physical Training 1 (TD)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU – Writing AE2 (2)\nEN012IU – Speaking AE2 (2)\nBA282IU – Math for Business (4)\nBA119IU – Introduction to Macro Economics (3)\nBA123IU – Principles of Management (3)\nPE016IU - Political economics of Marxism and Leninism (2)\nPE008IU – Critical Thinking (3) (Summer semester)\nPE017IU - Scientific Socialism (2) (Summer semester)\nPT002IU – Physical Training 2 (TD)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA118IU – Introduction to Psychology (3)\nBA197IU – Introduction to Sociology (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PE007IU – World Economic Geography (3)\nPE010IU – Vietnamese History and Culture (3)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA027IU – E – Commerce (3)\nBA169IU – Management Information Systems (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA081IU – Business Law (3)\nBA035IU – Marketing Research (3)\nBA083IU – Consumer Behavior (3)\nMôn tự chọn 2 (3)\nBA153IU – Internship (3)\nBA255IU – Specialized Internship (3) (Summer Semester)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA142IU – Marketing Strategy (3)\nBA145IU – International Marketing (3)\nBA161IU – Business Research Methods (3)\nBA275IU – Workshop 2 on Marketing (2)\nMôn tự chọn 3 (3)\nMôn tự chọn 4 (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA170IU – Thesis (12)\nMôn tự chọn của TIẾP THỊ:(chọn 04 trong 15 môn học)\nBA032IU – Sales Management (3)\nBA023IU – Project Management (3)\nBA045IU – B2B Marketing (3)\nBA082IU – Brand Management (3)\nBA140IU – Business Game (3)\nBA150IU – Special Study (3)\nBA146IU – Retail Management (3)\nBA148IU - Digital Marketing (3)\nBA149IU – New Product Planning (3)\nBA176IU – Franchising (3)\nBA182IU – Customer Relationship Management (3)\nBA183IU – Marketing Channels (3)\nBA285IU - Geographical Information System\nBA094IU – Advertising and PR (3)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_2"
+          },
+          {
+            "title": "Ngành Quản Trị Nhà Hàng Khách Sạn",
+            "career_opportunities": "Sau khi hoàn thành chương trình, sinh viên cần được chuẩn bị sẵn sàng cho sự nghiệp trong các lĩnh vực như quản lý khách sạn/ khu nghỉ dưỡng, quản lý câu lạc bộ và spa, quản lý thực phẩm và đồ uống. Một số lựa chọn nghề nghiệp phổ biến bao gồm: Quản lý / chủ nhà hàng, Quản lý cấp cao Chuỗi khách sạn, Giám đốc Thực phẩm và Đồ uống, Quản lý cấp cao chuỗi nhà hàng, Giám đốc bộ phận phòng, Bộ phận bán hàng và chiến lược, Văn phòng hỗ trợ: Nhân sự, Kế toán, Tài chính, tiếp thị, v.v., Cơ hội làm việc nước ngoài: Malaysia, Singapore, Thái Lan, v.v.",
+            "training_objectives": [
+              "Phát triển kỹ năng áp dụng lý thuyết vào các tình huống thực tế công việc",
+              "Để phát triển các kỹ năng và kỹ thuật áp dụng trực tiếp cho nghề nghiệp",
+              "Cung cấp cho sinh viên cơ hội để kiểm tra sự quan tâm của họ đối với một nghề nghiệp cụ thể trước khi cam kết lâu dài.",
+              "Cung cấp cho sinh viên cơ hội phát triển các mối quan hệ giữa các cá nhân hiệu quả",
+              "Cung cấp cho sinh viên cơ hội để hiểu các mối quan hệ qua lại giữa các tổ chức không chính thức",
+              "Nâng cao tinh thần trách nhiệm của sinh viên"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU – Writing AE1 (2)\nEN008IU – Listening AE1 (2)\nBA117IU – Introduction to Microeconomics (3)\nBA115IU – Introduction to Business Administration (3)\nBA120IU – Business Computing Skills (3)\nBA005IU – Financial Accounting (3)\nPE015IU – Philosophy of Marxism and Leninism (3)\nPT001IU – Physical Training 1 (TD)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU – Writing AE2 (2)\nEN012IU – Speaking AE2 (2)\nBA282IU – Math for Business (4)\nBA119IU – Introduction to Macro Economics (3)\nBA123IU – Principles of Management (3)\nPE016IU - Political economics of Marxism and Leninism (2)\nPE008IU – Critical Thinking (3) (Summer semester)\nPE017IU - Scientific Socialism (2) (Summer semester)\nPT002IU – Physical Training 2 (TD)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA118IU – Introduction to Psychology (3)\nBA197IU – Introduction to Sociology (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PE007IU – World Economic Geography (3)\nPE010IU – Vietnamese History and Culture (3)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA020IU – Đạo đức kinh doanh (3)\nBA198IU – Tổng quan ngành Quản trị Khách sạn Nhà hàng (3)\nBA228IU – Quản trị ẩm thực (3)\nBA226IU – Kỹ năng lãnh đạo và quản lý trong ngành Quản trị Khách sạn Nhà hàng (3)\nBA206IU – Luật chuyên ngành Quản trị Khách sạn Nhà hàng (3)\nMôn tự chọn 1 (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA254IU – Housekeeping Operations & Management (3)\nBA006IU – Business Communication (3)\nBA229IU – The Professional Waiter (3)\nBA156IU – Human Resources Management (3)\nBA231IU – Front Office Management and Operations (3)\nBA255IU – Specialized Internship (3) (Summer Semester)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA161IU – Business Research Methods (3)\nBA232IU – Hospitality Sales and Marketing (3)\nBA233IU – Hotel Management and Operations (3)\nBA272IU - Workshop 2 on Hospitality Management (2)\nMôn tự chọn 2 (3)\nMôn tự chọn 3 (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA170IU – Thesis (12)\nMôn tự chọn của QUẢN TRỊ KHÁCH SẠN NHÀ HÀNG:(chọn 02 trong 13 môn học)\nBA081IU – Business Law (3)\nBA154IU – Entrepreneurship and Small Business Management (3)\nBA207IU – Safety, Sanitation and Security Management (3)\nBA211IU – Cruise Line Operations and Management (3)\nBA223IU – Conference and Event Management (3)\nBA241IU – Hospitality Facilities Management (3)\nBA242IU – Quality Management in the Hospitality (3)\nBA243IU – Service Management (3)\nBA244IU – Supervision in the Hospitality (3)\nBA245IU – Revenue Management (3)\nBA246IU – Resort Management and Development (3)\nBA248IU – Food and Beverage Cost Control (3)\nBA285IU - Geographical Information System (3)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_3"
+          },
+          {
+            "title": "Ngành Kinh Doanh Quốc Tế",
+            "career_opportunities": "Sinh viên tốt nghiệp sẽ được trang bị để làm việc trong lĩnh vực thương mại hoặc ngân hàng quốc tế, quản lý hoạt động, nghiên cứu thị trường, bán hàng hoặc tiếp thị quốc tế và các vai trò khác trong các công ty quốc tế.",
+            "training_objectives": [
+              "Phát triển kỹ năng áp dụng lý thuyết vào các tình huống thực tế công việc",
+              "Để phát triển các kỹ năng và kỹ thuật áp dụng trực tiếp cho nghề nghiệp",
+              "Cung cấp cho sinh viên cơ hội để kiểm tra sự quan tâm của họ đối với một nghề nghiệp cụ thể trước khi cam kết lâu dài.",
+              "Cung cấp cho sinh viên cơ hội phát triển các mối quan hệ giữa các cá nhân hiệu quả",
+              "Cung cấp cho sinh viên cơ hội để hiểu các mối quan hệ qua lại giữa các tổ chức không chính thức",
+              "Nâng cao tinh thần trách nhiệm của sinh viên"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU – Writing AE1 (2)\nEN008IU – Listening AE1 (2)\nBA117IU – Introduction to Microeconomics (3)\nBA115IU – Introduction to Business Administration (3)\nBA120IU – Business Computing Skills (3)\nBA005IU – Financial Accounting (3)\nPE015IU – Philosophy of Marxism and Leninism (3)\nPT001IU – Physical Training 1 (TD)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU – Writing AE2 (2)\nEN012IU – Speaking AE2 (2)\nBA282IU – Math for Business (4)\nBA119IU – Introduction to Macro Economics (3)\nBA123IU – Principles of Management (3)\nPE016IU - Political economics of Marxism and Leninism (2)\nPE008IU – Critical Thinking (3) (Summer semester)\nPE017IU - Scientific Socialism (2) (Summer semester)\nPT002IU – Physical Training 2 (TD)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA118IU – Introduction to Psychology (3)\nBA197IU – Introduction to Sociology (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PE007IU – World Economic Geography (3)\nPE010IU – Vietnamese History and Culture (3)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA027IU – E – Commerce (3)\nBA169IU – Management Information Systems (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA051IU – International Financial Management (3)\nBA006IU – Business Communication (3)\nBA151IU – International Business Management (3)\nMôn tự chọn 2 (3)\nBA153IU – Internship (3)\nBA255IU – Specialized Internship (3) (Summer Semester)",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA084IU – Import Export Management (3)\nBA145IU – International Marketing (3)\nBA161IU – Business Research Methods (3)\nBA273IU – Workshop 2 on International Business (2)\nMôn tự chọn 3 (3)\nMôn tự chọn 4 (3)",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA170IU – Thesis (12)\nMôn tự chọn của KINH DOANH QUỐC TẾ:(chọn 04 trong 15 môn học)\nBA054IU – Corporate Finance (3)\nBA082IU – Brand Management (3)\nBA099IU – Global Strategic Management (3)\nBA098IU – Leadership (3)\nBA140IU – Business Game (3)\nBA150IU – Special Study (3)\nBA152IU – International Business Law (3)\nBA213IU – Corporate Governance (3)\nBA160IU – Negotiation and Relationship Management (3)\nBA171IU – Risk Management (3)\nBA176IU – Franchising (3)\nBA154IU – Entrepreneurship and Small Business Management (3)\nBA155IU – Multicultural Management (3)\nBA156IU – Human Resource Management (3)\nBA285IU - Geographical Information System",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_4"
+          }
+        ],
+        "semantic_id": "faculty_1"
+      }
+    ]
+  },
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 4,
+    "total_years": 16,
+    "total_semesters": 32
+  }
+}

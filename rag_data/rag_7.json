@@ -1,0 +1,72 @@
+{
+  "document_id": "policy_7",
+  "type": "policy",
+  "content": {
+    "header": "TRƯỜNG ĐẠI HỌC QUỐC TẾ __ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM PHÒNG CÔNG TÁC SINH VIÊN Độc lập — Tự do - Hạnh phúc Số: 486-TB/ĐHQT-CTSV TP. Hô Chí Minh, ngày 04 tháng 11 năm 2014 THÔNG BÁO V/v hướng dẫn thực hiện chính sách miễn, giảm học phí mới áp dụng từ học kỳ II năm học 2014 - 2015 Theo tinh thần Nghị định số 74/2013/NĐ-CP và Thông tư liên tịch số 20/2014/TTLT-BGDĐT-BTC-BLĐTBXH về việc sửa đổi, bổ sung một số điều của Nghị định số 49/2010/NĐ-CP ngày 14/5/2010 của Chính phủ quy định về miễn, giảm học phí, hỗ trợ chi phí học tập và cơ chế thu, sử dụng học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân từ năm học 2010 — 2011 đến năm học 2014 ~ 2015: Theo tinh thần nội dung thống nhất của Hội đồng chính sách nhà trường đã được Ban giám hiệu phê duyệt ngày 27/8/2014; Hướng dẫn cụ thể chỉ tiết thông báo số 458-TB/CTSV- ĐHQT phát hành ngày 22/9/2014: Phòng Công tác sinh viên (CTSV) hướng dẫn việc thực hiện chính sách miễn, giảm học phí (MGHP) áp dụng kể từ học kỳ II năm học 2014 — 2015 như sau:",
+    "sections": [
+      {
+        "id": "1",
+        "title": "Người có công với cách mạng và thân nhân của người có công với cách mạng theo Pháp lệnh ưu đãi người có công với cách mạng số 26/2005/PL-BTVQHII, Pháp lệnh số 04/2012/UBTVQHI3 (Chính sách của Trường ĐHQT và Nghị định 74). Cụ thê: a) Anh hùng Lực lượng vũ trang nhân dân; Thương binh, người hưởng chính sách như thương binh; Bệnh binh; b) Con của người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945; con của người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945; con của Anh hùng lực lượng vũ trang nhân dân; con của Anh hùng Lao động trong thời kỳ kháng chiến; con của liệt sỹ; con của thương binh, người hưởng chính sách như thương binh; con của bệnh binh; con của người hoạt động kháng chiến bị nhiễm chất độc hóa học. >",
+        "reduction_rate": "",
+        "requirements": "",
+        "semantic_id": "policy_section_1"
+      },
+      {
+        "id": "2",
+        "title": "Sinh viên mồ côi cả cha lẫn mẹ, không nơi nương tựa (Chính sách của trường ĐHỌQT và Nghị định 74). >",
+        "reduction_rate": "50% học phí thực (đã bao gồm % miễn giảm theo quy định của nhà nước). > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, bản photo công chứng giấy chứng tử của cha, mẹ; giấy khai sinh của sinh viên; Giấy xác nhận của UBND cấp xã cấp cho đối tượng là học sinh, sinh viên mồ côi cả cha lẫn mẹ (bổ sung giấy xác nhận này vào đầu mỗi năm học).",
+        "requirements": "",
+        "semantic_id": "policy_section_2"
+      },
+      {
+        "id": "3",
+        "title": "Sinh viên mồ côi cha hoặc mồ côi mẹ có khó khăn về kinh tế (Chính sách riêng của trường ĐHOT). >",
+        "reduction_rate": "15% học phí thực. > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, bản photo công chứng giấy chứng tử của cha, mẹ; giấy khai sinh của sinh viên; Xác nhận khó khăn về kinh tế của chính quyền địa phương (bổ sung giấy xác nhận này vào đâu mỗi năm học).",
+        "requirements": "",
+        "semantic_id": "policy_section_3"
+      },
+      {
+        "id": "4",
+        "title": "Sinh viên bị tàn tật, khuyết tật thuộc hộ cận nghèo theo quy định của Thủ tướng Chính phủ. Chuẩn hộ cận nghèo được thực hiện theo quy định của Thủ tướng Chính phủ phê duyệt theo từng thời kỳ (Hiện nay đang được thực hiện theo quy định tại Quyết định số 09/2011/QĐ-TTg ngày 30/01/2011 của Thủ tướng Chính phủ về chuẩn hộ nghèo, hộ cận nghèo áp dụng cho giai đoạn 2011 - 2015), (Chính sách của trường ĐHỌQT và Nghị định 74). — >",
+        "reduction_rate": "25% học phí thực (đã ôao sôm % miễn giảm theo quy định của nhà nước). > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, bản photo công chứng giấy chứng nhận của Hội đồng thâm định y khoa cấp có thắm quyền; giấy chứng nhận hộ nghèo, hộ cận nghèo do UBND cấp xã cấp (bổ sưng giấy xác nhận này vào đâu mỗi năm học).",
+        "requirements": "",
+        "semantic_id": "policy_section_4"
+      },
+      {
+        "id": "5",
+        "title": "Sinh viên dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế - xã hội khó khăn và đặc biệt khó khăn (C”ính sách của trường ĐHOT và Nghị định 74). a) Người dân tộc thiểu số rất ít người bao gồm: La Hủ, La Ha, Pà Thẻn, Lự, Ngái, Chứt, Lô Lô, Mảng, Cống, Cờ Lao, Bồ Y, Si La, Pu Péo, Rơ Măm, BRâu, Ở Ðu. b) Vùng có điều kiện kinh tế - xã hội khó khăn và đặc biệt khó khăn theo quy định tại các văn bản dưới đây: - Quyết định số 164/2006/QĐ-TTg ngày 11 tháng 7 năm 2006 của Thủ tướng Chính phủ. - Quyết định số 69/2008/QĐ-TTg ngày 28 tháng 5 năm 2008 của Thủ tướng Chính phủ. | - Quyết định số 01/2008/QĐ-UBDT ngày 11 tháng 01 năm 2008 của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc về việc phê duyệt danh sách thôn đặc biệt khó khăn thuộc xã khu vực II vào diện đầu tư của Chương trình 135 giai đoạn II; - Quyết định số 1105/QĐ-TTg ngày 28 tháng 7 năm 2009 của Thủ tướng Chính phủ. - Quyết định số 325/QĐÐ-UBDT ngày 19 tháng 10 năm 2009 của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc về việc phê duyệt danh sách thôn đặc biệt khó khăn thuộc xã khu vực II vào diện đầu tư của Chương trình 135 giai đoạn lH; - Quyết định số 30/2007/QĐ-TTg ngày 05 tháng 3 năm 2007 của Thủ tướng Chính phủ. - Quyết định số 539/QĐ-TTg ngày 01 tháng 4 năm 2013 của Thủ tướng Chính phủ. - Quyết định số 2405/QĐ-TTg ngày 10 tháng 12 năm 2013 của Thủ tướng Chính phủ. - Quyết định số 582/QĐÐ-UBDT ngày 18 tháng 12 năm 2013 của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc phê duyệt danh sách thôn đặc biệt khó khăn vùng dân tộc và miền núi vào diện đầu tư của Chương trình 135; >",
+        "reduction_rate": "25% học phí thực (đã bao gồm % miễn giảm theo quy định của nhà nước). > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, bản photo công chứng giấy khai sinh và hộ khẩu; Xác nhận của chính quyên địa phương.",
+        "requirements": "",
+        "semantic_id": "policy_section_5"
+      },
+      {
+        "id": "6",
+        "title": "Sinh viên là con CBCNVC mà cha hoặc mẹ bị TNLĐ hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên (Chính sách của trường ĐHỢỌT và Nghị định 74). >",
+        "reduction_rate": "10% học phí thực (hoặc 100% mức trần học phí theo quy định của nhà nước tùy mức nào cao hơn). > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, bản photo công chứng hộ khẩu (giấy khai sinh) và số hưởng trợ cấp hàng tháng do tổ chức BHXH cấp.",
+        "requirements": "",
+        "semantic_id": "policy_section_6"
+      },
+      {
+        "id": "7",
+        "title": "Sinh viên có anh chị em ruột hiện đang học tại trường Đại học Quốc tế (áp dụng kể từ người thứ hai), (Chính sách riêng của trường ĐHOT). >",
+        "reduction_rate": "10% học phí thực. > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, bản photo công chứng hộ khẩu thường trú hoặc giấy khai sinh của 2 anh chị em ruột. 8. Đối tượng 0§: Sinh viên là người dân tộc thiểu số thuộc hô nghèo và cận nghèo theo quy định của Thủ tướng Chính phủ. Chuẩn hộ cận nghèo được thực hiện theo quy định của Thủ tướng Chính phủ phê duyệt theo từng thời kỳ (Hiện nay đang được thực hiện theo quy định tại Quyết định số 09/2011/QĐ-TTg ngày 30/01/2011 của Thủ tướng Chính phủ về chuẩn hộ nghèo, hộ cận nghèo áp dụng cho giai đoạn 2011 - 2015), (Chính sách của trường ĐHỌT và Nghị định 74). > Mức miễn giảm: 10% học phí thực (hoặc 100% mức trần học phí theo quy định của nhà nước tùy mức nào cao hơn). > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, bản photo công chứng hộ khâu, giấy xác nhận hộ nghèo, hộ cận nghèo của chính quyền địa phương (Bổ sung giấy xác nhận này vào đầu mỗi năm học).",
+        "requirements": "",
+        "semantic_id": "policy_section_7"
+      },
+      {
+        "id": "9",
+        "title": "Sinh viên là con cán bộ viên chức đang làm việc trong trường (Chính sách riêng của trường ĐHỌOI). >",
+        "reduction_rate": "Cập nhật theo quy chế chi tiêu nội bộ hàng năm của nhà trường. > Yêu cầu về hồ sơ cần chuẩn bị: Mẫu đơn MGHP của nhà trường, giấy xác nhận nhân thân và thời gian công tác của Phòng Tổ chức Hành chính. (bổ sung giấy xác nhận này vào đâu môi năm học). Sinh viên lưu ý download mẫu đơn xét MGHP tại trường trên đường dẫn sau: hftp://osa.hcmiu.edu.vn/2012/04/10/cac-bieu-mau-thuonø-su-dung-cua-phong-ctsv/ (Sinh viên làm theo hướng dân tại trang 2 để nộp mới hoặc nộp bồ sung các giấy tờ cân thiết theo yêu cầu vào 30 ngày đầu mỗi học k)). Phòng CTSV phân công Anh Hà Xuân Quang, Cán bộ phụ trách mảng công việc về chế độ MGHP trả lời tất cả các thắc mắc có liên quan (điện thoại liên hệ: (84- 8) 37244270 - Số nội bộ: 3334). Kính đề nghị các Khoa, Bộ môn thông tin rộng rãi cho sinh viên nắm rõ và hỗ trợ sinh viên thực hiện nội dung thông báo trên. Trân trọng. TRƯỞNG PHÒNG CTSV Nơi nhận: 6 - BGH (Báo cáo); - Khoa, Bộ môn, TT Dịch vụ CNTT, ĐTN, HSV (Để thông báo); : - Lưu: CTSV. Đào Thị Kim Oanh",
+        "requirements": "",
+        "semantic_id": "policy_section_9"
+      }
+    ]
+  },
+  "metadata": {
+    "nguồn": "7.txt",
+    "ngôn_ngữ": "vi",
+    "ngày_xử_lý": "2025-05-28T10:18:41.014196",
+    "phiên_bản": "1.0",
+    "tổng_số_mục": 8
+  }
+}

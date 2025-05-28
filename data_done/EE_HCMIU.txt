@@ -3,13 +3,13 @@ Ngành Kỹ thuật Điện tử – Viễn thông:
 Chương trình Kỹ thuật Điện tử – Viễn thông đã được công nhận đạt chuẩn của các tổ chức kiểm định chất lượng quốc tế như của mạng lưới các trường Đông Nam Á (AUN) và của tổ chức Kiểm định các chương trình đào tạo kỹ thuật & công nghệ của Hoa Kỳ (ABET).
 
 Mục tiêu đào tạo:
-Khoa Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để:
+Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để
 Trở thành một Kỹ sư có năng lực, có thể đóng góp trong các lĩnh vực khác nhau của ngành Điện và Điện tử.
 Tham gia học tập và nghiên cứu suốt đời để thích ứng với những thay đổi nhanh chóng trong kinh tế và công nghệ toàn cầu
 Phục vụ hiệu quả cộng đồng, xã hội và công nghiệp một cách có đạo đức và có trách nhiệm
 Có phong cách làm việc chuyên nghiệp và sở hữu khả năng lãnh đạo
 
-Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+Cơ hội nghề nghiệp:
 Có khả năng xác định, thiết kế và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý khoa học, kỹ thuật và toán học.
 Có khả năng áp dụng các thiết kế kỹ thuật nhằm tạo ra những giải pháp công nghệ đáp ứng những nhu cầu cụ thể, trong đó có cân nhắc đến các vấn đề về sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế.
 Có khả năng giao tiếp hiệu quả với nhiều đối tượng khác nhau.
@@ -17,18 +17,6 @@ Có khả năng nhận thức trách nhiệm đạo đức và nghề nghiệp t
 Có khả năng hoạt động hiệu quả trong một nhóm cùng các thành viên khác thể hiện khả năng lãnh đạo, tạo một môi trường hoạt động có tinh thần hợp tác và toàn diện, thiết lập mục tiêu, lập kế hoạch nhiệm vụ, từ đó đạt được mục tiêu mong đợi.
 Có khả năng thiết kế và tiến hành các thí nghiệm phù hợp, có khả năng phân tích và diễn giải dữ liệu, đồng thời sử dụng phán đoán kỹ thuật nhằm rút ra kết luận.
 Có khả năng tiếp thu và áp dụng kiến thức mới khi cần thiết bằng nhiều chiến lược học tập phù hợp.
-
-Đánh giá môn học:
-Đối với các môn học cơ sở ngành và chuyên ngành:
-Môn lý thuyết có tỉ lệ điểm đánh giá là 30% điểm trên lớp (bao gồm bài tập, chuyên cần, kiểm tra và bài tập nhóm), 30% điểm thi giữa kì và 40% điểm thi cuối kì;
-Môn thực hành có tỉ lệ điểm là 70% điểm trên lớp (bao gồm bài tập thực hành, chuyên cần, kiểm tra và bài tập nhóm) và 30% điểm thi cuối kì.
-Đối với các môn thực tập, đồ án sinh viên, luận văn tốt nghiệp: điểm đánh giá sẽ dựa vào điểm cuối kì của giảng viên hướng dẫn và hội đồng.
-
-Tùy vào trình độ tiếng Anh đầu vào của các sinh viên, các lớp tiếng Anh tăng cường sẽ được sắp xếp theo phân bố chuẩn của chương trình đào tạo. Thứ tự chuẩn tiếng Anh đầu vào của trường Đại học Quốc Tế – Đại Học Quốc Gia từ cao tới thấp được phân như sau:
-Academic Enghlish 1 ( TOEFL iBT ≥ 56 hoặc IELTS ≥ 5.5 ) 
-Intensive English 2 ( TOEFL iBT ≥ 35 hoặc IELTS ≥ 5.0 )
-Intensive English 1 ( TOEFL iBT < 35 hoặc IELTS < 5.0 )
-Intensive English 0 ( IELTS < 4.5 )
 
 Chương trình học:
 Năm 1:
@@ -111,10 +99,11 @@ EE—IU-EE Elective Course 05-4
 EE114IU-Entrepreneurship-3
 
 Năm 5:
+Học kì 1:
 EE097IU-Thesis-10
 
 
-General Elective Course của Kỹ thuật Điện tử – Viễn thông:
+Môn Tự chọn của Kỹ thuật Điện tử – Viễn thông,
 Subject’s ID	 Subjects	Credit(s)
 BA003IU-Principles of Marketing-3
 BA006IU-Business Communication-3
@@ -145,7 +134,7 @@ EL018IL-Cross-Cultural Communication-3
 EL021IL-Global Englishes-3
 EE072IU-Computer and Communication Network-3
 
-ET Elective Courses
+Môn tự chọn chuyên ngành,
 EE061IU-Analog Electronics-3
 EE062IU-Analog Electronics Laboratory-1
 EE094IU-Digital Electronics-3
@@ -179,13 +168,16 @@ EE129IU-Internet of Things Laboratory-1
 EE133IU-Emerging Engineering Technologies-3
 
 Ngành Kỹ thuật Điều khiển và Tự động hóa:
+
+Mục tiêu đào tạo:
 Chương trình Kỹ thuật Kỹ thuật Điều Khiển và Tự Động Hóa được thiết kế trên cở sở đối sánh các chương trình tương tự ở trong nước và quốc tế vào năm 2014. Chương trình được thiết kế, vận hành để hướng đến các chứng chỉ kiểm định chất lượng quốc tế trong tương lai.
-Khoa Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để:
+Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để
 Trở thành một Kỹ sư có năng lực, có thể đóng góp trong các lĩnh vực khác nhau của ngành Điện và Điện tử.
 Tham gia học tập và nghiên cứu suốt đời để thích ứng với những thay đổi nhanh chóng trong kinh tế và công nghệ toàn cầu
 Phục vụ hiệu quả cộng đồng, xã hội và công nghiệp một cách có đạo đức và có trách nhiệm
 Có phong cách làm việc chuyên nghiệp và sở hữu khả năng lãnh đạo
-Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+
+Cơ hội nghề nghiệp:
 Có khả năng xác định, thiết kế và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý khoa học, kỹ thuật và toán học.
 Có khả năng áp dụng các thiết kế kỹ thuật nhằm tạo ra những giải pháp công nghệ đáp ứng những nhu cầu cụ thể, trong đó có cân nhắc đến các vấn đề về sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế.
 Có khả năng giao tiếp hiệu quả với nhiều đối tượng khác nhau.
@@ -193,13 +185,7 @@ Có khả năng nhận thức trách nhiệm đạo đức và nghề nghiệp t
 Có khả năng hoạt động hiệu quả trong một nhóm cùng các thành viên khác thể hiện khả năng lãnh đạo, tạo một môi trường hoạt động có tinh thần hợp tác và toàn diện, thiết lập mục tiêu, lập kế hoạch nhiệm vụ, từ đó đạt được mục tiêu mong đợi.
 Có khả năng thiết kế và tiến hành các thí nghiệm phù hợp, có khả năng phân tích và diễn giải dữ liệu, đồng thời sử dụng phán đoán kỹ thuật nhằm rút ra kết luận.
 Có khả năng tiếp thu và áp dụng kiến thức mới khi cần thiết bằng nhiều chiến lược học tập phù hợp.
-Tùy vào trình độ tiếng Anh đầu vào của các sinh viên, các lớp tiếng Anh tăng cường sẽ được sắp xếp theo phân bố chuẩn của chương trình đào tạo. Thứ tự chuẩn tiếng Anh đầu vào của trường Đại học Quốc Tế – Đại Học Quốc Gia từ cao tới thấp được phân như sau:
-Academic Enghlish 1 ( TOEFL iBT ≥ 56 hoặc IELTS ≥ 5.5 ) 
-Intensive English 2 ( TOEFL iBT ≥ 35 hoặc IELTS ≥ 5.0 )
-Intensive English 1 ( TOEFL iBT < 35 hoặc IELTS < 5.0 )
-Intensive English 0 ( IELTS < 4.5 )
 
-Chương trình đào tạo Kỹ thuật Điều Khiển và Tự Động Hóa được giảng dạy bằng tiếng Anh với số tín chỉ tối thiểu là 152 và được phân bổ trong thời gian 4.5 năm học:
 Chương trình học:
 Năm 1:
 
@@ -282,10 +268,11 @@ EEAC–IU-AC Elective Course 05-3
 EE112IU-Summer Internship-3
 
 Năm 5:
+
 Học kì 1:
 EE097IU Thesis-10
 
-General Elective Course của Kỹ thuật Điều khiển và Tự động hóa:
+Môn tự chọn của Kỹ thuật Điều khiển và Tự động hóa
 Subject’s ID	 Subjects	Credit(s)
 BA003IU-Principles of Marketing-3
 BA006IU-Business Communication-3
@@ -316,7 +303,7 @@ EL018IL-Cross-Cultural Communication-3
 EL021IL-Global Englishes-3
 EE072IU-Computer and Communication Network-3
 
-AC Elective Courses của Kỹ thuật Điều khiển và Tự động hóa:
+Môn tự chọn chuyên ngành
 EE061IU-Analog Electronics-3
 EE062IU-Analog Electronics Laboratory-1
 EEAC011IU-Automation Manufacturing System and Technique-3

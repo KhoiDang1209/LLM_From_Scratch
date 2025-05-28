@@ -317,14 +317,58 @@
         "semantic_id": "article_17"
       }
     ],
-    "sections": []
+    "sections": [],
+    "tables": [
+      {
+        "id": "1",
+        "data": [
+          [
+            "Mức HBHT",
+            "Điểm học tập",
+            "Điểm rèn luyện"
+          ],
+          [
+            "Loại III (Khá)",
+            "Khá",
+            "Khá, Tốt, Xuất sắc"
+          ],
+          [
+            "Loại III (Khá)",
+            "Giỏi",
+            "Khá"
+          ],
+          [
+            "Loại III (Khá)",
+            "Xuất sắc",
+            "Khá"
+          ],
+          [
+            "Loại II (Giỏi)",
+            "Giỏi",
+            "Tốt, Xuất sắc"
+          ],
+          [
+            "Loại II (Giỏi)",
+            "Xuất sắc",
+            "Tốt"
+          ],
+          [
+            "Loại I (Xuất sắc)",
+            "Xuất sắc",
+            "Xuất sắc"
+          ]
+        ],
+        "semantic_id": "table_1"
+      }
+    ]
   },
   "metadata": {
     "nguồn": "16.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:50.178460",
+    "ngày_xử_lý": "2025-05-27T11:13:55.034531",
     "phiên_bản": "1.0",
     "tổng_số_điều": 19,
-    "tổng_số_mục": 0
+    "tổng_số_mục": 0,
+    "tổng_số_bảng": 1
   }
 }

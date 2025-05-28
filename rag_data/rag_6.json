@@ -1,0 +1,86 @@
+{
+  "document_id": "policy_6",
+  "type": "policy",
+  "content": {
+    "header": "TRƯỜNG ĐẠI HỌC QUỐC TẾ - Căn cứ Quyết định số 260/2003/QĐ-TTg ngày 05 tháng 12 năm 2003 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Quốc tế thuộc Đại học Quốc gia thành phố Hồ Chí Minh; - _ Căn cứ Quyết định số 190/QĐ-ĐHQG-TCCB ngày 16/04/2004 của Giám đốc Đại học Quốc gia Tp.HCM về việc ban hành Qui chế về tổ chức và hoạt động của Trường Đại học Quốc tế: - _ Căn cứ Nghị định số 49/2010/NĐ-CP của Thủ Tướng chính phủ và Thông tư liên tịch số 29/2010/TTLT-BGDĐT-BTC-BLĐTBXH về quy định về miễn, giảm học phí, hỗ trợ chi phí học tập và cơ chế thu, sử dụng học phí đối với các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân từ NH 2010-2011 đến NH 2014-2015: - Căn cứ Quyết định số 266 ĐHQT/QĐ-ĐT của Hiệu trưởng trường Đại học Quốc Tế ký ngày 05/09/2008 về việc ban hành chế độ chính sách và học bổng cho sinh viên trường: - _ Xét đề nghị của các Ông (Bà) Trưởng Phòng Công tác Sinh viên, Trưởng Phòng Đào Tạo, Trưởng Phòng Kế hoạch Tài chính. QUYẾT ĐỊNH: Điều 1. Ban hành “Quy định về chế độ chính sách” dành cho sinh viên đang học tập tại trường Đại học Quốc tế - ĐHQG HCM. Điều 2. Quy định này được áp dụng đề xét miễn, giảm học phí, hỗ trợ chi phí học tập dành cho sinh viên diện chính sách đang học tập tại trường. Điều 3. Các Ông/Bà Trưởng phòng chức năng, Trưởng khoa, Bộ môn liên quan và các sinh viên chịu trách nhiệm thi hành Quyết định này. Điều 4. Quyết định này có hiệu lực thi hành kể từ học kỳ 1, năm học 2010 - 2011. Những qui định trước đây trái với quy định này đều bị bãi bỏ. TRƯỜNG ĐẠI HỌC QUỐC TẾ HIỆU TRƯỞNG Hồ Thanh Phong Nơi nhận: - Như điều 3; - Lưu VT, P.CTSV, P. ĐT, P. KHTC. TRƯỜNG ĐẠI HỌC QUỐC TẾ __ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM PHÒNG CÔNG TÁC SINH VIÊN Độc lập - Tự do - Hạnh phúc QUY ĐỊNH VỀ CHẾ ĐỘ CHÍNH SÁCH (Ban hành theo Quyết định số 191/QĐ-ĐHQT-CTSV ngày 31/3/2011 của Hiệu trưởng Trường Đại học Quốc tế - ĐHQG.HCM)",
+    "sections": [
+      {
+        "id": "1",
+        "title": "Anh hùng lực lượng vũ trang; Anh hùng lao động; thương binh; người hưởng chính sách như thương binh; con của liệt sĩ; con của thương binh, con của bệnh binh và con của người hưởng chính sách như thương binh bị mất sức lao động từ 21% trở lên.",
+        "reduction_rate": "60%",
+        "requirements": "Bản sao công chứng thẻ thương binh, bệnh binh… Giấy chứng nhận của Phòng LĐTBXH; Bản sao công chứng hộ khẩu; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_1"
+      },
+      {
+        "id": "2",
+        "title": "Sinh viên mồ côi cả cha lẫn mẹ, không nơi nương tựa.",
+        "reduction_rate": "60%",
+        "requirements": "Bản sao công chứng giấy khai sinh; Bản sao giấy chứng tử của cha, mẹ; Xác nhận của chính quyền địa phương; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_2"
+      },
+      {
+        "id": "3",
+        "title": "Sinh viên mồ côi cha hoặc mồ côi mẹ.",
+        "reduction_rate": "25%",
+        "requirements": "Bản sao công chứng giấy khai sinh; Bản sao giấy chứng tử của cha, mẹ; Xác nhận của chính quyền địa phương; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_3"
+      },
+      {
+        "id": "4",
+        "title": "Sinh viên bị tàn tật và có khó khăn về kinh tế, khả năng lao động bị suy giảm từ 21% trở lên do tàn tật và được Hội đồng y khoa xác nhận.",
+        "reduction_rate": "25%",
+        "requirements": "Giấy chứng nhận của Hội đồng thẩm định y khoa có thẩm quyền; Xác nhận của chính quyền địa phương; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_4"
+      },
+      {
+        "id": "5",
+        "title": "Sinh viên có cha mẹ thường trú tại vùng cao miền núi (trừ thành phố, thị xã, thị trấn) và vùng sâu hải đảo có khó khăn về kinh tế.",
+        "reduction_rate": "25%",
+        "requirements": "Bản sao công chứng hộ khẩu; Đơn có xác nhận của chính quyền địa phương về thời gian lưu trú; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_5"
+      },
+      {
+        "id": "6",
+        "title": "Sinh viên dân tộc thiểu số thường trú tại vùng cao miền núi (trừ thành phố, thị xã, thị trấn) và vùng sâu hải đảo có khó khăn về kinh tế.",
+        "reduction_rate": "25%",
+        "requirements": "Bản sao công chứng khai sinh; Đơn có xác nhận của chính quyền địa phương về thời gian lưu trú; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_6"
+      },
+      {
+        "id": "7",
+        "title": "Sinh viên là con cán bộ, công nhân viên chức mà cha hoặc mẹ bị tai nạn lao động được hưởng trợ cấp thường xuyên.",
+        "reduction_rate": "10%",
+        "requirements": "Bản sao sổ hưởng trợ cấp có xác nhận của Phòng LĐTBXH; Bản sao công chứng hộ khẩu; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_7"
+      },
+      {
+        "id": "8",
+        "title": "Sinh viên có anh chị em ruột hiện đang học tại trường Đại học Quốc tế (áp dụng kể từ người thứ hai).",
+        "reduction_rate": "10%",
+        "requirements": "Bản sao công chứng hộ khẩu thường trú hoặc bản sao công chứng giấy khai sinh của 2 anh chị em ruột; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_8"
+      },
+      {
+        "id": "9",
+        "title": "Sinh viên thuộc diện hộ đói nghèo theo quy định có xác nhận của Sở LĐTB&XH.",
+        "reduction_rate": "10%",
+        "requirements": "Giấy hộ đói nghèo có xác nhận của chính quyền địa phương; Bản sao công chứng hộ khẩu thường trú; Đơn xin xét miễn giảm*.",
+        "semantic_id": "policy_section_9"
+      },
+      {
+        "id": "10",
+        "title": "Sinh viên có cha hoặc mẹ là CBVC cơ hữu đang làm việc tại trường ĐH Quốc Tế. (Các mức này được điều chỉnh theo Quy chế Chi tiêu nội bộ hằng năm của Nhà trường)",
+        "reduction_rate": "15% (dưới 1 năm) 20% (từ 1–3 năm) 30% (trên 3 năm)",
+        "requirements": "Giấy xác nhận nhân thân và thời gian công tác của Phòng Tổ chức Hành chính; Đơn xin xét miễn giảm*. II. QUY TRÌNH VÀ THỜI GIAN XÉT MIỄN GIẢM I. QUY TRÌNH XÉT: - Sinh viên nộp hỗ sơ đủ theo yêu cầu tại cột (4)- Thủ tục xét tại Phòng Công tác sinh viên 20 ngày kế từ khi bắt đầu học kỳ trong trường hợp hồ sơ nộp quá hạn quy định hồ sơ sẽ được nhận và giải quyết ở học kỳ sau và không được truy lĩnh cho học kỳ trước đó; -_ Phòng CTSV xem xét hỗ sơ thủ tục và phản hồi nếu hồ sơ chưa đúng theo qui định; -_ Phòng KHTC và Phòng CTSV kiểm tra đối chiếu xác nhận mức học phí ; - Phòng CTSV lập danh sách miễn giảm theo định mức miễn giảm quy định và | thông báo cho sinh viên trước kỳ thi giữa kỳ. Lưu ý vê việc bổ túc hồ sơ ở những năm học sau: - Đối tượng Ì không phải làm đơn lại nhưng phải bồ sung giấy xác nhận của phòng Thương binh Xã hội địa phương vào đâu mỗi năm học. - - Đối tượng 2, 3, 4, 7 sẽ tiếp tục được miễn giảm ở các học kỳ sau không cẩn phải làm hồ sơ lại. -_ Đối tượng 5, 6, 9 phải bồ sung giấy xác nhận của địa phương vào đâu môi năm học. - Đối tượng 10 phải bồ sung Giấy xác nhận nhân thân và thời gian công tác của Phòng Tô chức Hành chính vào đâu mỗi năm học. tử",
+        "semantic_id": "policy_section_10"
+      }
+    ]
+  },
+  "metadata": {
+    "nguồn": "6.txt",
+    "ngôn_ngữ": "vi",
+    "ngày_xử_lý": "2025-05-28T10:18:41.009336",
+    "phiên_bản": "1.0",
+    "tổng_số_mục": 10
+  }
+}

@@ -227,14 +227,16 @@
         "level": 1,
         "semantic_id": "section_11"
       }
-    ]
+    ],
+    "tables": []
   },
   "metadata": {
     "nguồn": "5.json",
     "ngôn_ngữ": "vi",
-    "ngày_xử_lý": "2025-05-26T22:58:39.252370",
+    "ngày_xử_lý": "2025-05-27T11:13:54.986747",
     "phiên_bản": "1.0",
     "tổng_số_điều": 15,
-    "tổng_số_mục": 1
+    "tổng_số_mục": 1,
+    "tổng_số_bảng": 0
   }
 }
