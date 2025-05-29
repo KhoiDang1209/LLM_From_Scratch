@@ -1,16 +1,16 @@
 Khoa Công Nghệ Thông Tin:
 
 Ngành Mạng Máy Tính:
+
 Mục tiêu đào tạo: 
 Chuyên ngành Kỹ thuật Mạng trang bị kiến thức nền tảng và nâng cao, chú trọng cả lý thuyết lẫn kỹ năng thực hành trong lĩnh vực mạng và hệ thống. Kiến thức cơ sở về Mạng Máy tính, Hệ điều hành Máy tính và Lập trình Ứng dụng Mạng được giảng dạy trong chuyên ngành này. Kiến thức chuyên sâu như Mạng Không dây, Quản trị Mạng và Hệ thống, An ninh Mạng và Hệ thống, ứng dụng IoT và Điện toán Phân tán cũng được cung cấp cho sinh viên.
 
 Cơ hội nghề nghiệp:
-Kỹ sư Phần mềm: Phân tích, thiết kế và phát triển phần mềm cho các cơ quan chính phủ, viện nghiên cứu và doanh nghiệp.
-Kỹ sư Mạng: Thiết kế và quản lý hạ tầng mạng máy tính và hệ thống thông tin tại các doanh nghiệp trong và ngoài nước, ngân hàng và sàn giao dịch chứng khoán.
+Kỹ sư Phần mềm, Phân tích, thiết kế và phát triển phần mềm cho các cơ quan chính phủ, viện nghiên cứu và doanh nghiệp.
+Kỹ sư Mạng, Thiết kế và quản lý hạ tầng mạng máy tính và hệ thống thông tin tại các doanh nghiệp trong và ngoài nước, ngân hàng và sàn giao dịch chứng khoán.
 
 Chương trình học:
 Năm 1:
-
 Học kì 1:
 Calculus 1-4
 Physical Training 1-3
@@ -77,10 +77,11 @@ Engineering Ethics and Professional Skills-3
 Special Study of the Field-3
 
 Năm 5:
+Học kì 1:
 Thesis-10
 General Law-3
 
-Elective của Mạng Máy Tính: 
+Elective của Mạng Máy Tính
 IT103IU-Digital Signal Processing-4
 IT105IU-Digital System Design-3
 IT106IU-Digital System Design Laboratory-1
@@ -125,7 +126,7 @@ Mục tiêu đào tạo:
 Chuyên ngành Kỹ thuật Máy tính trang bị cho sinh viên kiến thức nền tảng và nâng cao về phần cứng máy tính, các nguyên tắc và phương pháp thiết kế, phát triển các hệ thống phần cứng và phần mềm phục vụ hoạt động của các thiết bị phần cứng. Kiến thức Kỹ thuật Máy tính bao gồm nhiều khía cạnh của điện toán, chẳng hạn như thiết kế mạch điện tử, vi xử lý, máy tính cá nhân, siêu máy tính và đặc biệt là các hệ thống nhúng được sử dụng trong các thiết bị điện tử hiện đại.
 
 Cơ hội nghề nghiệp:
-Kỹ sư Phần cứng: Phân tích, thiết kế và phát triển các thiết bị phần cứng, hệ thống phần cứng và phần mềm nhúng liên quan để hỗ trợ hoạt động của các thiết bị đó. Các kỹ sư phần cứng có thể làm việc tại các công ty tập trung vào phần cứng như Intel, Renesas, Samsung, Asus và các công ty khác.
+Kỹ sư Phần cứng, Phân tích, thiết kế và phát triển các thiết bị phần cứng, hệ thống phần cứng và phần mềm nhúng liên quan để hỗ trợ hoạt động của các thiết bị đó. Các kỹ sư phần cứng có thể làm việc tại các công ty tập trung vào phần cứng như Intel, Renesas, Samsung, Asus và các công ty khác.
 
 Chương trình học:
 Năm 1:
@@ -202,10 +203,11 @@ Special Study of the Field-3
 Entrepreneurship-3
 
 Năm 5:
+Học kì 1:
 Thesis-10
 General Law-3
 
-Elective của Kỹ Thuật Máy Tính:
+Elective của Kỹ Thuật Máy Tính
 IT144IU-Business Process Analysis-4
 IT145IU-Decision Support Systems-4
 IT147IU-Mobile Cloud Computing-4
@@ -306,7 +308,7 @@ Học kì 2:
 Internship-3
 Thesis-10
 
-Elective của Khoa Học Dữ Liệu:
+Elective của Khoa Học Dữ Liệu
 Business Process Analysis-4
 Decision Support Systems-4
 Theory of Networks-4
@@ -390,7 +392,7 @@ Special Study of the Field-3
 Học kì 2:	
 Thesis-10
 
-Elective của Khoa Học Máy Tính:
+Elective của Khoa Học Máy Tính
 IT094IU-Information System Management-4
 IT056IU-IT Project Management-4
 IT024IU-Computer Graphics-4

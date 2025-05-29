@@ -1,0 +1,464 @@
+{
+  "document_id": "BME_HCMIU",
+  "type": "course_structure",
+  "content": {
+    "faculties": [
+      {
+        "title": "Khoa Kỹ Thuật Y Sinh",
+        "majors": [
+          {
+            "title": "Ngành Kỹ thuật mô và Y học tái tạo",
+            "career_opportunities": "Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.\nChương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.",
+            "training_objectives": [
+              "Thành công và hiệu quả khi giải quyết các vấn đề một cách định lượng và hệ thống, dựa trên kiến thức kỹ thuật y sinh và cáclĩnh vực đa ngành liên quan.",
+              "Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi mới đóng góp cho sự phát triển của lĩnh vực kỹ thuật y sinh.",
+              "Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân."
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA001IU-Calculus 1-4\nPH013IU-Physics 1-2\nPH014IU-Physics 2-2\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nBM050IU-Practice 1: Reverse Engineering-1\nPE015IU-Philosophy of Marxism and Leninism-3\nPE008IU-Critical Thinking-3\nPT001IU-Physical Training 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "CH011IU-Chemistry for Engineers-3\nCH012IU-Chemistry Laboratory-1\nBM090IU-Biology for BME-4\nEE051IU-Principles of EE1-3\nEE052IU-Principles of EE1 Laboratory-1\nEN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nPE016IU-Political economics of Marxism and Leninism-2\nPT002IU-Physical Training 2-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE017IU-Scientific socialism-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA003IU-Calculus 2-4\nCH014IU-Chemistry for BME-3\nBM098IU-Chemistry for BME Laboratory-1\nBM091IU-Human Anatomy and Physiology-3\nBM007IU-Introduction to Biomedical Engineering-4\nBM067IU-Practice 2: Animal Cells and Microbiologies-1\nPE018IU-History of Vietnamese Communist Party-2",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "MA023IU-Calculus 3-4\nBM064IU-Applied Informatics-4\nBM082IU-Biomaterials-4\nBMIU-Technical Electives 1-4\nPE019IU-Ho Chi Minh's Thoughts-2\nBM052IU-Practice 3: Electronic Design-1",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "MP001IU-Military Training\nBM102IU-Mechanical design and manufacturing processes in biomedical engineering Lab-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA024IU-Differential Equations-4\nBM101IU-Mechanical design and manufacturing processes in biomedical engineering-2\nBM011IU-Engineering Challenges in Medicine I-3\nBM017IU-Medical Design-1\nBM IU-Technical Electives 2-4\nBM IU-Technical Electives 6-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BM005IU-Statistics for Health Science-3\nBM030IU-Machine Design-3\nBM096IU-AI for Healthcare-3\nBM068IU-Project 1-1\nBM IU-Technical Electives 3-4\nBM IU-Technical Electives 7-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "BM020IU-Summer Internship",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM008IU-Bioethics-3\nBM013IU-Entrepreneurship in Biomedical Engineering-3\nBM IU-Technical Electives 4-4\nBM069IU-Project 2-1",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IU-Free elective-3\nBM009IU-BME Capstone Design-4\nBM003IU-Pre-Thesis-1\nBM IU-Technical Electives 5-4",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE021IU-General Law-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_4"
+              },
+              {
+                "title": "Năm 5",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM004IU-Thesis-10\nMôn tự chọn,\nTechnical Elective 1-Methods and Process in Fabrication of Scaffold-(BM086IU)\nTechnical Elective 2-Stem Cell Technology-(BM099IU)\nTechnical Elective 3-Applications of Biomaterials in Regenerative Medicine-(BM083IU)\nTechnical Elective 4-Cell/Tissue - Biomaterial Interaction-(BM092IU)\nTechnical Electives 5,6-Chọn 2,\nPrinciples of Clinical Test and Instrumentation-(BM094IU)\nPharmaceutical Engineering 1-(BM077IU)\nNanotechnology for Drug Delivery Systems-(BM080IU)\nPharmaceutical Engineering 2-(BM078IU)\nPrinciple of Pharmacokinetics-(BM079IU)\nTechnical Elective 7-Có thể chọn bất kỳ môn Tự chọn Kỹ thuật nào do Khoa Kỹ thuật Y sinh thực hiện",
+                    "semantic_id": "semester_1"
+                  }
+                ],
+                "semantic_id": "year_5"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "specialized_tracks": [],
+            "semantic_id": "major_1"
+          },
+          {
+            "title": "Ngành Kỹ thuật Dược phẩm",
+            "career_opportunities": "Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.\nChương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.",
+            "training_objectives": [
+              "Thành công và hiệu quả khi giải quyết các vấn đề một cách định lượng và hệ thống, dựa trên kiến thức kỹ thuật y sinh và cáclĩnh vực đa ngành liên quan.",
+              "Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi mới đóng góp cho sự phát triển của lĩnh vực kỹ thuật y sinh.",
+              "Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân."
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA001IU-Calculus 1-4\nPH013IU-Physics 1-2\nPH014IU-Physics 2-2\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nBM050IU-Practice 1: Reverse Engineering-1\nPE015IU-Philosophy of Marxism and Leninism-3\nPE008IU-Critical Thinking-3\nPT001IU-Physical Training 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "CH011IU-Chemistry for Engineers-3\nCH012IU-Chemistry Laboratory-1\nBM090IU-Biology for BME-4\nEE051IU-Principles of EE1-3\nEE052IU-Principles of EE1 Laboratory-1\nEN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nPE016IU-Political economics of Marxism and Leninism-2\nPT002IU-Physical Training 2-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE017IU-Scientific socialism-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA003IU-Calculus 2-4\nCH014IU-Chemistry for BME-3\nBM098IU-Chemistry for BME Laboratory-1\nBM091IU-Human Anatomy and Physiology-3\nBM007IU-Introduction to Biomedical Engineering-4\nBM067IU-Practice 2: Animal Cells and Microbiologies-1\nPE018IU-History of Vietnamese Communist Party-2",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "MA023IU-Calculus 3-4\nBM064IU-Applied Informatics-4\nBM082IU-Biomaterials-4\nBMIU-Technical Electives 1-4\nPE019IU-Ho Chi Minh's Thoughts-2\nBM052IU-Practice 3: Electronic Design-1",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "MP001IU-Military Training\nBM102IU-Mechanical design and manufacturing processes in biomedical engineering Lab-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA024IU-Differential Equations-4\nBM101IU-Mechanical design and manufacturing processes in biomedical engineering-2\nBM011IU-Engineering Challenges in Medicine I-3\nBM017IU-Medical Design-1\nBM IU-Technical Electives 2-4\nBM IU-Technical Electives 6-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BM005IU-Statistics for Health Science-3\nBM030IU-Machine Design-3\nBM096IU-AI for Healthcare-3\nBM068IU-Project 1-1\nBM IU-Technical Electives 3-4\nBM IU-Technical Electives 7-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "BM020IU-Summer Internship",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM008IU-Bioethics-3\nBM013IU-Entrepreneurship in Biomedical Engineering-3\nBM IU-Technical Electives 4-4\nBM069IU-Project 2-1",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IU-Free elective-3\nBM009IU-BME Capstone Design-4\nBM003IU-Pre-Thesis-1\nBM IU-Technical Electives 5-4",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE021IU-General Law-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_4"
+              },
+              {
+                "title": "Năm 5",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM004IU-Thesis-10\nMôn tự chọn,\nTechnical Elective 1-Pharmaceutical Engineering 1-(BM077IU)\nTechnical Elective 2-Nanotechnology for Drug Delivery Systems-(BM080IU)\nTechnical Elective 3-Pharmaceutical Engineering 2-(BM078IU)\nTechnical Elective 4-Principle of Pharmacokinetics-(BM079IU)\nTechnical Electives 5,6-Chọn 2,\nPrinciples of Clinical Test and Instrumentation-(BM094IU)\nStem Cell Technology-(BM099IU)\nCell/Tissue - Biomaterial Interaction-(BM092IU)\nMethods and Process in Fabrication of Scaffold-(BM086IU)\nApplications of Biomaterials in Regenerative Medicine-(BM083IU)\nDrug delivery system-(BM081IU)\nTechnical Elective 7-Có thể chọn bất kỳ môn Tự chọn Kỹ thuật nào do Khoa Kỹ thuật Y sinh thực hiện",
+                    "semantic_id": "semester_1"
+                  }
+                ],
+                "semantic_id": "year_5"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "specialized_tracks": [],
+            "semantic_id": "major_2"
+          },
+          {
+            "title": "Ngành DỤNG CỤ Y TẾ",
+            "career_opportunities": "Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.\nChương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.",
+            "training_objectives": [
+              "Thành công và hiệu quả khi giải quyết các vấn đề một cách định lượng và hệ thống, dựa trên kiến thức kỹ thuật y sinh và cáclĩnh vực đa ngành liên quan.",
+              "Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi mới đóng góp cho sự phát triển của lĩnh vực kỹ thuật y sinh.",
+              "Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân."
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA001IU-Calculus 1-4\nPH013IU-Physics 1-2\nPH014IU-Physics 2-2\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nBM050IU-Practice 1: Reverse Engineering-1\nPE015IU-Philosophy of Marxism and Leninism-3\nPE008IU-Critical Thinking-3\nPT001IU-Physical Training 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "CH011IU-Chemistry for Engineers-3\nCH012IU-Chemistry Laboratory-1\nBM090IU-Biology for BME-4\nEE051IU-Principles of EE1-3\nEE052IU-Principles of EE1 Laboratory-1\nEN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nPE016IU-Political economics of Marxism and Leninism-2\nPT002IU-Physical Training 2-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE017IU-Scientific socialism-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA003IU-Calculus 2-4\nCH014IU-Chemistry for BME-3\nBM098IU-Chemistry for BME Laboratory-1\nBM091IU-Human Anatomy and Physiology-3\nBM007IU-Introduction to Biomedical Engineering-4\nBM067IU-Practice 2: Animal Cells and Microbiologies-1\nPE018IU-History of Vietnamese Communist Party-2",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "MA023IU-Calculus 3-4\nBM064IU-Applied Informatics-4\nBM082IU-Biomaterials-4\nBMIU-Technical Electives 1-4\nPE019IU-Ho Chi Minh's Thoughts-2\nBM052IU-Practice 3: Electronic Design-1",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "MP001IU-Military Training\nBM102IU-Mechanical design and manufacturing processes in biomedical engineering Lab-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA024IU-Differential Equations-4\nBM101IU-Mechanical design and manufacturing processes in biomedical engineering-2\nBM011IU-Engineering Challenges in Medicine I-3\nBM017IU-Medical Design-1\nBM IU-Technical Electives 2-4\nBM IU-Technical Electives 6-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BM005IU-Statistics for Health Science-3\nBM030IU-Machine Design-3\nBM096IU-AI for Healthcare-3\nBM068IU-Project 1-1\nBM IU-Technical Electives 3-4\nBM IU-Technical Electives 7-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "BM020IU-Summer Internship",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM008IU-Bioethics-3\nBM013IU-Entrepreneurship in Biomedical Engineering-3\nBM IU-Technical Electives 4-4\nBM069IU-Project 2-1",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IU-Free elective-3\nBM009IU-BME Capstone Design-4\nBM003IU-Pre-Thesis-1\nBM IU-Technical Electives 5-4",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE021IU-General Law-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_4"
+              },
+              {
+                "title": "Năm 5",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM004IU-Thesis-10\nMôn tự chọn,\nTechnical Elective 1-Electronic Devices for Biomedical Design-(BM089IU)\nTechnical Elective 2-Medical Instrumentation-(BM095IU)\nTechnical Elective 3-Digital Systems (BM060IU) + Digital Systems Lab (BM061IU)\nTechnical Electives 4,5,6-Chọn 3,\nMicro-electronic Devices-(BM062IU)\nMedical Imaging-(BM073IU)\nBiomedical Photonics-(BM075IU) + Biomedical Photonics Lab-(BM076IU)\nInformation Technology in the Health Care System-(BM033IU) + Information Technology in the Health Care System Lab-(BM070IU)\nPrinciple of Clinical tests and Instrumentation-(BM094IU)\nTechnical Elective 7-Có thể chọn bất kỳ môn Tự chọn Kỹ thuật nào do Khoa Kỹ thuật Y sinh thực hiện",
+                    "semantic_id": "semester_1"
+                  }
+                ],
+                "semantic_id": "year_5"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "specialized_tracks": [],
+            "semantic_id": "major_3"
+          },
+          {
+            "title": "Ngành Xử lý tín hiệu và hình ảnh y sinh",
+            "career_opportunities": "Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.\nChương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.",
+            "training_objectives": [
+              "Thành công và hiệu quả khi giải quyết các vấn đề một cách định lượng và hệ thống, dựa trên kiến thức kỹ thuật y sinh và cáclĩnh vực đa ngành liên quan.",
+              "Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi mới đóng góp cho sự phát triển của lĩnh vực kỹ thuật y sinh.",
+              "Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân."
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA001IU-Calculus 1-4\nPH013IU-Physics 1-2\nPH014IU-Physics 2-2\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nBM050IU-Practice 1: Reverse Engineering-1\nPE015IU-Philosophy of Marxism and Leninism-3\nPE008IU-Critical Thinking-3\nPT001IU-Physical Training 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "CH011IU-Chemistry for Engineers-3\nCH012IU-Chemistry Laboratory-1\nBM090IU-Biology for BME-4\nEE051IU-Principles of EE1-3\nEE052IU-Principles of EE1 Laboratory-1\nEN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nPE016IU-Political economics of Marxism and Leninism-2\nPT002IU-Physical Training 2-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE017IU-Scientific socialism-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA003IU-Calculus 2-4\nCH014IU-Chemistry for BME-3\nBM098IU-Chemistry for BME Laboratory-1\nBM091IU-Human Anatomy and Physiology-3\nBM007IU-Introduction to Biomedical Engineering-4\nBM067IU-Practice 2: Animal Cells and Microbiologies-1\nPE018IU-History of Vietnamese Communist Party-2",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "MA023IU-Calculus 3-4\nBM064IU-Applied Informatics-4\nBM082IU-Biomaterials-4\nBMIU-Technical Electives 1-4\nPE019IU-Ho Chi Minh's Thoughts-2\nBM052IU-Practice 3: Electronic Design-1",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "MP001IU-Military Training\nBM102IU-Mechanical design and manufacturing processes in biomedical engineering Lab-2",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA024IU-Differential Equations-4\nBM101IU-Mechanical design and manufacturing processes in biomedical engineering-2\nBM011IU-Engineering Challenges in Medicine I-3\nBM017IU-Medical Design-1\nBM IU-Technical Electives 2-4\nBM IU-Technical Electives 6-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BM005IU-Statistics for Health Science-3\nBM030IU-Machine Design-3\nBM096IU-AI for Healthcare-3\nBM068IU-Project 1-1\nBM IU-Technical Electives 3-4\nBM IU-Technical Electives 7-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "BM020IU-Summer Internship",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM008IU-Bioethics-3\nBM013IU-Entrepreneurship in Biomedical Engineering-3\nBM IU-Technical Electives 4-4\nBM069IU-Project 2-1",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IU-Free elective-3\nBM009IU-BME Capstone Design-4\nBM003IU-Pre-Thesis-1\nBM IU-Technical Electives 5-4",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE021IU-General Law-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_4"
+              },
+              {
+                "title": "Năm 5",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BM004IU-Thesis-10\nMôn tự chọn,\nTechnical Elective 1-Electronic Devices for Biomedical Design-(BM089IU)\nTechnical Elective 2-Medical Instrumentation-(BM095IU)\nTechnical Elective 3-Biosignal Processing-(BM010IU)\nTechnical Electives 4,5,6-Chọn 3,\nBiomedical Image Processing-(BM058IU)\nComputer Aided Diagnosis-(BM071IU)\nBrain - Computer Interface-(BM074IU)\nPrinciples of Neuroengineering-(BM100IU)\nTechnical Elective 7-Có thể chọn bất kỳ môn Tự chọn Kỹ thuật nào do Khoa Kỹ thuật Y sinh thực hiện",
+                    "semantic_id": "semester_1"
+                  }
+                ],
+                "semantic_id": "year_5"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "specialized_tracks": [],
+            "semantic_id": "major_4"
+          }
+        ],
+        "semantic_id": "faculty_1"
+      }
+    ]
+  },
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 4,
+    "total_years": 20,
+    "total_semesters": 52
+  }
+}

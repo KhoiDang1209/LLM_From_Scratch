@@ -10,8 +10,9 @@ Cơ hội nghề nghiệp:
 Hiện nay, nhu cầu về nguồn nhân lực trong ngành Kỹ thuật Không gian (Phân tích Dữ liệu lớn và Ứng dụng), mà cụ thể là trong lĩnh vực ứng dụng công nghệ vệ tinh vào đời sống và an ninh – quốc phòng, rất lớn. Do đó, sinh viên tốt nghiệp có nhiều cơ hội làm việc cho các tổ chức, cơ quan nhà nước có sử dụng dữ liệu vệ tinh trong công tác quy hoạch đô thị, quản lý và giám sát tài nguyên rừng, đất đai, lãnh thổ biển đảo của đất nước. Sinh viên tốt nghiệp cũng có cơ hội làm việc trong các doanh nghiệp, phát triển các dự án khởi nghiệp về các ứng dụng ảnh, định vị vệ tinh trong đời sống xã hội. Sinh viên tốt nghiệp ngành Kỹ thuật không gian có đủ kiến thức và kỹ năng để làm việc trong các lĩnh vực liên quan như Viễn thông và Công nghệ thông tin. Các bạn cũng có thể học cao hơn để trở thành chuyên gia trong lĩnh vực Khoa học và Kỹ thuật không gian.
 
 
-Chương trình đào tạo:
-Học kỳ 1:
+Chương trình học:
+Năm 1:
+Học kì 1:
 PH018IU-Introduction to Space Engineering-2
 PH019IU-General Physics 1-4
 PH020IU-General Physics 1 Laboratory-2
@@ -21,7 +22,7 @@ EN008IU-Listening AE1-2
 PE015IU-Philosophy of Marxism and Leninism-3
 PT001IU-Physical Training 1-0
 
-Học kỳ 2:
+Học kì 2:
 PH021IU-General Physics 2-3
 PH022IU-General Physics 2 Laboratory-1
 MA003IU-Calculus 2-4
@@ -32,7 +33,8 @@ PT002IU-Physical Training 2-0
 PE016IU-Political Economics of Marxism and Leninism-2
 PH027IU-Earth Observation and the Environment-3
 
-Học kỳ 3:
+Năm 2:
+Học kì 1:
 PH023IU-General Physics 3-2
 PH024IU-General Physics 3 Laboratory-1
 PH026IU-Differential Equations-2
@@ -43,7 +45,7 @@ PH037IU-Space Environment-3
 PE008IU-Critical Thinking-3
 PE017IU-Scientific Socialism-2
 
-Học kỳ 4:
+Học kì 2:
 PH025IU-Mathematics for Engineers-4
 PH029IU-Introduction to Relativity and Modern Physics-3
 PH031IU-Optics and Photonics-2
@@ -52,10 +54,11 @@ PH033IU-Signals and Systems Laboratory-1
 PH040IU-Satellite Technology-3
 PH055IU-iOS Programming Fundamentals-4
 
-Học kỳ hè (năm 2):
+Học kì hè:
 PH034IU-Military Training-0
 
-Học kỳ 5:
+Năm 3:
+Học kì 1:
 PH035IU-Introduction to Space Communications-3
 PH047IU-Navigation Systems-3
 PH038IU-Introduction to Digital Image Processing-2
@@ -65,7 +68,7 @@ EE092IU-Digital Signal Processing-3
 EE093IU-Digital Signal Processing Laboratory-1
 PH056IU-Project Management-3
 
-Học kỳ 6:
+Học kì 2:
 PH041IU-Digital Image Processing-3
 PH043IU-Satellite Signal and Image Processing Laboratory-3
 PH053IU-Big Data Analytics for Remote Sensing-3
@@ -75,20 +78,20 @@ EE124IU-Antenna and Microwave Engineering Laboratory-1
 PH036IU-Remote Sensing-3
 PE020IU-Engineering Ethics and Professional Skills-3
 
-Học kỳ hè:
+Học kì hè:
 PH044IU-Internship-3
 
-Học kỳ 7:
+Năm 4:
+Học kì 1:
 PH042IU-Research Project-4
 PE018IU-History of Vietnamese Communist Party-2
-
-Electives (chọn 4 trong 5 môn):
+Electives (chọn 4 trong 5 môn)
 PH045IU-Fundamental of Surveying-3
 PH046IU-Geographic Information Systems (GIS) and Spatial Analysis-3
 PH048IU-Radio Astrophysics-3
 PH049IU-Advanced Remote Sensing-3
 EE133IU-Emerging Engineering Technologies-3
 
-Học kỳ 8:
+Học kì 2:
 PH050IU-Thesis-10
 PE019IU-Ho Chi Minh’s Thought-2

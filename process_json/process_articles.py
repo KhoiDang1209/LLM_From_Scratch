@@ -180,6 +180,19 @@ def extract_sections_by_colon(text: str) -> List[Dict[str, Any]]:
             current_section = line[:-1]  # Remove the colon
             current_content = []
             in_department = True
+        # Check for numbered sections (like in EL_HCMIU.txt)
+        elif re.match(r'^\d+\.\s+', line):
+            # Save previous section if exists
+            if current_section:
+                sections.append({
+                    'title': current_section,
+                    'content': '\n'.join(current_content),
+                    'semantic_id': f'section_{len(sections) + 1}',
+                    'type': 'department' if in_department else 'general'
+                })
+            # Start new numbered section
+            current_section = line
+            current_content = []
         # Check if line ends with colon (indicating a new general section)
         elif line.endswith(':') and not in_department:
             # Save previous section if exists
@@ -218,6 +231,15 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
     current_section = None
     in_special_section = False
     special_section_content = []
+    in_specialized_track = False
+    current_track = None
+    track_content = []
+    in_roman_section = False
+    current_roman_section = None
+    roman_section_content = []
+    in_elective_list = False
+    current_elective = None
+    elective_content = []
     
     lines = text.split('\n')
     for line in lines:
@@ -254,6 +276,15 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
             current_section = None
             in_special_section = False
             special_section_content = []
+            in_specialized_track = False
+            current_track = None
+            track_content = []
+            in_roman_section = False
+            current_roman_section = None
+            roman_section_content = []
+            in_elective_list = False
+            current_elective = None
+            elective_content = []
             
         # Check for major (Ngành)
         elif line.startswith('Ngành ') and line.endswith(':'):
@@ -278,6 +309,9 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
                 'special_sections': {
                     'content': ''
                 },
+                'specialized_tracks': [],
+                'roman_sections': [],
+                'elective_courses': [],
                 'semantic_id': f'major_{len(current_faculty["majors"]) + 1}' if current_faculty else 'major_1'
             }
             current_year = None
@@ -286,6 +320,58 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
             current_section = None
             in_special_section = False
             special_section_content = []
+            in_specialized_track = False
+            current_track = None
+            track_content = []
+            in_roman_section = False
+            current_roman_section = None
+            roman_section_content = []
+            in_elective_list = False
+            current_elective = None
+            elective_content = []
+            
+        # Check for Roman numeral sections (I, II, III, etc.)
+        elif re.match(r'^[IV]+\.\s+', line):
+            # Save previous sections if exists
+            if current_roman_section and roman_section_content:
+                current_major['roman_sections'].append({
+                    'title': current_roman_section,
+                    'content': '\n'.join(roman_section_content),
+                    'semantic_id': f'roman_section_{len(current_major["roman_sections"]) + 1}'
+                })
+            
+            # Start new Roman section
+            current_roman_section = line
+            roman_section_content = []
+            in_roman_section = True
+            
+        # Check for elective courses list
+        elif line == 'Danh sách các môn học tự chọn,':
+            # Save previous Roman section if exists
+            if current_roman_section and roman_section_content:
+                current_major['roman_sections'].append({
+                    'title': current_roman_section,
+                    'content': '\n'.join(roman_section_content),
+                    'semantic_id': f'roman_section_{len(current_major["roman_sections"]) + 1}'
+                })
+            
+            in_elective_list = True
+            current_elective = None
+            elective_content = []
+            
+        # Check for elective course sections
+        elif in_elective_list and line.startswith('Môn tự chọn '):
+            # Save previous elective if exists
+            if current_elective and elective_content:
+                current_major['elective_courses'].append({
+                    'title': current_elective,
+                    'content': '\n'.join(elective_content),
+                    'semantic_id': f'elective_{len(current_major["elective_courses"]) + 1}'
+                })
+            
+            # Start new elective section
+            current_elective = line[:-1] if line.endswith(',') else line
+            elective_content = []
             
         # Check for year (Năm X)
         elif line.startswith('Năm ') and line.endswith(':'):
@@ -326,21 +412,6 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
             current_section = None
             in_special_section = False
             
-        # Check for special sections (like Môn tự chọn or General Elective Course)
-        elif ('Môn tự chọn' in line or 'General Elective Course' in line or 'ET Elective Courses' in line) and (line.endswith(':') or line.endswith(',')):
-            # Save previous semester if exists
-            if current_semester and current_year:
-                current_year['semesters'].append({
-                    'title': current_semester,
-                    'content': '\n'.join(current_content),
-                    'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
-                })
-            
-            current_semester = None
-            current_section = line[:-1] if line.endswith(':') else line[:-1] + ':'
-            special_section_content = [line]  # Include the title in the content
-            in_special_section = True
-            
         # Check for section headers in major content
         elif current_major and (line.endswith(':') or line == 'Mục tiêu đào tạo' or line == 'Cơ hội nghề nghiệp'):
             # Save previous section content if exists
@@ -363,7 +434,14 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
                 current_content = []
             current_content.append(line)
         elif current_major:
-            if in_special_section:
+            if in_elective_list:
+                if current_elective:
+                    elective_content.append(line)
+            elif in_roman_section:
+                roman_section_content.append(line)
+            elif in_specialized_track:
+                track_content.append(line)
+            elif in_special_section:
                 special_section_content.append(line)
             else:
                 current_content.append(line)
@@ -372,18 +450,13 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
     
     # Save last sections
     if current_semester and current_year:
-        # If this is semester 2 of year 4 and we have special section content, append it
-        if current_year['title'] == 'Năm 4' and current_semester == 'Học kì 2' and special_section_content:
-            current_content.extend(special_section_content)
         current_year['semesters'].append({
             'title': current_semester,
             'content': '\n'.join(current_content),
             'semantic_id': f'semester_{len(current_year["semesters"]) + 1}'
         })
     elif current_year and not current_semester and special_section_content:
-        # If we're in year 5 and have special section content but no semester
         if current_year['title'] == 'Năm 5':
-            # Create a new semester for year 5 if it doesn't exist
             if not current_year['semesters']:
                 current_year['semesters'].append({
                     'title': 'Học kì 1',
@@ -391,16 +464,37 @@ def extract_course_sections(text: str) -> List[Dict[str, Any]]:
                     'semantic_id': 'semester_1'
                 })
             else:
-                # Append to existing semester
                 current_year['semesters'][0]['content'] += '\n' + '\n'.join(special_section_content)
     
+    # Save last Roman section
+    if current_roman_section and roman_section_content:
+        current_major['roman_sections'].append({
+            'title': current_roman_section,
+            'content': '\n'.join(roman_section_content),
+            'semantic_id': f'roman_section_{len(current_major["roman_sections"]) + 1}'
+        })
+    
+    # Save last elective
+    if current_elective and elective_content:
+        current_major['elective_courses'].append({
+            'title': current_elective,
+            'content': '\n'.join(elective_content),
+            'semantic_id': f'elective_{len(current_major["elective_courses"]) + 1}'
+        })
+    
+    # Save last track
+    if current_track and track_content:
+        current_major['specialized_tracks'].append({
+            'title': current_track,
+            'content': '\n'.join(track_content),
+            'semantic_id': f'track_{len(current_major["specialized_tracks"]) + 1}'
+        })
+    
     if current_year and current_major:
-        # Check for any remaining content in the year
         if current_content and not current_semester and not in_special_section:
             current_major['special_sections']['content'] = '\n'.join(current_content)
         current_major['years'].append(current_year)
     if current_major:
-        # Save last major section content
         if current_section and current_content:
             if current_section == 'Cơ hội nghề nghiệp':
                 current_major['career_opportunities'] = '\n'.join(current_content)
@@ -419,7 +513,7 @@ def process_policy_file(file_path: str) -> Dict[str, Any]:
         text = f.read()
     
     # Check if file is a course structure file
-    if 'Khoa ' in text and 'Ngành ' in text and 'Năm ' in text and 'Học kì ' in text:
+    if 'Khoa ' in text and 'Ngành ' in text:
         sections = extract_course_sections(text)
         document = {
             'document_id': os.path.splitext(os.path.basename(file_path))[0],
@@ -436,6 +530,16 @@ def process_policy_file(file_path: str) -> Dict[str, Any]:
                     for faculty in sections
                     for major in faculty['majors']
                     for year in major['years']
+                ),
+                'total_roman_sections': sum(
+                    len(major['roman_sections'])
+                    for faculty in sections
+                    for major in faculty['majors']
+                ),
+                'total_elective_courses': sum(
+                    len(major['elective_courses'])
+                    for faculty in sections
+                    for major in faculty['majors']
                 )
             }
         }
@@ -516,7 +620,7 @@ def main():
     os.makedirs(output_dir, exist_ok=True)
     
     # Process files
-    input_files = ['EE_HCMIU.txt']
+    input_files = ['AS_HCMIU.txt']
     
     for file_name in input_files:
         input_path = os.path.join(input_dir, file_name)

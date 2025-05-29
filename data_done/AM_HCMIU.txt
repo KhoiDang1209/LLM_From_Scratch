@@ -6,50 +6,37 @@ Kỹ thuật Tài chính và Quản trị rủi ro là một lĩnh vực đa ng�
 Trang bị cho sinh viên các kỹ năng và kiến thức chuyên môn về lý thuyết và các phương thức tiếp cận các quy trình phân tích, dự báo, quản trị rủi ro và các ứng dụng trong các tình huống thực tế trong lĩnh vực tài chính và các vấn đề liên quan.
 
 Cơ hội nghề nghiệp:
-Ngoài những mục tiêu và cơ hội nghề nghiệp của từng chuyên ngành thì sinh viên ngành Tài chính và Quản trị rủi ro sẽ được trang bị các kiến thức, kỹ năng và các khả năng sau khi ra trường như sau:
+Ngoài những mục tiêu và cơ hội nghề nghiệp của từng chuyên ngành thì sinh viên ngành Tài chính và Quản trị rủi ro sẽ được trang bị các kiến thức, kỹ năng và các khả năng sau khi ra trường như sau,
 Chương trình đào tạo sinh viên Việt nam và sinh viên quốc tế. Sinh viên có thể làm cho các định chế tài chính lớn như Ngân hàng Thế giới (World Bank), Quỹ Tiền tệ Quốc tế (IMF), Quỹ Tài chính Quốc tế (IFC), các tổ chức tài chình quốc tế, ngân hàng nhà nước. Tuy nhiên, chương trình chủ yếu nhằm đào tạo sinh viên để có thể tham gia làm các chuyên viên phân tích kinh tế, tài chính cho các công ty đầu tư tài chính, chứng khoán, ngân hàng, các doanh nghiệp kinh doanh đa quốc gia.
 Các công việc cụ thể bao gồm các hoạt động về quản trị danh mục đầu tư, phân tích tài chính, phân tích thị trường tài chính… trong các doanh nghiệp và tổ chức có nhu cầu. Sinh viên ra trường cũng có khả năng tạo dựng và hỗ trợ doanh nghiệp tài chính, ngân hàng, bảo hiểm, cung cấp các dịch vụ – sản phẩm mà xã hội, thị trường yêu cầu.
 Sau khi tốt nghiệp, sinh viên có thể trở thành cán bộ quản lí hoặc chuyên viên kỹ thuật làm việc cho các cơ quan nhà nước hoặc địa phương, dự án hoặc tổ chức phi chính phủ trong lĩnh vực kỹ thuật tài chính và quản trị rủi ro, hoặc các doanh nghiệp trong ngành tài chính, ngân hàng,…
 Ra trường sinh viên cũng có thể trở thành cán bộ giảng dạy và nghiên cứu tại các trường đại học, cao đẳng và viện nghiên cứu có liên quan, có thể tiếp tục theo các chương trình Thạc sĩ, Tiến sĩ tại bất cứ cơ sở đào tạo nào ở trong nước hoặc nước ngoài.
 
-Chuẩn đầu ra:
 
-Có kiến thức cơ bản tốt về Toán và Công nghệ thông tin và có khả năng áp dụng các kỹ thuật tính toán vào lĩnh vực kỹ thuật tài chính và quản trị rủi ro:
-Sinh viên nắm vững các công cụ toán và công nghệ thông tin (CNTT) hiện đại phục vụ cho kỹ thuật tài chính như: xác suất thống kê, lý thuyết quá trình ngẫu nhiên, tối ưu hóa ngẫu nhiên, toán tài chính, lý thuyết về mô hình và mô phỏng, quản trị rủi ro, ngôn ngữ máy tính và lập trình, mạng máy tính, quản lý hệ thống thông tin, tính toán song song, …. Các kiến thức này được trang bị theo quan điểm ứng dụng, đi kèm với việc áp dụng vào các mô hình tài chính và quản trị rủi ro.
-
-Có kiến thức cơ bản bao quát về tài chính, Quản trị rủi ro và lựa chọn các mô hình, công cụ tính toán để xử lý: 
-Có kiến thức chuyên ngành tài chính đủ để có thể hiểu được sự vận hành của hệ thống tài chính, phân tích tài chính (financial analysis), các mô hình tài chính (financial modelling), ứng dụng các phương pháp định lượng tài chính (quantitative finance), kinh tế tài chính học (financial economics), phân tích và quản trị rủi ro tài chính (financial risk managements). Kỹ năng toán học được tích hợp sát với kỹ năng cơ bản trong lĩnh vực tài chính. Mặt khác, nhờ được trang bi kiến thức chuyên sâu về CNTT, sinh viên có khả năng tạo mới và phát triển các công cụ CNTT phục vụ cho nhu cầu công việc cụ thể, tạo cho sinh viên khả năng phân tích, tính toán để đưa ra các phương án tốt nhất, các dự báo chính xác. Điều này giúp sinh viên có khả năng tham gia các công việc đa dạng về tài chính. Đặc biệt, tư vấn ra quyết định hoặc tham gia quản lý về tài chính trong tương lai.
-
-Khả năng vận dụng kiến thức:
-Có kiến thức chuyên ngành cơ bản để có thể tham gia trong các nhóm công tác liên ngành, thực hiện các hoạt động thực tiễn từ các tổ chức kinh tế tài chính trong nước và quốc tế lớn như Quỹ Tiền tệ Quốc tế (IMF), Ngân hàng Thế giới (World Bank), Quỹ Tài chính Quốc tế (IFC), ngân hàng nhà nước, …, đến các định chế tài chính khác như các quỹ đầu tư tài chính, ngân hàng, công ty phân tích tài chính, chứng khoán, các công ty bảo hiểm hoặc các doanh nghiệp có nhu cầu về phân tích tài chính và quản trị rủi ro. Các kỹ năng cơ bản làm việc trong ngân hàng, các công ty tài chính, bảo hiểm, viện nghiên cứu, v.v..
-
-
-
-Chương trình đào tạo:
 Chương trình đào tạo:
 I. Khối kiến thức giáo dục đại cương:
-Lý luận chính trị (11 tín chỉ):
+Lý luận chính trị (11 tín chỉ),
 PE015IU-Philosophy of Marxism and Leninism-3
 PE016IU-Political Economics of Marxism and Leninism-2
 PE018IU-History of Vietnamese Communist Party-2
 PE019IU-Ho Chi Minh’s Thoughts-2
 PE017IU-Scientific Socialism-2
-Pháp luật, Khoa học xã hội và nhân văn (3 tín chỉ):
+Pháp luật, Khoa học xã hội và nhân văn (3 tín chỉ),
 PE021IU-General Law-3
 
-Ngoại ngữ (8 tín chỉ):
+Ngoại ngữ (8 tín chỉ),
 EN007IU-Writing AE1-2
 EN008IU-Listening AE1-2
 EN011IU-Writing AE2-2
 EN012IU-Speaking AE2-2
 
-Toán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ):
+Toán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ),
 MAFE101IU-Analysis 1-4
 MAFE109IU-Introduction to Python-4
 MAFE103IU-Analysis 2-4
 MAFE104IU-Linear Algebra-4
 
-Kinh tế – Quản lý (4 tín chỉ):
+Kinh tế – Quản lý (4 tín chỉ),
 MAFE212IU-Financial Accounting-4
 
 II. Kiến thức cơ sở ngành:
@@ -87,21 +74,21 @@ V. Thực tập, khóa luận/luận văn tốt nghiệp:
 MAAS328IU-Summer Internship-3
 MAAS420IU-Graduation Thesis-12
 
-Danh sách các môn học tự chọn:
-Môn tự chọn 1:
+Danh sách các môn học tự chọn,
+Môn tự chọn 1,
 IIS055IU-Principles of Logistics and Supply Chain Management-3
 MAFE306IU-Financial Mathematics 1-3
 MAFE209IU-Financial Markets-3
-Môn tự chọn 2:
+Môn tự chọn 2,
 MAAS325IU-Predictive Analytics-3
 IIS065IU-Supply Chain Security and Risk Management-3
 MAFE308IU-Financial Risk Management 1-3
 MAAS326IU-Actuarial Mathematics for Life Contingent-3
-Môn tự chọn 3:
+Môn tự chọn 3,
 MAAS411IU-Statistical Models for Actuarial Science-3
 MAAS412IU-Statistical Methods for Finance-3
 IS066IU-Data Mining in Supply Chain-3
-Môn tự chọn 4:
+Môn tự chọn 4,
 MAFE307IU-Optimization 2-3
 MAAS414IU-Survey Sampling-3
 MAAS415IU-Applied Probability Models in Actuarial Science-3

@@ -1,11 +1,10 @@
 Khoa Toán:
 Ngành Thống Kê:
 Mục tiêu đào tạo:
+Thống kê (chuyên ngành Thống kê ứng dụng) trường Đại học Quốc tế đào tạo cử nhân khoa học Thống kê có phẩm chất chính trị, đạo đức và sức khỏe tốt, có kiến thức cơ bản về Toán học và chuyên sâu về Thống kê và Học máy, khả năng ứng dụng các công cụ và mô hình  Thống kê hiện đại để giải quyết các vấn đề thực tế liên quan đến phân tích và dự báo  trong các ngành khoa học khác nhau, đặc biệt trong lĩnh vực Kinh tế, Tài chính, Bảo hiểm và quản trị.
 
-Ngành Thống kê (chuyên ngành Thống kê ứng dụng) trường Đại học Quốc tế đào tạo cử nhân khoa học Thống kê có phẩm chất chính trị, đạo đức và sức khỏe tốt, có kiến thức cơ bản về Toán học và chuyên sâu về Thống kê và Học máy, khả năng ứng dụng các công cụ và mô hình  Thống kê hiện đại để giải quyết các vấn đề thực tế liên quan đến phân tích và dự báo  trong các ngành khoa học khác nhau, đặc biệt trong lĩnh vực Kinh tế, Tài chính, Bảo hiểm và quản trị. Cụ thể các sinh viên ngành Thống kê sau khi tốt nghiệp có các khả năng sau đây (Program Objectives-PO):
 
-Thống kê giữ một vai trò quan trọng trong hầu các nghiên cứu định lượng có liên quan đến dữ liệu, được sử dụng trong các nghiên cứu trong Y học, Khoa học xã hội, Bảo hiểm, Kinh tế, Tài chính, v.v. Trong kỷ nguyên về chuyển đổi số, kinh tế số và trí tuệ nhân tạo (AI), dữ liệu đóng một vai trò quan trọng trong rất nhiều lĩnh vực của đời sống xã hội và Thống kê là nền tảng cốt lõi của khoa học dữ liệu và kinh tế số. Những ứng dụng của Thống kê trong học máy đã đem lại nhiều phát minh mới, cho ra đời các sản phẩm quan trọng về trí tuệ nhân tạo. Những tiến bộ gần đây của trí tuệ nhân tạo đã cho thấy tầm quan trọng của Khoa học dữ liệu và Thống kê. Theo kết quả khảo sát của Trung Tâm cung ứng nguồn lao động (Bộ GD và ĐT) thì ngành Toán và Thống kê có vị trí thứ 6 trong top 10 ngành có tỷ lệ việc làm cao nhất năm 2021. Cụ thể, sinh viên tốt nghiệp ngành Thống kê có thể làm các công việc sau đây:
-
+Cơ hội nghề nghiệp:
 Phân tích Thống kê tại ngân hàng lớn (Vietcombank, VIB, Shinhan, BIDV, ACB, Cathay United…), các công ty kiểm toán như KPMG, Công ty chứng khoán
 Định phí Bảo hiểm (Actuary) (Manulife, FWD), đánh giá tín dụng (FE Credit, Viet Credit…)
 Phân tích, nghiên cứu thị trường cho các doanh nghiệp, tập đoàn lớn, Vega Corporation, Minerva…
@@ -17,7 +16,7 @@ Giảng dạy và nghiên cứu tại các trường Đại học, Viện nghiê
 
 Chương trình đào tạo:
 I. Khối kiến thức giáo dục đại cương:
-Lý luận chính trị (11 tín chỉ):
+Lý luận chính trị (11 tín chỉ),
 PE015IU-Philosophy of Marxism and Leninism-3
 PE016IU-Political Economics of Marxism and Leninism-2
 PE018IU-History of Vietnamese Communist Party-2
@@ -26,19 +25,19 @@ PE017IU-Scientific Socialism-2
 Pháp luật, Khoa học xã hội và nhân văn (3 tín chỉ):
 PE021IU-General Law-3
 
-Ngoại ngữ (8 tín chỉ):
+Ngoại ngữ (8 tín chỉ),
 EN007IU-Writing AE1-2
 EN008IU-Listening AE1-2
 EN011IU-Writing AE2-2
 EN012IU-Speaking AE2-2
 
-Toán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ):
+Toán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ),
 MAFE101IU-Analysis 1-4
 MAFE109IU-Introduction to Python-4
 MAFE103IU-Analysis 2-4
 MAFE104IU-Linear Algebra-4
 
-Kinh tế – Quản lý (4 tín chỉ):
+Kinh tế – Quản lý (4 tín chỉ),
 MAFE212IU-Financial Accounting-4
 
 II. Kiến thức cơ sở ngành:
@@ -76,21 +75,21 @@ V. Thực tập, khóa luận/luận văn tốt nghiệp:
 MAAS328IU-Summer Internship-3
 MAAS420IU-Graduation Thesis-12
 
-Danh sách các môn học tự chọn:
-Môn tự chọn 1:
+Danh sách các môn học tự chọn,
+Môn tự chọn 1,
 IIS055IU-Principles of Logistics and Supply Chain Management-3
 MAFE306IU-Financial Mathematics 1-3
 MAFE209IU-Financial Markets-3
-Môn tự chọn 2:
+Môn tự chọn 2,
 MAAS325IU-Predictive Analytics-3
 IIS065IU-Supply Chain Security and Risk Management-3
 MAFE308IU-Financial Risk Management 1-3
 MAAS326IU-Actuarial Mathematics for Life Contingent-3
-Môn tự chọn 3:
+Môn tự chọn 3,
 MAAS411IU-Statistical Models for Actuarial Science-3
 MAAS412IU-Statistical Methods for Finance-3
 IS066IU-Data Mining in Supply Chain-3
-Môn tự chọn 4:
+Môn tự chọn 4,
 MAFE307IU-Optimization 2-3
 MAAS414IU-Survey Sampling-3
 MAAS415IU-Applied Probability Models in Actuarial Science-3

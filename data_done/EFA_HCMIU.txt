@@ -1,8 +1,10 @@
 Khoa Kinh tế, Tài chính và Kế toán:
-Ngành Kinh Tế học:
+Ngành Kinh Tế:
+Mục tiêu đào tạo:
 Ngành kinh tế cung cấp kiến thức về sự vận hành của nền kinh tế, gồm các doanh nghiệp, hộ gia đình, và chính phủ, được kết nối trong vô vàn thị trường khác nhau. Người học có thể sử dụng những mô hình cơ bản để đánh giá tác động của các cú sốc trên thế giới đến từng khía cạnh trong nền kinh tế cũng như tác động của các đối sách khả dĩ, từ đó xây dựng các chiến lược tối ưu cho cá nhân, tổ chức, và quốc gia.
 
 Chương trình học:
+Năm 1:
 Học kì 1:
 EN007IU-Writing AE1-2
 EN008IU-Listening AE1-2 
@@ -33,7 +35,7 @@ BA068IU-International Economics-3
 PE017IU-Scientific socialism-2 
 PE018IU-History of Vietnamese Communist Party-2 
 BA020IU-Business Ethics-3 
-Chọn 1 trong 2 môn sau:
+Chọn 1 trong 2 môn sau
 BA118IU-Introduction to Psychology-3 
 BA197IU-Introduction to Sociology-3 
 
@@ -43,10 +45,10 @@ EFA203IU-Introductory Econometrics-3
 BA016IU-Fundamental of Financial Management-3
 PE019IU-Ho Chi Minh's Thoughts-2
 EFA201IU-Intermediate Microeconomics-3
-Chọn 1 trong 2 môn sau:
+Chọn 1 trong 2 môn sau
 PE010IU-Vietnamese History and Culture-3
 PE007IU-World Economic Geography-3
-Chọn 1 trong 4 môn sau:
+Chọn 1 trong 4 môn sau
 BA051IU-International Financial Management-3
 BA213IU-Corporate Governance-3
 BA115IU-Introduction to Business Administration-3
@@ -82,9 +84,9 @@ Elective 1-3
 Elective 2-3
 
 Học kì 2:	
-EFA456IU-Thesis 12
+EFA456IU-Thesis-12
 
-Elective của Kinh Tế học:
+Elective của Kinh Tế học
 EFA205IU-Panel Data Econometrics-3
 EFA210IU-Experimental Economics-3
 EFA211IU-Behavioral Economics-3
@@ -94,9 +96,11 @@ EFA214IU-Marketing Analytics-3
 
 
 Ngành Tài Chính - Ngân Hàng:
+Mục tiêu đào tạo:
 Tài chính – Ngân hàng là ngành xương sống của xã hội bao gồm tất cả các dịch vụ giao dịch tài chính, ngân hàng đầu tư, lưu thông và vận hành tiền tệ. Sinh viên tốt nghiệp có thể đảm đượng các vị trí phân tích thị trường tài chính, phân tích đầu tư, đánh giá hiệu quả đầu tư dự án, trong các công ty và các tổ chức tài chính trong và ngoài nước.
 
 Chương trình học:
+Năm 1:
 Học kì 1:
 EN007IU-Writing AE1-2 
 EN008IU-Listening AE1-2 
@@ -127,7 +131,7 @@ BA080IU-Statistics for Business-3
 PE021IU-General Law-3 
 PE018IU-History of Vietnamese Communist Party-2 
 BA256IU-Workshop 1-3 
-Chọn 1 trong 2 môn sau:
+Chọn 1 trong 2 môn sau
 BA118IU-Introduction to Psychology-3 
 BA197IU-Introduction to Sociology-3 
 
@@ -137,7 +141,7 @@ BA016IU-Fundamental of Financial Management-3
 BA134IU-Financial Institutions and Markets-3
 PE019IU-Ho Chi Minh's Thoughts-2
 BA156IU-Human Resources Management-3
-Chọn 1 trong 2 môn sau:
+Chọn 1 trong 2 môn sau
 PE007IU-World Economic Geography-3
 PE010IU-Vietnamese History and Culture-3
 
@@ -149,7 +153,7 @@ BA006IU-Business Communication-3
 BA081IU-Business Law-3 
 BA214IU-Financial Institutions Management-3 
 EFA234IU Bank Accounting-3 
-Chọn 1 trong 2 môn sau:
+Chọn 1 trong 2 môn sau
 BA261IU-Fintech-3 
 BA051IU-International Financial Management-3 
 
@@ -158,7 +162,7 @@ EFA233IU-Ethics and Corporate Governance-3
 BA054IU-Corporate Finance-3
 BA218IU-Credit Analysis and Lending-3
 EFA235IU-Commercial Banking Management and Regulation-3
-Chọn 1 trong 2 môn sau:
+Chọn 1 trong 2 môn sau
 BA174IU-Econometrics with Financial Application-3
 EFA240IU-Real Estate Investment Strategy-3
 
@@ -178,7 +182,7 @@ Elective 2-3
 Học kì 2:	
 EFA456IU Thesis 12
 
-Elective của Tài Chính - Ngân Hàng:
+Elective của Tài Chính - Ngân Hàng
 BA150IU-Special Study-3
 BA221IU-Personal Finance-3 
 BA263IU-Financial Modelling-3 
@@ -188,6 +192,7 @@ BA186IU-Investment Banking-3
 BA255IU-Specialized Internship-3
 
 Ngành Kế Toán:
+Mục tiêu đào tạo:
 Cùng với sự phát triển của nền kinh tế Việt Nam, nhu cầu đảm bảo sổ sách của doanh nghiệp rất lớn nên sinh viên tốt nghiệp dễ dàng kiếm được việc làm tại các doanh nghiệp trong và ngoài nước. Nhu cầu về kế toán tài chính xếp thứ 3 trong số 5 bộ phận chức năng có nhu cầu tuyển dụng cao nhất (theo Navigos Group). Đặc biệt Khoa có mối quan hệ tốt với những hiệp hội nghề nghiệp kế toán quốc tế như CPA Austrailia Việt Nam, ACCA Việt Nam, các tập đoàn đa quốc gia, các công ty kiểm toán Big4, cơ hội thực tập, việc làm cho sinh viên cao.
 
 Chương trình học:
@@ -276,7 +281,7 @@ Elective 2-3
 Học kì 2:	
 EFA456IU-Thesis 12
 
-Elective của Kế Toán:
+Elective của Kế Toán
 BA065IU-Business Analysis & Evaluation-3 
 BA134IU-Financial Institutions and Markets-3
 BA138IU-Portfolio Theory and Investment Analysis-3 

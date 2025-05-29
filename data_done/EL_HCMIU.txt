@@ -2,14 +2,14 @@ Khoa Ngôn Ngữ:
 Ngành Ngôn Ngữ Anh:
 Chương trình Cử nhân Ngôn ngữ Anh của Khoa Ngôn ngữ tại trường Đại học Quốc tế được thiết kế nhằm giúp sinh viên đáp ứng nhu cầu sử dụng tiếng Anh trong môi trường học tập và làm việc trên toàn thế giới. Chương trình này đặt ra mục tiêu cung cấp cho sinh viên đầy đủ những kiến thức cụ thể và thực tế trong các lĩnh vực: Giảng dạy Tiếng Anh, Ngôn ngữ học tiếng Anh, và Biên – Phiên Dịch. Chương trình có những khóa học tạo điều kiện cho sinh viên rèn luyện đạo đức nghề nghiệp, khả năng thích ứng, sự linh hoạt, kỹ năng giao tiếp, tư duy độc lập và kỹ năng giải quyết vấn đề. Ngoài ra, sinh viên còn được trau dồi kỹ năng làm việc độc lập và cộng tác trong bối cảnh học thuật và chuyên nghiệp. Chương trình này luôn được cập nhật không ngừng nhằm đảm bảo và nâng cao chất lượng và tiêu chuẩn tốt nhất.
 
-Định hướng:
-Sinh viên có thể mở rộng kiến thức chuyên môn và nâng cao kỹ năng nghề nghiệp của mình theo một hoặc nhiều những định hướng sau:
-Ngôn ngữ học:  Sinh viên được cung cấp đầy đủ kiến thức về bản chất, chức năng, sự phát triển ngôn ngữ, và kiến thức nâng cao về ngôn ngữ để chuẩn bị cho cấp học cao hơn và nghiên cứu về ngôn ngữ.
-Giảng dạy ngôn ngữ:  Sinh viên được cung cấp đầy đủ kiến thức về bản chất, chức năng, nguồn gốc, và sự phát triển của các phương pháp và phương thức giảng dạy, cũng như kiến thức sư phạm tiên tiến để áp dụng vào việc dạy Tiếng Anh kết hợp công nghệ thông tin.
-Biên – Phiên dịch: Sinh viên được cung cấp đầy đủ các lý thuyết cơ bản về dịch thuật và phiên dịch. Sinh viên có thể xác định và nâng cao kiến thức cốt lõi, và áp dụng các kỹ thuật và phương pháp khác nhau để dịch các văn bản viết và nói một cách hiệu quả.
+Mục tiêu đào tạo:
+Sinh viên có thể mở rộng kiến thức chuyên môn và nâng cao kỹ năng nghề nghiệp của mình theo một hoặc nhiều những định hướng sau,
+Ngôn ngữ học,  Sinh viên được cung cấp đầy đủ kiến thức về bản chất, chức năng, sự phát triển ngôn ngữ, và kiến thức nâng cao về ngôn ngữ để chuẩn bị cho cấp học cao hơn và nghiên cứu về ngôn ngữ.
+Giảng dạy ngôn ngữ,  Sinh viên được cung cấp đầy đủ kiến thức về bản chất, chức năng, nguồn gốc, và sự phát triển của các phương pháp và phương thức giảng dạy, cũng như kiến thức sư phạm tiên tiến để áp dụng vào việc dạy Tiếng Anh kết hợp công nghệ thông tin.
+Biên – Phiên dịch, Sinh viên được cung cấp đầy đủ các lý thuyết cơ bản về dịch thuật và phiên dịch. Sinh viên có thể xác định và nâng cao kiến thức cốt lõi, và áp dụng các kỹ thuật và phương pháp khác nhau để dịch các văn bản viết và nói một cách hiệu quả.
 
 Cơ hội nghề nghiệp:
-Sau khi tốt nghiệp chương trình cử nhân ngôn ngữ Anh, sinh viên sẽ sẵn sàng làm việc trong những lĩnh vực chuyên môn, bao gồm:
+Sau khi tốt nghiệp chương trình cử nhân ngôn ngữ Anh, sinh viên sẽ sẵn sàng làm việc trong những lĩnh vực chuyên môn, bao gồm,
 Văn phòng chính phủ, nhà xuất bản hoặc công ty tư nhân chuyên về dịch thuật, phiên dịch, dịch vụ chỉnh sửa hoặc du lịch.
 Các viện nghiên cứu và các trường đại học, các văn phòng chuyên ngành ngôn ngữ tiếng Anh và ngôn ngữ học ứng dụng.
 Các trường trung học, trung tâm ngoại ngữ, các lớp học tư nhân trong các công ty và nhà máy.
@@ -18,7 +18,7 @@ Ngành nghề trong giao tiếp quốc tế đòi hỏi kỹ năng nói và vi�
 Sinh viên có thể tiếp tục theo học ở những bậc cao hơn và nghiên cứu tại các trường đại học trên thế giới.
 
 Chương trình đào tạo:
-1. Kiến thức giáo dục đai cương
+1. Kiến thức giáo dục đai cương:
 
 Đối với sinh viên người Việt có quốc tịch Việt Nam (23 tín chỉ):
 PE008IU–Critical Thinking-(3 tín chỉ)
@@ -81,7 +81,7 @@ EL019IU–British Civilization-(2 tín chỉ)
 EL020IU–American Civilization-(2 tín chỉ)
 EL021IU–Global Englishes-(3 tín chỉ)
 
-4.  Kiến thức chuyên sâu chuyên ngành bắt buộc
+4.  Kiến thức chuyên sâu chuyên ngành bắt buộc:
 
 Đối với sinh viên người Việt có quốc tịch Việt Nam (18 tín chỉ):
 EL022IU–Phonetics and Phonology-(3 tín chỉ)

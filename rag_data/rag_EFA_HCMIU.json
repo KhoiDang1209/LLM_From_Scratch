@@ -1,0 +1,260 @@
+{
+  "document_id": "EFA_HCMIU",
+  "type": "course_structure",
+  "content": {
+    "faculties": [
+      {
+        "title": "Khoa Kinh tế, Tài chính và Kế toán",
+        "majors": [
+          {
+            "title": "Ngành Kinh Tế",
+            "career_opportunities": "",
+            "training_objectives": [
+              "Ngành kinh tế cung cấp kiến thức về sự vận hành của nền kinh tế, gồm các doanh nghiệp, hộ gia đình, và chính phủ, được kết nối trong vô vàn thị trường khác nhau. Người học có thể sử dụng những mô hình cơ bản để đánh giá tác động của các cú sốc trên thế giới đến từng khía cạnh trong nền kinh tế cũng như tác động của các đối sách khả dĩ, từ đó xây dựng các chiến lược tối ưu cho cá nhân, tổ chức, và quốc gia."
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nPT001IU-Physical Training 1-3\nBA120IU-Business Computing Skills-3\nBA117IU-Introduction to Micro Economics-3\nPE015IU-Philosophy of Marxism and Leninism-3\nPE021IU-General Law-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nPT002IU-Physical Training 2-3\nBA282IU-Math for Business-4\nBA119IU-Introduction to Macro Economics-3\nBA005IU-Financial Accounting-3\nPE008IU-Critical Thinking-3\nPE016IU-Political economics of Marxism and Leninism-2",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "Military education-0",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA003IU-Principles of Marketing-3\nBA080IU-Statistics for Business-3\nBA068IU-International Economics-3\nPE017IU-Scientific socialism-2\nPE018IU-History of Vietnamese Communist Party-2\nBA020IU-Business Ethics-3\nChọn 1 trong 2 môn sau\nBA118IU-Introduction to Psychology-3\nBA197IU-Introduction to Sociology-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA256IU-Workshop 1-3\nEFA203IU-Introductory Econometrics-3\nBA016IU-Fundamental of Financial Management-3\nPE019IU-Ho Chi Minh's Thoughts-2\nEFA201IU-Intermediate Microeconomics-3\nChọn 1 trong 2 môn sau\nPE010IU-Vietnamese History and Culture-3\nPE007IU-World Economic Geography-3\nChọn 1 trong 4 môn sau\nBA051IU-International Financial Management-3\nBA213IU-Corporate Governance-3\nBA115IU-Introduction to Business Administration-3\nBA130IU-Organizational Behavior-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA081IU-Business Law-3\nEFA206IU-Environmental Economics-3\nEFA221IU-Fundamentals of Programming with Economic Applications-3\nEFA222IU-Machine Learning Platforms with Economic Applications-3\nEFA202IU-Intermediate Macroeconomics-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EFA204IU-Time Series Econometrics-3\nEFA207IU-Development Economics-3\nEFA208IU-Labor Economics-3\nEFA224IU-Principles of Database Management with Economic and Business Applications-3\nEFA223IU-Data Science and Visualization with Economic Applications-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "EFA369IU-Internship-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EFA209IU-Research Methods in Economics-3\nEFA230IU-Workshop 2 on Economic Issues-2\nElective 1-3\nElective 2-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EFA456IU-Thesis-12\nElective của Kinh Tế học\nEFA205IU-Panel Data Econometrics-3\nEFA210IU-Experimental Economics-3\nEFA211IU-Behavioral Economics-3\nEFA212IU-Game Theory and Business Strategy-3\nEFA213IU-Financial Economics-3\nEFA214IU-Marketing Analytics-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_1"
+          },
+          {
+            "title": "Ngành Tài Chính - Ngân Hàng",
+            "career_opportunities": "",
+            "training_objectives": [
+              "Tài chính – Ngân hàng là ngành xương sống của xã hội bao gồm tất cả các dịch vụ giao dịch tài chính, ngân hàng đầu tư, lưu thông và vận hành tiền tệ. Sinh viên tốt nghiệp có thể đảm đượng các vị trí phân tích thị trường tài chính, phân tích đầu tư, đánh giá hiệu quả đầu tư dự án, trong các công ty và các tổ chức tài chính trong và ngoài nước."
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nPT001IU-Physical Training 1-3\nBA120IU-Business Computing Skills-3\nBA117IU-Introduction to Micro Economics-3\nBA005IU-Financial Accounting-3\nPE015IU-Philosophy of Marxism and Leninism-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nPT002IU-Physical Training 2-3\nBA282IU-Math for Business-4\nBA119IU-Introduction to Macro Economics-3\nBA123IU-Principles of Management-3\nPE016IU-Political economics of Marxism and Leninism-2\nBA010IU-Managerial Accounting-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PE017IU-Scientific socialism-2\nPE008IU-Critical Thinking-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA003IU-Principles of Marketing-3\nBA080IU-Statistics for Business-3\nPE021IU-General Law-3\nPE018IU-History of Vietnamese Communist Party-2\nBA256IU-Workshop 1-3\nChọn 1 trong 2 môn sau\nBA118IU-Introduction to Psychology-3\nBA197IU-Introduction to Sociology-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA191IU-Quantitative Methods for Finance-3\nBA016IU-Fundamental of Financial Management-3\nBA134IU-Financial Institutions and Markets-3\nPE019IU-Ho Chi Minh's Thoughts-2\nBA156IU-Human Resources Management-3\nChọn 1 trong 2 môn sau\nPE007IU-World Economic Geography-3\nPE010IU-Vietnamese History and Culture-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA006IU-Business Communication-3\nBA081IU-Business Law-3\nBA214IU-Financial Institutions Management-3\nEFA234IU Bank Accounting-3\nChọn 1 trong 2 môn sau\nBA261IU-Fintech-3\nBA051IU-International Financial Management-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EFA233IU-Ethics and Corporate Governance-3\nBA054IU-Corporate Finance-3\nBA218IU-Credit Analysis and Lending-3\nEFA235IU-Commercial Banking Management and Regulation-3\nChọn 1 trong 2 môn sau\nBA174IU-Econometrics with Financial Application-3\nEFA240IU-Real Estate Investment Strategy-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "EFA369IU-Internship-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA269IU-Research Methods for Finance-3\nEFA236IU-International Payment-3\nBA189IU-Banking Risk Management-3\nBA257IU-Workshop 2 on Financial-2\nElective 1-3\nElective 2-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EFA456IU Thesis 12\nElective của Tài Chính - Ngân Hàng\nBA150IU-Special Study-3\nBA221IU-Personal Finance-3\nBA263IU-Financial Modelling-3\nBA065IU-Business Analysis & Evaluation-3\nBA216IU-Derivatives and Risk management-3\nBA186IU-Investment Banking-3\nBA255IU-Specialized Internship-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_2"
+          },
+          {
+            "title": "Ngành Kế Toán",
+            "career_opportunities": "",
+            "training_objectives": [
+              "Cùng với sự phát triển của nền kinh tế Việt Nam, nhu cầu đảm bảo sổ sách của doanh nghiệp rất lớn nên sinh viên tốt nghiệp dễ dàng kiếm được việc làm tại các doanh nghiệp trong và ngoài nước. Nhu cầu về kế toán tài chính xếp thứ 3 trong số 5 bộ phận chức năng có nhu cầu tuyển dụng cao nhất (theo Navigos Group). Đặc biệt Khoa có mối quan hệ tốt với những hiệp hội nghề nghiệp kế toán quốc tế như CPA Austrailia Việt Nam, ACCA Việt Nam, các tập đoàn đa quốc gia, các công ty kiểm toán Big4, cơ hội thực tập, việc làm cho sinh viên cao."
+            ],
+            "years": [
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA118IU-Introduction to Psychology-3\nBA197IU-Introduction to Sociology-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PE007IU-World Economic Geography-3\nPE010IU-Vietnamese History and Culture-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA020IU-Business Ethics-3\nBA081IU-Business Law-3\nBA054IU-Corporate Finance-3\nBA276IU-Cost Accounting-3\nPE014IU-Environmental Science-3\nElective 1-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "BA051IU-International Financial Management-3\nBA213IU-Corporate Governance-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "EFA369IU-Internship-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "BA269IU-Research Methods for Finance 3-1\nBA087IU-Taxation-3\nBA279IU-Advanced Financial Reporting and Analysis-3\nBA280IU-Advanced Auditing-3\nBA281IU-Workshop 2 on Accounting Issues-2\nElective 2-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EFA456IU-Thesis 12\nElective của Kế Toán\nBA065IU-Business Analysis & Evaluation-3\nBA134IU-Financial Institutions and Markets-3\nBA138IU-Portfolio Theory and Investment Analysis-3\nBA098IU-Leadership-3\nBA022IU-Logistic and Supply Chain Management-3\nBA220IU-Working Capital Management-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_3"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_3"
+          }
+        ],
+        "semantic_id": "faculty_1"
+      }
+    ]
+  },
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 3,
+    "total_years": 11,
+    "total_semesters": 27
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "document_id": "IEM_HCMIU",
+  "type": "course_structure",
+  "content": {
+    "faculties": [
+      {
+        "title": "Khoa Kỹ thuật và Quản lý Công nghiệp",
+        "majors": [
+          {
+            "title": "Ngành Kỹ thuật và Quản lý Công nghiệp",
+            "career_opportunities": "Khả năng xác định, xây dựng và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên tắc của kỹ thuật, khoa học và toán học.\nKhả năng áp dụng thiết kế kỹ thuật để tạo ra các giải pháp đáp ứng các nhu cầu cụ thể có cân nhắc đến sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế\nKhả năng giao tiếp hiệu quả với nhiều đối tượng\nKhả năng nhận thức trách nhiệm đạo đức và nghề nghiệp trong các tình huống kỹ thuật và đưa ra các đánh giá sáng suốt, phải xem xét tác động của các giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội\nKhả năng hoạt động hiệu quả trong một nhóm mà các thành viên cùng đưa ra vai trò lãnh đạo, tạo ra một môi trường hợp tác và hòa nhập, thiết lập mục tiêu, lập kế hoạch nhiệm vụ và đáp ứng các mục tiêu\nKhả năng phát triển và tiến hành thử nghiệm thích hợp, phân tích và giải thích dữ liệu, đồng thời sử dụng đánh giá kỹ thuật để đưa ra kết luận\nKhả năng tiếp thu và áp dụng kiến ​​thức mới khi cần thiết, sử dụng các chiến lược học tập phù hợp.",
+            "training_objectives": [
+              "Kỹ sư sau khi ra trường có thể làm được các công việc sau",
+              "Thiết kế mới hoặc tái thiết kế các hệ thống công nghiệp",
+              "Vận hành và quản lý công nghiệp",
+              "Cải tiến các hệ thống công nghiệp hiện có",
+              "Hỗ trợ đưa ra quyết định thông minh"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nMA001IU-Calculus 1-4\nPH013IU-Physics 1-2\nPH014IU-Physics 2-2\nPT001IU-Physical Training 1-3\nCH012IU-Chemistry Laboratory-1\nCH011IU-Chemistry for Engineers-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nMA003IU-Calculus 2-4\nPE008IU-Critical Thinking-3\nPT002IU-Physical Training 2-3\nIS001IU-Introduction to Industrial Engineering-1\nIS102IU-Engineering Drawing-2\nPH015IU-Physics 3-3\nPE015IU-Philosophy of marxism and Leninism-3\nPE016IU-Political economics of marxism and leninism-2",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA027IU-Applied Linear Algebra-2\nIS019IU-Production Management-3\nIS086IU-Introduction to Computing-3\nIS004IU-Engineering Probability & Statistics-4\nMA023IU-Calculus 3-4\nPE017IU-Scientific socialism-2\nPE021IU-General Law-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IS020IU-Engineering Economy-3\nIS103IU-Deterministic models in OR-3\nIS017IU-Work design & Ergonomics-4\nIS026IU-Project Management-3\nIS034IU-Product Design & Development-3\nPE018IU-History of the Communist Party of Vietnam-2\nPE019IU-HCM’ s thoughts-2\nIS052IU-Internship 1-2\nMilitary Training-0",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "IS091IU-Management Information System with ERP Applications-3\nIS025IU-Quality Management-3\nIS085IU-CAD/CAM/CNC-3\nIS092IU-Data Collection, Analysis, and Applications-3\nIS023IU-Inventory Management-3\nIS104IU-Time Series & Forecasting Techniques-2\nElective 1-Chọn 01,\nIS087IU-Manufacturing Processes-3\nIS106IU-E-Commerce Systems-3\nIS105IU-Cold Chain Systems-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IS079IU-Scientific Writing-2\nIS028IU-Simulation Models in IE-4\nIS027IU-Scheduling & Sequencing-3\nIS041IU-Lean Production-3\nIS031IU-Experimental Design-3\nIS024IU-Probabilistic Models in OR-3\nIS053IU-Internship 2-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "IS111IU-Capstone 1-3\nIS033IU-Multi-Criteria Decision Making-3\nIS032IU-Facility Layout-3\nElective 2-Chọn 02,\nIS080IU-Creative Thinking-3\nIS035IU-Systems Engineering-3\nIS043IU-Flexible Manufacturing Systems-3\nIS045IU-Leadership-3\nIS082IU-Retail Management-3\nIS067IU-International Transportation & Logistics-3\nIS062IU-E-Logistics in Supply Chain Management-3\nIS066IU-Data Mining In Supply Chain-3\nFree Elective-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "Sinh viên với GPA>70,\nThesis-10\nSinh viên với GPA<=70,\nAdvanced Industrial and Supply Chain Systems-4\nCapstone 2-6",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_1"
+          },
+          {
+            "title": "Ngành Logistics và Quản lý chuỗi cung ứng",
+            "career_opportunities": "Sinh viên có khả năng phân tích, đánh giá và mô phỏng các mô hình quản lý để đưa ra giải pháp tối ưu thay đổi dưới dạng các tiêu chí đơn và đa tiêu chí để hỗ trợ các nhà quản lý ra quyết định\nTham gia học tập suốt đời để không ngừng duy trì và nâng cao trình độ chuyên môn\nCó khả năng làm việc nhóm rất tốt, có khả năng lãnh đạo, có trình độ chuyên môn cao và có phẩm chất kĩ luật công nghiệp khi đi làm.\nCó trình độ chuyên môn đáp ứng yêu cầu của xã hội và các khu công nghiệp tại Việt Nam. Có khả năng giải quyết các vấn đề kỹ thuật và quản lý công nghiệp bằng các nguyên tắc, công cụ và các kỹ thuật được học.\nTham gia học tập suốt đời để không ngừng duy trì và nâng cao trình độ chuyên môn\nCó khả năng làm việc nhóm rất tốt, có khả năng lãnh đạo, có trình độ chuyên môn cao và có phẩm chất kĩ luật công nghiệp khi đi làm.\nCó trình độ chuyên môn đáp ứng yêu cầu của xã hội và các khu công nghiệp tại Việt Nam. Có khả năng giải quyết các vấn đề kỹ thuật và quản lý công nghiệp bằng các nguyên tắc, công cụ và các kỹ thuật được học.",
+            "training_objectives": [
+              "Kỹ sư sau khi ra trường có thể làm được các công việc sau",
+              "Thiết kế mới hoặc tái thiết kế các hệ thống công nghiệp",
+              "Vận hành và quản lý công nghiệp",
+              "Cải tiến các hệ thống công nghiệp hiện có",
+              "Hỗ trợ đưa ra quyết định thông minh"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "EN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nMA001IU-Calculus 1-4\nPH013IU-Physics 1-2\nPH014IU-Physics 2-2\nPT001IU-Physical Training 1-3\nCH012IU-Chemistry Laboratory-1\nCH011IU-Chemistry for Engineers-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "EN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nMA003IU-Calculus 2-4\nPE008IU-Critical Thinking-3\nPT002IU-Physical Training 2-3\nIS001IU-Introduction to Industrial Engineering-1\nIS102IU-Engineering Drawing-2\nPH015IU-Physics 3-3\nPE015IU-Philosophy of marxism and Leninism-3\nPE016IU-Political economics of marxism and leninism-2",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "MA027IU-Applied Linear Algebra-2\nIS019IU-Production Management-3\nIS086IU-Introduction to Computing-3\nIS004IU-Engineering Probability & Statistics-4\nIS055IU-Principles of Logistics and Supply Chain Management-3\nPE017IU-Scientific socialism-2\nPE021IU-General Law-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IS020IU-Engineering Economy-3\nIS103IU-Deterministic Models in OR-3\nIS057IU-Warehouse Engineering Management-3\nMA023IU-Calculus-3\nIS074IU-Import – Export Management-3\nPE018IU-History of the Communist Party of Vietnam-2\nPE019IU-HCM’ s thoughts-2\nIS052IU-Internship 1-2\nMilitary Training-0",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "IS109IU-Materials Handling Systems-2\nIS091IU-Management Information System with ERP Applications-3\nIS023IU-Inventory Management-3\nIS110IU-Procurement Management-2\nIS082IU-Retail Management -3\nIS104IU-Time Series & Forecasting Techniques-2\nElective 1-Chọn 1,\nIS073IU-Business Law-3\nIS035IU-Systems Engineering-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "IS079IU-Scientific Writing-2\nIS027IU-Scheduling & Sequencing-3\nBA005IU-Financial Accounting-3\nIS078IU-Logistics engineering & supply chain design-3\nIS105IU-Cold Chain Systems-3\nIS065IU-Supply Security And Risk Management-3\nIS026IU-Project Management-3\nIS053IU-Internship 2-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "IS111IU-Capstone 1-3\nIS033IU-Multi-Criteria Decision Making-3\nIS067IU-International Transportation & Logistics-3\nIS107IU-Supply Chain Modelling and Simulation-3\nIS062IU-E-Logistics in Supply Chain Management--3\nElective 2-Chọn 01,\nIS025IU-Quality Management-3\nIS063IU-Sustainability in Supply Chain-3\nIS072IU-Port Planning and Operations-3\nBA130IU-Organizational Behavior-3\nBA032IU-Sales Management-3\nIS045IU-Leadership-3\nIS080IU-Creative Thinking-3\nBA003IU-Principles Of Marketing-3\nBA156IU-Human Resources Management-3\nIS066IU-Data Mining In Supply Chain-3\nIS100IU-Decision Analytics-3\nFree Elective-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "Sinh viên với GPA>62.5.\nThesis-10\nSinh viên với GPA<=62.5.\nAdvanced Industrial and Supply Chain Systems-4\nCapstone 2-6",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_2"
+          }
+        ],
+        "semantic_id": "faculty_1"
+      }
+    ]
+  },
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 2,
+    "total_years": 8,
+    "total_semesters": 16
+  }
+}

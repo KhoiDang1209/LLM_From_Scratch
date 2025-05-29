@@ -1,5 +1,5 @@
 Khoa Kỹ Thuật Y Sinh:
-Ngành Kỹ Thuật Y Sinh:
+Ngành Kỹ thuật mô và Y học tái tạo:
 Cơ hội nghề nghiệp:
 Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.
 Chương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.
@@ -12,6 +12,7 @@ Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi m�
 Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân.
 
 Chương trình học:
+Năm 1:
 Học kì 1:
 MA001IU-Calculus 1-4
 PH013IU-Physics 1-2
@@ -102,13 +103,12 @@ PE021IU-General Law-3
 Năm 5:
 Học kì 1:
 BM004IU-Thesis-10
-
-Chuyên ngành Kỹ thuật mô và Y học tái tạo:
+Môn tự chọn,
 Technical Elective 1-Methods and Process in Fabrication of Scaffold-(BM086IU)
 Technical Elective 2-Stem Cell Technology-(BM099IU)
 Technical Elective 3-Applications of Biomaterials in Regenerative Medicine-(BM083IU)
 Technical Elective 4-Cell/Tissue - Biomaterial Interaction-(BM092IU)
-Technical Electives 5,6-Chọn 2:
+Technical Electives 5,6-Chọn 2,
 Principles of Clinical Test and Instrumentation-(BM094IU)
 Pharmaceutical Engineering 1-(BM077IU)
 Nanotechnology for Drug Delivery Systems-(BM080IU)
@@ -116,12 +116,117 @@ Pharmaceutical Engineering 2-(BM078IU)
 Principle of Pharmacokinetics-(BM079IU)
 Technical Elective 7-Có thể chọn bất kỳ môn Tự chọn Kỹ thuật nào do Khoa Kỹ thuật Y sinh thực hiện
 
-Chuyên ngành Kỹ thuật Dược phẩm:
+
+Ngành Kỹ thuật Dược phẩm:
+Cơ hội nghề nghiệp:
+Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.
+Chương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.
+Chương trình Kỹ sư KTYS cung cấp các kiến thức rộng và chuyên sâu với mục tiêu mang lại cơ hội phát triển nghề nghiệp, liên kết các lĩnh vực Kỹ thuật, Y dược và Sinh học. Chương trình Kỹ sư KTYS nhắm vào việc:
+Đào tạo một lực lượng nhân sự có trình độ cao về lý thuyết và vững về thực hành, có khả năng nhận định và giải quyết các vấn đề kỹ thuật/ khoa học trong lĩnh vực KTYS nhằm tối ưu hóa lợi ích của doanh nghiệp và xã hội, có kỹ năng lãnh đạo nhóm hiệu quả, có tinh thần học hỏi không ngừng và có đầu óc sáng tạo để góp phần thiết thực vào sự tiến bộ của công nghệ cao trên thế giới.
+Đạt chuẩn của các cơ sở đánh giá chất lượng giáo dục uy tín trên thế giới như ABET hay khu vực như AUN-QA để trở thành một chương trình đào tạo hữu ích cho doanh nghiệp và có khả năng liên thông với các chương trình trong nước, khu vực và thế giới.
+Mục tiêu đào tạo:
+Thành công và hiệu quả khi giải quyết các vấn đề một cách định lượng và hệ thống, dựa trên kiến thức kỹ thuật y sinh và cáclĩnh vực đa ngành liên quan.
+Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi mới đóng góp cho sự phát triển của lĩnh vực kỹ thuật y sinh.
+Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân.
+
+Chương trình học:
+Năm 1:
+Học kì 1:
+MA001IU-Calculus 1-4
+PH013IU-Physics 1-2
+PH014IU-Physics 2-2
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+BM050IU-Practice 1: Reverse Engineering-1
+PE015IU-Philosophy of Marxism and Leninism-3
+PE008IU-Critical Thinking-3
+PT001IU-Physical Training 1-3
+
+Học kì 2:
+CH011IU-Chemistry for Engineers-3
+CH012IU-Chemistry Laboratory-1
+BM090IU-Biology for BME-4
+EE051IU-Principles of EE1-3
+EE052IU-Principles of EE1 Laboratory-1
+EN011IU-Writing AE2-2
+EN012IU-Speaking AE2-2
+PE016IU-Political economics of Marxism and Leninism-2
+PT002IU-Physical Training 2-3
+
+Học kì hè:
+PE017IU-Scientific socialism-2
+
+Năm 2:
+Học kì 1:
+MA003IU-Calculus 2-4
+CH014IU-Chemistry for BME-3
+BM098IU-Chemistry for BME Laboratory-1
+BM091IU-Human Anatomy and Physiology-3
+BM007IU-Introduction to Biomedical Engineering-4
+BM067IU-Practice 2: Animal Cells and Microbiologies-1
+PE018IU-History of Vietnamese Communist Party-2
+
+
+Học kì 2:
+MA023IU-Calculus 3-4
+BM064IU-Applied Informatics-4
+BM082IU-Biomaterials-4
+BMIU-Technical Electives 1-4
+PE019IU-Ho Chi Minh's Thoughts-2
+BM052IU-Practice 3: Electronic Design-1
+			
+Học kì hè:
+MP001IU-Military Training
+BM102IU-Mechanical design and manufacturing processes in biomedical engineering Lab-2
+
+Năm 3:
+Học kì 1:
+MA024IU-Differential Equations-4
+BM101IU-Mechanical design and manufacturing processes in biomedical engineering-2
+BM011IU-Engineering Challenges in Medicine I-3
+BM017IU-Medical Design-1
+BM IU-Technical Electives 2-4
+BM IU-Technical Electives 6-3
+
+ 
+
+Học kì 2:
+BM005IU-Statistics for Health Science-3
+BM030IU-Machine Design-3
+BM096IU-AI for Healthcare-3
+BM068IU-Project 1-1
+BM IU-Technical Electives 3-4
+BM IU-Technical Electives 7-3
+
+Học kì hè:
+BM020IU-Summer Internship
+
+
+Năm 4:
+Học kì 1:
+BM008IU-Bioethics-3
+BM013IU-Entrepreneurship in Biomedical Engineering-3
+BM IU-Technical Electives 4-4
+BM069IU-Project 2-1
+
+Học kì 2:	
+IU-Free elective-3
+BM009IU-BME Capstone Design-4
+BM003IU-Pre-Thesis-1
+BM IU-Technical Electives 5-4
+
+Học kì hè:
+PE021IU-General Law-3
+
+Năm 5:
+Học kì 1:
+BM004IU-Thesis-10
+Môn tự chọn, 
 Technical Elective 1-Pharmaceutical Engineering 1-(BM077IU)
 Technical Elective 2-Nanotechnology for Drug Delivery Systems-(BM080IU)
 Technical Elective 3-Pharmaceutical Engineering 2-(BM078IU)
 Technical Elective 4-Principle of Pharmacokinetics-(BM079IU)
-Technical Electives 5,6-Chọn 2:
+Technical Electives 5,6-Chọn 2,
 Principles of Clinical Test and Instrumentation-(BM094IU)
 Stem Cell Technology-(BM099IU)
 Cell/Tissue - Biomaterial Interaction-(BM092IU)
@@ -130,11 +235,116 @@ Applications of Biomaterials in Regenerative Medicine-(BM083IU)
 Drug delivery system-(BM081IU)
 Technical Elective 7-Có thể chọn bất kỳ môn Tự chọn Kỹ thuật nào do Khoa Kỹ thuật Y sinh thực hiện
 
-Chuyên ngành DỤNG CỤ Y TẾ:
+
+Ngành DỤNG CỤ Y TẾ:
+Cơ hội nghề nghiệp:
+Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.
+Chương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.
+Chương trình Kỹ sư KTYS cung cấp các kiến thức rộng và chuyên sâu với mục tiêu mang lại cơ hội phát triển nghề nghiệp, liên kết các lĩnh vực Kỹ thuật, Y dược và Sinh học. Chương trình Kỹ sư KTYS nhắm vào việc:
+Đào tạo một lực lượng nhân sự có trình độ cao về lý thuyết và vững về thực hành, có khả năng nhận định và giải quyết các vấn đề kỹ thuật/ khoa học trong lĩnh vực KTYS nhằm tối ưu hóa lợi ích của doanh nghiệp và xã hội, có kỹ năng lãnh đạo nhóm hiệu quả, có tinh thần học hỏi không ngừng và có đầu óc sáng tạo để góp phần thiết thực vào sự tiến bộ của công nghệ cao trên thế giới.
+Đạt chuẩn của các cơ sở đánh giá chất lượng giáo dục uy tín trên thế giới như ABET hay khu vực như AUN-QA để trở thành một chương trình đào tạo hữu ích cho doanh nghiệp và có khả năng liên thông với các chương trình trong nước, khu vực và thế giới.
+Mục tiêu đào tạo:
+Thành công và hiệu quả khi giải quyết các vấn đề một cách định lượng và hệ thống, dựa trên kiến thức kỹ thuật y sinh và cáclĩnh vực đa ngành liên quan.
+Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi mới đóng góp cho sự phát triển của lĩnh vực kỹ thuật y sinh.
+Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân.
+
+Chương trình học:
+Năm 1:
+Học kì 1:
+MA001IU-Calculus 1-4
+PH013IU-Physics 1-2
+PH014IU-Physics 2-2
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+BM050IU-Practice 1: Reverse Engineering-1
+PE015IU-Philosophy of Marxism and Leninism-3
+PE008IU-Critical Thinking-3
+PT001IU-Physical Training 1-3
+
+Học kì 2:
+CH011IU-Chemistry for Engineers-3
+CH012IU-Chemistry Laboratory-1
+BM090IU-Biology for BME-4
+EE051IU-Principles of EE1-3
+EE052IU-Principles of EE1 Laboratory-1
+EN011IU-Writing AE2-2
+EN012IU-Speaking AE2-2
+PE016IU-Political economics of Marxism and Leninism-2
+PT002IU-Physical Training 2-3
+
+Học kì hè:
+PE017IU-Scientific socialism-2
+
+Năm 2:
+Học kì 1:
+MA003IU-Calculus 2-4
+CH014IU-Chemistry for BME-3
+BM098IU-Chemistry for BME Laboratory-1
+BM091IU-Human Anatomy and Physiology-3
+BM007IU-Introduction to Biomedical Engineering-4
+BM067IU-Practice 2: Animal Cells and Microbiologies-1
+PE018IU-History of Vietnamese Communist Party-2
+
+
+Học kì 2:
+MA023IU-Calculus 3-4
+BM064IU-Applied Informatics-4
+BM082IU-Biomaterials-4
+BMIU-Technical Electives 1-4
+PE019IU-Ho Chi Minh's Thoughts-2
+BM052IU-Practice 3: Electronic Design-1
+			
+Học kì hè:
+MP001IU-Military Training
+BM102IU-Mechanical design and manufacturing processes in biomedical engineering Lab-2
+
+Năm 3:
+Học kì 1:
+MA024IU-Differential Equations-4
+BM101IU-Mechanical design and manufacturing processes in biomedical engineering-2
+BM011IU-Engineering Challenges in Medicine I-3
+BM017IU-Medical Design-1
+BM IU-Technical Electives 2-4
+BM IU-Technical Electives 6-3
+
+ 
+
+Học kì 2:
+BM005IU-Statistics for Health Science-3
+BM030IU-Machine Design-3
+BM096IU-AI for Healthcare-3
+BM068IU-Project 1-1
+BM IU-Technical Electives 3-4
+BM IU-Technical Electives 7-3
+
+Học kì hè:
+BM020IU-Summer Internship
+
+
+Năm 4:
+Học kì 1:
+BM008IU-Bioethics-3
+BM013IU-Entrepreneurship in Biomedical Engineering-3
+BM IU-Technical Electives 4-4
+BM069IU-Project 2-1
+
+Học kì 2:	
+IU-Free elective-3
+BM009IU-BME Capstone Design-4
+BM003IU-Pre-Thesis-1
+BM IU-Technical Electives 5-4
+
+Học kì hè:
+PE021IU-General Law-3
+
+Năm 5:
+Học kì 1:
+BM004IU-Thesis-10
+Môn tự chọn, 
 Technical Elective 1-Electronic Devices for Biomedical Design-(BM089IU)
 Technical Elective 2-Medical Instrumentation-(BM095IU)
 Technical Elective 3-Digital Systems (BM060IU) + Digital Systems Lab (BM061IU)
-Technical Electives 4,5,6-Chọn 3:
+Technical Electives 4,5,6-Chọn 3,
 Micro-electronic Devices-(BM062IU)
 Medical Imaging-(BM073IU)
 Biomedical Photonics-(BM075IU) + Biomedical Photonics Lab-(BM076IU)
@@ -142,11 +352,116 @@ Information Technology in the Health Care System-(BM033IU) + Information Technol
 Principle of Clinical tests and Instrumentation-(BM094IU)
 Technical Elective 7-Có thể chọn bất kỳ môn Tự chọn Kỹ thuật nào do Khoa Kỹ thuật Y sinh thực hiện
 
-Chuyên ngành Xử lý tín hiệu và hình ảnh y sinh:
+
+Ngành Xử lý tín hiệu và hình ảnh y sinh:
+Cơ hội nghề nghiệp:
+Chương trình đào tạo Kỹ sư  ngành Kỹ Thuật Y Sinh (KTYS) nhằm đào tạo đội ngũ nhân lực có trình độ cao và năng lực nghiên cứu tốt để có thể đáp ứng nhu cầu của xã hội trong lĩnh vực KTYS.
+Chương trình được xây dựng theo hướng tiếp cận với các chương trình đào tạo tiên tiến trong khu vực và thế giới, góp phần đào tạo nguồn nhân lực chất lượng cao phục vụ phát triển kinh tế, xã hội.
+Chương trình Kỹ sư KTYS cung cấp các kiến thức rộng và chuyên sâu với mục tiêu mang lại cơ hội phát triển nghề nghiệp, liên kết các lĩnh vực Kỹ thuật, Y dược và Sinh học. Chương trình Kỹ sư KTYS nhắm vào việc:
+Đào tạo một lực lượng nhân sự có trình độ cao về lý thuyết và vững về thực hành, có khả năng nhận định và giải quyết các vấn đề kỹ thuật/ khoa học trong lĩnh vực KTYS nhằm tối ưu hóa lợi ích của doanh nghiệp và xã hội, có kỹ năng lãnh đạo nhóm hiệu quả, có tinh thần học hỏi không ngừng và có đầu óc sáng tạo để góp phần thiết thực vào sự tiến bộ của công nghệ cao trên thế giới.
+Đạt chuẩn của các cơ sở đánh giá chất lượng giáo dục uy tín trên thế giới như ABET hay khu vực như AUN-QA để trở thành một chương trình đào tạo hữu ích cho doanh nghiệp và có khả năng liên thông với các chương trình trong nước, khu vực và thế giới.
+Mục tiêu đào tạo:
+Thành công và hiệu quả khi giải quyết các vấn đề một cách định lượng và hệ thống, dựa trên kiến thức kỹ thuật y sinh và cáclĩnh vực đa ngành liên quan.
+Không ngừng học tập mở rộng kiến thức, sáng tạo và đổi mới đóng góp cho sự phát triển của lĩnh vực kỹ thuật y sinh.
+Làm việc một cách có đạo đức và chuyên nghiệp ở cấp độ cao nhất trong các tổ chức công lập và tư nhân.
+
+Chương trình học:
+Năm 1:
+Học kì 1:
+MA001IU-Calculus 1-4
+PH013IU-Physics 1-2
+PH014IU-Physics 2-2
+EN007IU-Writing AE1-2
+EN008IU-Listening AE1-2
+BM050IU-Practice 1: Reverse Engineering-1
+PE015IU-Philosophy of Marxism and Leninism-3
+PE008IU-Critical Thinking-3
+PT001IU-Physical Training 1-3
+
+Học kì 2:
+CH011IU-Chemistry for Engineers-3
+CH012IU-Chemistry Laboratory-1
+BM090IU-Biology for BME-4
+EE051IU-Principles of EE1-3
+EE052IU-Principles of EE1 Laboratory-1
+EN011IU-Writing AE2-2
+EN012IU-Speaking AE2-2
+PE016IU-Political economics of Marxism and Leninism-2
+PT002IU-Physical Training 2-3
+
+Học kì hè:
+PE017IU-Scientific socialism-2
+
+Năm 2:
+Học kì 1:
+MA003IU-Calculus 2-4
+CH014IU-Chemistry for BME-3
+BM098IU-Chemistry for BME Laboratory-1
+BM091IU-Human Anatomy and Physiology-3
+BM007IU-Introduction to Biomedical Engineering-4
+BM067IU-Practice 2: Animal Cells and Microbiologies-1
+PE018IU-History of Vietnamese Communist Party-2
+
+
+Học kì 2:
+MA023IU-Calculus 3-4
+BM064IU-Applied Informatics-4
+BM082IU-Biomaterials-4
+BMIU-Technical Electives 1-4
+PE019IU-Ho Chi Minh's Thoughts-2
+BM052IU-Practice 3: Electronic Design-1
+			
+Học kì hè:
+MP001IU-Military Training
+BM102IU-Mechanical design and manufacturing processes in biomedical engineering Lab-2
+
+Năm 3:
+Học kì 1:
+MA024IU-Differential Equations-4
+BM101IU-Mechanical design and manufacturing processes in biomedical engineering-2
+BM011IU-Engineering Challenges in Medicine I-3
+BM017IU-Medical Design-1
+BM IU-Technical Electives 2-4
+BM IU-Technical Electives 6-3
+
+ 
+
+Học kì 2:
+BM005IU-Statistics for Health Science-3
+BM030IU-Machine Design-3
+BM096IU-AI for Healthcare-3
+BM068IU-Project 1-1
+BM IU-Technical Electives 3-4
+BM IU-Technical Electives 7-3
+
+Học kì hè:
+BM020IU-Summer Internship
+
+
+Năm 4:
+Học kì 1:
+BM008IU-Bioethics-3
+BM013IU-Entrepreneurship in Biomedical Engineering-3
+BM IU-Technical Electives 4-4
+BM069IU-Project 2-1
+
+Học kì 2:	
+IU-Free elective-3
+BM009IU-BME Capstone Design-4
+BM003IU-Pre-Thesis-1
+BM IU-Technical Electives 5-4
+
+Học kì hè:
+PE021IU-General Law-3
+
+Năm 5:
+Học kì 1:
+BM004IU-Thesis-10
+Môn tự chọn, 
 Technical Elective 1-Electronic Devices for Biomedical Design-(BM089IU)
 Technical Elective 2-Medical Instrumentation-(BM095IU)
 Technical Elective 3-Biosignal Processing-(BM010IU)
-Technical Electives 4,5,6-Chọn 3:
+Technical Electives 4,5,6-Chọn 3,
 Biomedical Image Processing-(BM058IU)
 Computer Aided Diagnosis-(BM071IU)
 Brain - Computer Interface-(BM074IU)

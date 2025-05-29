@@ -1,0 +1,107 @@
+{
+  "document_id": "SE_HCMIU",
+  "type": "course_structure",
+  "content": {
+    "faculties": [
+      {
+        "title": "Khoa Vật Lý",
+        "majors": [
+          {
+            "title": "Ngành Kỹ Thuật Không Gian",
+            "career_opportunities": "Hiện nay, nhu cầu về nguồn nhân lực trong ngành Kỹ thuật Không gian (Phân tích Dữ liệu lớn và Ứng dụng), mà cụ thể là trong lĩnh vực ứng dụng công nghệ vệ tinh vào đời sống và an ninh – quốc phòng, rất lớn. Do đó, sinh viên tốt nghiệp có nhiều cơ hội làm việc cho các tổ chức, cơ quan nhà nước có sử dụng dữ liệu vệ tinh trong công tác quy hoạch đô thị, quản lý và giám sát tài nguyên rừng, đất đai, lãnh thổ biển đảo của đất nước. Sinh viên tốt nghiệp cũng có cơ hội làm việc trong các doanh nghiệp, phát triển các dự án khởi nghiệp về các ứng dụng ảnh, định vị vệ tinh trong đời sống xã hội. Sinh viên tốt nghiệp ngành Kỹ thuật không gian có đủ kiến thức và kỹ năng để làm việc trong các lĩnh vực liên quan như Viễn thông và Công nghệ thông tin. Các bạn cũng có thể học cao hơn để trở thành chuyên gia trong lĩnh vực Khoa học và Kỹ thuật không gian.",
+            "training_objectives": [
+              "Năm 2016, Trường Đại học Quốc tế chính thức mở ngành đào tạo Kỹ thuật Không gian bậc đại học theo quyết định số 261/QĐ-ĐHQG ngày 14 tháng 4 năm 2016 của Giám đốc ĐHQG-HCM. Chương trình 4 năm đào tạo kỹ sư trong lĩnh vực ứng dụng công nghệ vệ tinh, bao gồm xử lý và phân tích tín hiệu, hình ảnh vệ tinh, công nghệ viễn thám, và định vị vệ tinh. Chương trình ra đời nhằm đáp ứng nhu cầu rất lớn nguồn nhân lực trình độ cao về ứng dụng công nghệ vệ tinh trong đời sống xã hội, quản lý tài nguyên, môi trường, lãnh thổ, biển đảo và an ninh – quốc phòng"
+            ],
+            "years": [
+              {
+                "title": "Năm 1",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "PH018IU-Introduction to Space Engineering-2\nPH019IU-General Physics 1-4\nPH020IU-General Physics 1 Laboratory-2\nMA001IU-Calculus 1-4\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nPE015IU-Philosophy of Marxism and Leninism-3\nPT001IU-Physical Training 1-0",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PH021IU-General Physics 2-3\nPH022IU-General Physics 2 Laboratory-1\nMA003IU-Calculus 2-4\nEN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nEE050IU-Introduction to Computer for Engineers-3\nPT002IU-Physical Training 2-0\nPE016IU-Political Economics of Marxism and Leninism-2\nPH027IU-Earth Observation and the Environment-3",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_1"
+              },
+              {
+                "title": "Năm 2",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "PH023IU-General Physics 3-2\nPH024IU-General Physics 3 Laboratory-1\nPH026IU-Differential Equations-2\nPH030IU-Probability and Statistics for Engineers-3\nEE057IU-Programming for Engineers-3\nEE058IU-Programming for Engineers Laboratory-1\nPH037IU-Space Environment-3\nPE008IU-Critical Thinking-3\nPE017IU-Scientific Socialism-2",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PH025IU-Mathematics for Engineers-4\nPH029IU-Introduction to Relativity and Modern Physics-3\nPH031IU-Optics and Photonics-2\nPH032IU-Introduction to Signals and Systems-3\nPH033IU-Signals and Systems Laboratory-1\nPH040IU-Satellite Technology-3\nPH055IU-iOS Programming Fundamentals-4",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PH034IU-Military Training-0",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_2"
+              },
+              {
+                "title": "Năm 3",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "PH035IU-Introduction to Space Communications-3\nPH047IU-Navigation Systems-3\nPH038IU-Introduction to Digital Image Processing-2\nPH039IU-Digital Image Processing Laboratory-1\nPH057IU-Geolocation App Development for iOS-4\nEE092IU-Digital Signal Processing-3\nEE093IU-Digital Signal Processing Laboratory-1\nPH056IU-Project Management-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PH041IU-Digital Image Processing-3\nPH043IU-Satellite Signal and Image Processing Laboratory-3\nPH053IU-Big Data Analytics for Remote Sensing-3\nPH054IU-Big Data Analytics for Remote Sensing Laboratory-1\nEE105IU-Antenna and Microwave Engineering-3\nEE124IU-Antenna and Microwave Engineering Laboratory-1\nPH036IU-Remote Sensing-3\nPE020IU-Engineering Ethics and Professional Skills-3",
+                    "semantic_id": "semester_2"
+                  },
+                  {
+                    "title": "Học kì hè",
+                    "content": "PH044IU-Internship-3",
+                    "semantic_id": "semester_3"
+                  }
+                ],
+                "semantic_id": "year_3"
+              },
+              {
+                "title": "Năm 4",
+                "semesters": [
+                  {
+                    "title": "Học kì 1",
+                    "content": "PH042IU-Research Project-4\nPE018IU-History of Vietnamese Communist Party-2\nElectives (chọn 4 trong 5 môn)\nPH045IU-Fundamental of Surveying-3\nPH046IU-Geographic Information Systems (GIS) and Spatial Analysis-3\nPH048IU-Radio Astrophysics-3\nPH049IU-Advanced Remote Sensing-3\nEE133IU-Emerging Engineering Technologies-3",
+                    "semantic_id": "semester_1"
+                  },
+                  {
+                    "title": "Học kì 2",
+                    "content": "PH050IU-Thesis-10\nPE019IU-Ho Chi Minh’s Thought-2",
+                    "semantic_id": "semester_2"
+                  }
+                ],
+                "semantic_id": "year_4"
+              }
+            ],
+            "special_sections": {
+              "content": ""
+            },
+            "semantic_id": "major_1"
+          }
+        ],
+        "semantic_id": "faculty_1"
+      }
+    ]
+  },
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 1,
+    "total_years": 4,
+    "total_semesters": 10
+  }
+}
