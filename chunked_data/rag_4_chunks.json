@@ -1,0 +1,383 @@
+{
+  "document_id": "quy_dinh_diem_ren_luyen",
+  "type": "diem_ren_luyen",
+  "metadata": {
+    "nguồn": "4.json",
+    "ngôn_ngữ": "vi",
+    "ngày_xử_lý": "2025-05-26T22:45:06.165093",
+    "phiên_bản": "1.0",
+    "tổng_số_tiêu_chí": 6,
+    "phân_bố_điểm": {
+      "học_tập": "20",
+      "nội_quy": "25",
+      "hoạt_động": "20"
+    }
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Tiêu chí 1.1.1",
+      "content": "Mô tả: 90 ≤ GPA ≤ 100\nĐiểm: +20\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Tiêu chí 1.1.2",
+      "content": "Mô tả: 80 ≤ GPA < 90\nĐiểm: +18\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Tiêu chí 1.1.3",
+      "content": "Mô tả: 70 ≤ GPA < 80\nĐiểm: +16\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Tiêu chí 1.1.4",
+      "content": "Mô tả: 60 ≤ GPA < 70\nĐiểm: +14\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Tiêu chí 1.1.5",
+      "content": "Mô tả: 50 ≤ GPA < 60\nĐiểm: +12\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Tiêu chí 1.1.6",
+      "content": "Mô tả: GPA < 50\nĐiểm: +10\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Tiêu chí 1.1.7",
+      "content": "Mô tả: Môn học không tính GPA (chương trình tiếng Anh tăng cường)\nĐiểm: +12\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Tiêu chí 1.1.8",
+      "content": "Mô tả: GPA tăng so với học kỳ trước\nĐiểm: +5\nĐơn vị phụ trách: P.ĐTĐH"
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Nhóm 1.1",
+      "content": "Tên: Kết quả học tập\nSố tiêu chí: 8"
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Tiêu chí 1.2.1",
+      "content": "Mô tả: Tham gia 01 hoạt động nghiên cứu khoa học (Hội nghị/Bài báo/Đề tài nghiên cứu khoa học từ cấp Khoa/BM/Phòng/Trung tâm trở lên).\nĐiểm: +5\nĐơn vị phụ trách: P.QLKH, Khoa/BM, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_11",
+      "title": "Tiêu chí 1.2.2",
+      "content": "Mô tả: Đăng ký tham gia đề tài nghiên cứu khoa học nhưng không thực hiện/không hoàn thành mà không có lý do chính đáng.\nĐiểm: -5\nĐơn vị phụ trách: P.QLKH, Khoa/BM, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_12",
+      "title": "Tiêu chí 1.2.3",
+      "content": "Mô tả: Là thành viên tích cực của 01 phòng thí nghiệm.\nĐiểm: +5\nĐơn vị phụ trách: Khoa/BM, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_13",
+      "title": "Tiêu chí 1.2.4",
+      "content": "Mô tả: Tham gia 01 khóa học đào tạo tăng cường về kỹ năng mềm, kỹ năng nghề nghiệp, hoặc có ý thức tốt trong học tập,… (có giấy chứng nhận/danh sách tham gia).\nĐiểm: +2\nĐơn vị phụ trách: P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_14",
+      "title": "Tiêu chí 1.2.5",
+      "content": "Mô tả: Là trợ giảng môn học (có xác nhận của Khoa/BM/P.HTĐTNN).\nĐiểm: +10\nĐơn vị phụ trách: Khoa/BM, P.HTĐTNN"
+    },
+    {
+      "chunk_id": "chunk_15",
+      "title": "Nhóm 1.2",
+      "content": "Tên: Nghiên cứu khoa học, phát triển kỹ năng\nSố tiêu chí: 5"
+    },
+    {
+      "chunk_id": "chunk_16",
+      "title": "Danh mục 1",
+      "content": "Điểm tối đa: 20đ"
+    },
+    {
+      "chunk_id": "chunk_17",
+      "title": "Nhóm 2.1",
+      "content": "Tên: Tuân thủ các quy định trong và ngoài Nhà trường, tích cực tham gia các hoạt động do Trường/Khoa/BM/Lớp tổ chức."
+    },
+    {
+      "chunk_id": "chunk_18",
+      "title": "Tiêu chí 2.2.1",
+      "content": "Mô tả: Mức cảnh cáo trở lên.\nĐiểm: -15\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, Khoa/BM,"
+    },
+    {
+      "chunk_id": "chunk_19",
+      "title": "Tiêu chí 2.2.2",
+      "content": "Mô tả: Mức khiển trách.\nĐiểm: -10\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, Khoa/BM,"
+    },
+    {
+      "chunk_id": "chunk_20",
+      "title": "Tiêu chí 2.2.3",
+      "content": "Mô tả: Mức bị lập biên bản.\nĐiểm: -5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, Khoa/BM,"
+    },
+    {
+      "chunk_id": "chunk_21",
+      "title": "Tiêu chí 2.2.4",
+      "content": "Mô tả: Vi phạm các quy định khác theo Quy chế Công tác sinh viên, Quy chế Đào tạo Đại học, Quy chế thi.\nĐiểm: -5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, Khoa/BM,"
+    },
+    {
+      "chunk_id": "chunk_22",
+      "title": "Tiêu chí 2.2.5",
+      "content": "Mô tả: Vi phạm các quy định của Nhà nước và quy định trong và ngoài khối ĐHQG-HCM.\nĐiểm: -5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, Khoa/BM,"
+    },
+    {
+      "chunk_id": "chunk_23",
+      "title": "Tiêu chí 2.2.6",
+      "content": "Mô tả: Không tham gia sinh hoạt Lớp/Khoa/BM/Phòng tổ chức (theo diện bắt buộc) mà không xin phép trước với lý do chính đáng.\nĐiểm: -5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, P.HTĐTNN, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_24",
+      "title": "Tiêu chí 2.2.7",
+      "content": "Mô tả: Đăng ký tham gia Sinh hoạt Công dân và các sinh hoạt khác nhưng vắng mặt mà không xin phép trước với lý do chính đáng.\nĐiểm: -5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, P.HTĐTNN, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_25",
+      "title": "Nhóm 2.2",
+      "content": "Tên: Trừ điểm khi vi phạm nội quy, quy chế trong và ngoài Nhà trường\nSố tiêu chí: 7"
+    },
+    {
+      "chunk_id": "chunk_26",
+      "title": "Danh mục 2",
+      "content": "Điểm tối đa: 25đ"
+    },
+    {
+      "chunk_id": "chunk_27",
+      "title": "Tiêu chí 3.1.1",
+      "content": "Mô tả: Là thành viên đội tuyển tham dự kỳ thi Olympic /kỳ thi học thuật cấp Tỉnh/Thành trở lên\nĐiểm: +10\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_28",
+      "title": "Tiêu chí 3.1.2",
+      "content": "Mô tả: Tham gia cuộc thi học thuật, sáng tạo, kỹ năng cấp ĐHQG-HCM\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_29",
+      "title": "Tiêu chí 3.1.3",
+      "content": "Mô tả: Tham gia cuộc thi học thuật, sáng tạo, kỹ năng cấp Khoa, BM, Trường\nĐiểm: +4\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_30",
+      "title": "Tiêu chí 3.1.4",
+      "content": "Mô tả: Tham gia sinh hoạt chuyên đề, hội thảo về học thuật, sáng tạo, nghiên cứu khoa học, tăng cường kỹ năng theo hình thức trực tiếp\nĐiểm: +3\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_31",
+      "title": "Tiêu chí 3.1.5",
+      "content": "Mô tả: Tham gia sinh hoạt chuyên đề, hội thảo về học thuật, sáng tạo, nghiên cứu khoa học, tăng cường kỹ năng theo hình thức trực tuyến\nĐiểm: +2\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_32",
+      "title": "Tiêu chí 3.1.6",
+      "content": "Mô tả: Tham gia tổ chức (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_33",
+      "title": "Nhóm 3.1",
+      "content": "Tên: Hoạt động học thuật, sáng tạo và tăng cường kỹ năng\nSố tiêu chí: 6"
+    },
+    {
+      "chunk_id": "chunk_34",
+      "title": "Tiêu chí 3.2.1",
+      "content": "Mô tả: Tham gia hoạt động phong trào từ cấp ĐHQG-HCM trở lên\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_35",
+      "title": "Tiêu chí 3.2.2",
+      "content": "Mô tả: Tham gia hoạt động phong trào cấp Khoa, BM, cấp trường\nĐiểm: +3\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_36",
+      "title": "Tiêu chí 3.2.3",
+      "content": "Mô tả: Tham gia hoạt động cổ vũ các cuộc thi\nĐiểm: +1\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_37",
+      "title": "Tiêu chí 3.2.4",
+      "content": "Mô tả: Tham gia tổ chức (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_38",
+      "title": "Nhóm 3.2",
+      "content": "Tên: Hoạt động phong trào (chính trị, xã hội, hội nhập, văn hóa, văn nghệ, thể dục, thể thao...)\nSố tiêu chí: 4"
+    },
+    {
+      "chunk_id": "chunk_39",
+      "title": "Nhóm 3.3",
+      "content": "Tên: Đăng kí tham gia các hoạt động phong trào nhưng vắng mặt mà không thông báo lý do chính đáng trước cho BTC."
+    },
+    {
+      "chunk_id": "chunk_40",
+      "title": "Danh mục 3",
+      "content": "Điểm tối đa: 20đ"
+    },
+    {
+      "chunk_id": "chunk_41",
+      "title": "Nhóm 4.1",
+      "content": "Tên: Tuân thủ trách nhiệm công dân, trách nhiệm và quan hệ cộng đồng"
+    },
+    {
+      "chunk_id": "chunk_42",
+      "title": "Tiêu chí 4.2.1",
+      "content": "Mô tả: Tình nguyện 1 buổi (dưới 1 ngày).\nĐiểm: +3\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_43",
+      "title": "Tiêu chí 4.2.2",
+      "content": "Mô tả: Tình nguyện từ 1 đến dưới 3 ngày (ngắn hạn).\nĐiểm: +5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_44",
+      "title": "Tiêu chí 4.2.3",
+      "content": "Mô tả: Tình nguyện từ 3 ngày trở lên (dài hạn).\nĐiểm: +10\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_45",
+      "title": "Tiêu chí 4.2.4",
+      "content": "Mô tả: Tham gia tổ chức hoạt động dưới 3 ngày (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.\nĐiểm: +5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_46",
+      "title": "Tiêu chí 4.2.5",
+      "content": "Mô tả: Tham gia tổ chức hoạt động từ 3 ngày trở lên (theo quyết định thành lập BTC). Không cộng thêm điểm cho vai trò tham gia.\nĐiểm: +10\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, P.QLKH, P.HTĐTNN Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_47",
+      "title": "Nhóm 4.2",
+      "content": "Tên: Hoạt động tình nguyện trong nhà trường\nSố tiêu chí: 5"
+    },
+    {
+      "chunk_id": "chunk_48",
+      "title": "Tiêu chí 4.3.1",
+      "content": "Mô tả: Tham gia các hoạt động cộng đồng tại địa phương hoặc các tổ chức xã hội khác (có minh chứng).\nĐiểm: +3\nĐơn vị phụ trách: P.CTSV, ĐTN/HSV"
+    },
+    {
+      "chunk_id": "chunk_49",
+      "title": "Tiêu chí 4.3.2",
+      "content": "Mô tả: Tham gia hiến máu tình nguyện trong và ngoài trường (có giấy chứng nhận).\nĐiểm: +10\nĐơn vị phụ trách: P.CTSV, ĐTN/HSV"
+    },
+    {
+      "chunk_id": "chunk_50",
+      "title": "Nhóm 4.3",
+      "content": "Tên: Các hoạt động cộng đồng tại địa phương hoặc các tổ chức xã hội khác\nSố tiêu chí: 2"
+    },
+    {
+      "chunk_id": "chunk_51",
+      "title": "Danh mục 4",
+      "content": "Điểm tối đa: 25đ"
+    },
+    {
+      "chunk_id": "chunk_52",
+      "title": "Tiêu chí 5.1.1",
+      "content": "Mô tả: Khen thưởng/học bổng từ cấp ĐHQG-HCM trở lên.\nĐiểm: +10\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_53",
+      "title": "Tiêu chí 5.1.2",
+      "content": "Mô tả: Khen thưởng/học bổng cấp Trường/Khoa/BM/Phòng/Trung tâm.\nĐiểm: +5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_54",
+      "title": "Tiêu chí 5.1.3",
+      "content": "Mô tả: Khen thưởng/học bổng của tổ chức/hiệp hội/doanh nghiệp.\nĐiểm: +10\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, ĐTN/HSV, Khoa/BM, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_55",
+      "title": "Nhóm 5.1",
+      "content": "Tên: Sinh viên đạt thành tích\nSố tiêu chí: 3"
+    },
+    {
+      "chunk_id": "chunk_56",
+      "title": "Tiêu chí 5.2.1",
+      "content": "Mô tả: BCH Đoàn trường/BCH Hội Sinh viên trường/BCH Đoàn - Hội thuộc Khoa/BM/Ban chủ nhiệm các CLB/Đội/Nhóm/Ban cán sự lớp.\nĐiểm: +10\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_57",
+      "title": "Tiêu chí 5.2.2",
+      "content": "Mô tả: Thành viên các CLB/Đội/Nhóm hoặc Cộng tác viên Đoàn - Hội Khoa/BM các cấp.\nĐiểm: +5\nĐơn vị phụ trách: P.ĐTĐH, P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_58",
+      "title": "Nhóm 5.2",
+      "content": "Tên: Ban chủ nhiệm/Ban chấp hành/thành viên\nSố tiêu chí: 2"
+    },
+    {
+      "chunk_id": "chunk_59",
+      "title": "Danh mục 5",
+      "content": "Điểm tối đa: 10đ"
+    },
+    {
+      "chunk_id": "chunk_60",
+      "title": "Tiêu chí 6.1.1",
+      "content": "Mô tả: Thành tích đặc biệt cấp ĐHQG-HCM trở lên.\nĐiểm: +10\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_61",
+      "title": "Tiêu chí 6.1.2",
+      "content": "Mô tả: Thành tích đặc biệt cấp Trường/Khoa/BM/Phòng/Trung tâm.\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, P.QLKH, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_62",
+      "title": "Nhóm 6.1",
+      "content": "Tên: Sinh viên có thành tích đặc biệt/đạt giải thưởng các cấp\nSố tiêu chí: 2"
+    },
+    {
+      "chunk_id": "chunk_63",
+      "title": "Nhóm 6.2",
+      "content": "Tên: Sinh viên có hoàn cảnh gia đình đặc biệt khó khăn; khuyết tật có khó khăn về kinh tế; mồ côi cả cha lẫn mẹ có nghị lực phấn đấu vươn lên trong học tập"
+    },
+    {
+      "chunk_id": "chunk_64",
+      "title": "Tiêu chí 6.3.1",
+      "content": "Mô tả: Đạt 01 trong các danh hiệu \"Đảng viên hoàn thành xuất sắc nhiệm vụ\"; \"Dân vận khéo\" cấp Trường; \"Đảng viên trẻ tiêu biểu\" hoặc tương đương; được kết nạp Đảng.\nĐiểm: +10\nĐơn vị phụ trách: P.CTSV, ĐTN/HSV"
+    },
+    {
+      "chunk_id": "chunk_65",
+      "title": "Tiêu chí 6.3.2",
+      "content": "Mô tả: Hoàn thành lớp cảm tình Đảng hoặc lớp Đảng viên mới.\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, ĐTN/HSV"
+    },
+    {
+      "chunk_id": "chunk_66",
+      "title": "Nhóm 6.3",
+      "content": "Tên: Đảng viên\nSố tiêu chí: 2"
+    },
+    {
+      "chunk_id": "chunk_67",
+      "title": "Tiêu chí 6.4.1",
+      "content": "Mô tả: Tố giác các hành vi vi phạm quy định/quy chế/pháp luật.\nĐiểm: +10\nĐơn vị phụ trách: P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_68",
+      "title": "Tiêu chí 6.4.2",
+      "content": "Mô tả: Thực hiện các việc làm tốt được ghi nhận.\nĐiểm: +10\nĐơn vị phụ trách: P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_69",
+      "title": "Tiêu chí 6.4.3",
+      "content": "Mô tả: Hoàn thành tất cả các khảo sát đánh giá chất lượng môn học.\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_70",
+      "title": "Tiêu chí 6.4.4",
+      "content": "Mô tả: Hoàn thành các khảo sát khác của Nhà trường.\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_71",
+      "title": "Tiêu chí 6.4.5",
+      "content": "Mô tả: Tham gia 3 hoạt động phong trào từ cấp Khoa/BM/Phòng/Trung tâm trở lên.\nĐiểm: +5\nĐơn vị phụ trách: P.CTSV, Khoa/BM, ĐTN/HSV, ĐVK"
+    },
+    {
+      "chunk_id": "chunk_72",
+      "title": "Nhóm 6.4",
+      "content": "Tên: Điểm cộng khác\nSố tiêu chí: 5"
+    },
+    {
+      "chunk_id": "chunk_73",
+      "title": "Danh mục 6",
+      "content": "Điểm tối đa: 10đ"
+    }
+  ]
+}

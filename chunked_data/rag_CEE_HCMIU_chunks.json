@@ -1,0 +1,62 @@
+{
+  "document_id": "CEE_HCMIU",
+  "type": "course_structure",
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 2,
+    "total_years": 8,
+    "total_semesters": 19
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Ngành Kỹ Thuật Hoá Học",
+      "content": "Cơ hội nghề nghiệp:\nNghiên cứu và phát triển (R&D) tại các đơn vị R&D của nhà máy, công ty, viện nghiên cứu;\nGiảng dạy và nghiên cứu tại các cơ sở giáo dục như trường đại học, cao đẳng, Viện/Trung tâm nghiên cứu…;\nSản xuất (vận hành, giám sát, thiết kế) tại các nhà máy, công ty trong các lĩnh vực: (i) hóa dầu (nhà máy lọc dầu, hóa chất, nhựa…); hóa hữu cơ (mỹ phẩm, kem dưỡng da, dầu gội đầu…); hóa dược (thảo dược, bào chế thuốc, thiết bị sản xuất thuốc…), công nghệ vật liệu mới (vật liệu polymer, vật liệu siêu bền, nhẹ); công nghệ thực phẩm; công nghệ sinh học ứng dụng; công nghệ sản xuất năng lượng sạch; (ii) xử lý nước cấp/ nước thải, khí thải, chất thải rắn và chất thải nguy hại, hệ thống xử lý môi trường;\nKinh doanh – dịch vụ kỹ thuật: cung cấp các giải pháp kỹ thuật tối ưu, thiết bị kỹ thuật và dịch vụ tiện ích trong xử lý và quản lý môi trường, các dịch vụ HSE (Sức khỏe, An toàn và Môi trường); Quan trắc và phân tích môi trường;\nQuản lý và kinh doanh tại các nhà máy, công ty và cơ quan nhà nước ở các lĩnh vực trên.\n\nMục tiêu đào tạo:\n1. Có kiến thức cơ bản vững chắc về khoa học và kỹ thuật trong lĩnh vực hóa học và những lĩnh vực có liên quan (vd như sinh học, dược học, môi trường, v.v..).\n2. Có khả năng vận dụng sáng tạo các kiến thức cơ bản trong ngành để giải quyết các vấn đề đa dạng trong các lĩnh vực nghề nghiệp.\n3. Có đạo đức nghề nghiệp, hiểu rõ các vấn đề về môi trường, xã hội, an ninh và kinh tế.\n4. Có đầy đủ các kỹ năng mềm, kỹ năng quản lý, khả năng làm việc nhóm, khả năng lãnh đạo, khả năng giao tiếp và làm việc chuyên môn thành thạo bằng tiếng Anh.\n5. Có nhận thức về tầm quan trọng của việc trau dồi bản thân và không ngừng học tập suốt đời."
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Ngành Kỹ Thuật Hoá Học: Năm 2",
+      "content": "Học kì 1:\nCHE1011IU-Introduction to Chemical Engineering-2\nCHE2103IU-Inorganic Chemistry-3\nCHE2104IU-Inorganic Chemistry Lab-1\nENEE1019IU-Applied Statistics-2\nENEE1020IU-Applied Statistics Lab-1\nENEE1014IU-Engineering Drawing-2\nENEE1015IU-Engineering Drawing Lab-1\nCHE0011IU-Applied Mechanics-2\nPE016IU-Political Economics of Marxism and Leninism-2\n\nHọc kì 2:\nCHE1051IU-Analytical Chemistry 1-3\nCHE1031IU-Physical Chemistry 1-3\nCHE1081IU-Organic Chemistry 1-3\nCHE2051IU-Heat Transfer Operations-3\nPE015IU-Philosophy of Marxism and Leninism-3\nCHE4052IU-Internship 1-2\n"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Ngành Kỹ Thuật Hoá Học: Năm 3",
+      "content": "Học kì 1:\nCHE2011IU-Reaction Kinetics and Catalysis-3\nPE019U-Ho Chi Minh's Thoughts-2\nCHE1043IU-Physical Chemistry 2-2\nCHE1044IU-Physical Chemistry 2 Lab-1\nCHE2041IU-Mass Transfer Operations-3\nCHE1091IU-Organic Chemistry 2-3\nCHE1092IU-Organic Chemistry Laboratory-2\n\nHọc kì 2:\nCHE2023IU-Computational Chemistry-2\nCHE2025IU-Computational Chemistry Lab-1\nCHE2071IU-Mechanical Unit Operations-3\nCHE2034IU-Simulation and Optimization-2\nCHE2035IU-Simulation and Optimization Lab-1\nCHE1061IU-Analytical Chemistry 2-3\nCHE4012IU-Research 1-1\nCHE1062IU-Analytical Chemistry Laboratory-2\nPE018IU-History of Vietnamese Communist Party-2\n\nHọc kì hè:\nCHE4062IU-Internship 2-3\n"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Ngành Kỹ Thuật Hoá Học: Năm 4",
+      "content": "Học kì 1:\nCHE1104IU-Biochemistry-3\nCHE1105IU-Biochemistry Lab-1\nCHE1021IU-Process Instrumentation and Control-2\nCHE2061IU Chemical Reaction Engineering-3\nChọn 3 trong những môn sau.\nCHE3111IU-Green Chemical Engineering -3\nCHE3211IU-Nanomaterials -3\nCHE3221IU-Biomaterials -3\nCHE3311U-Organic Chemistry Synthesis -3\nCHE3414IU-Advanced Engineering Drawing -2\nCHE3415IU-Advanced Engineering Drawing Lab -1\nCHE3121IU-Environmental Chemistry 1 -3\nCHE3131IU-Environmental Chemistry 2 -3\nCHE3231IU-Heterogeneous Catalysis -3\nCHE3324IU-Methods for Natural Products and Drugs -2\nCHE3325IU-Methods for Natural Products and Drugs Lab -1\nCHE3421IU-Pipping and Instruments System Design -3\nCHE3141IU-Sustainable Energy -3\nCHE3151IU-Natural Gas Processing -3\nCHE3241IU-Bioinorganic Chemistry -3\nCHE3331IU-Medicinal Chemistry -3\nCHE3431IU-Treatment Plant Operation -3\nCHE3251IU-Corrosion Chemistry -3\nCHE0042IU-Project 1 -1\nCHE0052IU-Project 2 -1\nCHE0062IU-Project 3 -1\n\nHọc kì 2:\nCHE0012IU-Chemical Process Design and Simulation-3\nCHE1012IU-Chemical Engineering Lab-1\nCHE4512IU-Pre-thesis-2\nCHE1111IU-Industrial Chemistry-2\nCHE2081IU-Occupational Health Safety and Environment-2\nCHE0031IU-Research Methodology-2\nPE020IU-Engineering Ethics and Professional Skills-3\nChọn 1 trong những môn sau.\nIT120IU-Entrepreneurship-3\nENEE4011IU-Engineering Project Management-3\nBA115IU-Introduction to Business Administration-3\nBA154IU Entrepreneurship and Small Business Management-3\n\nHọc kì hè:\nCHE4072IU-Internship 3-3\n"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Ngành Kỹ Thuật Hoá Học: Năm 5",
+      "content": "Học kì 1:\nCHE4522IU-Thesis-10\n"
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Ngành Kỹ Thuật Môi Trường",
+      "content": "Cơ hội nghề nghiệp:\nNghiên cứu và phát triển (R&D) tại các đơn vị R&D của nhà máy, công ty, viện nghiên cứu;\nGiảng dạy và nghiên cứu tại các cơ sở giáo dục như trường đại học, cao đẳng, Viện/Trung tâm nghiên cứu…;\nSản xuất (vận hành, giám sát, thiết kế) tại các nhà máy, công ty trong các lĩnh vực: (i) hóa dầu (nhà máy lọc dầu, hóa chất, nhựa…); hóa hữu cơ (mỹ phẩm, kem dưỡng da, dầu gội đầu…); hóa dược (thảo dược, bào chế thuốc, thiết bị sản xuất thuốc…), công nghệ vật liệu mới (vật liệu polymer, vật liệu siêu bền, nhẹ); công nghệ thực phẩm; công nghệ sinh học ứng dụng; công nghệ sản xuất năng lượng sạch; (ii) xử lý nước cấp/ nước thải, khí thải, chất thải rắn và chất thải nguy hại, hệ thống xử lý môi trường;\nKinh doanh – dịch vụ kỹ thuật: cung cấp các giải pháp kỹ thuật tối ưu, thiết bị kỹ thuật và dịch vụ tiện ích trong xử lý và quản lý môi trường, các dịch vụ HSE (Sức khỏe, An toàn và Môi trường); Quan trắc và phân tích môi trường;\nQuản lý và kinh doanh tại các nhà máy, công ty và cơ quan nhà nước ở các lĩnh vực trên.\n\nMục tiêu đào tạo:\n1. Sinh viên tốt nghiệp có kiến thức đại cương, cơ sở ngành, chuyên ngành và kiến thức bổ trợ liên quan đến các kỹ thuật xử lý nước – nước thải, kiểm soát ô nhiễm không khí, và quản lý chất thải rắn để có thể ứng dụng vào giải quyết các vấn đề môi trường và tiếp tục học tập ở bậc cao hơn.\n2. Sinh viên tốt nghiệp có khả năng nhận diện vấn đề, hình thành ý tưởng, thiết kế, triển khai và vận hành các thiết bị và hệ thống xử lý môi trường phù hợp với nhu cầu xã hội và tiêu chuẩn ngành.\n3. Sinh viên tốt nghiệp có kỹ năng nghề nghiệp, thái độ cá nhân; kỹ năng làm việc theo nhóm và giao tiếp hiệu quả trong môi trường chuyên nghiệp để giải quyết các vấn đề liên quan đến kỹ thuật môi trường."
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Ngành Kỹ Thuật Môi Trường: Năm 2",
+      "content": "Học kì 1:\nENEE2017IU-Introduction to Computing-3\nENEE1017IU-Fundamental of Analytical Chemistry-2\nENEE1018IU-Fundamental of Analytical Chemistry Lab-1\nENEE1015IU-Biochemistry-3\nENEE1016IU-Biochemistry Lab-1\nENEE1013IU-Engineering Drawing-2\nENEE1014IU-Engineering Drawing Lab-1\nENEE2024IU-Mechanics of Materials-2\nENEE2008IU-Environmental Ecology-3\n\nHọc kì 2:\nENEE2001IU-Introduction to Environmental Engineering-3\nENEE2013IU-Environmental Microbiology-2\nENEE2016IU-Environmental Microbiology Lab-2\nENEE2002IU-Environmental Chemistry 1-2\nENEE2010IU-Environmental Chemistry 1 Lab-2\nENEE2005IU-Environmental Chemistry 2-2\nENEE2011IU-Environmental Chemistry 2 Lab-2\nENEE1019IU-Applied Statistics-2\nENEE1020IU-Applied Statistics Lab-1\n\nHọc kì hè:\nMilitary education-0\n"
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Ngành Kỹ Thuật Môi Trường: Năm 3",
+      "content": "Học kì 1:\nENEE1011IU-Hydraulics for Environmental Engineering-2\nENEE1012IU-Hydraulics for Environmental Engineering Lab-1\nENEE2020IU-Physical and Chemical Processes for Environmental Engineering-2\nENEE2021IIU-Physical and Chemical Processes for Environmental Engineering Lab-1\nENEE2022IIU-Biological Processes for Environmental Engineering-2\nENEE2023IU-Biological Processes for Environmental Engineering Lab-1\nPE018IU-History of Vietnamese Communist Party-2\nPE019IU-Ho Chi Minh's Thoughts-2\nENEE5004IU-Internship 1-2\nChọn 1 trong những môn sau.\nIS020IU-Engineering Economy-3\nIT120IU-Entrepreneurship-3\nENEE4011IU-Engineering Project Management-3\n\nHọc kì 2:\nENEE2025IU-Basic Theory of Environmental Structures-2\nENEE4017IU-Advanced Engineering Drawing-2\nENEE4018IU-Advanced Engineering Drawing Lab-1\nENEE3012IU-Water Treatment-3\nENEE3013IU-Water Treatment Lab-1\nENEE3014IU-Municipal Wastewater Treatment-3\nENEE3022IU-Municipal Wastewater Treatment Lab-1\nENEE3023IU-Industrial Wastewater Treatment-2\nENEE3017IU-Industrial Wastewater Treatment Lab-2\n\nHọc kì hè:\nENEE5005IU-Internship 2-3\n"
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Ngành Kỹ Thuật Môi Trường: Năm 4",
+      "content": "Học kì 1:\nENEE3110IU-Project 1-2\nENEE3111IU-Project 2-2\nENEE2014IU-Heat and Mass Transfer-3\nChọn ít nhất 2 trong các môn sau.\nENEE4016IU-Construction Measurement and Cost Estimating-3\nENEE3105IU-Treatment Plant Operation-3\nENEE4019IU-Experimental Design-2\nENEE4020IU-Experimental Design Lab-2\nENEE4021IU-Pipe and Instruments Design-2\nENEE4022IU-Pipe and Instruments Design Lab-2\nENEE3103IU-Water Supply and Drainage Systems-3\nENEE3112IU-Project 3-1\nENEE3113IU-Project 4-2\nENEE4023IU-Environmental Modeling-3\nENEE4024IU-Environmental Modeling Lab-1\n\nHọc kì 2:\nCHE2081IU-Occupational Health Safety and Environment-2\nENEE5007IU-Pre-thesis 4.91-2\nENEE3018IU-Solid waste and hazardous waste management-3\nENEE3019IU-Solid waste and hazardous waste management Lab-1\nENEE3020IU-Air pollution control-3\nENEE3021IU-Air pollution control Lab-1\nChọn ít nhất 1 trong các môn sau.\nBA115IU-Introduction to Business Administration-3\nBA154IU-Entrepreneurship and Small Business Management-3\nBT010IU-Plant physiology-3\nCHE3211IU-Nanomaterials-3\nCHE3221IU-Biomaterials-3\nENEE4007IU-Climate Change Mitigation and Adaptation-3\nENEE4009IU-Sustainable Development: Theory and Policy-3\n\nHọc kì hè:\nENEE5005IU-Internship 3-3\n"
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Ngành Kỹ Thuật Môi Trường: Năm 5",
+      "content": "Học kì 1:\nCHE4522IU-Thesis-10\n"
+    }
+  ]
+}

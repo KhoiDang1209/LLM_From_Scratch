@@ -1,0 +1,69 @@
+{
+  "document_id": "AM_HCMIU",
+  "type": "course_structure",
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 1,
+    "total_years": 0,
+    "total_semesters": 0,
+    "total_roman_sections": 6,
+    "total_elective_courses": 4
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Ngành Toán Ứng Dụng",
+      "content": "Cơ hội nghề nghiệp:\nNgoài những mục tiêu và cơ hội nghề nghiệp của từng chuyên ngành thì sinh viên ngành Tài chính và Quản trị rủi ro sẽ được trang bị các kiến thức, kỹ năng và các khả năng sau khi ra trường như sau,\nChương trình đào tạo sinh viên Việt nam và sinh viên quốc tế. Sinh viên có thể làm cho các định chế tài chính lớn như Ngân hàng Thế giới (World Bank), Quỹ Tiền tệ Quốc tế (IMF), Quỹ Tài chính Quốc tế (IFC), các tổ chức tài chình quốc tế, ngân hàng nhà nước. Tuy nhiên, chương trình chủ yếu nhằm đào tạo sinh viên để có thể tham gia làm các chuyên viên phân tích kinh tế, tài chính cho các công ty đầu tư tài chính, chứng khoán, ngân hàng, các doanh nghiệp kinh doanh đa quốc gia.\nCác công việc cụ thể bao gồm các hoạt động về quản trị danh mục đầu tư, phân tích tài chính, phân tích thị trường tài chính… trong các doanh nghiệp và tổ chức có nhu cầu. Sinh viên ra trường cũng có khả năng tạo dựng và hỗ trợ doanh nghiệp tài chính, ngân hàng, bảo hiểm, cung cấp các dịch vụ – sản phẩm mà xã hội, thị trường yêu cầu.\nSau khi tốt nghiệp, sinh viên có thể trở thành cán bộ quản lí hoặc chuyên viên kỹ thuật làm việc cho các cơ quan nhà nước hoặc địa phương, dự án hoặc tổ chức phi chính phủ trong lĩnh vực kỹ thuật tài chính và quản trị rủi ro, hoặc các doanh nghiệp trong ngành tài chính, ngân hàng,…\nRa trường sinh viên cũng có thể trở thành cán bộ giảng dạy và nghiên cứu tại các trường đại học, cao đẳng và viện nghiên cứu có liên quan, có thể tiếp tục theo các chương trình Thạc sĩ, Tiến sĩ tại bất cứ cơ sở đào tạo nào ở trong nước hoặc nước ngoài.\n\nMục tiêu đào tạo:\n1. Kỹ thuật Tài chính và Quản trị rủi ro là một lĩnh vực đa ngành gồm  lý thuyết tài chính, các phương pháp và công cụ toán học và lập trình ứng dụng.\n2. Trang bị cho sinh viên các kỹ năng và kiến thức chuyên môn về lý thuyết và các phương thức tiếp cận các quy trình phân tích, dự báo, quản trị rủi ro và các ứng dụng trong các tình huống thực tế trong lĩnh vực tài chính và các vấn đề liên quan."
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Ngành Toán Ứng Dụng: I. Khối kiến thức giáo dục đại cương:",
+      "content": "Lý luận chính trị (11 tín chỉ),\nPE015IU-Philosophy of Marxism and Leninism-3\nPE016IU-Political Economics of Marxism and Leninism-2\nPE018IU-History of Vietnamese Communist Party-2\nPE019IU-Ho Chi Minh’s Thoughts-2\nPE017IU-Scientific Socialism-2\nPháp luật, Khoa học xã hội và nhân văn (3 tín chỉ),\nPE021IU-General Law-3\nNgoại ngữ (8 tín chỉ),\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nEN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nToán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ),\nMAFE101IU-Analysis 1-4\nMAFE109IU-Introduction to Python-4\nMAFE103IU-Analysis 2-4\nMAFE104IU-Linear Algebra-4\nKinh tế – Quản lý (4 tín chỉ),\nMAFE212IU-Financial Accounting-4"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Ngành Toán Ứng Dụng: II. Kiến thức cơ sở ngành:",
+      "content": "MAFE201IU-Real Analysis-4\nMAFE203IU-Analysis 3-3\nMAFE206IU-Probability-3\nMAFE204IU-Database Management System-3\nMAAS220IU-Introduction to Statistics-2\nMAFE208IU-Numerical Analysis-4\nMAFE202IU-Differential Equations-4\nMAAS221IU-Introduction to Machine Learning-3\nMAFE207IU-Decision Making-3\nMôn học tự chọn 1-MAAS Elective #1-3"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Ngành Toán Ứng Dụng: III. Kiến thức chuyên ngành:",
+      "content": "MAAS318IU-Stochastic Modeling-3\nMAFE316IU-Statistics-4\nMAAS320IU-Regression Models-3\nMAAS322IU-Statistical Computing-3\nMAAS324IU-Applied Time Series Analysis-3\nMôn tự chọn 2-MAAS Elective #2-3\nIT157IU -Deep Learning-4\nMAAS410IU-Bayesian Statistics-3\nMôn tự chọn 3-MAAS Elective #3-3\nMôn tự chọn 4-MAAS Elective #4-3\nMAFE303IU-Optimization 1-4\nMAAS413IU-Multivariate Statistical Analysis-3"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Ngành Toán Ứng Dụng: IV. Kiến thức bổ trợ:",
+      "content": "IT069IU-Object-Oriented Programming-4\nIT013IU-Algorithms and Data Structures-4\nBA115IU-Introduction to Business Administration-3"
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Ngành Toán Ứng Dụng: V. Thực tập, khóa luận/luận văn tốt nghiệp:",
+      "content": "MAAS328IU-Summer Internship-3\nMAAS420IU-Graduation Thesis-12"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Ngành Toán Ứng Dụng: V. Thực tập, khóa luận/luận văn tốt nghiệp:",
+      "content": "MAAS328IU-Summer Internship-3\nMAAS420IU-Graduation Thesis-12"
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Ngành Toán Ứng Dụng: Môn tự chọn 1",
+      "content": "IIS055IU-Principles of Logistics and Supply Chain Management-3\nMAFE306IU-Financial Mathematics 1-3\nMAFE209IU-Financial Markets-3"
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Ngành Toán Ứng Dụng: Môn tự chọn 2",
+      "content": "MAAS325IU-Predictive Analytics-3\nIIS065IU-Supply Chain Security and Risk Management-3\nMAFE308IU-Financial Risk Management 1-3\nMAAS326IU-Actuarial Mathematics for Life Contingent-3"
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Ngành Toán Ứng Dụng: Môn tự chọn 3",
+      "content": "MAAS411IU-Statistical Models for Actuarial Science-3\nMAAS412IU-Statistical Methods for Finance-3\nIS066IU-Data Mining in Supply Chain-3"
+    },
+    {
+      "chunk_id": "chunk_11",
+      "title": "Ngành Toán Ứng Dụng: Môn tự chọn 4",
+      "content": "MAFE307IU-Optimization 2-3\nMAAS414IU-Survey Sampling-3\nMAAS415IU-Applied Probability Models in Actuarial Science-3"
+    }
+  ]
+}

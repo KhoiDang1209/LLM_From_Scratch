@@ -1,0 +1,69 @@
+{
+  "document_id": "AS_HCMIU",
+  "type": "course_structure",
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 1,
+    "total_years": 0,
+    "total_semesters": 0,
+    "total_roman_sections": 6,
+    "total_elective_courses": 4
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Ngành Thống Kê",
+      "content": "Cơ hội nghề nghiệp:\nPhân tích Thống kê tại ngân hàng lớn (Vietcombank, VIB, Shinhan, BIDV, ACB, Cathay United…), các công ty kiểm toán như KPMG, Công ty chứng khoán\nĐịnh phí Bảo hiểm (Actuary) (Manulife, FWD), đánh giá tín dụng (FE Credit, Viet Credit…)\nPhân tích, nghiên cứu thị trường cho các doanh nghiệp, tập đoàn lớn, Vega Corporation, Minerva…\nChuyên viên nghiên cứu chuyên nghiệp, phân tích dữ liệu thống kê tại các viện nghiên cứu về Kinh tế – xã hội.\nNghiên cứu Thống kê trong sinh học, y sinh, y tế tại các Viện nghiên cứu\nLàm việc trong các tập đoàn có xu hướng cách mạng công nghiệp 4.0, như FPT Software, TMA, Zalo, Coccoc, Tiki, Lazada, VNG, Tenpoint7 Vietnam, Bee Group, PwC…\nTiếp tục học Sau Đại học ngành Thống kê ứng dụng và các ngành có liên quan (Machine Learning, AI, Data Science, Biostatistics, Biomedicine, v.v.).\nGiảng dạy và nghiên cứu tại các trường Đại học, Viện nghiên cứu, các Cơ quan nhà nước (Cục Thống kê, Phân tích thống kê ở các sở ban ngành các cấp chính quyền địa phương).\n\nMục tiêu đào tạo:\n1. Thống kê (chuyên ngành Thống kê ứng dụng) trường Đại học Quốc tế đào tạo cử nhân khoa học Thống kê có phẩm chất chính trị, đạo đức và sức khỏe tốt, có kiến thức cơ bản về Toán học và chuyên sâu về Thống kê và Học máy, khả năng ứng dụng các công cụ và mô hình  Thống kê hiện đại để giải quyết các vấn đề thực tế liên quan đến phân tích và dự báo  trong các ngành khoa học khác nhau, đặc biệt trong lĩnh vực Kinh tế, Tài chính, Bảo hiểm và quản trị."
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Ngành Thống Kê: I. Khối kiến thức giáo dục đại cương:",
+      "content": "Lý luận chính trị (11 tín chỉ),\nPE015IU-Philosophy of Marxism and Leninism-3\nPE016IU-Political Economics of Marxism and Leninism-2\nPE018IU-History of Vietnamese Communist Party-2\nPE019IU-Ho Chi Minh’s Thoughts-2\nPE017IU-Scientific Socialism-2\nPE021IU-General Law-3\nNgoại ngữ (8 tín chỉ),\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nEN011IU-Writing AE2-2\nEN012IU-Speaking AE2-2\nToán – Tin học – Khoa học tự nhiên – Công nghệ – Môi trường (16 tín chỉ),\nMAFE101IU-Analysis 1-4\nMAFE109IU-Introduction to Python-4\nMAFE103IU-Analysis 2-4\nMAFE104IU-Linear Algebra-4\nKinh tế – Quản lý (4 tín chỉ),\nMAFE212IU-Financial Accounting-4"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Ngành Thống Kê: II. Kiến thức cơ sở ngành:",
+      "content": "MAFE201IU-Real Analysis-4\nMAFE203IU-Analysis 3-3\nMAFE206IU-Probability-3\nMAFE204IU-Database Management System-3\nMAAS220IU-Introduction to Statistics-2\nMAFE208IU-Numerical Analysis-4\nMAFE202IU-Differential Equations-4\nMAAS221IU-Introduction to Machine Learning-3\nMAFE207IU-Decision Making-3\nMôn học tự chọn 1-MAAS Elective #1-3"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Ngành Thống Kê: III. Kiến thức chuyên ngành:",
+      "content": "MAAS318IU-Stochastic Modeling-3\nMAFE316IU-Statistics-4\nMAAS320IU-Regression Models-3\nMAAS322IU-Statistical Computing-3\nMAAS324IU-Applied Time Series Analysis-3\nMôn tự chọn 2-MAAS Elective #2-3\nIT157IU -Deep Learning-4\nMAAS410IU-Bayesian Statistics-3\nMôn tự chọn 3-MAAS Elective #3-3\nMôn tự chọn 4-MAAS Elective #4-3\nMAFE303IU-Optimization 1-4\nMAAS413IU-Multivariate Statistical Analysis-3"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Ngành Thống Kê: IV. Kiến thức bổ trợ:",
+      "content": "IT069IU-Object-Oriented Programming-4\nIT013IU-Algorithms and Data Structures-4\nBA115IU-Introduction to Business Administration-3"
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Ngành Thống Kê: V. Thực tập, khóa luận/luận văn tốt nghiệp:",
+      "content": "MAAS328IU-Summer Internship-3\nMAAS420IU-Graduation Thesis-12"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Ngành Thống Kê: V. Thực tập, khóa luận/luận văn tốt nghiệp:",
+      "content": "MAAS328IU-Summer Internship-3\nMAAS420IU-Graduation Thesis-12"
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Ngành Thống Kê: Môn tự chọn 1",
+      "content": "IIS055IU-Principles of Logistics and Supply Chain Management-3\nMAFE306IU-Financial Mathematics 1-3\nMAFE209IU-Financial Markets-3"
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Ngành Thống Kê: Môn tự chọn 2",
+      "content": "MAAS325IU-Predictive Analytics-3\nIIS065IU-Supply Chain Security and Risk Management-3\nMAFE308IU-Financial Risk Management 1-3\nMAAS326IU-Actuarial Mathematics for Life Contingent-3"
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Ngành Thống Kê: Môn tự chọn 3",
+      "content": "MAAS411IU-Statistical Models for Actuarial Science-3\nMAAS412IU-Statistical Methods for Finance-3\nIS066IU-Data Mining in Supply Chain-3"
+    },
+    {
+      "chunk_id": "chunk_11",
+      "title": "Ngành Thống Kê: Môn tự chọn 4",
+      "content": "MAFE307IU-Optimization 2-3\nMAAS414IU-Survey Sampling-3\nMAAS415IU-Applied Probability Models in Actuarial Science-3"
+    }
+  ]
+}

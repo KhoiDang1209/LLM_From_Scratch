@@ -1,0 +1,52 @@
+{
+  "document_id": "CEM_HCMIU",
+  "type": "course_structure",
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 2,
+    "total_years": 6,
+    "total_semesters": 16
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Ngành Kỹ Thuật Xây Dựng",
+      "content": "Cơ hội nghề nghiệp:\nSinh viên tốt nghiệp chương trình Kỹ thuật Xây dựng có nhiều cơ hội nghề nghiệp trong nhiều lĩnh vực khác nhau, cả trong nước và quốc tế, bao gồm xây dựng dân dụng, cơ sở hạ tầng giao thông. Với nền tảng kiến thức vững chắc, sinh viên có thể làm việc xuất sắc ở các vị trí khác nhau như tư vấn thiết kế, thẩm định viên, quản lý xây dựng, giám sát dự án. Ngoài ra, sinh viên tốt nghiệp còn có khả năng tham gia vai trò quản lý trong các cơ quan chính phủ chuyên về xây dựng, giao thông và tài nguyên nước (Bộ, Sở và Ban quản lý dự án địa phương).\nĐược đào tạo theo chương trình tiên tiến, hiện đại với nhiều cơ hội tiếp xúc nghiên cứu khoa học, sinh viên tốt nghiệp ngành kỹ thuật dân dụng có lợi thế đáng kể trong việc tiếp cận và tham gia các nghiên cứu học thuật hoặc các dự án khởi nghiệp sử dụng công nghệ mới (vật liệu thông minh, trí tuệ nhân tạo, machine learning và Internet of Things) nhằm nâng cao hiệu quả và chất lượng công trình xây dựng và quản lý cơ sở hạ tầng.\nTrong giai đoạn phát triển và đổi mới hiện nay, nhu cầu về lực lượng lao động có trình độ cao trong ngành xây dựng đang rất cao, tạo ra cơ hội việc làm rộng rãi cho tất cả sinh viên ngành Xây dựng, đặc biệt là những sinh viên tốt nghiệp Đại học Quốc tế – Đại học Quốc gia Thành phố Hồ Chí Minh.\n\nMục tiêu đào tạo:\n1. Chương trình Kỹ thuật Xây dựng được thiết kế dựa trên tiêu chí đánh giá của ABET Inc. (Hội đồng Kiểm định Kỹ thuật và Công nghệ, Hoa Kỳ). Kỹ sư xây dựng được trang bị kiến thức cơ bản và chuyên sâu trong nhiều lĩnh vực. Ngoài ra, chương trình còn tích hợp các kiến thức mới liên quan đến công nghệ tính toán, mô phỏng, phân tích dữ liệu và trí tuệ nhân tạo (AI). Ngôn ngữ dạy và học là tiếng Anh, tạo điều kiện cho sinh viên tiếp thu và chuyển giao nhanh chóng các tiến bộ công nghệ từ khắp nơi trên thế giới vào trong nước. Sinh viên tốt nghiệp của chương trình có khả năng theo đuổi nhiều con đường sự nghiệp khác nhau và tiếp tục phát triển các kỹ năng, kiến thức chuyên ngành và trình độ học vấn cả trong nước và quốc tế. Mục đích này nhằm đào tạo một thế hệ kỹ sư có thể đáp ứng yêu cầu lực lượng lao động trong tương lai khi đất nước ngày càng hội nhập với nền kinh tế toàn cầu và cộng đồng ASEAN."
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Ngành Kỹ Thuật Xây Dựng: Năm 2",
+      "content": "Học kì 1:\nPE018IU-History of Vietnamese Communist Party-2\nPE019IU-Ho Chi Minh's Thoughts-2\nCE103IU-Computer-Aided Design and Drafting (CADD)-3\nCE104IU-Practice CADD-1\nCE201IU-Mechanics of Materials 1-2\nCE202IU-Mechanics of Materials Laboratory-1\nCE203IU-Engineering Mechanics- Dynamics-3\nCE205IU-Fluid Mechanics-2\nCE206IU-Fluid Mechanics Laboratory-1\nCE215IU-Applied Linear Algebra-2\n\nHọc kì 2:\nCE213IU-Computational Methods for Civil Engineering-3\nCE209IU-Structural Analysis 1-2\nCE208IU-Mechanics of Materials 2-2\nCE210IU-Construction Materials-3\nCE211IU-Hydrology- Hydraulics-3\nPE008IU-Critical Thinking-3\nCE214IU-Civil Architecture-2\nCE216IU-Probability and Statistics-3\n\nHọc kì hè:\nMP001IU-Military Training\n"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Ngành Kỹ Thuật Xây Dựng: Năm 3",
+      "content": "Học kì 1:\nCE301IU-Structural Analysis 2-3\nCE302IU-Soil Mechanics-3\nCE303IU-Soil Mechanics Laboratory-1\nCE304IU-Reinforced concrete 1-3\nCE305IU-Steel Structures-3\nCE306IU-Water Supply and Sewerage-3\n\nHọc kì 2:\nCE307IU-Surveying-2\nCE308IU-Surveying Practice-1\nCE309IU-Foundation Engineering-3\nCE310IU-Reinforced Concrete 2-3\nCE311IU-Construction Engineering-3\nCE312IU-Steel Structure Project-1\nCE313IU-Reinforced Concrete Project-1\nCE Elective-3\n\nHọc kì hè:\nCE314IU-Summer Internship\n"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Ngành Kỹ Thuật Xây Dựng: Năm 4",
+      "content": "Học kì 1:\nCE401IU-Construction Management-3\nIU Free Elective-3\nCE Elective-3\nCE Elective-3\nCE402IU-Foundation Project-1\nCE403IU-Construction Project-1\nPE020IU-Engineering Ethics and Professional Skills-3\n\nHọc kì 2:\nBA003IU-Principles of Marketing-3\nBA006IU-Business Communication-3\nBA020IU-Business Ethics-3\nBA116IU-Introduction to Social Science-3\nBA118IU-Introduction to Psychology-3\nBA117IU-Introduction to Microeconomics-3\nBA119IU-Introduction to Macroeconomics-3\nBA123IU-Principles of Management-3\nBA130IU-Organizational Behavior-3\nBA167IU-Introduction to Vietnamese Legal System-3\nBA169IU-Management Information Systems-3\nBA120IU-Business Computing Skills-3\nBA115IU-Introduction to Business Administration-3\nIS019IU-Production Management-3\nIS026IU-Project Management-3\nIT063IU-Theoretical Models in Computing-4\nIT091IU-Computer Networks-4\nIT094IU-Information System Management-4\n"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Ngành Quản Lý Xây Dựng",
+      "content": "Cơ hội nghề nghiệp:\nSau khi tốt nghiệp, kỹ sư Quản lý xây dựng có thể làm việc tại các đơn vị hoặc phòng, ban quản lý dự án. Các công việc bao gồm: tính toán khối lượng, kiểm soát chi phí, tổ chức mua sắm, quản lý hợp đồng, lập kế hoạch tài chính, thẩm định dự án và kinh doanh bất động sản. Kỹ sư Quản lý Xây dựng có nhiều cơ hội làm việc tại các công ty như:\nCơ quan chính phủ: Bộ Xây dựng, Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Giao thông Vận tải, các ngân hàng, kho bạc và các cơ quan nhà nước khác có liên quan đến quản lý đô thị và xây dựng.\nNhà đầu tư phát triển bất động sản.\nCác công ty xây dựng (Nhà thầu) tham gia thực hiện dự án.\nCác công ty tư vấn chuyên nghiệp (Quản lý dự án, Thiết kế, Mua sắm, Hợp đồng).\nBan quản lý dự án cấp huyện/tỉnh/thành phố.\nCác công ty cung cấp vật liệu xây dựng.\nTham gia giảng dạy và nghiên cứu tại các trường đại học, viện nghiên cứu trong các lĩnh vực liên quan.\nHơn nữa, sau khi tốt nghiệp, sinh viên còn có cơ hội học lên cao hơn như Thạc sĩ và Tiến sĩ. bằng cấp tại các trường đại học trong nước và quốc tế.\n\nMục tiêu đào tạo:\n1. Bộ Môn Quản lý xây dựng trực thuộc Khoa Kỹ thuật và Quản lý Xây dựng (CEM) của Trường Đại học Quốc tế, Đại học Quốc gia TP.HCM. Tiền thân của Bộ môn là Bộ Môn Xây dựng được thành lập vào tháng 1 năm 2011. Qua quá trình phát triển không ngừng, đến tháng 3 năm 2021, Khoa Kỹ thuật và Quản lý Xây dựng đã chính thức được mở ngành Quản lý Xây dựng nhằm đáp ứng nhu cầu của xã hội. Theo chiến lược phát triển của trường, chương trình Quản lý xây dựng gồm 150 tín chỉ, thời gian đào tạo là 4,5 năm. Chương trình được thiết kế theo tiêu chuẩn ASIIN (Đức) và dựa trên các chương trình tiên tiến của các trường đại học danh tiếng ở nước ngoài."
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Ngành Quản Lý Xây Dựng: Năm 2",
+      "content": "Học kì 1:\nCE305IU-Steel structures-3\nCE304IU-Reinforced Concrete 1-3\nCM301IU-Operation Management in Construction-3\nPT002IU-Physical Training 2-3\nCM203IU-Construction Management Project-1\nPE018IU-History of Vietnamese Communist Party-2\nPE017IU-Scientific Socialism-2\n\nHọc kì 2:\nCE106IU-Soil mechanics and foundation-3\nCM309IU-Construction Economics-3\nPE019IU-Ho Chi Minh's Thoughts-2\nPE021IU-General Law-3\nCM202IU-Construction Measurement and Cost Estimating-3\nPE022IU-Engineering Ethics and Critical Thinking-3\n\nHọc kì hè:\nMP001IU-Military Training\n"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Ngành Quản Lý Xây Dựng: Năm 3",
+      "content": "Học kì 1:\nCM310IU-Building Information Modelling-3\nCM303IU-Construction Planning and Scheduling-3\nCM304IU-Construction measurement and Cost Estimating Project-1\nCM305IU-Construction Cost Management-3\nCM302IU-Construction Procurement and Tendering-3\nCE217IU-Artificial Intelligence in Civil Engineering and Construction Management-3\n\nHọc kì 2:\nCM307IU-Construction Planning and Scheduling Project-1\nCE307IU-Surveying-2\nBA080IU-Statistics for Business-3\nCM308IU-Project Feasibility Study and Appraisal-3\nCM312IU-Building Information Management Project-1\nBA156IU-Human Resource Management-3\nBA003IU-Principles of Marketing-3\n\nHọc kì hè:\nCE314IU-Summer Internship\n"
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Ngành Quản Lý Xây Dựng: Năm 4",
+      "content": "Học kì 1:\nBA161IU-Business Research Methods-3\nCM311IU-Construction project management (PMBOK extension)-3\nCM Elective 1 (Nhóm A)-3\nCM Elective 2 (Nhóm A)-3\nCM Elective 3 (Nhóm A)-3\nCM Elective 4 (Nhóm B)-1\n\nHọc kì 2:\nBA130IU-Organizational Behavior-3\nBA120IU-Business Computing Skills-3\nBA005IU-Financial Accounting-3\n"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "document_id": "EE_HCMIU",
+  "type": "course_structure",
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 2,
+    "total_years": 10,
+    "total_semesters": 18
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Ngành Kỹ thuật Điện tử – Viễn thông",
+      "content": "Cơ hội nghề nghiệp:\nCó khả năng xác định, thiết kế và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý khoa học, kỹ thuật và toán học.\nCó khả năng áp dụng các thiết kế kỹ thuật nhằm tạo ra những giải pháp công nghệ đáp ứng những nhu cầu cụ thể, trong đó có cân nhắc đến các vấn đề về sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế.\nCó khả năng giao tiếp hiệu quả với nhiều đối tượng khác nhau.\nCó khả năng nhận thức trách nhiệm đạo đức và nghề nghiệp trong nhiều tình huống chuyên môn khác nhau, từ đó đưa ra những đánh giá sáng suốt, đồng thời xem xét tác động từ những giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội.\nCó khả năng hoạt động hiệu quả trong một nhóm cùng các thành viên khác thể hiện khả năng lãnh đạo, tạo một môi trường hoạt động có tinh thần hợp tác và toàn diện, thiết lập mục tiêu, lập kế hoạch nhiệm vụ, từ đó đạt được mục tiêu mong đợi.\nCó khả năng thiết kế và tiến hành các thí nghiệm phù hợp, có khả năng phân tích và diễn giải dữ liệu, đồng thời sử dụng phán đoán kỹ thuật nhằm rút ra kết luận.\nCó khả năng tiếp thu và áp dụng kiến thức mới khi cần thiết bằng nhiều chiến lược học tập phù hợp.\n\nMục tiêu đào tạo:\n1. Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để\n2. Trở thành một Kỹ sư có năng lực, có thể đóng góp trong các lĩnh vực khác nhau của ngành Điện và Điện tử.\n3. Tham gia học tập và nghiên cứu suốt đời để thích ứng với những thay đổi nhanh chóng trong kinh tế và công nghệ toàn cầu\n4. Phục vụ hiệu quả cộng đồng, xã hội và công nghiệp một cách có đạo đức và có trách nhiệm\n5. Có phong cách làm việc chuyên nghiệp và sở hữu khả năng lãnh đạo"
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Ngành Kỹ thuật Điện tử – Viễn thông: Năm 1",
+      "content": "Học kì 1:\nMA001IU-Calculus 1-4\nPH013IU-Physics 1 (Mechanics)-2\nCH011IU-Chemistry for Engineers-3\nCH012IU-Chemistry Laboratory-1\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nEE050IU-Intro to Computer for Engineers-3\nPT001IU-Physical Training 1-0\n\nHọc kì 2:\nMA003IU-Calculus 2-4\nMA027IU-Applied Linear Algebra-2\nPH014IU-Physics 2 (Thermodynamics)-2\nPE021IU-General Laws-3\nEN011IU-Writing AE 2-2\nEN012IU-Speaking AE2-2\nEE049IU-Introduction to EE-3\nPT002IU-Physical Training 2-0\n"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Ngành Kỹ thuật Điện tử – Viễn thông: Năm 2",
+      "content": "Học kì 1:\nMA023IU-Calculus 3-4\nPH015IU-Physics 3 (Electricity & Magnetism)-3\nPH016IU-Physics 3 Lab-1\nEE051IU-Principles of EE 1-3\nEE052IU-Principles of EE 1 Lab-1\nEE057IU-Programming for Engineers-3\nEE058IU-Programming for Engineers Lab-1\nPE015IU-Philosophy of Marxism and Leninism-3\n\nHọc kì 2:\nMA024IU-Differential Equations-4\nMA026IU-Probability& Random Process-3\nEE055IU-Principles of EE 2-3\nEE056IU-Principles of EE 2 Lab-1\nEE053IU-Digital Logic Design-3\nEE054IU-Digital Logic Design Lab-1\nPE016IU-Political economics of Marxism and Leninism-2\n"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Ngành Kỹ thuật Điện tử – Viễn thông: Năm 3",
+      "content": "Học kì 1:\nEE088IU-Signals & Systems-3\nEE089IU-Signals & Systems Lab-1\nEE083IU-Micro-processing Systems-3\nEE084IU-Micro-processing Systems Lab-1\nEE010IU-Electromagnetic Theory-3\nPE017IU-Scientific socialism-2\nEE090IU-Electronics Devices-3\nEE091IU-Electronics Devices Lab-1\n\nHọc kì 2:\nEE092IU-Digital Signal Processing-3\nEE093IU-Digital Signal Processing Lab-1\nEE068IU-Principles of Com. Systems-3\nEE115IU-Principles of Com. Systems Lab-1\nEE130IU-Capstone Design 1-2\nPH012IU-Physics 4 (Optics & Atomics)-2\nPE—IU-Engineering Ethics and Critical Thinking\nPE018IU-History of Vietnamese Communist Party -2\n"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Ngành Kỹ thuật Điện tử – Viễn thông: Năm 4",
+      "content": "Học kì 1:\nEE131IU-Capstone Design 2-2\nEE079IU-Power Electronics-3\nEEAC003IU-Power Electronics Lab-1\nXX—IU-General Elective-3\nPE019IU-Ho Chi Minh’s Thoughts-2\nEE112IU-Summer Internship-3\n\nHọc kì 2:\nEE107IU-Senior Project-2\nEE—IU-EE Elective Course 03-4\nEE—IU-EE Elective Course 04-4\nEE—IU-EE Elective Course 05-4\nEE114IU-Entrepreneurship-3\n"
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Ngành Kỹ thuật Điện tử – Viễn thông: Năm 5",
+      "content": "Học kì 1:\nEE097IU-Thesis-10\n"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+      "content": "Cơ hội nghề nghiệp:\nCó khả năng xác định, thiết kế và giải quyết các vấn đề kỹ thuật phức tạp bằng cách áp dụng các nguyên lý khoa học, kỹ thuật và toán học.\nCó khả năng áp dụng các thiết kế kỹ thuật nhằm tạo ra những giải pháp công nghệ đáp ứng những nhu cầu cụ thể, trong đó có cân nhắc đến các vấn đề về sức khỏe cộng đồng, an toàn và phúc lợi, cũng như các yếu tố toàn cầu, văn hóa, xã hội, môi trường và kinh tế.\nCó khả năng giao tiếp hiệu quả với nhiều đối tượng khác nhau.\nCó khả năng nhận thức trách nhiệm đạo đức và nghề nghiệp trong nhiều tình huống chuyên môn khác nhau, từ đó đưa ra những đánh giá sáng suốt, đồng thời xem xét tác động từ những giải pháp kỹ thuật trong bối cảnh toàn cầu, kinh tế, môi trường và xã hội.\nCó khả năng hoạt động hiệu quả trong một nhóm cùng các thành viên khác thể hiện khả năng lãnh đạo, tạo một môi trường hoạt động có tinh thần hợp tác và toàn diện, thiết lập mục tiêu, lập kế hoạch nhiệm vụ, từ đó đạt được mục tiêu mong đợi.\nCó khả năng thiết kế và tiến hành các thí nghiệm phù hợp, có khả năng phân tích và diễn giải dữ liệu, đồng thời sử dụng phán đoán kỹ thuật nhằm rút ra kết luận.\nCó khả năng tiếp thu và áp dụng kiến thức mới khi cần thiết bằng nhiều chiến lược học tập phù hợp.\n\nMục tiêu đào tạo:\n1. Chương trình Kỹ thuật Kỹ thuật Điều Khiển và Tự Động Hóa được thiết kế trên cở sở đối sánh các chương trình tương tự ở trong nước và quốc tế vào năm 2014. Chương trình được thiết kế, vận hành để hướng đến các chứng chỉ kiểm định chất lượng quốc tế trong tương lai.\n2. Điện – Điện tử, trường Đại học Quốc Tế – Đại học Quốc gia Thành phố Hồ Chí Minh đã đề ra Mục tiêu chương trình đào tạo (Program Educational Objectives) để đào tạo sinh viên tốt nghiệp có kiến thức và kỹ năng chuyên môn cao để\n3. Trở thành một Kỹ sư có năng lực, có thể đóng góp trong các lĩnh vực khác nhau của ngành Điện và Điện tử.\n4. Tham gia học tập và nghiên cứu suốt đời để thích ứng với những thay đổi nhanh chóng trong kinh tế và công nghệ toàn cầu\n5. Phục vụ hiệu quả cộng đồng, xã hội và công nghiệp một cách có đạo đức và có trách nhiệm\n6. Có phong cách làm việc chuyên nghiệp và sở hữu khả năng lãnh đạo"
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Ngành Kỹ thuật Điều khiển và Tự động hóa: Năm 1",
+      "content": "Học kì 1:\nMA001IU-Calculus 1-4\nPH013IU-Physics 1 (Mechanics)-2\nCH011IU-Chemistry for Engineers-3\nCH012IU-Chemistry Laboratory-1\nEN007IU-Writing AE1-2\nEN008IU-Listening AE1-2\nEE050IU-Intro to Computer for Engineers-3\nPT001IU-Physical Training 1-0\n\nHọc kì 2:\nMA003IU-Calculus 2-4\nMA027IU-Applied Linear Algebra-2\nPH014IU-Physics 2 (Thermodynamics)-2\nPE021IU-General Laws-3\nEN011IU-Writing AE 2-2\nEN012IU-Speaking AE2-2\nEE049IU-Introduction to EE-3\nPT002IU-Physical Training 2-0\n"
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Ngành Kỹ thuật Điều khiển và Tự động hóa: Năm 2",
+      "content": "Học kì 1:\nEEAC021IU-Mathematics for Engineers-4\nEE051IU-Principles of EE 1-3\nEE052IU-Principles of EE 1 Lab-1\nEE057IU-Programming for Engineers-3\nEE058IU-Programming for Engineers Lab-1\nPE015IU-Philosophy of Marxism and Leninism-3\nPE016IU-Political economics of Marxism and Leninism-2\n\nHọc kì 2:\nMA024IU-Differential Equations-4\nMA026IU-Probability& Random Process-3\nEE055IU-Principles of EE 2-3\nEE056IU-Principles of EE 2 Lab-1\nEE053IU-Digital Logic Design-3\nEE054IU-Digital Logic Design Lab-1\nPH012IU-Physics 4 (Optics & Atomics)-2\nPE017IU-Scientific socialism-2\n"
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Ngành Kỹ thuật Điều khiển và Tự động hóa: Năm 3",
+      "content": "Học kì 1:\nEE088IU-Signals & Systems-3\nEE089IU-Signals & Systems Lab-1\nEE083IU-Micro-processing Systems-3\nEE084IU-Micro-processing Systems Lab-1\nEE010IU-Electromagnetic Theory-3\nPE018IU-History of Vietnamese Communist Party -2\nEE090IU-Electronics Devices-3\nEE091IU-Electronics Devices Lab-1\n\nHọc kì 2:\nEE092IU-Digital Signal Processing-3\nEE093IU-Digital Signal Processing Lab-1\nEE068IU-Principles of Com. Systems-3\nEE115IU-Principles of Com. Systems Lab-1\nEE130IU-Capstone Design 1-2\nPH012IU-Physics 4 (Optics & Atomics)-2\nPE—IU-Engineering Ethics and Critical Thinking\n"
+    },
+    {
+      "chunk_id": "chunk_11",
+      "title": "Ngành Kỹ thuật Điều khiển và Tự động hóa: Năm 4",
+      "content": "Học kì 1:\nEE131IU-Capstone Design 2-2\nEEAC–IU-AC Elective Course 01-4\nEEAC004IU-PC Based Control and SCADA System-3\nEEAC005IU-PC Based Control and SCADA System Lab-1\nGeneral Elective-3\nEEAC008IU-Sensors and Instrumentation-3\nPE019IU-Ho Chi Minh’s Thoughts-2\n\nHọc kì 2:\nEE107IU-Senior Project-2\nEE114IU-Entrepreneurship-3\nEEAC–IU-AC Elective Course 02-3\nEEAC–IU-AC Elective Course 03-3\nEEAC–IU-AC Elective Course 04-3\nEEAC–IU-AC Elective Course 05-3\nEE112IU-Summer Internship-3\n"
+    },
+    {
+      "chunk_id": "chunk_12",
+      "title": "Ngành Kỹ thuật Điều khiển và Tự động hóa: Năm 5",
+      "content": "Học kì 1:\nEE097IU Thesis-10\nGeneral Elective Course của Kỹ thuật Điều khiển và Tự động hóa\nSubject’s ID\t Subjects\tCredit(s)\nBA003IU-Principles of Marketing-3\nBA006IU-Business Communication-3\nBA027IU-E-Commerce-3\nBA098IU-Leadership-3\nBA117IU-Introduction to Micro Economics-3\nBA120IU-Business Computing Skills-3\nENEE1001IU-Engineering Drawing-3 (2+1 lab)\nPE014IU-Environmental Science-3\nENEE2008IU-Environmental Ecology-3\nCE103IU+04-Computer-Aided Design and Drafting (CADD)+Practice CAD-3 + 1\nCE211IU-Hydrology – Hydraulics-3\nIT069IU-Object-Oriented Programming-3\nBM030IU-Machine Design-3\nIS085IU-CAD/CAM/CNC-3 (2+1 lab)\nIS019IU-Production Management-3\nIS034IU-Product Design & Development-3\nIS040IU-Management Information System-3\nIS065IU-Supply Security and Risk Management-3\nPH027IU-Earth observation and the environment-3\nPH018IU-Introduction to Space Engineering-3\nPH035IU-Introduction to Space Communications-3\nPH036IU-Remote Sensing-3\nPH037IU-Space Environment-3\nPH040IU-Satellite Technology-3\nEL017IU-Language and Culture-3\nEL018IL-Cross-Cultural Communication-3\nEL021IL-Global Englishes-3\nEE072IU-Computer and Communication Network-3\nAC Elective Courses của Kỹ thuật Điều khiển và Tự động hóa\nEE061IU-Analog Electronics-3\nEE062IU-Analog Electronics Laboratory-1\nEEAC011IU-Automation Manufacturing System and Technique-3\nEEAC012IU-Automation Manufacturing System and Technique Laboratory-1\nEEAC013IU-Power System and Equipment-3\nEEAC014IU-Neuron Network and Fuzzy Logics-3\nEEAC015IU-Robotics-3\nEEAC016IU-Industrial Electronics-3\nEEAC017IU-Digital Control-3\nEEAC009IU-Electric Safety-3\nEEAC010IU-Electric Machine-3\nEE104IU-Embedded Real-time Systems-3\nEE118IU-Embedded Real-time Systems Laboratory-1\nEE102IU0-Stochastic Signal Processing-3\nEE103IU-Image Processing and Computer Vision-3\nEE122IU-Image Processing and Computer Vision Laboratory-1\nEEAC018IU-Advanced Control Engineering-3\nEEAC019IU-System Diagnostic-3\nEE068IU-Principles of Communication-3\nEE115IU-Principles of Communication Laboratory-1\nEE079IU-Power Electronics-3\nEEAC003IU-Power Electronics Laboratory-1\nEE127IU-Machine learning and Artificial Intelligence-3\nEE133IU-Emerging Engineering Technologies-3\n"
+    }
+  ]
+}

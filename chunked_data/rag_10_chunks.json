@@ -1,0 +1,85 @@
+{
+  "document_id": "10",
+  "type": "policy",
+  "metadata": {
+    "total_points": 15,
+    "total_sub_points": 0
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Header",
+      "content": "ĐẠI HỌC QUỐC GIA TP.HCM. CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC QUỐC TẾ Độc lập - Tự do - Hạnh phúc \nThành phố Hồ Chí Minh, ngày 9 tháng 9 năm 2008\nNỘI QUY SINH VIÊN\n\n(Ban hành theo Quyết định số 276 /QĐ-ĐHQT/ĐT ngày 10/9/2008\ncủa Hiệu trưởng Trường Đại học Quốc tế Tp.HCM)\n\nĐể đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc\ngia TP.HCM. Trường Đại Học Quốc Tế để ra Nội quy sinh viên như sau:"
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Điểm 1",
+      "content": "Lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh\n\nlịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường\n\nbằng Tiếng Anh."
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Điểm 2",
+      "content": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa\n\nđồng và sẵn sàng giúp đỡ bạn bè."
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Điểm 3",
+      "content": "Đi xe buýt cần xếp hàng thứ tự trước sau khi lên xe, g1ữ gìn vệ sinh, văn minh lịch sự\n\nvà trật tự trên xe buýt."
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Điểm 4",
+      "content": "Giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không mang hoặc sử\n\ndụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm."
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Điểm 5",
+      "content": "Không được nằm ở khu vực hành lang, trên lối đi, được nghỉ trưa tại phòng học từ I1\n\ngiờ 30 đến 12 giờ"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Điểm 6",
+      "content": "Phải đảm bảo an ninh trật tự trong khuôn viên nhà trường, không gây tiếng ồn, không\n\nsử dụng các phương tiện gây tiếng ồn; không chơi thể thao, chạy nhảy đùa giỡn trong\n\nphòng học, khu vực gần phòng học, khu vực hành chính gây ảnh hưởng tới hoạt động của\n\nnhà trường."
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Điểm 7",
+      "content": "Tuân thủ theo tất cả quy định chung của tòa nhà Điều hành ĐHQG-HCM. Các loại\n\nphương tiện vào trường phải gửi đúng nơi quy định."
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Điểm 8",
+      "content": "Giữ gìn bảo quản tài sản và các trang thiết bị của nhà trường. Thực hiện tốt quy định\n\nvề việc mượn và trả thiết bị phục vụ công tác giảng dạy. Không tự ý di chuyển, sắp xếp,\n\nđiều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không dán giấy, viết vẽ trên tường,\n\nbàn học. Chỉ được phép tổ chức hội họp, di chuyển bàn ghế, trang trí phòng học, sử dụng\n\ncác trang thiết bị khi có sự chấp thuận của Phòng Quản trị Thiết bị."
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Điểm 9",
+      "content": "Không được sử dụng trang thiết bị của nhà trường vào các mục đích khác với học tập\n\nvà nghiên cứu."
+    },
+    {
+      "chunk_id": "chunk_11",
+      "title": "Điểm 10",
+      "content": "Không đùa giỡn trong thang máy, tùy tiện bấm chọn các tầng khi không có nhu cầu."
+    },
+    {
+      "chunk_id": "chunk_12",
+      "title": "Điểm 11",
+      "content": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học."
+    },
+    {
+      "chunk_id": "chunk_13",
+      "title": "Điểm 12",
+      "content": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã\n\nhội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được\n\nHiệu trưởng cho phép."
+    },
+    {
+      "chunk_id": "chunk_14",
+      "title": "Điểm 13",
+      "content": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất\n\ngây cháy nổ, chất ma túy, hàng cấm ..; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet. Nghiêm cấm tổ chức,\ntham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn\ngiáo trong nhà trường và các hoạt động vi phạm đạo đức khác."
+    },
+    {
+      "chunk_id": "chunk_15",
+      "title": "Điểm 14",
+      "content": "Nội quy này được áp dụng kể từ ngày ký. Mọi vi phạm tùy mức độ cụ thể sẽ được\nxử lý từ khiển trách đến buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan\nchức năng xử lý theo qui định của pháp luật."
+    }
+  ]
+}

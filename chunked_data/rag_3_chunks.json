@@ -1,0 +1,244 @@
+{
+  "document_id": "quy_dinh_vi_pham",
+  "type": "vi_pham",
+  "metadata": {
+    "nguồn": "3.json",
+    "ngôn_ngữ": "vi",
+    "ngày_xử_lý": "2025-05-26T22:34:53.805235",
+    "phiên_bản": "1.0",
+    "tổng_số_vi_pham": 49,
+    "phân_bố_mức_độ": {
+      "khiển_trách": 0,
+      "cảnh_cáo": 4,
+      "đình_chỉ_học_tập": 5,
+      "buộc_thôi_học": 28
+    }
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Vi phạm 1.",
+      "content": "Mô tả: Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép\nHình thức xử lý:\n- Khiển trách: Lần 2\n- Cảnh cáo: Lần 3\nGhi chú: Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học tập 1 học kỳ\nMức độ: cảnh cáo"
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Vi phạm 2.",
+      "content": "Mô tả: Nghỉ học không có lý do trong 01 học kỳ\nHình thức xử lý:\n- Cảnh cáo: Lần 1\nMức độ: cảnh cáo"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Vi phạm 3.",
+      "content": "Mô tả: Người học có số lần cảnh báo học tập vượt quá 02 lần liên tiếp hoặc vượt quá 03 lần không liên tiếp\nHình thức xử lý:\n- Buộc thôi học: Lần 1\nGhi chú: Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín chỉ tại trường Đại học Quốc tế\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Vi phạm 4.",
+      "content": "Mô tả: Người học có thời gian học tập vượt quá 02 lần thời gian theo chương trình đào tạo trình độ đại học của trường.\nHình thức xử lý:\n- Buộc thôi học: Lần 1\nGhi chú: Căn cứ Quyết định số 719/QĐ-ĐHQT về việc ban hành Quy chế Đào tạo trình độ Đại học theo hệ thống tín chỉ tại trường Đại học Quốc tế\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Vi phạm 5.",
+      "content": "Mô tả: Mất trật tự, làm việc riêng trong giờ học, giờ thực tập và tự học\nHình thức xử lý:\n- Khiển trách: Lần 2\n- Cảnh cáo: Lần 3\nGhi chú: Sau khi cảnh cáo, SV tiếp tục vi phạm sẽ đình chỉ học tập 1 học kỳ\nMức độ: cảnh cáo"
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Vi phạm 6.",
+      "content": "Mô tả: Vô lễ, gây gổ, chống đối đe dọa, lăng mạ với giảng viên, viên chức, người lao động làm việc tại trường; xúc phạm danh dự, nhân phẩm người khác.\nGhi chú: Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Vi phạm 7.",
+      "content": "Mô tả: Đi học thay người khác hoặc nhờ người khác đi học thay; thi, kiểm tra thay\nHình thức xử lý:\n- Đình chỉ học tập: Lần 1\n- Buộc thôi học: Lần 2\nGhi chú: Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học; Thời hạn đình chỉ học\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Vi phạm 8.",
+      "content": "Mô tả: Tổ chức học, thi, kiểm tra thay; tổ chức làm thay tiểu luận, đồ án, khóa luận tốt nghiệp.\nHình thức xử lý:\n- Buộc thôi học: Lần 1\nGhi chú: Tùy theo mức độ có thể giao cho cơ quan chức năng điều tra xử lý theo quy định của pháp luật.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Vi phạm 9.",
+      "content": "Mô tả: Mang tài liệu vào phòng thi, đưa đề thi ra ngoài nhờ làm hộ, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra.\nGhi chú: Tùy theo tính chất, mức độ hành vi vi phạm sẽ bị xem xét xử lý theo quy định về xử lý thí sinh vi phạm tại Quy chế thi tốt nghiệp Trung học phổ thông hiện hành, riêng hình thức xử lý đình chỉ học tập và buộc thôi học không áp dụng trong trường hợp này và hành vi liên quan đến việc thi hộ, học hộ bị áp dụng xử lý theo quy định tại mục 7 và 8 của Phụ lục này."
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Vi phạm 10.",
+      "content": "Mô tả: Có hành vi mua bán, gian lận trong đăng ký môn học. Cố tình đăng nhập tài khoản của người học khác mà không được sự đồng ý; Sử dụng tài khoản của nhà trường cho các mục đích vi phạm pháp luật.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_11",
+      "title": "Vi phạm 11.",
+      "content": "Mô tả: Sử dụng hồ sơ, văn bằng, chứng chỉ giả để trúng tuyển hoặc làm điều kiện trúng tuyển.\nHình thức xử lý:\n- Buộc thôi học: Lần 1\nGhi chú: Căn cứ quy định tại Thông tư số 08/2021/TT-BGDĐT và Quyết định số 719/QĐ- ĐHQT về việc ban hành Quy chế Đào tạo trình độ\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_12",
+      "title": "Vi phạm 12.",
+      "content": "Mô tả: Cố tình chậm hoặc không đóng học phí mà không có lý do chính đáng.\nGhi chú: Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học."
+    },
+    {
+      "chunk_id": "chunk_13",
+      "title": "Vi phạm 13.",
+      "content": "Mô tả: Không tham gia bảo hiểm y tế theo quy định của nhà nước mà không có lý do chính đáng.\nHình thức xử lý:\n- Khiển trách: Lần 2\n- Cảnh cáo: Lần 3\nGhi chú: Căn cứ Quyết định 953/QĐ- ĐHQG: Lần 1 – nhắc nhở bằng văn bản và trừ điểm rèn luyện.\nMức độ: cảnh cáo"
+    },
+    {
+      "chunk_id": "chunk_14",
+      "title": "Vi phạm 14.",
+      "content": "Mô tả: Làm hư hỏng tài sản, hệ thống mạng, dữ liệu Trường, ký túc xá\nGhi chú: Tuỳ theo mức độ xử lý từ khiển trách đến buộc thôi học, phải bồi thường thiệt hại hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật"
+    },
+    {
+      "chunk_id": "chunk_15",
+      "title": "Vi phạm 15.",
+      "content": "Mô tả: Uống rượu, bia, sử dụng chất kích thích trong giờ học; say rượu, bia khi đến lớp.\nHình thức xử lý:\n- Khiển trách: Lần 1\n- Cảnh cáo: Lần 2\n- Đình chỉ học tập: Lần 3\n- Buộc thôi học: Lần 4\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_16",
+      "title": "Vi phạm 16.",
+      "content": "Mô tả: Hút thuốc lá (kể cả thuốc lá điện tử) trong khuôn viên nhà trường.\nHình thức xử lý:\n- Khiển trách: Lần 2\n- Cảnh cáo: Lần 3\n- Đình chỉ học tập: Lần 4\nGhi chú: Lần 1 nhắc nhở\nMức độ: đình chỉ học tập"
+    },
+    {
+      "chunk_id": "chunk_17",
+      "title": "Vi phạm 17.",
+      "content": "Mô tả: Đánh bạc dưới mọi hình thức trong khuôn viên nhà trường\nHình thức xử lý:\n- Khiển trách: Lần 1\n- Cảnh cáo: Lần 2\n- Đình chỉ học tập: Lần 3\n- Buộc thôi học: Lần 4\nGhi chú: Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_18",
+      "title": "Vi phạm 18.",
+      "content": "Mô tả: Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hoá đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo trái phép\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_19",
+      "title": "Vi phạm 19.",
+      "content": "Mô tả: Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma tuý, chất hướng thần, chất gây nghiện.\nHình thức xử lý:\n- Buộc thôi học: Lần 1\nGhi chú: Giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_20",
+      "title": "Vi phạm 20.",
+      "content": "Mô tả: Sử dụng ma tuý, chất hướng thần, chất gây nghiện.\nGhi chú: Xử lý theo quy định về xử lý SV sử dụng ma tuý"
+    },
+    {
+      "chunk_id": "chunk_21",
+      "title": "Vi phạm 21.",
+      "content": "Mô tả: Chứa chấp, môi giới hoạt\nHình thức xử lý:\n- Buộc thôi học: Lần 1\nGhi chú: Giao cho cơ quan chức năng\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_22",
+      "title": "Vi phạm 22.",
+      "content": "Mô tả: Hoạt động mại dâm\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_23",
+      "title": "Vi phạm 23.",
+      "content": "Mô tả: Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_24",
+      "title": "Vi phạm 24.",
+      "content": "Mô tả: Chứa chấp buôn bán vũ khí, chất nổ, chất dễ cháy và các hàng cấm theo quy định của Nhà nước.\nHình thức xử lý:\n- Buộc thôi học: Lần 1\nGhi chú: Giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_25",
+      "title": "Vi phạm 25.",
+      "content": "Mô tả: Đưa phần tử xấu vào trong Trường, Ký túc xá, gây ảnh hưởng xấu đến an ninh, trật tự trong Trường.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_26",
+      "title": "Vi phạm 26.",
+      "content": "Mô tả: Gây rối an ninh, trật tự an toàn trong Trường hoặc ngoài xã hội.\nGhi chú: Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học."
+    },
+    {
+      "chunk_id": "chunk_27",
+      "title": "Vi phạm 27.",
+      "content": "Mô tả: Đe dọa, khủng bố tinh thần người khác.\nHình thức xử lý:\n- Khiển trách: Lần 1\n- Cảnh cáo: Lần 2\n- Đình chỉ học tập: Lần 3\nGhi chú: Tùy theo mức độ, tính chất xử lý từ khiển trách đến đình chỉ học tập có thời hạn.\nMức độ: đình chỉ học tập"
+    },
+    {
+      "chunk_id": "chunk_28",
+      "title": "Vi phạm 28.",
+      "content": "Mô tả: Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_29",
+      "title": "Vi phạm 29.",
+      "content": "Mô tả: Kích động, lôi kéo người khác biểu tình, viết truyền đơn, áp phích trái pháp luật.\nHình thức xử lý:\n- Đình chỉ học tập: Lần 1\n- Buộc thôi học: Lần 2\nGhi chú: Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_30",
+      "title": "Vi phạm 30.",
+      "content": "Mô tả: Vay, cho vay, tổ chức cho vay tín dụng đen.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_31",
+      "title": "Vi phạm 31.",
+      "content": "Mô tả: Tham gia, mời gọi, lôi kéo tham gia các hoạt động đa cấp bất chính.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng giao cho cơ quan chức năng xử lý theo quy định của pháp luật.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_32",
+      "title": "Vi phạm 32.",
+      "content": "Mô tả: Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp luật.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_33",
+      "title": "Vi phạm 33.",
+      "content": "Mô tả: Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật.\nHình thức xử lý:\n- Khiển trách: Lần 1\n- Cảnh cáo: Lần 2\n- Đình chỉ học tập: Lần 3\n- Buộc thôi học: Lần 4\nGhi chú: Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_34",
+      "title": "Vi phạm 34.",
+      "content": "Mô tả: Tổ chức, tham gia các hoạt động tập thể mang danh nghĩa Trường, ĐHQG- HCM khi chưa được Hiệu trưởng Nhà trường và ĐHQG-HCM cho phép.\nGhi chú: Tùy theo mức độ, tính chất xử lý từ cảnh cáo đến buộc thôi học. Nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật."
+    },
+    {
+      "chunk_id": "chunk_35",
+      "title": "Vi phạm 35.",
+      "content": "Mô tả: Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, đưa tin thất thiệt, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng internet. Viết bài, tuyên truyền, phản ánh sai sự thật làm ảnh hưởng đến uy tín nhà trường.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tùy theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_36",
+      "title": "Vi phạm 36.",
+      "content": "Mô tả: Có hành động quấy rối, dâm ô, xúc phạm nhân phẩm, đời\nHình thức xử lý:\n- Đình chỉ học tập: Lần 1\n- Buộc thôi học: Lần 2\nGhi chú: Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_37",
+      "title": "Vi phạm 37.",
+      "content": "Mô tả: Cố tình quay phim, ghi âm khi không có sự đồng thuận của người khác.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_38",
+      "title": "Vi phạm 38.",
+      "content": "Mô tả: Vi phạm các quy định về an toàn giao thông, quy định ngoại trú.\nHình thức xử lý:\n- Khiển trách: Lần 1\n- Cảnh cáo: Lần 2\n- Đình chỉ học tập: Lần 3\n- Buộc thôi học: Lần 4\nGhi chú: Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_39",
+      "title": "Vi phạm 39.",
+      "content": "Mô tả: Giả mạo chữ ký của người khác; Sử dụng giấy tờ không hợp pháp.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Tuỳ theo mức độ, xử lý từ cảnh cáo đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật; Riêng hành vi liên quan đến việc sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp bị áp dụng xử lý theo quy định tại mục 11 của Phụ lục này.\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_40",
+      "title": "Vi phạm 40.",
+      "content": "Mô tả: Đưa người lạ vào trường, thư viện, phòng lab, lớp học không xin phép; Không tuân thủ đeo thẻ SV trong khuôn viên trường; Có thái độ ứng xử không chuẩn mực với các đơn vị chức năng liên quan.\nHình thức xử lý:\n- Khiển trách: Lần 1\n- Cảnh cáo: Lần 2\n- Đình chỉ học tập: Lần 3\nMức độ: đình chỉ học tập"
+    },
+    {
+      "chunk_id": "chunk_41",
+      "title": "Vi phạm 41.",
+      "content": "Mô tả: Giả mạo thẻ CMND, thẻ SV, thẻ nội trú, thẻ xe buýt, thẻ thư viện, thẻ căn tin… của người khác.\nHình thức xử lý:\n- Cảnh cáo: Lần 1\n- Đình chỉ học tập: Lần 2\n- Buộc thôi học: Lần 3\nGhi chú: Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_42",
+      "title": "Vi phạm 42.",
+      "content": "Mô tả: Nhặt được của rơi không trả lại người bị mất, trả lại nhưng đòi tiền chuộc.\nHình thức xử lý:\n- Cảnh cáo: Tài sản ≤ 10 lần mức lương cơ sở\n- Đình chỉ học tập: Tài sản > 10 lần mức lương cơ sở\n- Buộc thôi học: Tài sản thuộc di tích lịch sử, văn hóa\nGhi chú: Tuỳ theo mức độ, xử lý từ khiển trách đến buộc thôi học hoặc giao cho cơ quan chức năng xử lý theo quy định của pháp luật\nMức độ: buộc thôi học"
+    },
+    {
+      "chunk_id": "chunk_43",
+      "title": "Vi phạm 43.",
+      "content": "Mô tả: Mặc trang phục hở hang, lộ liễu, vi phạm thuần phong mỹ tục của dân tộc.\nHình thức xử lý:\n- Khiển trách: Lần 2\n- Cảnh cáo: Lần 3\n- Đình chỉ học tập: Lần 4\nGhi chú: Lần 1 nhắc nhở.\nMức độ: đình chỉ học tập"
+    },
+    {
+      "chunk_id": "chunk_44",
+      "title": "Vi phạm 44.",
+      "content": "Mô tả: Có những hành động cử chỉ tình cảm vượt quá giới hạn trong khuôn viên nhà trường.\nHình thức xử lý:\n- Khiển trách: Lần 2\n- Cảnh cáo: Lần 3\n- Đình chỉ học tập: Lần 4\nGhi chú: Lần 1 nhắc nhở.\nMức độ: đình chỉ học tập"
+    },
+    {
+      "chunk_id": "chunk_45",
+      "title": "Vi phạm 45.",
+      "content": "Mô tả: Các vi phạm khác: Vi phạm quy tắc ứng xử dành cho người học, vi phạm khác ngoài trường, trên mạng xã hội…\nGhi chú: Tùy theo mức độ, nhà trường xem xét, nhắc nhở, phê bình, trừ ĐRL hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "document_id": "IT_HCMIU",
+  "type": "course_structure",
+  "metadata": {
+    "total_faculties": 1,
+    "total_majors": 4,
+    "total_years": 17,
+    "total_semesters": 32
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_1",
+      "title": "Ngành Mạng Máy Tính",
+      "content": "Cơ hội nghề nghiệp:\nKỹ sư Phần mềm, Phân tích, thiết kế và phát triển phần mềm cho các cơ quan chính phủ, viện nghiên cứu và doanh nghiệp.\nKỹ sư Mạng, Thiết kế và quản lý hạ tầng mạng máy tính và hệ thống thông tin tại các doanh nghiệp trong và ngoài nước, ngân hàng và sàn giao dịch chứng khoán.\n\nMục tiêu đào tạo:\n1. Chuyên ngành Kỹ thuật Mạng trang bị kiến thức nền tảng và nâng cao, chú trọng cả lý thuyết lẫn kỹ năng thực hành trong lĩnh vực mạng và hệ thống. Kiến thức cơ sở về Mạng Máy tính, Hệ điều hành Máy tính và Lập trình Ứng dụng Mạng được giảng dạy trong chuyên ngành này. Kiến thức chuyên sâu như Mạng Không dây, Quản trị Mạng và Hệ thống, An ninh Mạng và Hệ thống, ứng dụng IoT và Điện toán Phân tán cũng được cung cấp cho sinh viên."
+    },
+    {
+      "chunk_id": "chunk_2",
+      "title": "Ngành Mạng Máy Tính: Năm 1",
+      "content": "Học kì 1:\nCalculus 1-4\nPhysical Training 1-3\nListening AE1-2\nWriting AE1-2\nIntroduction to Computing-3\nC/C++ Programming-4\n\nHọc kì 2:\nDiscrete Mathematics-3\nDigital Logic Design-3\nDigital Logic Design Laboratory-1\nSpeaking AE2-2\nWriting AE2-2\nObject-Oriented Programming-4\nPhysics 1-2\n"
+    },
+    {
+      "chunk_id": "chunk_3",
+      "title": "Ngành Mạng Máy Tính: Năm 2",
+      "content": "Học kì 1:\nCalculus 2-4\nLinear Algebra-3\nAlgorithms and Data Structures-4\nPrinciples of Database Management-4\nMarxist – Leninist Political Economy-2\nPhilosophy Marx – Lenin-3\n\nHọc kì 2:\nComputer Architecture-4\nComputer Networks-4\nWeb Application Development-4\nProbability, Statistic & Random Process-3\nScientific Socialism-2\n"
+    },
+    {
+      "chunk_id": "chunk_4",
+      "title": "Ngành Mạng Máy Tính: Năm 3",
+      "content": "Học kì 1:\nOperating System-4\nNet-Centric Programming-4\nSystem & Network Administration-4\nPhysical Training 2-3\nPhysics 3-3\nPhysics 3 Laboratory-1\n\nHọc kì 2:\nElective 1-4\nInformation System Management-4\nSystem and Network Security-4\nHistory of Vietnamese Communist Party-2\nHo Chi Minh’s Thoughts-2\nInternship for engineers-7\n"
+    },
+    {
+      "chunk_id": "chunk_5",
+      "title": "Ngành Mạng Máy Tính: Năm 4",
+      "content": "Học kì 1:\nElective 2-4\nArtificial intelligence-4\nEntrepreneurship-3\nScalable and Distributed Computing-4\n\nHọc kì 2:\nElective 3-4\nInternet of Things-4\nEngineering Ethics and Professional Skills-3\nSpecial Study of the Field-3\n"
+    },
+    {
+      "chunk_id": "chunk_6",
+      "title": "Ngành Mạng Máy Tính: Năm 5",
+      "content": "Học kì 1:\nThesis-10\nGeneral Law-3\nElective của Mạng Máy Tính\nIT103IU-Digital Signal Processing-4\nIT105IU-Digital System Design-3\nIT106IU-Digital System Design Laboratory-1\nIT110IU-Concepts in VLSI Design-3\nIT126IU-Concepts in VLSI Design Laboratory-1\nIT114IU-Software Architecture-4\nIT115IU-Embedded Systems-3\nIT127IU-Embedded Systems Laboratory-1\nIT128IU-Microprocessing Systems-3\nIT129IU-Microprocessing Systems Laboratory-1\nIT133IU-Mobile Application Development\t4\nIT138IU-Data Science and Data Visualization-4\nIT140IU-Fundamental Concepts of Data Security-4\nIT164IU-Cloud Computing-4\nIT150IU-Blockchain-4\nIT151IU-Development & Operation (DevOps)-4\nIT157IU-Deep Learning-4\nIT158IU-UI Design and Evaluation-4\nIT166IU-Software Quality Verification and Validation-4\nIT167IU-Game Application Development-4\nPE008IU-Critical Thinking-3\nIT131IU-Theoretical Models in Computing-4\nIT163IU-Optimization and Applications-4\nIT024IU-Computer Graphics-4\nIT056IU-IT Project Management-4\nIT068IU-Principles of Electrical Engineering I-3\nIT074IU-Electronics Devices-3\nIT076IU-Software Engineering-4\nIT090IU-Object-Oriented Analysis and Design-4\nIT092IU-Principles of Programming Languages-4\nIT098IU-Principles of Electrical Engineering I Laboratory-1\nIT101IU-Electronics Devices Laboratory-1\nIT130IU-Digital Image Processing-4\nIT160IU-Data Mining-4\nIT144IU-Business Process Analysis-4\nIT145IU-Decision Support Systems-4\nFree elective-4\n"
+    },
+    {
+      "chunk_id": "chunk_7",
+      "title": "Ngành Kỹ Thuật Máy Tính",
+      "content": "Cơ hội nghề nghiệp:\nKỹ sư Phần cứng, Phân tích, thiết kế và phát triển các thiết bị phần cứng, hệ thống phần cứng và phần mềm nhúng liên quan để hỗ trợ hoạt động của các thiết bị đó. Các kỹ sư phần cứng có thể làm việc tại các công ty tập trung vào phần cứng như Intel, Renesas, Samsung, Asus và các công ty khác.\n\nMục tiêu đào tạo:\n1. Chuyên ngành Kỹ thuật Máy tính trang bị cho sinh viên kiến thức nền tảng và nâng cao về phần cứng máy tính, các nguyên tắc và phương pháp thiết kế, phát triển các hệ thống phần cứng và phần mềm phục vụ hoạt động của các thiết bị phần cứng. Kiến thức Kỹ thuật Máy tính bao gồm nhiều khía cạnh của điện toán, chẳng hạn như thiết kế mạch điện tử, vi xử lý, máy tính cá nhân, siêu máy tính và đặc biệt là các hệ thống nhúng được sử dụng trong các thiết bị điện tử hiện đại."
+    },
+    {
+      "chunk_id": "chunk_8",
+      "title": "Ngành Kỹ Thuật Máy Tính: Năm 1",
+      "content": "Học kì 1:\nCalculus 1-4\nPhysical Training 1-3\nListening AE1-2\nWriting AE1-2\nIntroduction to Computing-3\nC/C++ Programming-4\n\nHọc kì 2:\nDiscrete Mathematics-3\nDigital Logic Design-3\nDigital Logic Design Laboratory-1\nSpeaking AE2-2\nWriting AE2-2\nObject-Oriented Programming-4\nPhysics 1-2\n"
+    },
+    {
+      "chunk_id": "chunk_9",
+      "title": "Ngành Kỹ Thuật Máy Tính: Năm 2",
+      "content": "Học kì 1:\nCalculus 2-4\nLinear Algebra-3\nAlgorithms and Data Structures-4\nPrinciple of Electrical Engineering I-3\nPrinciple of Electrical Engineering I Laboratory-1\nMarxist – Leninist Political Economy-2\nPhilosophy Marx – Lenin-3\n\nHọc kì 2:\nComputer Architecture-4\nComputer Networks-4\nElectronic Devices-3\nElectronic Devices Laboratory-1\nProbability, Statistic & Random Process-3\nScientific Socialism-2\n"
+    },
+    {
+      "chunk_id": "chunk_10",
+      "title": "Ngành Kỹ Thuật Máy Tính: Năm 3",
+      "content": "Học kì 1:\nOperating System-4\nPrinciples of Database Management-4\nMicro-processing Systems-3\nMicro-processing Systems Laboratory-1\nPhysical Training 2-3\nPhysics 3-3\nPhysics 3 Laboratory-1\n\nHọc kì 2:\nElective 1-4\nDigital System Design-3\nDigital System Design Laboratory-1\nEmbedded Systems-4\nEmbedded Systems Laboratory-1\nHistory of Vietnamese Communist Party-2\nHo Chi Minh’s Thoughts-2\nInternship for engineers-7\n"
+    },
+    {
+      "chunk_id": "chunk_11",
+      "title": "Ngành Kỹ Thuật Máy Tính: Năm 4",
+      "content": "Học kì 1:\nElective 2-4\nConcepts in VLSI Design-3\nConcepts in VLSI Design Laboratory-1\nDigital Signal Processing-4\nArtificial intelligence-4\n\nHọc kì 2:\nInternet of Things-4\nEngineering Ethics and Professional Skills-3\nSpecial Study of the Field-3\nEntrepreneurship-3\n"
+    },
+    {
+      "chunk_id": "chunk_12",
+      "title": "Ngành Kỹ Thuật Máy Tính: Năm 5",
+      "content": "Học kì 1:\nThesis-10\nGeneral Law-3\nElective của Kỹ Thuật Máy Tính\nIT144IU-Business Process Analysis-4\nIT145IU-Decision Support Systems-4\nIT147IU-Mobile Cloud Computing-4\nIT150IU-Blockchain-4\nIT156IU-Development & Operation (DevOps)-4\nIT157IU-Deep Learning-4\nIT158IU-UI Design and Evaluation-4\nIT131IU-Theoretical Models in Computing-4\nIT165IU-Security Technology and Implementation-4\nIT166IU-Software Quality Verification and Validation-4\nIT167IU-Game Application Development-4\nIT093IU-Web Application Development-4\nIT094IU-Information System Management-4\nIT096IU-Net-Centric Programming-4\nIT114IU-Software Architecture-4\nIT117IU-System and Network Security-4\nIT125IU-System and Network Administration-4\nIT139IU-Scalable and Distributed Computing-4\nIT163IU-Optimization and Applications-4\nIT024IU-Computer Graphics-4\nIT056IU-IT Project Management-4\nIT076IU-Software Engineering-4\nIT090IU-Object-Oriented Analysis and Design-4\nIT092IU-Principles of Programming Languages-4\nPE008IU-Critical Thinking-3\nIT160IU-Data Mining-4\nIT133IU-Mobile Application Development-4\nIT138IU-Data Science and Visualization-4\nIT140IU-Fundamental Concepts of Data Security-4\nFree elective-4\n"
+    },
+    {
+      "chunk_id": "chunk_13",
+      "title": "Ngành Khoa Học Dữ Liệu",
+      "content": ""
+    },
+    {
+      "chunk_id": "chunk_14",
+      "title": "Ngành Khoa Học Dữ Liệu: Năm 1",
+      "content": "Học kì 1:\nCalculus 1-4\nIntroduction to Data Science-3\nWriting AE1-2\nFundamentals of Programming-4\nListening AE1-2\n\nHọc kì 2:\nProbability, Statistic & Random Process-2\nLinear Algebra-3\nWriting AE2-2\nPhilosophy Marx -Lenin-3\nObject-Oriented Programming-4\nSpeaking AE-2\n"
+    },
+    {
+      "chunk_id": "chunk_15",
+      "title": "Ngành Khoa Học Dữ Liệu: Năm 2",
+      "content": "Học kì 1:\nMarx-Lenin Political Economy-2\nStatistical Method-3\nData Structures and Algorithms-4\nPrinciples of Database Management-4\nFundamental Concepts of Data Security-4\n\nHọc kì 2:\nScientific Socialism-2\nGeneral law-3\nArtificial Intelligence-4\nStatistical Learning-4\nRegression Analysis-4\nPhysical Training 1-3\n"
+    },
+    {
+      "chunk_id": "chunk_16",
+      "title": "Ngành Khoa Học Dữ Liệu: Năm 3",
+      "content": "Học kì 1:\nHistory of Vietnamese Communist Party-2\nData Science and Data Visualization-4\nData Mining-4\nScalable and Distributed Computing-4\nData Analysis-4\n\nHọc kì 2:\nHo Chi Minh’s Thoughts-2\nMachine Learning-4\nDeep Learning-4\nElective-4\nElective-4\nInternship for engineers-7\n"
+    },
+    {
+      "chunk_id": "chunk_17",
+      "title": "Ngành Khoa Học Dữ Liệu: Năm 4",
+      "content": "Học kì 1:\nSpecial Study of the Field-3\nBig Data Analytics-4\nPhysical Training 2-3\nFree Elective-3/4\nElective-3/4\n\nHọc kì 2:\nInternship-3\nThesis-10\nElective của Khoa Học Dữ Liệu\nBusiness Process Analysis-4\nDecision Support Systems-4\nTheory of Networks-4\nTime Series Analysis-4\nBlockchain-4\nSoftware Engineering-4\nIT Project Management-4\nInformation System Management-3\nCloud Computing-4\nEntrepreneurship-3\nNatural Language Processing-4\nHuman-Computer Interaction-4\nOptimization and applications-4\nWeb Application Development-4\nDiscrete Mathematics-3\n"
+    },
+    {
+      "chunk_id": "chunk_18",
+      "title": "Ngành Khoa Học Máy Tính",
+      "content": ""
+    },
+    {
+      "chunk_id": "chunk_19",
+      "title": "Ngành Khoa Học Máy Tính: Năm 2",
+      "content": "Học kì 1:\nCalculus 2-4\nLinear Algebra-3\nAlgorithms and Data Structures-4\nPrinciples of Database Management-4\nMarxist – Leninist Political Economy-2\nPhilosophy Marx – Lenin-3\n\nHọc kì 2:\nPhysical Training 1-3\nComputer Architecture-4\nElective 1-4\nObject-Oriented Analysis and Design-4\nWeb Application Development-4\n"
+    },
+    {
+      "chunk_id": "chunk_20",
+      "title": "Ngành Khoa Học Máy Tính: Năm 3",
+      "content": "Học kì 1:\nPhysical Training 2-3\nProbability, Statistic & Random Process-3\nScientific Socialism-2\nPrinciples of Programming Languages-4\nElective 2-4\nElective 3-4\n\nHọc kì 2:\nSoftware Engineering-4\nArtificial Intelligence-4\nGeneral law-3\nHistory of Vietnamese Communist Party-2\nFree elective-3\nEntrepreneurship-3\n"
+    },
+    {
+      "chunk_id": "chunk_21",
+      "title": "Ngành Khoa Học Máy Tính: Năm 4",
+      "content": "Học kì 1:\nInternship-3\nOperating Systems-4\nHo Chi Minh’s Thoughts-2\nSpecial Study of the Field-3\n\nHọc kì 2:\nThesis-10\nElective của Khoa Học Máy Tính\nIT094IU-Information System Management-4\nIT056IU-IT Project Management-4\nIT024IU-Computer Graphics-4\nIT157IU-Deep Learning-4\nIT134IU-Internet of Things-4\nIT133IU-Mobile Application Development-4\nIT044IU-Human Computer Interaction-4\nIT164IU-Cloud computing\t4\nIT165IU-Security Technology and Implementation-4\nIT166IU-Software Quality Verification and Validation-4\nIT167IU-Game Application Development-4\nIT150IU-Blockchain-4\nIT156IU-Development & Operation (DevOps)-4\nIT138IU-Data Science and Visualization-4\nPE008IU-Critical Thinking-3\nIT160IU-Data Mining-4\nIT130IU-Digital Image Processing-4\nIT114IU-Software Architecture-4\nIT096IU-Net-centric Programming-4\n"
+    }
+  ]
+}

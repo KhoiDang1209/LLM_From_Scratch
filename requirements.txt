@@ -9,5 +9,6 @@ protobuf
 torch==2.1.0
 einops
 scipy
+langchain==0.1.0
 # Optional for Composer (only if you're using Composer instead of HF)
 composer==0.17.0  # Official MosaicML training engine
