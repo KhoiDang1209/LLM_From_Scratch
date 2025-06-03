@@ -1,5 +1,7 @@
 import streamlit as st
 import requests
+from PIL import Image
+import base64
 
 st.set_page_config(
     page_title="HCMIU Chatbot",
@@ -7,8 +9,38 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("HCMIU Chatbot")
-st.markdown("Hỏi đáp thông tin về trường Đại học Quốc tế")
+# Custom CSS for styling
+st.markdown("""
+<style>
+    .stChatMessage {
+        padding: 1rem;
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+        border: 1px solid #e0e0e0;
+    }
+    .stChatMessage[data-testid="stChatMessage"] {
+        background-color: #f8f9fa;
+    }
+    .stChatInput {
+        border-radius: 0.5rem;
+        border: 1px solid #e0e0e0;
+    }
+    .stChatInput > div {
+        background-color: white;
+    }
+    .main {
+        padding: 2rem;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# Add logo in the corner
+col1, col2 = st.columns([1, 4])
+with col1:
+    st.image("images\logo-vector-IU-01.png", width=100)
+with col2:
+    st.title("HCMIU Chatbot")
+    st.markdown("Hỏi đáp thông tin về trường Đại học Quốc tế")
 
 API_URL = "https://7218-34-125-166-77.ngrok-free.app"
 

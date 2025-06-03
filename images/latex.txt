@@ -1,0 +1,388 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{changepage}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{hyperref}
+
+% Title formatting
+\titleformat{\section}{\large\bfseries}{\thesection.}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{1em}{}
+
+\begin{document}
+
+% Header line
+\noindent\rule{\textwidth}{3pt}
+
+% Title
+\begin{center}
+{\Large\bfseries HCMIU Q\&A Chatbot with RAG and LLM Finetuning}\\
+\end{center}
+
+% Another header line
+\noindent\rule{\textwidth}{1pt}
+
+\vspace{1cm}
+
+% Author information
+\begin{center}
+{\bfseries Dang Dang Khoi ITCSIU22266}\\[5pt] % <--- CHANGE THIS LINE
+{\bfseries Ly Cao Cuong ITCSIU22252}\\[5pt] % <--- AND THIS LINE
+International University - VNU HCMC \\
+3 June 2025\\
+\href{https://github.com/KhoiDang1209/LLM_From_Scratch.git}{Github}
+\end{center}
+
+\vspace{0.5cm}
+
+% Abstract section
+\begin{center}
+{\Large\bfseries Abstract}
+\end{center}
+
+\vspace{0.5cm}
+
+This report details the development and implementation of the HCMIU Q\&A Chatbot, an intelligent conversational system designed to enhance information accessibility for students at Ho Chi Minh City International University. Recognizing the challenges students face in navigating extensive university documentation to find specific details regarding policies, violations, course structures, and the behavior points system, this chatbot provides an intuitive and immediate solution. By leveraging advanced natural language processing capabilities, the system allows students to query information at any time, receiving accurate and concise answers without the need for manual document searching. This initiative significantly improves the efficiency of information retrieval, fostering a more convenient and user-friendly experience for the entire student body.
+
+\vspace{0.cm}
+
+% Main content sections
+\section{Introduction}
+This project implements a Large Language Model (LLM) specifically designed to answer questions about the statutes and regulations of the International University - Vietnam National University HCMC (HCMIU). The system aims to provide accurate, context-aware responses to queries related to university policies, procedures, and regulations, making institutional knowledge more accessible to students, faculty, and staff.
+\subsection{Problem Statement}
+Educational institutions like HCMIU have extensive documentation covering various policies, procedures, and regulations that govern academic and administrative operations. However: 
+\begin{enumerate}
+\item These documents are often lengthy and distributed across multiple sources
+
+\item Finding specific information can be time-consuming and challenging
+
+\item Understanding complex regulatory language may be difficult for some users 
+
+\item There's a need for quick, accurate access to statute-related information 
+
+\item Manual lookup of regulations is inefficient and prone to human error 
+\end{enumerate}
+
+\subsection{Methodology}
+The methodology employed in this project follows several key steps:
+\begin{itemize}
+\item Data Collection and Processing 
+\begin{enumerate}
+    \item HCMIU Regulation Documents
+    \item Text Extraction
+    \item Re-structure Data
+    \item Chunking Document
+\end{enumerate}
+\item Document Retrieval
+\begin{enumerate}
+    \item Embedding Model - \textbf{vietnamese-sbert}
+    \item Text and Vector Search
+    \item Ranking Document
+\end{enumerate}
+\item LLM Fine-tuning
+\begin{enumerate}
+    \item Vistral-7B-Chat
+    \item LoRA Fine-tuning
+    \item Inference
+\end{enumerate}
+\item RAG Pipeline
+\begin{enumerate}
+    \item Prompting
+    \item Deployment
+\end{enumerate}
+\end{itemize}
+\section{Implementation}
+
+\subsection{Data Preparation and Processing}
+
+\subsubsection{Text Extraction}
+The initial step in building the RAG system involved extracting textual content from a wide variety of raw documents. The corpus included:
+\begin{itemize}
+    \item Scanned PDFs of student regulations and official circulars.
+    \item Editable DOCX files containing policies and academic outlines.
+    \item Institutional websites with course information and student guidance.
+\end{itemize}
+
+For scanned documents, we applied Optical Character Recognition (OCR) using Tesseract via the \texttt{pytesseract} Python package. The OCR process was optimized by pre-processing images using grayscale conversion, noise removal, and adaptive thresholding to improve character recognition accuracy.
+
+DOCX files were processed using the \texttt{python-docx} library to extract paragraphs, headings, bullet points, and tables. We preserved semantic markers like heading levels and list indentation, which later informed our chunking logic.
+
+Web-based resources were crawled manually or semi-automatically using scripts powered by \texttt{requests} and \texttt{BeautifulSoup}, focusing on scraping visible text from known structural elements like \texttt{<h1>}–\texttt{<p>} blocks. This ensured that we retained only human-readable and content-rich information.
+
+\subsubsection{Data Crawling}
+In parallel with static document extraction, we developed a lightweight data crawling process to collect supplemental content from official university portals. These included:
+\begin{itemize}
+    \item Departmental websites for course structure and degree program details.
+    \item News and announcements related to student services, violations, or scholarship programs.
+    \item Archived versions of program brochures and internship opportunities.
+\end{itemize}
+
+As this content often lacked an API or well-structured backend, crawling was conducted via targeted HTML parsing. All crawled data was filtered to exclude irrelevant content (menus, ads, sidebars) and saved as plain text alongside its URL source and topic label. Each crawled entry was tagged with a unique document identifier and initial category prediction (e.g., ``article'', ``policy'', or ``course\_structure'').
+
+\subsubsection{Data Cleaning}
+Given the heterogeneity of the extracted content, data cleaning was a critical and time-intensive step. The raw text was often plagued by:
+\begin{itemize}
+    \item Inconsistent line breaks (especially in OCR outputs).
+    \item Typos and character confusion (e.g., ``1'' vs ``l'', ``0'' vs ``O'').
+    \item Residual formatting symbols (bullets, dashes, extra whitespace).
+    \item Broken Vietnamese diacritics and encoding errors.
+\end{itemize}
+
+We applied several cleaning passes using regular expressions and rule-based filters to normalize content structure and correct common OCR errors. For Vietnamese-specific post-processing, we used unicode normalization and verified diacritic correctness using known dictionaries.
+
+For example, patterns like:
+\begin{verbatim}
+\s*-\s*|\n+|\.\s*\n
+\end{verbatim}
+were used to merge fragmented lines or remove unnecessary breaks in the middle of sentences. This improved the readability of content and its quality for embedding and downstream LLM consumption.
+
+\subsubsection{Re-structure Data}
+After cleaning, all documents were restructured into a consistent JSON format with clearly defined metadata and content fields. Each document or section was annotated with the following:
+\begin{itemize}
+    \item \texttt{title}: The section or logical heading (e.g., ``Điểm 2'', ``Quy định học vụ'').
+    \item \texttt{content}: The full cleaned textual body under that section.
+    \item \texttt{document\_id}: A unique ID associated with the original source file.
+    \item \texttt{chunk\_id}: A unique identifier for the current chunk.
+    \item \texttt{document\_type}: A label assigned by manual annotation or LLM-based classification (e.g., ``policy'', ``vi\_pham'', ``diem\_ren\_luyen'').
+\end{itemize}
+
+In the case of structured data such as rule violation tables or discipline matrices, we preserved rows, headers, and columns as nested JSON dictionaries, allowing future retrieval systems to reason over structured relationships within the text (e.g., row number $\rightarrow$ penalty type $\rightarrow$ condition).
+
+This standardized representation enabled seamless integration into embedding and vector storage backends like MongoDB and Chroma.
+
+\subsubsection{Chunk Data}
+To support efficient vector search and maximize retrieval relevance, each document was split into coherent, semantically meaningful chunks.
+
+We designed a hybrid chunking strategy based on the following principles:
+\begin{itemize}
+    \item Chunks should not exceed 512 tokens to stay within the LLM's context window.
+    \item Logical boundaries (e.g., article numbers, rule items, or numbered lists) should not be split mid-way.
+    \item Metadata should be preserved at the chunk level (e.g., original title, document type, and semantic ID).
+\end{itemize}
+
+For unstructured documents, we used heading-based and sentence boundary detection (with the help of `underthesea` and `nltk`) to group lines into paragraph-style chunks. For more structured documents like tables or violation matrices, each row or rule was turned into its own chunk while preserving headers and surrounding context.
+
+Each chunk was stored as:
+\begin{verbatim}
+{
+  "title": "Điểm 3",
+  "content": "Đi xe buýt cần xếp hàng...",
+  "document_type": "policy",
+  "chunk_id": "chunk_4",
+  "document_id": "10"
+}
+\end{verbatim}
+
+These chunks formed the base unit for both vector embedding and retrieval, and were later used as contextual evidence in the RAG pipeline for LLM prompting.
+
+
+\subsection{RAG System}
+A Retrieval-Augmented Generation system enhances the capabilities of Large Language Models (LLMs) by allowing them to access external, domain-specific information at runtime. Instead of relying solely on static pretraining data, the model retrieves relevant context from a knowledge base before generating a grounded response.
+
+\subsubsection{Embedding Model}
+The \textbf{keepitreal/vietnamese-sbert} model serves as the foundational component for generating high-quality semantic representations of Vietnamese text within our RAG system. This model is a specialized variant of\textbf{ Sentence-BERT (SBERT)}, which itself is built upon the powerful Transformer Encoder architecture (like BERT).
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.25\linewidth]{encoder.png}
+    \caption{Transformer Encoder Architecture}
+    \label{fig:enter-label}
+\end{figure}
+The Transformer \textbf{Encoder} is a neural network architecture that processes input sequences (sentences, paragraphs) by leveraging self-attention mechanisms. This allows it to weigh the importance of different words in a sequence when understanding the meaning of any given word. By stacking multiple encoder layers, the model learns rich, contextualized representations of text. vietnamese-sbert inherits this robust architecture and is specifically fine-tuned on Vietnamese datasets, enabling it to produce semantically meaningful vector embeddings for entire Vietnamese sentences or short passages. This specialization ensures that the embeddings accurately capture the nuances and context of the Vietnamese language.
+
+% Requires: \usepackage{amsmath}
+\begin{equation}
+   \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+\end{equation}
+
+\begin{equation}
+   \text{MultiHead}(Q, K, V) = \text{Concat}(\text{head}_1, \ldots, \text{head}_h)W^O
+\end{equation}
+
+\begin{equation}
+   \text{head}_i = \text{Attention}(QW_i^Q, KW_i^K, VW_i^V)
+\end{equation}
+
+\subsubsection{Text and Vector Search}
+
+Each document chunk was embedded using \textbf{vietnamese-sbert} and stored in \textbf{MongoDB Atlas}, our primary vector store and document database. Embeddings were added to the database as a new field (embedding) and indexed using MongoDB’s Vector Search and Text Search capabilities.
+MongoDB stores not only the embedding but also metadata including:
+\begin{itemize}
+    \item document\_id, chunk\_id
+    \item document\_type
+    \item title, content, etc.
+\end{itemize}
+
+After storing documents with embedding, we apply many techniques to enhance the document retrieval to prevent irrelevant information retrieved:
+\begin{enumerate}
+    \item \textbf{Hybrid Search}: Implements a dual-search approach combining BM25 text search (for lexical matching) and vector search using Vietnamese SBERT embeddings (for semantic understanding), with configurable weighting between the two methods.
+    \item \textbf{Document Type Filtering}: Employs an intelligent document routing system using GPT-4 to classify queries into specific document types (article, policy, course\_structure, diem\_ren\_luyen, vi\_pham, quy\_dinh) before performing the search, ensuring contextually relevant results.
+    \item \textbf{Score Normalization and Fusion}: Normalizes both BM25 and vector scores to [0,1] range using min-max normalization, then combines them using a weighted average (default alpha=0.5) to produce the final ranking score.
+    \item \textbf{Specialized Search Logic}: Implements a dedicated search pipeline for course\_structure documents that uses only BM25 with enhanced title boosting (2x weight), as semantic search was found to be less effective for structured academic program information..
+\end{enumerate}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{chunk_json.png}
+    \caption{Retrieved Document}
+    \label{fig:enter-label}
+\end{figure}
+
+\subsection{LLM Fine-tuning}
+While the RAG system handles information retrieval, a \textbf{Large Language Model (LLM)} is needed to synthesize this information and generate a coherent, human-like response. To optimize this generative component for specific needs, \textbf{fine-tuning} is employed.
+
+\subsubsection{Vistral-7B-Chat}
+Our chosen LLM for generation is \textbf{Vistral}, a Vietnamese-specific LLM. Vistral models are typically based on the Mistral architecture, which, like \textbf{OpenAI's GPT} models, uses a Decoder-only Transformer architecture.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.15\linewidth]{decoder.png}
+    \caption{Transformer Decoder Architecture}
+    \label{fig:enter-label}
+\end{figure}
+
+The Transformer Decoder is designed for autoregressive text generation, meaning it predicts the next token in a sequence based on all previously generated tokens and the input prompt. It excels at understanding context and generating fluent, creative, and contextually relevant text. Vistral, being trained on Vietnamese data, is particularly adept at handling the intricacies of the Vietnamese language, making it an ideal choice for generating responses in our RAG system. Its architectural optimizations (like Sliding Window Attention and Grouped Query Attention, inherited from Mistral) also contribute to efficient inference.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\linewidth]{mixtral.png}
+    \caption{Mistral Architecture}
+    \label{fig:enter-label}
+\end{figure}
+
+\subsubsection{LoRA Fine-tuning}
+
+To adapt Vistral to our domain-specific Q\&A tasks, we fine-tuned it using LoRA (Low-Rank Adaptation). LoRA enables parameter-efficient fine-tuning by injecting trainable low-rank matrices into attention layers, significantly reducing the GPU memory footprint.
+We prepare a Q\&A dataset about how the user will ask and how the assistant will answer for fine-tuning task. Each entry is structured as a JSON object with two fields:
+\begin{itemize}
+    \item \textbf{'prompt'}: The question in Vietnamese
+    \item \textbf{'response'}: The corresponding answer in Vietnamese
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\linewidth]{q&adataset.png}
+    \caption{Q\&A Dataset}
+    \label{fig:enter-label}
+\end{figure}
+
+Key configuration:
+\begin{itemize}
+    \item LoRA rank: 16
+    \item Target modules: q\_proj, k\_proj, v\_proj, o\_proj
+    \item Optimizer: AdamW
+    \item Model loaded in 8-bit quantized format (BitsAndBytesConfig) for fast training
+    \item Training hardware: Colab Pro (L4 GPU), optimized via gradient accumulation
+\end{itemize}
+Benefits: Fine-tuning helps Vistral:
+\begin{itemize}
+    \item \textbf{Improve Relevance}: Generate more accurate and relevant answers grounded in the retrieved documents.
+    \item \textbf{Adhere to Instructions}: Better follow specific instructions or output formats (e.g., always provide sources, answer concisely)
+    \item \textbf{Reduce Hallucinations}: By being trained on specific, verified data, the model is less likely to generate factually incorrect or "hallucinated" information
+\end{itemize}
+
+
+\subsubsection{Inference}
+Inference is the process of using the fine-tuned Vistral model to generate responses to user queries. This is where the computational power of the GPU becomes critical.
+When a query is received and relevant documents are retrieved, they are combined into a single prompt for the fine-tuned Vistral model. The model then processes this prompt and generates a response. The speed and efficiency of this generation depend heavily on the underlying hardware:
+\begin{itemize}
+    \item GPU Utilization: The LLM's computations are highly parallelizable, making GPUs (like NVIDIA L4 or A100) essential for fast inference.
+    \item	Quantization: Techniques used during fine-tuning result in quantized models, which consume less VRAM and can be processed faster by the GPU's Tensor Cores.
+\end{itemize}
+
+
+\subsection{RAG Pipleline}
+The RAG pipeline integrates the document retrieval and LLM generation components into a seamless workflow, providing a robust and knowledgeable conversational AI or question-answering system.
+\subsubsection{Prompting}
+After document retrieval:
+\begin{enumerate}
+    \item Top-k chunks are concatenated with the user query
+    \item A structured prompt is created using the chat template format: [INST]...[/INST]..
+    \item The prompt is passed to the Vistral model for decoding
+\end{enumerate}
+
+This method ensures the model has access to relevant, grounded information for generation.
+This explicit inclusion of context allows the LLM to:
+\begin{itemize}
+    \item Ground its answers: Ensure responses are based on the provided factual information, rather than relying solely on its pre-trained knowledge, which might be outdated or general.
+    \item Reduce hallucinations: By providing specific context, the model is less likely to invent facts.
+    \item Improve accuracy and relevance: The LLM can directly refer to the retrieved information to provide precise answers.
+\end{itemize}
+\begin{figure}
+    \centering
+    \includegraphics[width=1\linewidth]{prompt.png}
+    \caption{Prompt Passing to the Vistral}
+\begin{figure}
+        \centering
+        \includegraphics[width=0.8\linewidth]{prompt.png}
+        \caption{Prompt Passed to Vistral}
+        \label{fig:enter-label}
+    \end{figure}
+        \label{fig:enter-label}
+\end{figure}
+
+\subsubsection{Deployment}
+The deployment stack for the HCMIU RAG Chatbot API is built on a modern, scalable architecture. The system utilizes FastAPI as its primary web framework, offering high performance and automatic API documentation capabilities. 
+Deployment stack:
+\begin{itemize}
+    \item FastAPI: Web server for query handling and response serving
+    \item MongoDB Atlas: Vector store and metadata store
+    \item Ngrok: Tunnels localhost to public endpoint (for development/demo)
+    \item Google Colab Pro (L4 GPU): Used for training, inference testing
+\end{itemize}
+
+
+
+\section{Evaluation}
+
+
+\subsection{Challenges}
+ 
+
+\subsection{Future Work}
+
+
+\section{Conclusion}
+
+
+\section*{Acknowledgement}
+We extend our sincere gratitude to Dr. Nguyen Trung Ky for his invaluable guidance and support throughout the Artificial Intelligence class. His profound expertise and dedicated instruction were instrumental in the successful completion of this project. We are particularly thankful for the comprehensive insights and practical knowledge shared, which significantly enhanced our understanding and application of artificial intelligence concepts.
+
+\documentclass{article} % Or your document class
+\usepackage{hyperref}   % Add this line!
+\usepackage{url}        % Can also add this for \url support, but hyperref usually covers it.
+
+\begin{document}
+
+% Your document content and citations here
+
+\begin{thebibliography}{99} % The '99' provides spacing for two-digit numbers, adjust as needed
+
+\bibitem{connelly2024practical}
+Connelly, C. (2024). \textit{A Practical Guide to AI Ethics: How to Make Responsible Choices}. Berrett-Koehler Publishers.
+
+\bibitem{googleaidocs}
+Google AI for Developers. (n.d.). \textit{Function Calling with the Gemini API}. \url{https://ai.google.dev/gemini-api/docs/function-calling}
+
+\bibitem{mongodbdocs}
+MongoDB Docs. (n.d.). \textit{Insert documents}. Database Manual. \url{https://www.mongodb.com/docs/manual/tutorial/insert-documents/}
+
+\bibitem{sbertmodels}
+Sentence Transformers documentation. (n.d.). \textit{Pretrained Models}. \url{https://www.sbert.net/docs/sentence_transformer/pretrained_models.html}
+
+\bibitem{Vietnamese-Sentence-BERT}
+Phan, Q., Doan, T., Le, N., Tran, D., & Huynh, T. (2022). Vietnamese Sentence Paraphrase Identification Using Sentence-BERT and PhoBERT. In N. T. Nguyen et al. (Eds.), \textit{Intelligent Information and Database Systems} (pp. 433-445). Springer. doi:10.1007/978-3-031-15063-0_40.
+
+\bibitem{chien2023vistral}
+Nguyen, C. V., Nguyen, T., Nguyen, Q., Nguyen, H., Plüster, B., Pham, N., Nguyen, H., Schramowski, P., & Nguyen, T. (2023). Vistral-7B-Chat - Towards a State-of-the-Art Large Language Model for Vietnamese. \textit{arXiv preprint arXiv:2311.02945}. \url{https://arxiv.org/abs/2311.02945}
+
+\end{thebibliography}
+
+\end{document}
