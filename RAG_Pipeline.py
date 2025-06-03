@@ -66,7 +66,7 @@ class RAGSearch:
                     "properties": {
                         "document_type": {
                             "type": "string",
-                            "description": "Phân loại tài liệu dựa trên nội dung đầu vào của người dùng: 1-'article' nếu yêu cầu thông tin cơ bản, 2-'policy' nếu yêu cầu đề xuất chính sách, đề án, 3-'course_structure' nếu yêu cầu chương trình học, 4-'diem_ren_luyen' nếu yêu cầu thông tin về điểm rèn luyện của sinh viên, 5-'vi_pham' nếu yêu cầu thông tin về vi phạm của sinh viên. 6-'quy_dinh' nếu yêu cầu thông tin về quy định của trường"
+                            "description": "Phân loại tài liệu dựa trên nội dung đầu vào của người dùng: 1-'article' nếu yêu cầu thông tin cơ bản, 2-'course_structure' nếu yêu cầu chương trình học, 3-'diem_ren_luyen' nếu yêu cầu thông tin về điểm rèn luyện của sinh viên, 4-'vi_pham' nếu yêu cầu thông tin về vi phạm của sinh viên. 5-'quy_dinh' nếu yêu cầu thông tin về quy định của trường"
                         }
                     },
                     "required": ["document_type"]
@@ -354,10 +354,8 @@ class RAGSearch:
                 print("Content Preview:", doc.page_content[:200] + "..." if len(doc.page_content) > 200 else doc.page_content)
                 print("-" * 50)
             
-            return results
+            return results[:2]
             
         except Exception as e:
             self.logger.error(f"❌ Search process failed: {e}")
             return []
-
-
