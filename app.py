@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 from PIL import Image
 import base64
+import time
 
 st.set_page_config(
     page_title="HCMIU Chatbot",
@@ -9,55 +10,29 @@ st.set_page_config(
     layout="centered"
 )
 
-# Custom CSS for styling
-st.markdown("""
-<style>
-    .stChatMessage {
-        padding: 1rem;
-        border-radius: 0.5rem;
-        margin-bottom: 1rem;
-        border: 1px solid #e0e0e0;
-    }
-    .stChatMessage[data-testid="stChatMessage"] {
-        background-color: #f8f9fa;
-    }
-    .stChatInput {
-        border-radius: 0.5rem;
-        border: 1px solid #e0e0e0;
-    }
-    .stChatInput > div {
-        background-color: white;
-    }
-    .main {
-        padding: 2rem;
-    }
-</style>
-""", unsafe_allow_html=True)
+st.title("HCMIU Chatbot")
+st.markdown("Hỏi đáp thông tin về trường Đại học Quốc tế")
 
-# Add logo in the corner
-col1, col2 = st.columns([1, 4])
-with col1:
-    st.image("images\logo-vector-IU-01.png", width=100)
-with col2:
-    st.title("HCMIU Chatbot")
-    st.markdown("Hỏi đáp thông tin về trường Đại học Quốc tế")
-
-API_URL = "https://7218-34-125-166-77.ngrok-free.app"
+API_URL = "https://f8a4-34-124-214-1.ngrok-free.app"
 
 def get_chat_response(query):
     try:
+        start_time = time.time()
         response = requests.post(
             f"{API_URL}/chat",
             json={"text": query},
             headers={"Content-Type": "application/json"}
         )
+        end_time = time.time()
+        response_time = round((end_time - start_time) * 1000, 2)  # Convert to milliseconds
+        
         if response.status_code == 200:
             raw_response = response.json().get("response", "")
-            return extract_answer(raw_response)
+            return extract_answer(raw_response), response_time
         else:
-            return "Sorry, there was an error. Please try again."
+            return "Sorry, there was an error. Please try again.", response_time
     except Exception as e:
-        return f"Error: {str(e)}"
+        return f"Error: {str(e)}", 0
 
 def extract_answer(response_text):
     """Extract the answer part after [/INST]"""
@@ -77,6 +52,7 @@ if prompt := st.chat_input("Type your message..."):
     with st.chat_message("user"):
         st.markdown(prompt)
     with st.chat_message("assistant"):
-        response = get_chat_response(prompt)
+        response, response_time = get_chat_response(prompt)
         st.markdown(response)
+        st.caption(f"Response time: {response_time}ms")
         st.session_state.messages.append({"role": "assistant", "content": response}) 
