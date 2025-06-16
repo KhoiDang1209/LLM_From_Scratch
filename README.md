@@ -6,7 +6,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using a f
 
 - Fine-tuned Viet-Mistral model for Vietnamese language understanding
 - MongoDB-based document retrieval system
-- OpenAI embeddings for semantic search
+- PhoBERT embeddings for semantic search
 - Context-aware response generation
 - Document source tracking and citation
 
